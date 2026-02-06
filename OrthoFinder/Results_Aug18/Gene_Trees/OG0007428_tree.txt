@@ -1,0 +1,1 @@
+(Micractinium_SAG24180_PSC70579.1 alternative oxidase _Micractinium conductrix_:0.131407,((Micractinium_SAG24180_PSC70527.1 alternative oxidase _Micractinium conductrix_:0.206616,Micractinium_SAG24180_PSC70600.1 alternative oxidase _Micractinium conductrix_:0.195613):0.371326,Micractinium_SAG24180_PSC70520.1 axi 1 _Micractinium conductrix_:0.17076):0.131407);

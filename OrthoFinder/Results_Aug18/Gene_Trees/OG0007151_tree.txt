@@ -1,0 +1,1 @@
+(Scenedesmus_PABB004_KAF8071114.1 Ankrd44 _Scenedesmus sp. PABB004_:0.467619,((Chlorella_Sorokiniana1602_PRW58881.1 ankyrin repeat _Chlorella sorokiniana_:0.157814,Micractinium_SAG24180_PSC76537.1 ankyrin repeat _Micractinium conductrix_:0.189596):0.031261,Chlorella_Vulgaris2111P_KAI3438778.1 hypothetical protein D9Q98_001195 _Chlorella vulgaris_:0.300477):0.467619);

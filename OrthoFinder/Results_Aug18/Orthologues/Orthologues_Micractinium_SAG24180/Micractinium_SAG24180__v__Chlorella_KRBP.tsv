@@ -1,0 +1,904 @@
+Orthogroup	Micractinium_SAG24180	Chlorella_KRBP
+OG0000005	PSC71167.1 Histone H2A [Micractinium conductrix], PSC72168.1 Histone H2A [Micractinium conductrix], PSC72080.1 Histone H2A [Micractinium conductrix], PSC72210.1 Histone H2A [Micractinium conductrix], PSC72098.1 Histone H2A [Micractinium conductrix], PSC72071.1 Histone H2A [Micractinium conductrix], PSC68321.1 Histone H2A [Micractinium conductrix], PSC71227.1 Histone H2A [Micractinium conductrix], PSC68329.1 Histone H2A [Micractinium conductrix], PSC71104.1 Histone H2A [Micractinium conductrix], PSC71088.1 Histone H2A [Micractinium conductrix], PSC72221.1 Histone H2A [Micractinium conductrix], PSC69436.1 Histone H2A [Micractinium conductrix]	QAXK01016321.1_1655-2667
+OG0000013	PSC70880.1 sulfur stress regulator [Micractinium conductrix], PSC67849.1 hypothetical protein C2E20_8527 [Micractinium conductrix], PSC74495.1 sulfur stress regulator [Micractinium conductrix], PSC74454.1 sulfur stress regulator [Micractinium conductrix]	QAXK01004822.1_8132-10307
+OG0000049	PSC75423.1 ubiquitin-like-specific protease 2A [Micractinium conductrix], PSC71619.1 translation initiation factor fusion with methylthioribose kinase [Micractinium conductrix]	QAXK01004561.1_5673-2644
+OG0000059	PSC71846.1 putative GTP-binding [Micractinium conductrix], PSC69152.1 cobalamin biosynthesis [Micractinium conductrix], PSC73198.1 zinc metalloprotease [Micractinium conductrix]	QAXK01009817.1_2794-231
+OG0000060	PSC71834.1 LOV domain-containing isoform A [Micractinium conductrix], PSC71833.1 LOV domain-containing isoform B [Micractinium conductrix], PSC73702.1 LOV domain-containing [Micractinium conductrix], PSC71674.1 hypothetical protein C2E20_4892 [Micractinium conductrix]	QAXK01006650.1_4897-1380
+OG0000095	PSC73930.1 U3 small nucleolar RNA-associated 25 [Micractinium conductrix], PSC75641.1 carotene isomerase [Micractinium conductrix], PSC69857.1 carotene isomerase [Micractinium conductrix]	QAXK01000980.1_6477-3589
+OG0000100	PSC74001.1 chaperonin 60A [Micractinium conductrix], PSC70609.1 chaperonin 60B2 [Micractinium conductrix]	QAXK01004495.1_1525-5952
+OG0000102	PSC70556.1 ferredoxin-dependent glutamate synthase [Micractinium conductrix], PSC68918.1 glutamate synthase 1 [NADH] chloroplastic isoform X1 [Micractinium conductrix]	QAXK01002229.1_29280-27595
+OG0000106	PSC74817.1 Galactose mutarotase [Micractinium conductrix], PSC67689.1 galactose mutarotase [Micractinium conductrix], PSC75034.1 Squalene synthase [Micractinium conductrix]	QAXK01000521.1_8215-4849
+OG0000116	PSC70743.1 chloroplast precursor [Micractinium conductrix], PSC70124.1 chloroplast precursor [Micractinium conductrix], PSC70240.1 ferredoxin [Micractinium conductrix]	QAXK01010643.1_4647-4102
+OG0000126	PSC71573.1 pollen-specific SF21-like [Micractinium conductrix], PSC74099.1 sulfolipid synthase [Micractinium conductrix]	QAXK01000372.1_2577-4525
+OG0000128	PSC69883.1 obg-like ATPase 1 [Micractinium conductrix], PSC76415.1 cysteine protease atg4b [Micractinium conductrix], PSC75412.1 ribonuclease [Micractinium conductrix]	QAXK01009125.1_10140-8059
+OG0000137	PSC74076.1 E3 ubiquitin-ligase RNF185 isoform X1 [Micractinium conductrix], PSC70297.1 bifunctional apoptosis regulator [Micractinium conductrix]	QAXK01002137.1_9267-10854
+OG0000152	PSC77015.1 serine threonine-kinase EDR1 [Micractinium conductrix], PSC73017.1 serine threonine-kinase EDR1-like isoform X1 [Micractinium conductrix], PSC72410.1 Serine threonine-kinase CTR1 [Micractinium conductrix]	QAXK01008299.1_4185-5535
+OG0000163	PSC74229.1 ADP-ribosylation factor 2 [Micractinium conductrix]	QAXK01013733.1_9353-8061
+OG0000165	PSC69501.1 P-loop containing nucleoside triphosphate hydrolases superfamily [Micractinium conductrix], PSC69023.1 3-hydroxyisobutyryl-mitochondrial [Micractinium conductrix]	QAXK01004609.1_12369-13533
+OG0000175	PSC76898.1 60S ribosomal L9 [Micractinium conductrix]	QAXK01006319.1_3560-2355
+OG0000177	PSC71886.1 2-C-methyl-D-erythritol 2_4-cyclodiphosphate chloroplastic [Micractinium conductrix], PSC71450.1 Golgi apparatus [Micractinium conductrix], PSC69293.1 2-C-methyl-D-erythritol 2_4-cyclodiphosphate synthase [Micractinium conductrix]	QAXK01000575.1_15675-16655
+OG0000187	PSC70071.1 DNA ligase [Micractinium conductrix], PSC72994.1 DNA ligase 1-like [Micractinium conductrix]	QAXK01014854.1_51-3845
+OG0000189	PSC69560.1 nucleic acid binding [Micractinium conductrix], PSC69554.1 V-type proton ATPase subunit c1 [Micractinium conductrix]	QAXK01000217.1_14674-15859
+OG0000192	PSC74650.1 cell division control 2-like protein [Micractinium conductrix], PSC74119.1 plant specific cyclin dependent kinase [Micractinium conductrix]	QAXK01001504.1_2221-4972
+OG0000199	PSC67356.1 F-box protein [Micractinium conductrix], PSC75559.1 F-box protein_ partial [Micractinium conductrix], PSC67070.1 F-box protein [Micractinium conductrix], PSC67485.1 F-box protein [Micractinium conductrix]	QAXK01010173.1_3319-5256
+OG0000201	PSC69011.1 U5 small nuclear ribonucleo 200 kDa helicase-like [Micractinium conductrix], PSC69116.1 activating signal cointegrator 1 complex subunit 3 [Micractinium conductrix]	QAXK01000736.1_9467-8726
+OG0000207	PSC69741.1 Exosome complex component CSL4 [Micractinium conductrix]	QAXK01004998.1_5108-4093
+OG0000215	PSC76558.1 farnesyltransferase geranylgeranyltransferase type-1 subunit alpha [Micractinium conductrix], PSC75134.1 GCC2 and GCC3 domain containing [Micractinium conductrix], PSC75114.1 multiple epidermal growth factor-like domains 6 [Micractinium conductrix], PSC69766.1 pro convertase subtilisin kexin type 5-like [Micractinium conductrix], PSC74833.1 von Willebrand factor type EGF and pentraxin domain-containing 1 [Micractinium conductrix]	QAXK01013809.1_3869-6090
+OG0000217	PSC74291.1 NAD_P_-binding [Micractinium conductrix], PSC73519.1 trans-2-enoyl-mitochondrial [Micractinium conductrix]	QAXK01003927.1_26651-24094
+OG0000222	PSC70136.1 naphthoate synthase [Micractinium conductrix], PSC70267.1 mannose-6-phosphate isomerase 1 [Micractinium conductrix]	QAXK01005046.1_1470-3041
+OG0000225	PSC73959.1 glutamine-fructose-6-phosphate aminotransferase [isomerizing] 2 [Micractinium conductrix], PSC73999.1 glutamine-fructose-6-phosphate aminotransferase [isomerizing] 2 [Micractinium conductrix], PSC75968.1 E3 UFM1-ligase 1-like protein [Micractinium conductrix]	QAXK01000132.1_14211-8944
+OG0000226	PSC72296.1 RNA polymerase II C-terminal domain phosphatase-like 4 [Micractinium conductrix], PSC76899.1 phosphatase 2C 6 [Micractinium conductrix], PSC76811.1 RNA polymerase II C-terminal domain phosphatase-like 3 [Micractinium conductrix]	QAXK01001147.1_264-2985
+OG0000234	PSC73839.1 eukaryotic initiation factor 4A-3 [Micractinium conductrix]	QAXK01001703.1_3693-800
+OG0000234	PSC68153.1 eukaryotic initiation factor 4A-3 [Micractinium conductrix]	QAXK01001715.1_46567-44103
+OG0000243	PSC73315.1 cobalamin-dependent methionine synthase [Micractinium conductrix], PSC75398.1 KRI1-like protein [Micractinium conductrix]	QAXK01017572.1_4284-1659
+OG0000255	PSC69783.1 inner membrane protease subunit 2 [Micractinium conductrix], PSC73932.1 Mitochondrial inner membrane protease subunit 1 [Micractinium conductrix]	QAXK01003493.1_20875-19869
+OG0000256	PSC67883.1 putative ATP-dependent RNA helicase DDX60 [Micractinium conductrix], PSC67062.1 putative ATP-dependent RNA helicase DDX60_ partial [Micractinium conductrix], PSC67092.1 putative phosphoinositide phosphatase SAC9 isoform X1_ partial [Micractinium conductrix], PSC67064.1 putative phosphoinositide phosphatase SAC9_ partial [Micractinium conductrix], PSC67145.1 putative phosphoinositide phosphatase SAC9 [Micractinium conductrix], PSC67061.1 putative phosphoinositide phosphatase SAC9 [Micractinium conductrix], PSC67116.1 putative phosphoinositide phosphatase SAC9 isoform X1_ partial [Micractinium conductrix]	QAXK01000928.1_4721-1230
+OG0000260	PSC70256.1 putative homogentisate phytyltransferase chloroplastic [Micractinium conductrix], PSC69563.1 homogentisate prenyltransferase [Micractinium conductrix]	QAXK01007811.1_6343-7669
+OG0000262	PSC72136.1 formate-tetrahydrofolate ligase [Micractinium conductrix], PSC72320.1 conserved oligomeric Golgi complex subunit 4 isoform B [Micractinium conductrix], PSC72319.1 conserved oligomeric Golgi complex subunit 4 isoform A [Micractinium conductrix]	QAXK01001305.1_3092-9737
+OG0000268	PSC72035.1 transport SEC13-like protein B [Micractinium conductrix], PSC67926.1 kinase and PP2C-like domain-containing [Micractinium conductrix]	QAXK01007959.1_4344-7510
+OG0000269	PSC72574.1 Secretory carrier-associated membrane 1 [Micractinium conductrix]	QAXK01000159.1_2526-4128
+OG0000276	PSC74719.1 Serine threonine-kinase TNNI3K [Micractinium conductrix]	QAXK01013106.1_2869-3857
+OG0000290	PSC75184.1 Leucyl-cystinyl aminopeptidase isoform B [Micractinium conductrix], PSC75185.1 Leucyl-cystinyl aminopeptidase isoform A [Micractinium conductrix]	QAXK01007708.1_8045-6769
+OG0000293	PSC69548.1 calcium-dependent kinase 17 [Micractinium conductrix], PSC75499.1 hypothetical protein C2E20_0993 [Micractinium conductrix], PSC72943.1 calcium dependent kinase 17 [Micractinium conductrix]	QAXK01000427.1_18710-23853
+OG0000297	PSC75288.1 hypothetical protein C2E20_1197 [Micractinium conductrix], PSC76976.1 putative anion transporter chloroplastic [Micractinium conductrix], PSC75780.1 putative anion transporter 2_ chloroplastic [Micractinium conductrix]	QAXK01003382.1_7730-10683
+OG0000298	PSC72354.1 cytosolic Fe-S cluster assembly factor narfl [Micractinium conductrix], PSC72361.1 rhomboid-like protease [Micractinium conductrix]	QAXK01006215.1_8306-11634
+OG0000299	PSC76222.1 COP9 signalosome complex subunit 5b-like [Micractinium conductrix]	QAXK01000488.1_8485-5165
+OG0000300	PSC76323.1 inorganic pyrophosphatase [Micractinium conductrix], PSC70246.1 LOW PSII ACCUMULATION chloroplastic [Micractinium conductrix]	QAXK01000495.1_4618-6885
+OG0000301	PSC71645.1 peptidyl-glycine alpha-amidating monooxygenase [Micractinium conductrix], PSC69592.1 peptidase M3 [Micractinium conductrix]	QAXK01005324.1_4296-8149
+OG0000302	PSC71455.1 cell division cycle 48-like protein [Micractinium conductrix]	QAXK01009146.1_0-3841
+OG0000304	PSC73021.1 dynamin-related 3A-like [Micractinium conductrix]	QAXK01014492.1_877-182
+OG0000315	PSC71923.1 Eukaryotic translation initiation factor 3 subunit B [Micractinium conductrix], PSC76071.1 alpha-glucan water chloroplastic isoform X2 [Micractinium conductrix]	QAXK01002353.1_19232-23410
+OG0000316	PSC67084.1 5 -3 exoribonuclease 1_ partial [Micractinium conductrix], PSC76060.1 6-phosphogluconate decarboxylating [Micractinium conductrix]	QAXK01003905.1_19782-15375
+OG0000317	PSC75793.1 26S protease regulatory subunit 6B-like protein [Micractinium conductrix], PSC74626.1 26S proteasome regulatory subunit 4-like protein B [Micractinium conductrix]	QAXK01008437.1_3645-238
+OG0000320	PSC72014.1 histone deacetylase [Micractinium conductrix], PSC75106.1 riboflavin kinase [Micractinium conductrix]	QAXK01008510.1_15994-20405
+OG0000321	PSC70435.1 AP-2 complex subunit sigma [Micractinium conductrix], PSC67094.1 zinc knuckle domain-containing [Micractinium conductrix], PSC74498.1 AP-1 complex subunit sigma-1 [Micractinium conductrix]	QAXK01000378.1_25585-26545
+OG0000340	PSC69391.1 ferrochelatase-chloroplastic [Micractinium conductrix], PSC72780.1 chaperone 1 [Micractinium conductrix]	QAXK01005276.1_5688-3058
+OG0000352	PSC73423.1 choline isoform B [Micractinium conductrix], PSC73422.1 choline isoform A [Micractinium conductrix], PSC69826.1 amine oxidase [Micractinium conductrix]	QAXK01000899.1_7462-5804
+OG0000353	PSC72254.1 pre-mRNA-splicing factor ISY1-like protein [Micractinium conductrix], PSC72149.1 U5 small nuclear ribonucleo 40 kDa [Micractinium conductrix]	QAXK01000970.1_11060-12297
+OG0000355	PSC67765.1 putative ubiquitin conjugation factor E4 [Micractinium conductrix]	QAXK01000575.1_38061-33279
+OG0000356	PSC69776.1 DEAD-box ATP-dependent RNA helicase 10 [Micractinium conductrix], PSC72599.1 RNA helicase [Micractinium conductrix]	QAXK01001458.1_25468-28021
+OG0000362	PSC69607.1 serine threonine kinase 19 [Micractinium conductrix], PSC71205.1 hypothetical protein C2E20_5424 isoform X1 [Micractinium conductrix]	QAXK01002504.1_1584-235
+OG0000372	PSC72835.1 GDP-mannose 3_5-epimerase 2 [Micractinium conductrix]	QAXK01000007.1_3483-1851
+OG0000374	PSC71880.1 NADH_ubiquinone oxidoreductase 76 kDa subunit [Micractinium conductrix]	QAXK01001576.1_25385-29462
+OG0000375	PSC75244.1 CCAAT enhancer-binding zeta [Micractinium conductrix]	QAXK01008707.1_239-2925
+OG0000383	PSC74244.1 mitochondrial uncoupling 1 isoform C [Micractinium conductrix], PSC74243.1 mitochondrial uncoupling 1 isoform A [Micractinium conductrix], PSC74242.1 mitochondrial uncoupling 1 isoform B [Micractinium conductrix]	QAXK01011194.1_5918-9002
+OG0000390	PSC69136.1 coproporphyrinogen III oxidase [Micractinium conductrix]	QAXK01005078.1_1174-132, QAXK01003294.1_6337-3495
+OG0000394	PSC69324.1 telomerase Cajal body 1 [Micractinium conductrix], PSC74015.1 apyrase 2-like isoform C [Micractinium conductrix], PSC74014.1 apyrase 2-like isoform B [Micractinium conductrix], PSC74016.1 apyrase 2-like isoform A [Micractinium conductrix]	QAXK01008702.1_3083-212
+OG0000408	PSC68238.1 arginine-tRNA chloroplastic mitochondrial-like isoform X2 [Micractinium conductrix]	QAXK01003094.1_1529-6518
+OG0000412	PSC75610.1 ABC_ATP-binding_ family transporter_ iron compound [Micractinium conductrix]	QAXK01007672.1_3589-1228
+OG0000417	PSC74414.1 Multiple myeloma tumor-associated 2 [Micractinium conductrix]	QAXK01003046.1_10052-9637
+OG0000418	PSC71547.1 ATP-dependent zinc metalloprotease FTSH mitochondrial [Micractinium conductrix]	QAXK01005097.1_6985-2749
+OG0000431	PSC69627.1 urea carboxylase [Micractinium conductrix], PSC68182.1 Peptidyl-prolyl cis-trans isomerase PASTICCINO1 [Micractinium conductrix]	QAXK01001330.1_10692-5073
+OG0000443	PSC75180.1 chorismate mutase [Micractinium conductrix]	QAXK01002390.1_2379-454
+OG0000446	PSC74157.1 LON peptidase N-terminal domain and RING finger 1 isoform B [Micractinium conductrix], PSC74156.1 LON peptidase N-terminal domain and RING finger 1 isoform A [Micractinium conductrix], PSC73677.1 DNA excision repair ERCC-8-like [Micractinium conductrix]	QAXK01006391.1_1754-3793
+OG0000449	PSC68672.1 DNA excision repair ERCC-1 [Micractinium conductrix], PSC76910.1 anaphase-promoting complex subunit 2 [Micractinium conductrix]	QAXK01017753.1_1728-436
+OG0000452	PSC71605.1 putative 18S rRNA _guanine-N_7__-methyltransferase [Micractinium conductrix]	QAXK01003135.1_2479-16
+OG0000455	PSC67827.1 magnesium protoporphyrin IX chloroplastic-like [Micractinium conductrix]	QAXK01015054.1_2845-4309
+OG0000468	PSC68383.1 Rab family GTPase [Micractinium conductrix], PSC76058.1 Rab8 -family small GTPase [Micractinium conductrix]	QAXK01006097.1_2371-905
+OG0000470	PSC67745.1 multisubstrate pseudouridine synthase 7 [Micractinium conductrix], PSC74395.1 leucine-tRNA cytoplasmic [Micractinium conductrix]	QAXK01000050.1_24428-29981
+OG0000471	PSC73183.1 histone chaperone asf1 [Micractinium conductrix], PSC72969.1 transcription initiation factor tfiid subunit 11 [Micractinium conductrix]	QAXK01001670.1_7180-6388
+OG0000474	PSC73665.1 Structure-specific endonuclease subunit SLX1 [Micractinium conductrix], PSC73848.1 Chaperone dnaJ 10 isoform A [Micractinium conductrix], PSC73847.1 Chaperone dnaJ 10 isoform B [Micractinium conductrix]	QAXK01000042.1_28045-28765
+OG0000479	PSC68596.1 sister chromatid cohesion DCC1 [Micractinium conductrix]	QAXK01004028.1_58546-56431
+OG0000499	PSC75519.1 twinkle-like protein chloroplastic mitochondrial isoform X2 [Micractinium conductrix]	QAXK01009964.1_53-2582
+OG0000501	PSC73003.1 putative S-acyltransferase 7 [Micractinium conductrix]	QAXK01015180.1_1811-4048
+OG0000506	PSC73690.1 Bromodomain adjacent to zinc finger domain 1A [Micractinium conductrix]	QAXK01002250.1_1739-4040
+OG0000512	PSC71732.1 glutamate-cysteine chloroplastic [Micractinium conductrix]	QAXK01000565.1_7520-10250
+OG0000517	PSC71174.1 hypothetical protein C2E20_5468 [Micractinium conductrix]	QAXK01001595.1_3107-7081
+OG0000519	PSC71029.1 putative UDP-N-acetylglucosamine-peptide N-acetylglucosaminyltransferase SEC [Micractinium conductrix], PSC70746.1 Glycylpeptide N-tetradecanoyltransferase 1 [Micractinium conductrix]	QAXK01004538.1_836-4145
+OG0000520	PSC75158.1 3-oxo-5-alpha-steroid 4-dehydrogenase 1 [Micractinium conductrix]	QAXK01002274.1_7306-5678
+OG0000521	PSC74144.1 sorting and assembly machinery component 50-like protein B-like [Micractinium conductrix], PSC74106.1 ubiquitin-like-specific protease ESD4 isoform X2 isoform A [Micractinium conductrix], PSC74105.1 ubiquitin-like-specific protease ESD4 isoform X2 isoform B [Micractinium conductrix]	QAXK01000876.1_25410-28882
+OG0000522	PSC73440.1 molecular chaperone [Micractinium conductrix]	QAXK01010222.1_2855-4006
+OG0000528	PSC75046.1 random slug 5-like [Micractinium conductrix]	QAXK01011871.1_1755-3976
+OG0000535	PSC71223.1 Kinesin KIF6 [Micractinium conductrix], PSC76319.1 putative 6-phosphogluconolactonase chloroplastic [Micractinium conductrix]	QAXK01008326.1_3715-2230
+OG0000542	PSC69479.1 vacuolar sorting-associated 45-like protein [Micractinium conductrix], PSC69510.1 mitochondrial substrate carrier family B [Micractinium conductrix]	QAXK01007731.1_21245-25168
+OG0000546	PSC69174.1 putative phosphatase 2C 5 isoform X1 [Micractinium conductrix], PSC69106.1 Qa-SYP4 Tlg2p Syntaxin 16-type [Micractinium conductrix]	QAXK01003383.1_11610-10089
+OG0000552	PSC70972.1 serine carboxypeptidase 24-like [Micractinium conductrix]	QAXK01001452.1_4877-8338
+OG0000565	PSC70159.1 3-dehydroquinate synthase [Micractinium conductrix]	QAXK01012018.1_21-2846
+OG0000572	PSC76246.1 histone acetyltransferase HAC1-like [Micractinium conductrix]	QAXK01002353.1_6519-15187
+OG0000573	PSC71818.1 hypothetical protein C2E20_4941 [Micractinium conductrix], PSC71739.1 Serine threonine-kinase TOUSLED [Micractinium conductrix]	QAXK01003348.1_1486-6
+OG0000577	PSC75825.1 Eukaryotic translation initiation factor 3 subunit F [Micractinium conductrix]	QAXK01003132.1_5372-2862
+OG0000585	PSC67369.1 DNA RNA polymerase [Micractinium conductrix], PSC74997.1 NLI interacting factor-like phosphatase [Micractinium conductrix]	QAXK01002652.1_31218-33264
+OG0000586	PSC72392.1 putative WD repeat-containing [Micractinium conductrix], PSC71302.1 mitochondrial-processing peptidase subunit alpha-like [Micractinium conductrix]	QAXK01001200.1_17606-19818
+OG0000594	PSC71121.1 Transaldolase [Micractinium conductrix]	QAXK01013585.1_2213-468
+OG0000595	PSC70713.1 ras-related RIC2 [Micractinium conductrix], PSC68035.1 Rab11 -family small GTPase [Micractinium conductrix]	QAXK01010664.1_1473-417
+OG0000611	PSC72946.1 Ubiquitin domain-containing 2 [Micractinium conductrix]	QAXK01011586.1_4054-3461
+OG0000616	PSC73413.1 small nuclear ribonucleo -associated B -like [Micractinium conductrix]	QAXK01001265.1_8774-9883
+OG0000618	PSC73676.1 40S ribosomal S15a isoform B [Micractinium conductrix], PSC73675.1 40S ribosomal S15a isoform A [Micractinium conductrix]	QAXK01000835.1_1-309
+OG0000626	PSC76267.1 lon protease-like protein peroxisomal [Micractinium conductrix], PSC76277.1 SDA1 [Micractinium conductrix]	QAXK01003230.1_4778-8012
+OG0000635	PSC72390.1 ribulose-phosphate 3-chloroplastic-like [Micractinium conductrix]	QAXK01004870.1_4878-5513
+OG0000637	PSC69313.1 N-alpha-acetyltransferase 20 [Micractinium conductrix], PSC74139.1 adiponectin receptor 1b [Micractinium conductrix]	QAXK01001575.1_13855-13334
+OG0000638	PSC70505.1 MON2-like protein isoform X1 [Micractinium conductrix]	QAXK01010124.1_10448-8669
+OG0000649	PSC73006.1 diaminopimelate decarboxylase chloroplastic-like [Micractinium conductrix]	QAXK01000254.1_6101-3555
+OG0000653	PSC69951.1 aspartate-semialdehyde dehydrogenase-like [Micractinium conductrix]	QAXK01000123.1_7289-10291
+OG0000654	PSC68286.1 ligase [Micractinium conductrix]	QAXK01000799.1_92299-89512
+OG0000660	PSC75572.1 40S ribosomal S27-2 [Micractinium conductrix], PSC75573.1 plant intracellular Ras-group-related LRR 7-like [Micractinium conductrix]	QAXK01014960.1_11495-10348
+OG0000661	PSC71826.1 Guanine nucleotide-binding -like 3 [Micractinium conductrix]	QAXK01004242.1_3727-7707
+OG0000662	PSC68501.1 plant MCA23-20 [Micractinium conductrix], PSC76402.1 plant MCA23-20 [Micractinium conductrix]	QAXK01000452.1_6301-4533
+OG0000664	PSC71591.1 CBL-interacting kinase 32 [Micractinium conductrix]	QAXK01015723.1_3192-4172
+OG0000671	PSC73907.1 peptidyl-prolyl cis-trans isomerase FKBP16-chloroplastic isoform X2 [Micractinium conductrix], PSC67959.1 DNA-directed RNA polymerase III subunit RPC6 [Micractinium conductrix]	QAXK01001535.1_15806-14316
+OG0000676	PSC68356.1 zinc finger CCCH domain-containing 39-like [Micractinium conductrix], PSC75295.1 U6 snRNA-associated Sm LSm1 [Micractinium conductrix]	QAXK01015338.1_519-166
+OG0000678	PSC72021.1 SKP1 1B [Micractinium conductrix]	QAXK01001500.1_1992-2978
+OG0000679	PSC71865.1 50S ribosomal chloroplastic [Micractinium conductrix]	QAXK01006881.1_8512-9541
+OG0000688	PSC72831.1 60S ribosomal export NMD3-like [Micractinium conductrix]	QAXK01003305.1_27047-24211
+OG0000689	PSC68493.1 2-isopropylmalate synthase isoform B [Micractinium conductrix], PSC68492.1 2-isopropylmalate synthase isoform A [Micractinium conductrix]	QAXK01001638.1_16082-13313
+OG0000691	PSC69841.1 divinyl chlorophyllide a 8-vinyl-chloroplastic isoform B [Micractinium conductrix], PSC69840.1 divinyl chlorophyllide a 8-vinyl-chloroplastic isoform A [Micractinium conductrix]	QAXK01001186.1_10565-8532
+OG0000693	PSC69767.1 nuA4 complex subunit EAF3-like protein [Micractinium conductrix], PSC69788.1 TRNA-dihydrouridine_16 17_ synthase [NAD_P__+_] [Micractinium conductrix]	QAXK01008377.1_3630-1851
+OG0000694	PSC67459.1 hypothetical protein C2E20_8860 [Micractinium conductrix]	QAXK01012986.1_3546-2582
+OG0000697	PSC76281.1 peptide deformylase [Micractinium conductrix]	QAXK01000899.1_15443-14285
+OG0000704	PSC68459.1 Transmembrane 18 isoform B [Micractinium conductrix], PSC68460.1 Transmembrane 18 isoform A [Micractinium conductrix], PSC68437.1 Transmembrane 18 isoform A [Micractinium conductrix], PSC68436.1 Transmembrane 18 isoform B [Micractinium conductrix]	QAXK01006701.1_1896-1296
+OG0000730	PSC73830.1 U4 U6 small nuclear ribonucleo Prp31-like [Micractinium conductrix]	QAXK01001551.1_59690-63747
+OG0000732	PSC75709.1 Transcription elongation factor A 2 [Micractinium conductrix]	QAXK01003652.1_16558-15646
+OG0000734	PSC67588.1 type A von Willebrand factor domain-containing isoform A [Micractinium conductrix], PSC67589.1 type A von Willebrand factor domain-containing isoform B [Micractinium conductrix]	QAXK01007307.1_6962-7960
+OG0000735	PSC75361.1 TATA-box-binding 2 [Micractinium conductrix], PSC75796.1 pheromone shutdown [Micractinium conductrix]	QAXK01011105.1_8336-6488
+OG0000747	PSC74939.1 Syntaxin-61 [Micractinium conductrix], PSC74993.1 ankyrin repeat [Micractinium conductrix]	QAXK01006607.1_16309-17535
+OG0000753	PSC67908.1 Succinyl-ligase [ADP-forming] subunit mitochondrial [Micractinium conductrix]	QAXK01001647.1_3154-482
+OG0000764	PSC68197.1 gamma-tocopherol methyltransferase isoform A [Micractinium conductrix], PSC68196.1 gamma-tocopherol methyltransferase isoform B [Micractinium conductrix]	QAXK01005724.1_7661-4858
+OG0000770	PSC73084.1 glucose-6-phosphate 1-epimerase [Micractinium conductrix], PSC73327.1 glucose-6-phosphate 1-epimerase [Micractinium conductrix]	QAXK01003607.1_11324-13747
+OG0000774	PSC69772.1 Meiotically up-regulated 66 [Micractinium conductrix]	QAXK01004825.1_8965-10753
+OG0000777	PSC70747.1 glyoxylase family [Micractinium conductrix], PSC70687.1 hypothetical protein C2E20_5796 [Micractinium conductrix]	QAXK01002948.1_4354-3157
+OG0000778	PSC68405.1 SET domain-containing [Micractinium conductrix]	QAXK01014006.1_1593-3302
+OG0000782	PSC75842.1 hypothetical protein C2E20_1662 [Micractinium conductrix], PSC72832.1 vanadium-dependent haloperoxidase [Micractinium conductrix]	QAXK01009651.1_2303-1712
+OG0000784	PSC77006.1 dolichol-phosphate mannosyltransferase subunit 1 [Micractinium conductrix]	QAXK01014689.1_5406-4708
+OG0000786	PSC69594.1 ribulosamine 3-chloroplastic [Micractinium conductrix]	QAXK01006828.1_9411-7696
+OG0000788	PSC74525.1 centrin [Micractinium conductrix]	QAXK01010339.1_3422-4517
+OG0000793	PSC68109.1 ROOT HAIR DEFECTIVE 3 [Micractinium conductrix]	QAXK01000249.1_22218-16975
+OG0000799	PSC76098.1 N-acetylserotonin O-methyltransferase isoform B [Micractinium conductrix], PSC76099.1 N-acetylserotonin O-methyltransferase isoform A [Micractinium conductrix], PSC75639.1 Mitochondrial nuclease [Micractinium conductrix]	QAXK01005565.1_18254-19052
+OG0000818	PSC67426.1 mitochondrial adenine nucleotide transporter ADNT1-like isoform B [Micractinium conductrix], PSC76352.1 mitochondrial carrier isoform A [Micractinium conductrix], PSC76353.1 mitochondrial carrier isoform B [Micractinium conductrix], PSC67425.1 mitochondrial adenine nucleotide transporter ADNT1-like isoform A [Micractinium conductrix]	QAXK01008587.1_153-1989
+OG0000819	PSC69747.1 Tbc2 translation chloroplastic [Micractinium conductrix], PSC69830.1 nuclear migration nudc [Micractinium conductrix]	QAXK01003572.1_15443-13865
+OG0000827	PSC69959.1 acetohydroxy acid isomeroreductase isoform B [Micractinium conductrix], PSC69958.1 acetohydroxy acid isomeroreductase isoform C [Micractinium conductrix], PSC69960.1 acetohydroxy acid isomeroreductase isoform A [Micractinium conductrix]	QAXK01003364.1_14418-18303
+OG0000828	PSC70636.1 50S ribosomal mitochondrial-like [Micractinium conductrix]	QAXK01000782.1_20679-19905
+OG0000830	PSC73574.1 SRSF kinase isoform B [Micractinium conductrix], PSC73573.1 SRSF kinase isoform A [Micractinium conductrix], PSC68985.1 SRSF kinase 1 [Micractinium conductrix]	QAXK01013271.1_12309-15183
+OG0000838	PSC70531.1 nudC domain-containing 2 [Micractinium conductrix]	QAXK01003718.1_1305-2104
+OG0000856	PSC73388.1 putative tRNA N6-adenosine threonylcarbamoyltransferase isoform A [Micractinium conductrix], PSC73389.1 putative tRNA N6-adenosine threonylcarbamoyltransferase isoform B [Micractinium conductrix]	QAXK01018212.1_1235-2568
+OG0000857	PSC72356.1 putative boron transporter 2 [Micractinium conductrix]	QAXK01003829.1_4453-4800
+OG0000858	PSC67126.1 mitochondrial inner membrane protease ATP23-like [Micractinium conductrix], PSC73865.1 mitochondrial inner membrane protease ATP23 [Micractinium conductrix], PSC67124.1 auxin efflux carrier family [Micractinium conductrix]	QAXK01000114.1_14115-13091
+OG0000882	PSC74364.1 flap endonuclease 1 [Micractinium conductrix]	QAXK01006249.1_4939-7634
+OG0000890	PSC69547.1 5-oxoprolinase isoform B [Micractinium conductrix], PSC69546.1 5-oxoprolinase isoform A [Micractinium conductrix], PSC69545.1 5-oxoprolinase isoform C [Micractinium conductrix], PSC69544.1 5-oxoprolinase isoform D [Micractinium conductrix]	QAXK01001134.1_10091-19430
+OG0000898	PSC72964.1 N-acetyltransferase 10 isoform A [Micractinium conductrix], PSC72965.1 N-acetyltransferase 10 isoform B [Micractinium conductrix]	QAXK01003876.1_5991-120
+OG0000899	PSC74602.1 Eukaryotic translation initiation factor 3 subunit C [Micractinium conductrix]	QAXK01013989.1_346-4178
+OG0000908	PSC71768.1 Iron-sulfur assembly -like mitochondrial [Micractinium conductrix], PSC69380.1 3-hydroxyacyl-dehydrogenase [Micractinium conductrix], PSC71748.1 inactive serine protease 54 isoform X2 [Micractinium conductrix]	QAXK01003972.1_3812-4471
+OG0000925	PSC73212.1 iron manganese superoxide alpha-hairpin domain [Micractinium conductrix], PSC71348.1 hypothetical protein C2E20_5234 [Micractinium conductrix], PSC73153.1 N-acetylgalactosamine kinase [Micractinium conductrix], PSC73526.1 hypothetical protein C2E20_3519 [Micractinium conductrix]	QAXK01005294.1_1798-325
+OG0000926	PSC74335.1 microtubule organizing mora [Micractinium conductrix], PSC67998.1 microtubule associated [Micractinium conductrix]	QAXK01006171.1_11343-179
+OG0000932	PSC77066.1 zinc finger CCHC domain-containing 7-like [Micractinium conductrix], PSC76889.1 histidine biosynthesis bifunctional chloroplastic-like [Micractinium conductrix]	QAXK01003666.1_997-2479
+OG0000934	PSC71384.1 glycosyltransferase family 2 [Micractinium conductrix]	QAXK01002301.1_12772-10269
+OG0000936	PSC69552.1 Nitric oxide synthase-interacting [Micractinium conductrix], PSC75411.1 hypothetical protein C2E20_1400 isoform X1 [Micractinium conductrix]	QAXK01016824.1_8642-5783
+OG0000942	PSC75316.1 S-acyltransferase 24 isoform X1 [Micractinium conductrix]	QAXK01000587.1_67122-65127
+OG0000950	PSC69053.1 beta-galactosidase [Micractinium conductrix]	QAXK01002497.1_4221-184
+OG0000953	PSC72680.1 COP9 signalosome complex subunit 2 [Micractinium conductrix]	QAXK01003575.1_2283-197
+OG0000971	PSC74845.1 MAP3K epsilon kinase 1-like [Micractinium conductrix]	QAXK01002117.1_8261-6549
+OG0000972	PSC71939.1 NADH dehydrogenase [ubiquinone] flavo mitochondrial [Micractinium conductrix]	QAXK01000705.1_20067-23668
+OG0000974	PSC71864.1 DEAD-box ATP-dependent RNA helicase 37-like [Micractinium conductrix]	QAXK01004234.1_3012-6646
+OG0000975	PSC67138.1 long-chain acyl-synthetase 7_ partial [Micractinium conductrix], PSC69107.1 Long chain acyl-synthetase peroxisomal [Micractinium conductrix]	QAXK01000204.1_17480-21863
+OG0000993	PSC73912.1 Argininosuccinate synthase [Micractinium conductrix]	QAXK01000283.1_5726-3204
+OG0001052	PSC72803.1 hypothetical protein C2E20_4083 [Micractinium conductrix]	QAXK01004375.1_5952-7899
+OG0001054	PSC68802.1 mitochondrial dicarboxylate tricarboxylate transporter DTC [Micractinium conductrix]	QAXK01011306.1_4473-2613
+OG0001058	PSC73538.1 plant UBX domain-containing 2 [Micractinium conductrix]	QAXK01006232.1_3779-3289
+OG0001060	PSC74143.1 DEAD-box ATP-dependent RNA helicase 15-like isoform X1 [Micractinium conductrix]	QAXK01001037.1_5070-1976
+OG0001061	PSC67655.1 40S ribosomal S3a-2 [Micractinium conductrix]	QAXK01005753.1_2076-3799
+OG0001062	PSC74221.1 Serine threonine-phosphatase 4 regulatory subunit 3 isoform B [Micractinium conductrix], PSC74222.1 Serine threonine-phosphatase 4 regulatory subunit 3 isoform A [Micractinium conductrix]	QAXK01000341.1_1318-5933
+OG0001063	PSC68783.1 water dikinase [Micractinium conductrix]	QAXK01005942.1_10013-5629
+OG0001064	PSC74236.1 Signal peptide peptidase 2 isoform B [Micractinium conductrix], PSC74237.1 Signal peptide peptidase 2 isoform A [Micractinium conductrix]	QAXK01004812.1_12403-13506
+OG0001072	PSC76713.1 ribosome biogenesis BMS1-like protein [Micractinium conductrix]	QAXK01000429.1_50912-41458
+OG0001074	PSC70807.1 S-adenosylmethionine synthetase [Micractinium conductrix]	QAXK01000217.1_8076-10531
+OG0001079	PSC76368.1 Pantothenate kinase 2 isoform B [Micractinium conductrix], PSC76369.1 Pantothenate kinase 2 isoform A [Micractinium conductrix]	QAXK01000446.1_57156-52957
+OG0001088	PSC69449.1 60S ribosomal L18a-2 [Micractinium conductrix]	QAXK01002175.1_7346-5749
+OG0001094	PSC75650.1 Galactokinase [Micractinium conductrix]	QAXK01001089.1_6956-8023
+OG0001095	PSC74835.1 eukaryotic translation initiation factor 5-like [Micractinium conductrix]	QAXK01000217.1_13973-11099
+OG0001096	PSC75165.1 meiotic nuclear division 1-like protein [Micractinium conductrix]	QAXK01005613.1_12658-11106
+OG0001099	PSC75301.1 DNA-directed RNA polymerases IV and V subunit 3 [Micractinium conductrix]	QAXK01001823.1_3618-2631
+OG0001101	PSC67004.1 eukaryotic translation initiation factor 3 subunit D-like [Micractinium conductrix], PSC69167.1 eukaryotic translation initiation factor 3 subunit D-like [Micractinium conductrix], PSC67136.1 eukaryotic translation initiation factor 3 subunit D-like [Micractinium conductrix], PSC67171.1 eukaryotic translation initiation factor 3 subunit D-like [Micractinium conductrix]	QAXK01003836.1_8909-3187
+OG0001103	PSC68332.1 Transmembrane 9 superfamily member 4 [Micractinium conductrix]	QAXK01003163.1_8178-11099
+OG0001105	PSC73962.1 OPI10-like protein isoform A [Micractinium conductrix], PSC73963.1 OPI10-like protein isoform B [Micractinium conductrix], PSC74321.1 hypothetical protein C2E20_2762 [Micractinium conductrix], PSC73995.1 hypothetical protein C2E20_2765 [Micractinium conductrix]	QAXK01006902.1_4861-6562
+OG0001120	PSC74288.1 DNA-directed RNA polymerases IV and V subunit 11 [Micractinium conductrix]	QAXK01002607.1_494-808
+OG0001122	PSC71053.1 regulator of nonsense transcripts UPF2 [Micractinium conductrix]	QAXK01010311.1_2932-555
+OG0001123	PSC75131.1 cell division cycle 5 isoform B [Micractinium conductrix], PSC75132.1 cell division cycle 5 isoform A [Micractinium conductrix]	QAXK01007750.1_2281-4745
+OG0001133	PSC72779.1 Elongation factor Tu [Micractinium conductrix]	QAXK01006196.1_4390-1589
+OG0001143	PSC69429.1 DEFECTIVE IN EXINE FORMATION 1 [Micractinium conductrix]	QAXK01003700.1_2979-9653
+OG0001144	PSC67657.1 Autophagy-related 3 [Micractinium conductrix]	QAXK01003900.1_2413-4929
+OG0001154	PSC76409.1 transferase mitochondrial [Micractinium conductrix], PSC76928.1 transferase mitochondrial [Micractinium conductrix]	QAXK01011150.1_3959-2216
+OG0001156	PSC68744.1 D-2-hydroxyglutarate mitochondrial isoform A [Micractinium conductrix], PSC68743.1 D-2-hydroxyglutarate mitochondrial isoform B [Micractinium conductrix]	QAXK01018601.1_3296-410
+OG0001158	PSC68656.1 sulfite reductase isoform B [Micractinium conductrix], PSC68657.1 sulfite reductase isoform A [Micractinium conductrix]	QAXK01006945.1_6596-10279
+OG0001161	PSC76021.1 thylakoid lumenal kDa chloroplastic [Micractinium conductrix]	QAXK01004407.1_7887-8977
+OG0001166	PSC68244.1 NAD_P_-binding domain [Micractinium conductrix]	QAXK01009825.1_846-2644
+OG0001171	PSC70293.1 translation initiation factor eIF-2B subunit delta [Micractinium conductrix]	QAXK01006983.1_10356-12388
+OG0001176	PSC76849.1 glycine cleavage T [Micractinium conductrix]	QAXK01004323.1_8147-5874
+OG0001180	PSC71673.1 V-type proton ATPase subunit D-like [Micractinium conductrix]	QAXK01019295.1_3574-2070
+OG0001194	PSC71080.1 Succinate dehydrogenase [ubiquinone] flavo subunit mitochondrial isoform A [Micractinium conductrix], PSC71081.1 Succinate dehydrogenase [ubiquinone] flavo subunit mitochondrial isoform B [Micractinium conductrix]	QAXK01001649.1_8862-4505
+OG0001201	PSC68410.1 acetolactate synthase isoform A [Micractinium conductrix], PSC68409.1 acetolactate synthase isoform B [Micractinium conductrix]	QAXK01000596.1_10252-6748
+OG0001208	PSC72447.1 hypothetical protein C2E20_4214 isoform B [Micractinium conductrix], PSC72446.1 hypothetical protein C2E20_4214 isoform A [Micractinium conductrix]	QAXK01012769.1_10100-9091
+OG0001214	PSC75534.1 125 kDa kinesin-related-like protein [Micractinium conductrix]	QAXK01012739.1_10679-8642
+OG0001216	PSC73320.1 motile sperm domain-containing 2 [Micractinium conductrix]	QAXK01001490.1_17280-15927
+OG0001219	PSC68800.1 kinesin-13A-like isoform X1 [Micractinium conductrix]	QAXK01008035.1_3747-6912
+OG0001221	PSC67454.1 Qa-SYP3 Sed5p Syntaxin 5-type isoform A [Micractinium conductrix], PSC67455.1 Qa-SYP3 Sed5p Syntaxin 5-type isoform B [Micractinium conductrix]	QAXK01001061.1_17190-18239
+OG0001223	PSC73785.1 pre-mRNA-splicing factor CWC22-like protein [Micractinium conductrix]	QAXK01005846.1_3896-588
+OG0001225	PSC73192.1 Ribosomal L35Ae family isoform 1 [Micractinium conductrix], PSC72947.1 Major facilitator superfamily domain-containing 6 [Micractinium conductrix]	QAXK01000732.1_2978-2655
+OG0001229	PSC74360.1 WD repeat-containing LWD1 isoform B [Micractinium conductrix], PSC74361.1 WD repeat-containing LWD1 isoform A [Micractinium conductrix]	QAXK01016063.1_5569-3270
+OG0001231	PSC70899.1 Ras-related Rab7 [Micractinium conductrix], PSC70894.1 ras-related Rab7 [Micractinium conductrix]	QAXK01000362.1_21408-20438
+OG0001236	PSC68811.1 dihydrolipoyl mitochondrial-like [Micractinium conductrix], PSC74380.1 Dihydrolipoyl dehydrogenase mitochondrial [Micractinium conductrix], PSC68781.1 dihydrolipoyl dehydrogenase mitochondrial [Micractinium conductrix]	QAXK01000513.1_15183-11736
+OG0001242	PSC67247.1 Site-1 isoform 2 [Micractinium conductrix]	QAXK01004645.1_1487-5075
+OG0001246	PSC73885.1 glutamyl-tRNA synthetase [Micractinium conductrix]	QAXK01010639.1_8900-15142
+OG0001248	PSC70281.1 E3 ubiquitin-ligase UPL3-like isoform B [Micractinium conductrix], PSC70280.1 E3 ubiquitin-ligase UPL3-like isoform A [Micractinium conductrix]	QAXK01010718.1_75-1989
+OG0001264	PSC72101.1 tropinone reductase-like protein [Micractinium conductrix]	QAXK01001653.1_329-2259
+OG0001279	PSC76678.1 Cyclic nucleotide-gated ion channel 1 [Micractinium conductrix]	QAXK01000624.1_32528-30577
+OG0001307	PSC69084.1 magnesium chelatase subunit H isoform A [Micractinium conductrix]	QAXK01005917.1_319-7230
+OG0001308	PSC72151.1 prolyl-tRNA synthetase [Micractinium conductrix]	QAXK01006084.1_8922-13556
+OG0001309	PSC72123.1 putative splicing factor 3A subunit 1 [Micractinium conductrix]	QAXK01004533.1_5070-10667
+OG0001310	PSC69138.1 Serine-threonine kinase receptor-associated [Micractinium conductrix]	QAXK01002895.1_5020-6663
+OG0001311	PSC72180.1 AP-4 complex subunit epsilon [Micractinium conductrix]	QAXK01001613.1_2521-6885
+OG0001312	PSC68794.1 DNA-directed RNA polymerases I and III subunit RPAC1 [Micractinium conductrix]	QAXK01003510.1_1900-3653
+OG0001313	PSC72140.1 phosphoacetylglucosamine mutase [Micractinium conductrix]	QAXK01001184.1_9548-5781
+OG0001314	PSC72268.1 tetratricopeptide repeat 4-like protein [Micractinium conductrix]	QAXK01001944.1_3765-1753
+OG0001316	PSC74340.1 Chaperone dnaJ 13 isoform A [Micractinium conductrix], PSC74339.1 Chaperone dnaJ 13 isoform B [Micractinium conductrix]	QAXK01006921.1_16832-14836
+OG0001317	PSC67181.1 proliferation-associated 2G4 [Micractinium conductrix], PSC67177.1 proliferation-associated 2G4 [Micractinium conductrix], PSC67049.1 proliferation-associated 2G4-like [Micractinium conductrix], PSC67649.1 proliferation-associated 2G4 [Micractinium conductrix]	QAXK01010058.1_4279-1636
+OG0001318	PSC70338.1 tyrosine-tRNA cytoplasmic-like [Micractinium conductrix]	QAXK01001801.1_7866-9916
+OG0001320	PSC74309.1 DNA primase large subunit [Micractinium conductrix], PSC74333.1 putative DNA primase large subunit [Micractinium conductrix]	QAXK01000167.1_14384-11911
+OG0001328	PSC76271.1 tryptophan synthase beta chain 1 [Micractinium conductrix]	QAXK01006882.1_17133-19836
+OG0001331	PSC76567.1 glycosyltransferase family 32 [Micractinium conductrix], PSC76571.1 glycosyltransferase family 32 [Micractinium conductrix]	QAXK01009171.1_15170-12352
+OG0001332	PSC76421.1 eukaryotic translation initiation factor 3 subunit L-like [Micractinium conductrix]	QAXK01004338.1_10706-15436
+OG0001334	PSC76969.1 DEAD-box ATP-dependent RNA helicase 13 [Micractinium conductrix]	QAXK01003133.1_258-4577
+OG0001338	PSC75305.1 carbon catabolite repressor 4-like protein 1 [Micractinium conductrix]	QAXK01002293.1_4021-8056
+OG0001340	PSC71802.1 Diaminopimelate chloroplastic [Micractinium conductrix]	QAXK01004523.1_6228-4685
+OG0001342	PSC72970.1 NPL4 1 [Micractinium conductrix]	QAXK01003268.1_11937-16935
+OG0001343	PSC76155.1 Gamma-tubulin complex component 2 [Micractinium conductrix]	QAXK01000799.1_6873-2057
+OG0001353	PSC69405.1 D-amino-acid chloroplastic-like [Micractinium conductrix]	QAXK01011632.1_4873-7912
+OG0001356	PSC74315.1 Fanconi anemia group M isoform X1 [Micractinium conductrix]	QAXK01003307.1_27135-26267
+OG0001360	PSC75633.1 bifunctional 3-dehydroquinate dehydratase shikimate dehydrogenase_ chloroplastic-like [Micractinium conductrix]	QAXK01001741.1_6153-8648
+OG0001363	PSC73094.1 prolyl-tRNA synthetase [Micractinium conductrix]	QAXK01003747.1_13973-10331
+OG0001365	PSC71050.1 ARM REPEAT PROTEIN INTERACTING WITH ABF2-like isoform A [Micractinium conductrix], PSC71051.1 ARM REPEAT PROTEIN INTERACTING WITH ABF2-like isoform B [Micractinium conductrix]	QAXK01000515.1_20837-25236
+OG0001366	PSC72714.1 IMPACT isoform X1 [Micractinium conductrix]	QAXK01004846.1_20461-19235
+OG0001370	PSC70608.1 3-dehydroquinate synthase [Micractinium conductrix]	QAXK01000381.1_4423-6771
+OG0001374	PSC74239.1 ADP-ribosylation factor 8 [Micractinium conductrix]	QAXK01013224.1_5335-6988
+OG0001375	PSC71119.1 Rae1 [Micractinium conductrix]	QAXK01005120.1_8361-10056
+OG0001376	PSC75073.1 ubiquitin-conjugating enzyme E2 32 [Micractinium conductrix]	QAXK01019935.1_413-1820
+OG0001381	PSC72879.1 aggrecan core [Micractinium conductrix], PSC70599.1 argininosuccinate lyase [Micractinium conductrix]	QAXK01000172.1_6135-2748
+OG0001382	PSC74142.1 structural maintenance of chromosomes 2-1-like [Micractinium conductrix]	QAXK01001066.1_8917-1138
+OG0001383	PSC74003.1 DNA gyrase subunit A [Micractinium conductrix]	QAXK01003326.1_3639-1243
+OG0001385	PSC70487.1 DNA topoisomerase 6 subunit B isoform A [Micractinium conductrix], PSC70486.1 DNA topoisomerase 6 subunit B isoform B [Micractinium conductrix]	QAXK01005279.1_10173-5871
+OG0001388	PSC71287.1 DEAD-box ATP-dependent RNA helicase 29 [Micractinium conductrix]	QAXK01001208.1_10635-13964
+OG0001393	PSC69314.1 cyclin-dependent kinase C-2-like isoform B [Micractinium conductrix], PSC69315.1 cyclin-dependent kinase C-2-like isoform A [Micractinium conductrix]	QAXK01005917.1_17047-13738
+OG0001397	PSC69662.1 suppressor of mec-8 and unc-52-like protein 1 isoform A [Micractinium conductrix], PSC69661.1 suppressor of mec-8 and unc-52-like protein 1 isoform B [Micractinium conductrix]	QAXK01000502.1_39339-43298
+OG0001398	PSC68209.1 cysteine desulfurase chloroplastic-like [Micractinium conductrix]	QAXK01003277.1_3770-8
+OG0001400	PSC73498.1 Coiled-coil domain-containing 25 [Micractinium conductrix]	QAXK01001993.1_28544-29840
+OG0001401	PSC75971.1 PITH domain-containing protein [Micractinium conductrix]	QAXK01010276.1_2943-1867
+OG0001406	PSC69052.1 Proteasome subunit beta type-5-B [Micractinium conductrix]	QAXK01000595.1_2983-1676
+OG0001408	PSC71723.1 exportin-1-like isoform X2 [Micractinium conductrix]	QAXK01000367.1_8675-18356
+OG0001409	PSC69600.1 S-adenosyl-L-methionine-dependent [Micractinium conductrix]	QAXK01004930.1_4250-5628
+OG0001417	PSC70973.1 threonine synthase [Micractinium conductrix]	QAXK01005381.1_315-2273
+OG0001420	PSC67932.1 14 kDa zinc-binding isoform A [Micractinium conductrix], PSC67931.1 14 kDa zinc-binding isoform B [Micractinium conductrix]	QAXK01000297.1_21777-22493
+OG0001424	PSC70990.1 homoserine kinase [Micractinium conductrix], PSC67769.1 homoserine kinase [Micractinium conductrix]	QAXK01001628.1_9434-11057
+OG0001425	PSC67532.1 anthranilate synthase component II [Micractinium conductrix]	QAXK01003581.1_2363-4183
+OG0001426	PSC73537.1 pre-mRNA-processing-splicing factor 8 [Micractinium conductrix]	QAXK01005880.1_1-9276
+OG0001428	PSC76771.1 putative transmembrane GTPase FZO-chloroplastic [Micractinium conductrix]	QAXK01000837.1_14096-17956
+OG0001431	PSC67405.1 Quino amine beta chain-like RIC1-like guanyl-nucleotide exchange factor [Micractinium conductrix]	QAXK01013424.1_6153-1945
+OG0001432	PSC71314.1 adrenodoxin mitochondrial isoform A [Micractinium conductrix], PSC71313.1 adrenodoxin mitochondrial isoform B [Micractinium conductrix]	QAXK01000224.1_16848-15439
+OG0001445	PSC69229.1 Nucleolar GTP-binding 1 [Micractinium conductrix]	QAXK01000732.1_11950-7418
+OG0001455	PSC76848.1 carotene epsilon-chloroplastic [Micractinium conductrix]	QAXK01001576.1_5934-8651
+OG0001456	PSC74832.1 pre-mRNA-processing 40A [Micractinium conductrix]	QAXK01006785.1_1906-1226
+OG0001460	PSC76987.1 50S ribosomal chloroplastic [Micractinium conductrix]	QAXK01015424.1_3358-1233
+OG0001462	PSC76172.1 transport SEC31-like protein B isoform A [Micractinium conductrix], PSC76171.1 transport SEC31-like protein B isoform B [Micractinium conductrix]	QAXK01002112.1_6014-14709
+OG0001465	PSC75675.1 Dihydroorotate dehydrogenase _quinone__ mitochondrial isoform B [Micractinium conductrix], PSC75676.1 Dihydroorotate dehydrogenase _quinone__ mitochondrial isoform A [Micractinium conductrix]	QAXK01006322.1_7890-11183
+OG0001469	PSC75943.1 peroxisome biogenesis factor 10 [Micractinium conductrix]	QAXK01007783.1_10721-12010
+OG0001473	PSC73333.1 dna-binding horma domain-containing [Micractinium conductrix]	QAXK01003650.1_4575-2929
+OG0001476	PSC76084.1 Conserved oligomeric Golgi complex subunit 6 [Micractinium conductrix]	QAXK01001134.1_7136-9582
+OG0001477	PSC73250.1 A G-specific adenine DNA glycosylase [Micractinium conductrix]	QAXK01003160.1_17527-15091
+OG0001480	PSC76147.1 putative mitochondrial intermediate mitochondrial [Micractinium conductrix]	QAXK01000632.1_24086-22557
+OG0001482	PSC72085.1 non-discriminatory gln-glu-trna synthetase [Micractinium conductrix]	QAXK01000159.1_14204-11398
+OG0001488	PSC74028.1 ubiquitin carboxyl-terminal hydrolase 5 isoform X1 [Micractinium conductrix]	QAXK01004286.1_7784-2904
+OG0001492	PSC72172.1 NAD_P_-binding Rossmann-fold superfamily [Micractinium conductrix]	QAXK01003809.1_2040-4733
+OG0001493	PSC67480.1 Ribonucleoside-diphosphate reductase large subunit [Micractinium conductrix]	QAXK01001201.1_5367-10319
+OG0001503	PSC76738.1 CF0 ATP synthase subunit II precursor [Micractinium conductrix]	QAXK01001163.1_27767-28960
+OG0001506	PSC75204.1 50S ribosomal chloroplastic [Micractinium conductrix]	QAXK01000137.1_3425-4331
+OG0001508	PSC69458.1 Nucleolar 14 isoform A [Micractinium conductrix], PSC69457.1 Nucleolar 14 isoform B [Micractinium conductrix]	QAXK01001982.1_904-3015
+OG0001514	PSC72024.1 Cytochrome c1-heme mitochondrial [Micractinium conductrix]	QAXK01003231.1_16625-14068
+OG0001526	PSC74796.1 aspartate-tRNA ligase [Micractinium conductrix]	QAXK01019948.1_5388-2969
+OG0001527	PSC67294.1 Pre-mRNA-splicing factor 38B [Micractinium conductrix]	QAXK01013863.1_4654-1867
+OG0001528	PSC72487.1 Nucleolar 10 [Micractinium conductrix]	QAXK01000325.1_37384-41123
+OG0001529	PSC70583.1 60S ribosome subunit biogenesis NIP7 [Micractinium conductrix]	QAXK01004092.1_4427-5291
+OG0001532	PSC68817.1 hypothetical protein C2E20_7624 [Micractinium conductrix], PSC67055.1 hypothetical protein C2E20_9274 [Micractinium conductrix]	QAXK01000782.1_11007-12134
+OG0001533	PSC73273.1 splicing factor 3A subunit 3 [Micractinium conductrix]	QAXK01000265.1_17007-12444
+OG0001534	PSC69389.1 ATP-dependent RNA helicase dhx8 [Micractinium conductrix]	QAXK01000695.1_5671-2183
+OG0001538	PSC70890.1 COP9 signalosome complex subunit 1 [Micractinium conductrix]	QAXK01009353.1_4260-348
+OG0001542	PSC75562.1 ALA-interacting subunit 3 [Micractinium conductrix]	QAXK01011884.1_2510-4036
+OG0001544	PSC76276.1 thiamine pyrophosphokinase1 [Micractinium conductrix]	QAXK01002332.1_5291-4007
+OG0001545	PSC71522.1 arginine N-methyltransferase [Micractinium conductrix], PSC71639.1 arginine N-methyltransferase [Micractinium conductrix]	QAXK01000350.1_22889-27018
+OG0001546	PSC71008.1 Glycoprotease 1 isoform 1 [Micractinium conductrix]	QAXK01011857.1_1226-3209
+OG0001548	PSC68537.1 DUF3531 domain-containing [Micractinium conductrix]	QAXK01001795.1_1688-3314
+OG0001549	PSC68752.1 H ACA ribonucleo complex subunit 4 [Micractinium conductrix], PSC74781.1 H ACA ribonucleo complex subunit 4 [Micractinium conductrix]	QAXK01005406.1_4717-2509
+OG0001550	PSC68525.1 ABC transporter E family member 2 [Micractinium conductrix]	QAXK01004537.1_7009-1449
+OG0001551	PSC76515.1 regulation of nuclear pre-mRNA domain-containing 1B-like isoform B [Micractinium conductrix], PSC76516.1 regulation of nuclear pre-mRNA domain-containing 1B-like isoform A [Micractinium conductrix]	QAXK01006072.1_19473-19787
+OG0001554	PSC71409.1 hypothetical protein C2E20_5335 [Micractinium conductrix]	QAXK01001638.1_7681-11612
+OG0001561	PSC74685.1 U4 U6 small nuclear ribonucleo Prp3-like [Micractinium conductrix]	QAXK01003228.1_3995-6597
+OG0001562	PSC71260.1 glutamate-rich WD repeat-containing 1-like [Micractinium conductrix]	QAXK01000869.1_5647-9196
+OG0001571	PSC74516.1 Kinesin-II 95 kDa subunit [Micractinium conductrix]	QAXK01005898.1_15715-20620
+OG0001573	PSC76020.1 alpha beta-hydrolase [Micractinium conductrix]	QAXK01001714.1_23807-22483
+OG0001575	PSC75967.1 Methionine aminopeptidase 1D_ chloroplastic mitochondrial [Micractinium conductrix]	QAXK01006456.1_5116-6698
+OG0001576	PSC73392.1 Glyoxysomal fatty acid beta-oxidation multifunctional MFP-a [Micractinium conductrix], PSC67634.1 T9SS C-terminal target domain-containing [Micractinium conductrix]	QAXK01003511.1_8584-2188
+OG0001579	PSC68452.1 tubulin gamma-2 chain [Micractinium conductrix], PSC68445.1 tubulin gamma-2 chain [Micractinium conductrix]	QAXK01000149.1_3007-205
+OG0001581	PSC70570.1 cysteine desulfurase [Micractinium conductrix]	QAXK01003468.1_8146-4525
+OG0001582	PSC67363.1 SNF1-related kinase regulatory subunit beta-2 isoform B [Micractinium conductrix], PSC67364.1 SNF1-related kinase regulatory subunit beta-2 isoform A [Micractinium conductrix]	QAXK01003110.1_3669-4960
+OG0001592	PSC67240.1 AMP deaminase isoform B [Micractinium conductrix], PSC67241.1 AMP deaminase isoform A [Micractinium conductrix]	QAXK01004995.1_4321-153
+OG0001595	PSC67942.1 DEAD-box ATP-dependent RNA helicase 38 isoform A [Micractinium conductrix], PSC67943.1 DEAD-box ATP-dependent RNA helicase 38 isoform B [Micractinium conductrix]	QAXK01003821.1_4511-8191
+OG0001599	PSC68198.1 CPLD51 required for cyt b6 assembly [Micractinium conductrix], PSC67328.1 CPLD51 required for cyt b6 assembly [Micractinium conductrix], PSC67100.1 hypothetical protein C2E20_9217 [Micractinium conductrix]	QAXK01001163.1_31234-32344
+OG0001602	PSC72926.1 translation factor-like [Micractinium conductrix]	QAXK01009112.1_2932-1649
+OG0001606	PSC74911.1 Cysteinyl-tRNA synthetase [Micractinium conductrix]	QAXK01001551.1_37852-43451
+OG0001618	PSC73775.1 beta-hydroxyacyl-ACP dehydratase [Micractinium conductrix]	QAXK01003579.1_4454-5700
+OG0001620	PSC71659.1 kinase [Micractinium conductrix]	QAXK01004906.1_4885-7564
+OG0001624	PSC76300.1 peroxisomal membrane 13 isoform B [Micractinium conductrix], PSC76299.1 peroxisomal membrane 13 isoform C [Micractinium conductrix], PSC76301.1 peroxisomal membrane 13 isoform A [Micractinium conductrix]	QAXK01001935.1_7191-6190
+OG0001625	PSC70073.1 pyridoxamine 5 -phosphate oxidase isoform B [Micractinium conductrix], PSC70074.1 pyridoxamine 5 -phosphate oxidase isoform A [Micractinium conductrix]	QAXK01008598.1_11627-10467
+OG0001666	PSC72061.1 transketolase [Micractinium conductrix]	QAXK01000648.1_7716-3949
+OG0001670	PSC67716.1 glutamate-1-semialdehyde aminotransferase [Micractinium conductrix]	QAXK01001801.1_20671-18627
+OG0001676	PSC74648.1 transportin-1 isoform X1 [Micractinium conductrix]	QAXK01000084.1_15952-9180
+OG0001677	PSC77045.1 Cyclic pyranopterin monophosphate mitochondrial [Micractinium conductrix]	QAXK01006154.1_7199-4782
+OG0001679	PSC74310.1 mitochondrial glyco [Micractinium conductrix]	QAXK01005586.1_4660-3715
+OG0001681	PSC73466.1 putative phosphoribosylformylglycinamidine chloroplastic mitochondrial [Micractinium conductrix]	QAXK01003694.1_10054-1111
+OG0001683	PSC74301.1 nifU chloroplastic [Micractinium conductrix]	QAXK01005873.1_4902-1877
+OG0001684	PSC74431.1 Eukaryotic translation initiation factor 4G [Micractinium conductrix]	QAXK01001160.1_46203-44172
+OG0001686	PSC73488.1 clathrin heavy chain [Micractinium conductrix]	QAXK01001518.1_29154-38461
+OG0001687	PSC67263.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6 [Micractinium conductrix]	QAXK01011350.1_4968-4302
+OG0001689	PSC76278.1 Proteasome subunit beta type-7-A [Micractinium conductrix]	QAXK01000325.1_49285-50693
+OG0001691	PSC71755.1 D-lactate dehydrogenase [Micractinium conductrix]	QAXK01009543.1_7053-9512
+OG0001694	PSC67646.1 MAK16-like protein A [Micractinium conductrix]	QAXK01004860.1_550-2257
+OG0001698	PSC70606.1 putative transaldolase [Micractinium conductrix]	QAXK01011739.1_15998-17366
+OG0001700	PSC72131.1 heat shock 70 kDa 4 [Micractinium conductrix]	QAXK01001944.1_5351-7976
+OG0001702	PSC69538.1 biotin synthase [Micractinium conductrix]	QAXK01000864.1_61145-62900
+OG0001703	PSC71269.1 DNA polymerase alpha subunit B [Micractinium conductrix]	QAXK01003602.1_34329-32576
+OG0001704	PSC76664.1 transmembrane CLPTM1 family [Micractinium conductrix]	QAXK01008991.1_236-2513
+OG0001705	PSC74260.1 aspartate-tRNA cytoplasmic [Micractinium conductrix]	QAXK01002478.1_7313-12188
+OG0001709	PSC69533.1 Ankyrin repeat [Micractinium conductrix]	QAXK01018148.1_4196-2780
+OG0001712	PSC73669.1 60S ribosomal L13a-2-like [Micractinium conductrix]	QAXK01008136.1_3960-6111
+OG0001713	PSC70717.1 putative lysine-tRNA cytoplasmic [Micractinium conductrix]	QAXK01001137.1_1588-5821
+OG0001714	PSC75777.1 hypothetical protein C2E20_1315 isoform X1 [Micractinium conductrix]	QAXK01014632.1_3916-2466
+OG0001715	PSC67794.1 bifunctional dihydrofolate reductase-thymidylate synthase_ partial [Micractinium conductrix]	QAXK01004338.1_24179-21163
+OG0001716	PSC75624.1 hypothetical protein C2E20_1034 [Micractinium conductrix]	QAXK01000646.1_3437-2178
+OG0001719	PSC76724.1 T-complex 1 subunit zeta [Micractinium conductrix]	QAXK01013811.1_5298-9155
+OG0001724	PSC71671.1 methyltransferase 5 [Micractinium conductrix]	QAXK01006565.1_2429-269
+OG0001728	PSC75668.1 40S ribosomal S19-1 [Micractinium conductrix]	QAXK01001807.1_1026-15
+OG0001729	PSC75055.1 heat shock 40 kDa [Micractinium conductrix]	QAXK01006338.1_1051-28
+OG0001737	PSC69462.1 splicing factor U2af small subunit B-like isoform A [Micractinium conductrix]	QAXK01014793.1_2710-905
+OG0001738	PSC75273.1 peroxisome biogenesis 12 isoform A [Micractinium conductrix], PSC75272.1 peroxisome biogenesis 12 isoform B [Micractinium conductrix]	QAXK01000446.1_74898-73132
+OG0001743	PSC69343.1 26S protease regulatory subunit 8-like protein A [Micractinium conductrix]	QAXK01001289.1_5327-2954
+OG0001744	PSC69446.1 microtubule-associated RP EB family member 1C [Micractinium conductrix]	QAXK01016939.1_17085-19159
+OG0001748	PSC68351.1 sterol 14 desaturase [Micractinium conductrix]	QAXK01007592.1_13848-10196
+OG0001750	PSC73102.1 tubulin-folding cofactor C [Micractinium conductrix]	QAXK01018869.1_1324-446
+OG0001751	PSC76154.1 transcriptional regulator ATRX-like protein [Micractinium conductrix]	QAXK01000276.1_2022-2543
+OG0001756	PSC68167.1 Elongation factor chloroplastic [Micractinium conductrix]	QAXK01004906.1_9592-13569
+OG0001760	PSC75247.1 putative S-acyltransferase 14 [Micractinium conductrix]	QAXK01008046.1_15224-18152
+OG0001763	PSC75129.1 CLP1-like protein [Micractinium conductrix]	QAXK01006402.1_6220-3948
+OG0001770	PSC69571.1 ATP synthase gamma-subunit [Micractinium conductrix]	QAXK01001922.1_7027-5313
+OG0001772	PSC73607.1 D-aspartate oxidase [Micractinium conductrix]	QAXK01010435.1_780-2170
+OG0001778	PSC69256.1 IMP dehydrogenase [Micractinium conductrix]	QAXK01006312.1_5841-2543
+OG0001780	PSC70559.1 putative inactive serine threonine-kinase scy1 [Micractinium conductrix]	QAXK01003072.1_7601-12066
+OG0001782	PSC70594.1 armadillo beta-catenin-like repeat [Micractinium conductrix]	QAXK01000627.1_25854-27382
+OG0001783	PSC69680.1 phosphoribosylaminoimidazole chloroplastic [Micractinium conductrix]	QAXK01004723.1_8556-4882
+OG0001788	PSC75268.1 J domain-containing spf31 [Micractinium conductrix]	QAXK01008099.1_16922-14889
+OG0001790	PSC71149.1 coatomer subunit gamma [Micractinium conductrix]	QAXK01000362.1_13682-19843
+OG0001792	PSC70521.1 50S ribosomal L1 [Micractinium conductrix]	QAXK01002348.1_22026-23431
+OG0001794	PSC71007.1 Eukaryotic translation initiation factor 3 subunit G [Micractinium conductrix]	QAXK01000643.1_10651-8242
+OG0001801	PSC72118.1 tobamovirus multiplication 1-like [Micractinium conductrix]	QAXK01000208.1_37779-38874
+OG0001806	PSC70568.1 ATP-binding cassette superfamily [Micractinium conductrix]	QAXK01005447.1_6594-9151
+OG0001810	PSC67927.1 embryonic stem cell-specific 5-hydroxymethylcytosine-binding -like [Micractinium conductrix]	QAXK01011106.1_2568-3152
+OG0001812	PSC72264.1 coatomer subunit beta-1-like [Micractinium conductrix]	QAXK01006399.1_9428-14604
+OG0001813	PSC68201.1 phenylalanine-tRNA chloroplastic mitochondrial [Micractinium conductrix]	QAXK01000513.1_11487-8211
+OG0001818	PSC71537.1 60S acidic ribosomal P0 [Micractinium conductrix]	QAXK01004132.1_4579-6060
+OG0001821	PSC71439.1 serine threonine-phosphatase BSL1 [Micractinium conductrix]	QAXK01004177.1_17288-11319
+OG0001824	PSC68131.1 methionine aminopeptidase 2B-like [Micractinium conductrix]	QAXK01003744.1_2800-6411
+OG0001826	PSC71471.1 T-complex theta subunit [Micractinium conductrix]	QAXK01000105.1_5499-2693
+OG0001832	PSC69531.1 bifunctional dethiobiotin synthetase 7_8-diamino-pelargonic acid mitochondrial [Micractinium conductrix]	QAXK01005654.1_7220-1642
+OG0001837	PSC68677.1 Bifunctional purine biosynthesis [Micractinium conductrix]	QAXK01000842.1_51041-53429
+OG0001838	PSC74145.1 pre-rRNA-processing TSR1-like protein [Micractinium conductrix]	QAXK01003976.1_8556-3734
+OG0001841	PSC69255.1 ABC transporter family [Micractinium conductrix]	QAXK01000976.1_10766-5866
+OG0001842	PSC69441.1 Oleoyl-acyl carrier chloroplastic [Micractinium conductrix]	QAXK01006275.1_27485-25822
+OG0001843	PSC72243.1 eukaryotic translation initiation factor 2 subunit gamma-like [Micractinium conductrix]	QAXK01004149.1_22375-24958
+OG0001845	PSC72612.1 mRNA _2 -O-methyladenosine-N6-_-methyltransferase [Micractinium conductrix]	QAXK01001702.1_1666-273
+OG0001847	PSC74571.1 transport Sec61 subunit alpha-like [Micractinium conductrix]	QAXK01009311.1_428-2889
+OG0001849	PSC74533.1 Protochlorophyllide chloroplastic [Micractinium conductrix]	QAXK01007671.1_6596-4238
+OG0001855	PSC72717.1 Splicing factor 3B subunit 4 [Micractinium conductrix]	QAXK01000335.1_27254-25603
+OG0001856	PSC68742.1 uracil phosphoribosyltransferase [Micractinium conductrix]	QAXK01003506.1_17890-19170
+OG0001857	PSC69615.1 GTP-binding nuclear Ran-3 [Micractinium conductrix]	QAXK01002176.1_5254-6169
+OG0001858	PSC70436.1 60S ribosomal L8-like [Micractinium conductrix]	QAXK01017983.1_2022-269
+OG0001860	PSC70462.1 putative phenylalanine-tRNA ligase alpha subunit [Micractinium conductrix]	QAXK01000036.1_15496-18071
+OG0001861	PSC70316.1 GMP synthase [glutamine-hydrolyzing] [Micractinium conductrix]	QAXK01001933.1_13708-11461
+OG0001862	PSC67531.1 transport yif1 [Micractinium conductrix]	QAXK01002439.1_1431-31
+OG0001863	PSC71004.1 SEC1 family transport SLY1-like [Micractinium conductrix]	QAXK01000006.1_11270-7049
+OG0001864	PSC73349.1 tRNA wybutosine-synthesizing 4 [Micractinium conductrix]	QAXK01001807.1_30588-28596
+OG0001866	PSC72993.1 importin beta-like SAD2 [Micractinium conductrix]	QAXK01004671.1_3332-9990
+OG0001867	PSC70312.1 putative complex I intermediate-associated 30 [Micractinium conductrix]	QAXK01006658.1_2089-1110
+OG0001868	PSC73297.1 vacuolar sorting-associated 18-like protein [Micractinium conductrix]	QAXK01018034.1_4900-2264
+OG0001869	PSC73352.1 NEDD8-activating enzyme E1 catalytic subunit [Micractinium conductrix]	QAXK01002273.1_12619-10163
+OG0001870	PSC75701.1 CAS1 domain-containing 1 [Micractinium conductrix]	QAXK01007444.1_11468-13953
+OG0001871	PSC69321.1 transmembrane 120-like protein isoform A [Micractinium conductrix], PSC69322.1 transmembrane 120-like protein isoform B [Micractinium conductrix]	QAXK01000027.1_14275-12645
+OG0001873	PSC67925.1 tRNA modifying enzyme [Micractinium conductrix]	QAXK01003671.1_1285-5252
+OG0001874	PSC68961.1 Alcohol dehydrogenase class-3 [Micractinium conductrix]	QAXK01002443.1_10680-7074
+OG0001879	PSC68040.1 4-hydroxy-3-methylbut-2-enyl diphosphate reductase [Micractinium conductrix]	QAXK01014786.1_3020-29
+OG0001880	PSC76595.1 ubiquitin carboxyl-terminal hydrolase 6 [Micractinium conductrix]	QAXK01014616.1_960-3765
+OG0001882	PSC68973.1 pyridoxine biosynthesis [Micractinium conductrix]	QAXK01001694.1_21339-20476
+OG0001883	PSC70882.1 eukaryotic translation initiation factor 3 subunit I-like [Micractinium conductrix]	QAXK01000225.1_2559-365
+OG0001887	PSC67642.1 vacuolar sorting-associated 22-like protein 1 [Micractinium conductrix]	QAXK01004187.1_1760-33
+OG0001888	PSC75238.1 26S proteasome non-ATPase regulatory subunit 12 [Micractinium conductrix]	QAXK01016711.1_4152-7100
+OG0001890	PSC74238.1 phosphatase methylesterase 1-like [Micractinium conductrix]	QAXK01010406.1_2162-130
+OG0001893	PSC70766.1 Phosducin 3 [Micractinium conductrix]	QAXK01002579.1_17292-15497
+OG0001895	PSC71005.1 N-acetyl-gamma-glutamyl-phosphate reductase [Micractinium conductrix]	QAXK01016971.1_2990-681
+OG0001898	PSC67775.1 non-canonical poly_A_ RNA polymerase PAPD5 [Micractinium conductrix]	QAXK01001156.1_3180-1500
+OG0001900	PSC67407.1 ubiquitin fusion degradation 1-like protein [Micractinium conductrix]	QAXK01009399.1_423-2536
+OG0001902	PSC73059.1 adenosine kinase 2 [Micractinium conductrix]	QAXK01008314.1_4813-7042
+OG0001907	PSC71001.1 Histone acetyltransferase GCN5 [Micractinium conductrix]	QAXK01003345.1_36704-34696
+OG0001911	PSC69622.1 GDP-Man_Man_3_ c_2_-PP-Dol alpha-1_2-mannosyltransferase [Micractinium conductrix]	QAXK01003378.1_5209-366
+OG0001915	PSC69842.1 E3 ubiquitin-ligase HERC2 [Micractinium conductrix]	QAXK01004688.1_3441-5908
+OG0001916	PSC73730.1 DNA repair [Micractinium conductrix]	QAXK01001344.1_15728-16873
+OG0001917	PSC69495.1 Altered inheritance rate of mitochondria 25 [Micractinium conductrix]	QAXK01010657.1_2437-238
+OG0001918	PSC75723.1 acetylornithine aminotransferase [Micractinium conductrix]	QAXK01003671.1_14459-17304
+OG0001919	PSC73807.1 acetolactate synthase small subunit chloroplastic-like [Micractinium conductrix]	QAXK01001468.1_4935-8852
+OG0001920	PSC77004.1 peptidyl-prolyl cis-trans isomerase CYP57-like [Micractinium conductrix]	QAXK01000770.1_6276-4831
+OG0001921	PSC68737.1 V-type proton ATPase subunit d2 [Micractinium conductrix]	QAXK01004635.1_12023-13891
+OG0001922	PSC75171.1 kinesin-like calmodulin-binding isoform X1 [Micractinium conductrix]	QAXK01011133.1_12839-6837
+OG0001928	PSC76454.1 arogenate prephenate dehydrogenase [Micractinium conductrix]	QAXK01003150.1_16472-17917
+OG0001930	PSC69188.1 coatomer subunit delta-like [Micractinium conductrix]	QAXK01003163.1_7337-4796
+OG0001931	PSC69277.1 60S ribosomal L4-1 [Micractinium conductrix]	QAXK01002575.1_2869-493
+OG0001934	PSC71357.1 RCC2-like protein [Micractinium conductrix]	QAXK01001681.1_35798-38541
+OG0001935	PSC71559.1 NADH dehydrogenase [ubiquinone] iron-sulfur 8-mitochondrial [Micractinium conductrix]	QAXK01001208.1_4428-3497
+OG0001936	PSC69989.1 mitochondrial phosphate carrier 1 [Micractinium conductrix]	QAXK01000947.1_9658-8064
+OG0001937	PSC75250.1 serine threonine-kinase RIO1-like [Micractinium conductrix]	QAXK01002895.1_11877-8991
+OG0001938	PSC70255.1 exosome complex component RRP41 [Micractinium conductrix]	QAXK01006045.1_3548-5265
+OG0001943	PSC75808.1 Eukaryotic peptide chain release factor subunit 1-3 [Micractinium conductrix]	QAXK01001495.1_35130-32135
+OG0001945	PSC75729.1 pachytene checkpoint 2-like protein [Micractinium conductrix]	QAXK01006788.1_3504-1107
+OG0001946	PSC75635.1 coatomer subunit epsilon-1-like [Micractinium conductrix]	QAXK01006196.1_6560-8156
+OG0001947	PSC67354.1 leucine-tRNA mitochondrial [Micractinium conductrix]	QAXK01001881.1_90892-88031
+OG0001951	PSC71665.1 40S ribosomal S18 [Micractinium conductrix]	QAXK01010684.1_1460-556
+OG0001952	PSC71553.1 26S proteasome regulatory subunit [Micractinium conductrix]	QAXK01001616.1_0-2161
+OG0001953	PSC74574.1 hypothetical protein C2E20_2186 [Micractinium conductrix], PSC74496.1 putative inactive tRNA-specific adenosine deaminase 3 isoform X1 [Micractinium conductrix]	QAXK01001871.1_8489-9868
+OG0001954	PSC75016.1 S-adenosyl-L-methionine-dependent methyltransferases superfamily [Micractinium conductrix]	QAXK01014389.1_130-668
+OG0001956	PSC72809.1 Glycyl-tRNA synthetase family [Micractinium conductrix]	QAXK01004150.1_9770-14859
+OG0001958	PSC70734.1 L-ascorbate peroxidase 6 [Micractinium conductrix]	QAXK01007010.1_8318-9471
+OG0001960	PSC74641.1 U-box domain-containing 72-like [Micractinium conductrix]	QAXK01005538.1_9255-7797
+OG0001961	PSC72381.1 Glycine-tRNA ligase chloroplastic mitochondrial [Micractinium conductrix]	QAXK01009093.1_4766-1793
+OG0001966	PSC68849.1 ataxin-3-like protein [Micractinium conductrix]	QAXK01016188.1_2666-4256
+OG0001967	PSC76600.1 40S ribosomal S15 [Micractinium conductrix]	QAXK01000446.1_47170-46172
+OG0001969	PSC74599.1 cytosolic Fe-S cluster assembly factor NBP35 [Micractinium conductrix]	QAXK01002063.1_20394-18703
+OG0001970	PSC71211.1 ribosome biogenesis GTPase [Micractinium conductrix]	QAXK01001186.1_3380-493
+OG0001973	PSC69061.1 4-hydroxyphenylpyruvate dioxygenase [Micractinium conductrix]	QAXK01000335.1_27471-29404
+OG0001979	PSC68085.1 putative nucleolar 5-2 [Micractinium conductrix]	QAXK01001265.1_1827-4399
+OG0001980	PSC76439.1 V-type proton ATPase subunit H-like [Micractinium conductrix]	QAXK01003309.1_3370-103
+OG0001986	PSC71749.1 Mitogen-activated kinase 17 [Micractinium conductrix]	QAXK01000295.1_10054-5194
+OG0001991	PSC75369.1 Heptahelical 4 isoform 2 [Micractinium conductrix]	QAXK01002862.1_2144-4831
+OG0001993	PSC75944.1 bifunctional riboflavin kinase FMN phosphatase-like [Micractinium conductrix]	QAXK01002212.1_3400-1645
+OG0001995	PSC73282.1 serine threonine-kinase TIO isoform X1 [Micractinium conductrix]	QAXK01014184.1_2136-4076
+OG0001996	PSC72817.1 1-deoxy-D-xylulose-5-phosphate reductoisomerase [Micractinium conductrix]	QAXK01001275.1_1545-3783
+OG0001998	PSC68708.1 Cycloeucalenol cycloisomerase [Micractinium conductrix]	QAXK01000407.1_9246-10753
+OG0001999	PSC72744.1 NADPH-dependent diflavin oxidoreductase 1 isoform X1 [Micractinium conductrix]	QAXK01001060.1_158-4769
+OG0002000	PSC76732.1 imidazole glycerol phosphate synthase chloroplastic [Micractinium conductrix]	QAXK01003280.1_21069-16498
+OG0002001	PSC72681.1 LIMR family protein [Micractinium conductrix]	QAXK01007038.1_3322-7876
+OG0002003	PSC73288.1 XAP5 CIRCADIAN TIMEKEEPER [Micractinium conductrix]	QAXK01002652.1_3797-1393
+OG0002004	PSC73478.1 Qb-SNARE Bos1 Membrin family [Micractinium conductrix]	QAXK01012829.1_4377-6139
+OG0002005	PSC72199.1 zinc finger CCCH domain-containing 1 [Micractinium conductrix]	QAXK01004007.1_7633-6740
+OG0002006	PSC71090.1 Chlorophyll a-b binding chloroplastic [Micractinium conductrix]	QAXK01000137.1_21575-22932
+OG0002007	PSC72253.1 Exportin-2 [Micractinium conductrix]	QAXK01009439.1_10946-16439
+OG0002008	PSC72303.1 DNAJ heat shock N-terminal domain-containing family [Micractinium conductrix]	QAXK01000685.1_2507-3830
+OG0002010	PSC72273.1 hypothetical protein C2E20_4572 [Micractinium conductrix]	QAXK01004465.1_1413-1889
+OG0002011	PSC72293.1 vacuolar ATP synthase subunit B [Micractinium conductrix]	QAXK01008697.1_3621-1
+OG0002012	PSC72257.1 Diacylglycerol O-acyltransferase 1 [Micractinium conductrix]	QAXK01008479.1_22-1572
+OG0002013	PSC72247.1 SCO1-like protein mitochondrial [Micractinium conductrix]	QAXK01000704.1_865-2353
+OG0002014	PSC72166.1 RNA-binding 28 [Micractinium conductrix]	QAXK01001731.1_8237-12954
+OG0002015	PSC76802.1 delta-1-pyrroline-5-carboxylate synthase A isoform X2 [Micractinium conductrix]	QAXK01001095.1_1607-5427
+OG0002018	PSC69663.1 peroxisomal acyl-coenzyme A oxidase 1-like [Micractinium conductrix]	QAXK01000579.1_6879-2831
+OG0002023	PSC67820.1 40S ribosomal S5 [Micractinium conductrix]	QAXK01004467.1_4446-2978
+OG0002024	PSC72457.1 MATH domain-containing protein [Micractinium conductrix]	QAXK01007476.1_6843-3464
+OG0002026	PSC72411.1 septin and tuftelin-interacting 1-like protein 1 [Micractinium conductrix]	QAXK01000116.1_15959-12419
+OG0002027	PSC67491.1 adenine phosphoribosyltransferase [Micractinium conductrix]	QAXK01000153.1_10025-9224
+OG0002028	PSC70049.1 26S proteasome regulatory subunit [Micractinium conductrix]	QAXK01001007.1_9576-3460
+OG0002029	PSC76422.1 actin [Micractinium conductrix]	QAXK01001726.1_9416-10685
+OG0002032	PSC76576.1 Dynamin ARC5 [Micractinium conductrix]	QAXK01018007.1_11683-5307
+OG0002035	PSC68910.1 DNA topoisomerase 2 [Micractinium conductrix]	QAXK01001162.1_4704-11654
+OG0002036	PSC67974.1 nucleolar complex 2-like protein [Micractinium conductrix], PSC67967.1 hypothetical protein C2E20_8419 [Micractinium conductrix]	QAXK01003552.1_4945-952
+OG0002040	PSC73296.1 dihydroxy-acid dehydratase [Micractinium conductrix]	QAXK01004862.1_20323-24029
+OG0002043	PSC76890.1 DNA polymerase epsilon subunit 2 [Micractinium conductrix]	QAXK01000495.1_11359-8819
+OG0002046	PSC70202.1 40S ribosomal Sa-1 [Micractinium conductrix]	QAXK01003370.1_5253-2449
+OG0002049	PSC71365.1 Double-strand break repair MRE11 [Micractinium conductrix]	QAXK01004800.1_3523-170
+OG0002051	PSC74827.1 Nucleolar 56 [Micractinium conductrix]	QAXK01005999.1_9988-12832
+OG0002063	PSC72004.1 geranylgeranyl diphosphate synthase [Micractinium conductrix]	QAXK01001387.1_26607-27895
+OG0002070	PSC76303.1 DEAD-box ATP-dependent RNA helicase 7 [Micractinium conductrix]	QAXK01003882.1_7725-3343
+OG0002072	PSC70510.1 porphobilinogen deaminase [Micractinium conductrix]	QAXK01000401.1_8251-6577
+OG0002073	PSC72287.1 40S ribosomal S16 [Micractinium conductrix]	QAXK01011684.1_2005-861
+OG0002074	PSC68908.1 putative ribosome biogenesis RLP24 [Micractinium conductrix]	QAXK01005165.1_9870-10888
+OG0002075	PSC73941.1 inositol-3-phosphate synthase [Micractinium conductrix]	QAXK01000112.1_21457-19158
+OG0002080	PSC68284.1 Bifunctional aspartate aminotransferase and glutamate aspartate-prephenate aminotransferase [Micractinium conductrix]	QAXK01005319.1_1852-5123
+OG0002081	PSC74408.1 Diphthamide biosynthesis 1 [Micractinium conductrix]	QAXK01000024.1_6845-4701
+OG0002082	PSC72255.1 Proteasome subunit alpha type-7 [Micractinium conductrix]	QAXK01003767.1_15037-16578
+OG0002086	PSC73570.1 Bis_5 -adenosyl_-triphosphatase [Micractinium conductrix]	QAXK01000416.1_236-1468
+OG0002088	PSC73236.1 Crooked neck 1 [Micractinium conductrix]	QAXK01004430.1_4845-10525
+OG0002090	PSC75430.1 Proteasome subunit alpha type-3 [Micractinium conductrix]	QAXK01000004.1_10133-7859
+OG0002092	PSC71474.1 rRNA methyltransferase [Micractinium conductrix]	QAXK01001415.1_8205-13561
+OG0002095	PSC70541.1 Proteasome subunit alpha type-5 [Micractinium conductrix]	QAXK01000224.1_15148-12485
+OG0002103	PSC70130.1 Acyl-dehydrogenase [Micractinium conductrix]	QAXK01000770.1_6581-10685
+OG0002105	PSC69876.1 60S ribosomal L11-1 [Micractinium conductrix]	QAXK01018040.1_3609-5929
+OG0002110	PSC73140.1 DNA repair helicase XPB1-like [Micractinium conductrix]	QAXK01007447.1_7916-1145
+OG0002111	PSC74072.1 AATF isoform X1 [Micractinium conductrix]	QAXK01013514.1_9351-7632
+OG0002112	PSC75829.1 MORN repeat family [Micractinium conductrix]	QAXK01015359.1_10390-8068
+OG0002120	PSC76466.1 conserved oligomeric Golgi complex subunit 5 [Micractinium conductrix]	QAXK01005023.1_11393-17094
+OG0002122	PSC71203.1 ER lumen retaining receptor [Micractinium conductrix]	QAXK01010373.1_8651-6830
+OG0002123	PSC76082.1 hydroxyacylglutathione hydrolase [Micractinium conductrix]	QAXK01000700.1_5491-3572
+OG0002124	PSC71478.1 GTP-binding chloroplastic [Micractinium conductrix]	QAXK01004007.1_8647-10727
+OG0002127	PSC71138.1 V-type proton ATPase subunit C [Micractinium conductrix]	QAXK01001495.1_27698-29888
+OG0002128	PSC74094.1 DEAD-box ATP-dependent RNA helicase 21 [Micractinium conductrix]	QAXK01002518.1_56-2855
+OG0002131	PSC68521.1 Alpha-ketoglutarate permease isoform B [Micractinium conductrix]	QAXK01001894.1_15083-15978
+OG0002132	PSC73762.1 mitochondrial carrier [Micractinium conductrix]	QAXK01009974.1_15390-17483
+OG0002134	PSC68561.1 glyoxylate succinic semialdehyde reductase chloroplastic [Micractinium conductrix]	QAXK01000252.1_16687-14824
+OG0002138	PSC72888.1 Calcineurin subunit B [Micractinium conductrix]	QAXK01015692.1_7967-6370
+OG0002139	PSC69752.1 60S ribosomal L10a-1 [Micractinium conductrix]	QAXK01003183.1_18810-17365
+OG0002141	PSC73036.1 60S ribosomal L6 [Micractinium conductrix]	QAXK01004474.1_7154-5648
+OG0002142	PSC69786.1 Qc-snare Syn8 Syntaxin8-family [Micractinium conductrix]	QAXK01011512.1_2962-4685
+OG0002144	PSC74152.1 Metal tolerance C4 [Micractinium conductrix]	QAXK01000452.1_14665-16837
+OG0002145	PSC74778.1 ATP-dependent Clp protease proteolytic subunit chloroplastic [Micractinium conductrix]	QAXK01000208.1_15729-14120
+OG0002146	PSC71219.1 NAD_P_-dependent oxidoreductase [Micractinium conductrix]	QAXK01014393.1_10002-7696
+OG0002147	PSC67474.1 hypothetical protein C2E20_8863 [Micractinium conductrix]	QAXK01000383.1_6224-8512
+OG0002149	PSC73553.1 Thymidylate kinase [Micractinium conductrix]	QAXK01007800.1_664-2473
+OG0002154	PSC69751.1 GDP-L-galactose phosphorylase 1 [Micractinium conductrix]	QAXK01001673.1_7134-5531
+OG0002158	PSC71481.1 STABILIZED1-like [Micractinium conductrix]	QAXK01000427.1_69010-61523
+OG0002159	PSC68369.1 phosphatidylinositol 3-root isoform [Micractinium conductrix]	QAXK01001947.1_6933-16171
+OG0002161	PSC75042.1 anthranilate synthase component [Micractinium conductrix]	QAXK01000667.1_5631-9231
+OG0002162	PSC74465.1 60S ribosomal L5 [Micractinium conductrix]	QAXK01001956.1_6721-5102
+OG0002163	PSC71402.1 conserved oligomeric Golgi complex subunit 8 [Micractinium conductrix]	QAXK01000249.1_23024-26432
+OG0002165	PSC73026.1 4-alpha-glucanotransferase chloroplastic amyloplastic [Micractinium conductrix]	QAXK01004616.1_9420-16745
+OG0002167	PSC73087.1 transcription initiation factor IIA gamma chain [Micractinium conductrix]	QAXK01011260.1_4573-3532
+OG0002169	PSC76450.1 eukaryotic translation initiation factor 3 subunit A-like [Micractinium conductrix]	QAXK01012387.1_1585-757
+OG0002171	PSC67724.1 carbamoyl-phosphate synthase large chloroplastic-like [Micractinium conductrix]	QAXK01000446.1_58269-64323
+OG0002172	PSC75655.1 60S ribosomal L32-1 [Micractinium conductrix]	QAXK01012305.1_2510-4620
+OG0002173	PSC75535.1 SUPPRESSOR OF K_+_ TRANSPORT GROWTH DEFECT 1 [Micractinium conductrix]	QAXK01000596.1_14630-16935
+OG0002175	PSC67757.1 Diphthine synthase [Micractinium conductrix]	QAXK01001681.1_26607-28630
+OG0002176	PSC75988.1 Protoheme IX mitochondrial [Micractinium conductrix]	QAXK01006378.1_6447-7421
+OG0002177	PSC75516.1 importin subunit beta-1-like [Micractinium conductrix]	QAXK01001458.1_24314-19030
+OG0002179	PSC70907.1 pre-mRNA-splicing factor SPF27-like protein [Micractinium conductrix]	QAXK01000816.1_3651-1777
+OG0002180	PSC70249.1 Trafficking particle complex subunit 5 [Micractinium conductrix]	QAXK01013408.1_2179-3352
+OG0002181	PSC70937.1 putative transcriptional regulatory protein [Micractinium conductrix]	QAXK01001085.1_14460-16185
+OG0002182	PSC71508.1 Golgi apparatus membrane ECHIDNA [Micractinium conductrix]	QAXK01011403.1_8648-10184
+OG0002185	PSC73869.1 50S ribosomal L4 [Micractinium conductrix]	QAXK01004305.1_1287-2625
+OG0002187	PSC72355.1 ADP-ribosylation factor 2 [Micractinium conductrix]	QAXK01008561.1_1927-3583
+OG0002194	PSC71175.1 tubulin folding cofactor B [Micractinium conductrix]	QAXK01000283.1_35828-37170
+OG0002195	PSC67889.1 succinyl-ligase [ADP-forming] subunit alpha-mitochondrial [Micractinium conductrix]	QAXK01004230.1_16730-15188
+OG0002201	PSC71368.1 DDB1-and CUL4-associated factor 13 [Micractinium conductrix]	QAXK01010560.1_4646-7806
+OG0002202	PSC75932.1 Vacuolar sorting-associated 26B [Micractinium conductrix]	QAXK01015485.1_1487-4220
+OG0002203	PSC72522.1 putative manganese-transporting ATPase PDR2 [Micractinium conductrix]	QAXK01002836.1_26336-33102
+OG0002205	PSC70495.1 CCR4-associated factor [Micractinium conductrix]	QAXK01006533.1_2359-4576
+OG0002206	PSC70094.1 TRIGALACTOSYLDIACYLGLYCEROL chloroplastic-like [Micractinium conductrix]	QAXK01001756.1_16985-18889
+OG0002211	PSC71438.1 SNW SKI-interacting [Micractinium conductrix]	QAXK01002337.1_17192-14208
+OG0002212	PSC67280.1 lipoate-ligase A isoform X1 [Micractinium conductrix]	QAXK01004985.1_1921-3702
+OG0002214	PSC71236.1 Bystin [Micractinium conductrix]	QAXK01004099.1_10602-7616
+OG0002216	PSC69155.1 Eukaryotic translation initiation factor 2D [Micractinium conductrix]	QAXK01008333.1_5211-755
+OG0002218	PSC67349.1 DEAD-box ATP-dependent RNA helicase 17 [Micractinium conductrix]	QAXK01008568.1_4370-1172
+OG0002219	PSC73737.1 LL-diaminopimelate chloroplastic [Micractinium conductrix]	QAXK01000926.1_8546-11734
+OG0002221	PSC69170.1 SEC12 2 [Micractinium conductrix]	QAXK01000669.1_13732-11344
+OG0002223	PSC67277.1 HSP20-like chaperone [Micractinium conductrix]	QAXK01002445.1_7314-8396
+OG0002227	PSC75748.1 Amidophosphoribosyltransferase [Micractinium conductrix]	QAXK01002658.1_19503-16448
+OG0002228	PSC75345.1 rRNA-processing FCF1-like protein [Micractinium conductrix]	QAXK01005657.1_4133-2964
+OG0002229	PSC75435.1 multiple RNA-binding domain-containing 1 [Micractinium conductrix]	QAXK01012523.1_554-5993
+OG0002231	PSC68608.1 thioredoxin domain-containing PLP3B-like [Micractinium conductrix]	QAXK01000465.1_13752-12830
+OG0002232	PSC75631.1 lariat debranching enzyme [Micractinium conductrix]	QAXK01003345.1_4291-6594
+OG0002233	PSC70970.1 UDP-sugar pyrophosphorylase 1 [Micractinium conductrix]	QAXK01000437.1_11961-16259
+OG0002235	PSC70331.1 U3 small nucleolar ribonucleo IMP4 [Micractinium conductrix]	QAXK01001803.1_9702-7639
+OG0002238	PSC74942.1 26S proteasome non-ATPase regulatory subunit 6-like protein [Micractinium conductrix]	QAXK01001182.1_10605-8247
+OG0002241	PSC68986.1 40S ribosomal S14-2 [Micractinium conductrix]	QAXK01018825.1_5368-4150
+OG0002243	PSC67734.1 CTP synthase [Micractinium conductrix]	QAXK01000459.1_16579-20716
+OG0002246	PSC76153.1 RNA binding _nucleomorph_ [Micractinium conductrix]	QAXK01004963.1_17662-16561
+OG0002250	PSC68979.1 TATA-box binding -interacting TOUGH isoform A [Micractinium conductrix], PSC68980.1 TATA-box binding -interacting TOUGH isoform B [Micractinium conductrix]	QAXK01009768.1_6744-3068
+OG0002257	PSC69440.1 18S rRNA biogenesis RCL1_ partial [Micractinium conductrix]	QAXK01003840.1_2463-275
+OG0002262	PSC75332.1 RAN GTPase-activating 1 [Micractinium conductrix]	QAXK01009985.1_8201-11435
+OG0002280	PSC72711.1 UDP-galactose UDP-glucose transporter 3 isoform A [Micractinium conductrix], PSC72710.1 UDP-galactose UDP-glucose transporter 3 isoform B [Micractinium conductrix]	QAXK01000180.1_9982-8131
+OG0002282	PSC71284.1 thylakoid lumenal [Micractinium conductrix]	QAXK01000502.1_36980-37941
+OG0002289	PSC69499.1 8-amino-7-oxononanoate synthase isoform A [Micractinium conductrix], PSC69500.1 8-amino-7-oxononanoate synthase isoform B [Micractinium conductrix]	QAXK01009887.1_2599-389
+OG0002367	PSC72125.1 U3 small nucleolar RNA-associated 6-like protein [Micractinium conductrix]	QAXK01000828.1_1794-5888
+OG0002368	PSC72182.1 Protease Do-like 9 [Micractinium conductrix]	QAXK01012125.1_2420-651
+OG0002374	PSC68793.1 UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase [Micractinium conductrix]	QAXK01003443.1_1888-4145
+OG0002375	PSC72109.1 ubiquinone menaquinone biosynthesis methyltransferase [Micractinium conductrix]	QAXK01000611.1_344-2643
+OG0002377	PSC68757.1 1-acyl-sn-glycerol-3-phosphate acyltransferase chloroplastic [Micractinium conductrix]	QAXK01000070.1_5006-2926
+OG0002392	PSC76108.1 Coatomer subunit zeta-2 [Micractinium conductrix]	QAXK01004092.1_39419-40407
+OG0002393	PSC74738.1 Thioredoxin 4A [Micractinium conductrix]	QAXK01004425.1_5700-7015
+OG0002398	PSC76070.1 THYLAKOID chloroplastic [Micractinium conductrix]	QAXK01007630.1_3354-1779
+OG0002400	PSC76410.1 histone deacetylation Rxt3 [Micractinium conductrix]	QAXK01009758.1_1852-165
+OG0002402	PSC74000.1 DEAD-box ATP-dependent RNA helicase 5 [Micractinium conductrix]	QAXK01006527.1_8708-6017
+OG0002404	PSC74210.1 20S proteasome beta type 4 [Micractinium conductrix]	QAXK01000840.1_31502-30180
+OG0002407	PSC71734.1 SAND-like isoform X1 [Micractinium conductrix]	QAXK01002424.1_5771-2597
+OG0002409	PSC67601.1 iron-sulfur cluster biosynthesis family [Micractinium conductrix]	QAXK01003096.1_14696-17609
+OG0002410	PSC73451.1 Acetylglutamate kinase [Micractinium conductrix]	QAXK01000328.1_7305-8962
+OG0002415	PSC74190.1 Pantoate-beta-alanine ligase [Micractinium conductrix]	QAXK01018530.1_1173-3834
+OG0002417	PSC74220.1 Mitochondrial thiamine pyrophosphate carrier [Micractinium conductrix]	QAXK01014946.1_5937-4091
+OG0002421	PSC71316.1 DNA polymerase delta catalytic subunit [Micractinium conductrix]	QAXK01000019.1_127-3831
+OG0002424	PSC73182.1 L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase-like [Micractinium conductrix]	QAXK01004230.1_13015-11861
+OG0002429	PSC70748.1 putative U6 snRNA-associated Sm LSm4 [Micractinium conductrix]	QAXK01018188.1_2713-2029
+OG0002433	PSC70664.1 Solute carrier family 25 member 38 [Micractinium conductrix]	QAXK01010016.1_2591-4898
+OG0002435	PSC76672.1 ATP-dependent RNA helicase DBP2-like isoform X1 [Micractinium conductrix]	QAXK01006642.1_4903-8475
+OG0002439	PSC76385.1 UPF0586 C9orf41 [Micractinium conductrix]	QAXK01006012.1_4611-6378
+OG0002441	PSC76321.1 Phosphoribosylaminoimidazole-succinocarboxam ide chloroplastic [Micractinium conductrix]	QAXK01000523.1_8909-7053
+OG0002447	PSC73938.1 Peroxisome biogenesis 5 [Micractinium conductrix]	QAXK01011649.1_6227-2645
+OG0002451	PSC70877.1 nifU mitochondrial [Micractinium conductrix]	QAXK01000979.1_11011-9108
+OG0002454	PSC73186.1 transcription elongation factor B polypeptide 1 [Micractinium conductrix]	QAXK01017228.1_872-211
+OG0002461	PSC76742.1 peroxisome biogenesis 2 [Micractinium conductrix]	QAXK01008372.1_4504-1777
+OG0002470	PSC69935.1 Surfeit locus 1 [Micractinium conductrix]	QAXK01004760.1_349-2010
+OG0002473	PSC70161.1 RNA polymerase I-specific transcription initiation factor RRN3-like [Micractinium conductrix]	QAXK01005580.1_145-5612
+OG0002481	PSC75552.1 60S ribosomal L38 isoform B [Micractinium conductrix], PSC75553.1 60S ribosomal L38 isoform A [Micractinium conductrix]	QAXK01019295.1_5920-5732
+OG0002489	PSC74694.1 UDP-N-acetylglucosamine transferase subunit ALG14-like protein [Micractinium conductrix]	QAXK01011332.1_7730-6306
+OG0002491	PSC72777.1 AP-4 complex subunit mu [Micractinium conductrix]	QAXK01001982.1_13111-9273
+OG0002493	PSC76530.1 ubiquinone biosynthesis [Micractinium conductrix]	QAXK01003356.1_3976-6343
+OG0002501	PSC74490.1 survival of motorneuron-related-splicing factor 30 [Micractinium conductrix]	QAXK01015333.1_8887-6386
+OG0002502	PSC69532.1 N-alpha-acetyltransferase auxiliary subunit [Micractinium conductrix]	QAXK01004701.1_7826-2022
+OG0002509	PSC69422.1 la 1 [Micractinium conductrix]	QAXK01002072.1_7784-4601
+OG0002520	PSC75312.1 ankyrin repeat [Micractinium conductrix]	QAXK01004095.1_2354-706
+OG0002524	PSC72269.1 60S ribosomal L44 [Micractinium conductrix]	QAXK01000577.1_7847-8807
+OG0002525	PSC75956.1 putative dimethyladenosine transferase [Micractinium conductrix]	QAXK01004000.1_12088-10081
+OG0002540	PSC71344.1 hypothetical protein C2E20_5375 [Micractinium conductrix]	QAXK01000802.1_2542-6601
+OG0002550	PSC70640.1 GTPase Der [Micractinium conductrix]	QAXK01001082.1_16962-21149
+OG0002551	PSC70565.1 peptidyl-prolyl cis-trans isomerase CYP59 [Micractinium conductrix]	QAXK01000484.1_4718-2307
+OG0002563	PSC73474.1 E3 ubiquitin-ligase makorin [Micractinium conductrix]	QAXK01010777.1_196-929
+OG0002569	PSC69725.1 GTP-binding 1 [Micractinium conductrix]	QAXK01008095.1_6073-1465
+OG0002570	PSC71374.1 Nucleolar 16 [Micractinium conductrix]	QAXK01004879.1_5868-4307
+OG0002572	PSC73709.1 metaxin-1 isoform X2 [Micractinium conductrix]	QAXK01003017.1_10269-9177
+OG0002575	PSC74966.1 60S ribosomal L27a-3 [Micractinium conductrix]	QAXK01018811.1_5082-3547
+OG0002578	PSC74264.1 tRNA _guanine-N_7_-_-methyltransferase non-catalytic subunit wdr4-like [Micractinium conductrix]	QAXK01006849.1_22455-23625
+OG0002581	PSC67786.1 Mitochondrial import inner membrane translocase subunit TIM10 isoform B [Micractinium conductrix], PSC67785.1 Mitochondrial import inner membrane translocase subunit TIM10 isoform A [Micractinium conductrix]	QAXK01000799.1_52275-51787
+OG0002587	PSC73521.1 Arogenate dehydratase prephenate dehydratase chloroplastic [Micractinium conductrix]	QAXK01003879.1_1866-205
+OG0002588	PSC74924.1 peptidyl-prolyl cis-trans isomerase CYP71 [Micractinium conductrix]	QAXK01006532.1_11118-4758
+OG0002596	PSC71793.1 malate dehydrogenase [Micractinium conductrix]	QAXK01013827.1_4630-1867
+OG0002601	PSC69083.1 Inositol monophosphatase 3 [Micractinium conductrix]	QAXK01013188.1_5354-2685
+OG0002604	PSC68530.1 3_4-dihydroxy-2-butanone kinase [Micractinium conductrix]	QAXK01003755.1_5170-9460
+OG0002608	PSC70470.1 OTU domain-containing 3 isoform X1 [Micractinium conductrix]	QAXK01001306.1_3606-5501
+OG0002610	PSC76624.1 UPF0553 -like [Micractinium conductrix]	QAXK01006881.1_2636-4947
+OG0002611	PSC69630.1 N-alpha-acetyltransferase MAK3 [Micractinium conductrix]	QAXK01008206.1_13328-14330
+OG0002613	PSC69667.1 UPF0603 chloroplastic [Micractinium conductrix]	QAXK01001336.1_4314-5769
+OG0002615	PSC67985.1 biotin-ligase 2-like isoform X2 [Micractinium conductrix]	QAXK01018285.1_3833-2399
+OG0002620	PSC74949.1 Kinase superfamily isoform 4 isoform B [Micractinium conductrix], PSC74948.1 Kinase superfamily isoform 4 isoform A [Micractinium conductrix]	QAXK01005400.1_31209-29659
+OG0002627	PSC67787.1 Aspartate carbamoyltransferase chloroplastic [Micractinium conductrix]	QAXK01000679.1_20862-23970
+OG0002632	PSC67800.1 ketopantoate hydroxymethyltransferase [Micractinium conductrix]	QAXK01000208.1_858-3327
+OG0002633	PSC76441.1 nucleolar GTP-binding 1 [Micractinium conductrix]	QAXK01015735.1_789-3208
+OG0002634	PSC75684.1 16S rRNA _cytosine_1402_-N_4__-methyltransferase [Micractinium conductrix]	QAXK01005319.1_15043-16886
+OG0002641	PSC67253.1 SWR1 complex subunit 6 [Micractinium conductrix]	QAXK01001768.1_11195-11945
+OG0002642	PSC69409.1 Enoyl-[acyl-carrier] reductase [NADH] chloroplastic [Micractinium conductrix]	QAXK01002348.1_6292-8730
+OG0002654	PSC70308.1 putative sugar phosphate phosphate translocator [Micractinium conductrix]	QAXK01008540.1_14282-12509
+OG0002656	PSC67669.1 60S ribosomal L22-2 [Micractinium conductrix]	QAXK01008693.1_1704-2778
+OG0002657	PSC70339.1 ATPase of the AAA+ superfamily _ISS_ [Micractinium conductrix]	QAXK01001396.1_8898-9977
+OG0002663	PSC70790.1 60S ribosomal L7a [Micractinium conductrix]	QAXK01005614.1_2666-5868
+OG0002665	PSC70784.1 formamidopyrimidine-DNA glycosylase isoform X2 [Micractinium conductrix]	QAXK01013120.1_9967-12816
+OG0002670	PSC74579.1 signal transducer [Micractinium conductrix]	QAXK01006673.1_15764-13631
+OG0002674	PSC70862.1 Proline iminopeptidase [Micractinium conductrix]	QAXK01009777.1_8817-6577
+OG0002680	PSC67396.1 G3BP isoform X1 [Micractinium conductrix]	QAXK01002348.1_28743-27471
+OG0002684	PSC75513.1 rRNA-processing UTP23-like protein [Micractinium conductrix]	QAXK01009099.1_14211-12777
+OG0002690	PSC71393.1 Ribosome production factor 1 isoform A [Micractinium conductrix]	QAXK01002281.1_18158-20087
+OG0002691	PSC70445.1 5 -nucleotidase domain-containing 4-like isoform X2 [Micractinium conductrix]	QAXK01017025.1_286-4417
+OG0002692	PSC68694.1 chloroplast precursor [Micractinium conductrix]	QAXK01018733.1_2749-2003
+OG0002693	PSC73914.1 serine threonine-phosphatase 2A activator [Micractinium conductrix]	QAXK01001086.1_9229-7556
+OG0002695	PSC74864.1 WD repeat-containing 20-like [Micractinium conductrix]	QAXK01007477.1_3698-5226
+OG0002710	PSC68711.1 Regulatory-associated of TOR 1 [Micractinium conductrix]	QAXK01005359.1_3667-6796
+OG0002711	PSC68243.1 cytidine deaminase 1 [Micractinium conductrix]	QAXK01000142.1_2803-4675
+OG0002714	PSC76755.1 Casein kinase II subunit beta [Micractinium conductrix]	QAXK01008206.1_4068-2028
+OG0002716	PSC69287.1 malignant T-cell-amplified sequence 1-like protein [Micractinium conductrix]	QAXK01002299.1_25676-26628
+OG0002723	PSC74843.1 DNA-directed RNA polymerase chloroplastic mitochondrial [Micractinium conductrix]	QAXK01001735.1_19259-17991
+OG0002725	PSC68280.1 ATP-dependent RNA helicase isoform X1 [Micractinium conductrix]	QAXK01014870.1_4125-17
+OG0002728	PSC70005.1 DNA topoisomerase 1 [Micractinium conductrix]	QAXK01001551.1_13518-17077
+OG0002729	PSC68247.1 putative glucan 1_3-alpha-glucosidase [Micractinium conductrix]	QAXK01006977.1_27647-33279
+OG0002737	PSC67360.1 1-_5-phosphoribosyl_-5-[_5-phosphoribosylami no_methylideneamino] imidazole-4-carboxamide chloroplastic [Micractinium conductrix]	QAXK01003565.1_11016-9575
+OG0002740	PSC69043.1 N-alpha-acetyltransferase 50 [Micractinium conductrix]	QAXK01008073.1_769-1809
+OG0002747	PSC74391.1 DEAD-box ATP-dependent RNA helicase 16 [Micractinium conductrix]	QAXK01003905.1_20331-25213
+OG0002748	PSC69031.1 phosphatidylinositol synthase [Micractinium conductrix]	QAXK01006264.1_6024-5189
+OG0002758	PSC72489.1 hypothetical protein C2E20_4316 [Micractinium conductrix]	QAXK01000240.1_34950-34312
+OG0002759	PSC71207.1 U4 tri-snRNP-associated 2 [Micractinium conductrix]	QAXK01007099.1_3453-8857
+OG0002768	PSC74381.1 hypothetical protein C2E20_2190 [Micractinium conductrix]	QAXK01003475.1_1733-1302
+OG0002771	PSC71465.1 PAT1-like protein 1-like isoform X2 [Micractinium conductrix]	QAXK01011921.1_1066-3701
+OG0002772	PSC69044.1 RTF2-like protein [Micractinium conductrix]	QAXK01003475.1_2682-4175
+OG0002773	PSC76066.1 chlorophyll synthetase [Micractinium conductrix]	QAXK01017743.1_4283-978
+OG0002777	PSC70227.1 trans-2-enoyl-reductase [Micractinium conductrix]	QAXK01014000.1_19150-23189
+OG0002778	PSC67984.1 Pre-mRNA-splicing factor 38A [Micractinium conductrix]	QAXK01002678.1_2058-278
+OG0002781	PSC72756.1 nucleotide-diphospho-sugar transferase [Micractinium conductrix]	QAXK01008309.1_4393-845
+OG0002791	PSC75749.1 tRNA threonylcarbamoyladenosine biosynthesis [Micractinium conductrix]	QAXK01006910.1_4587-4039
+OG0002793	PSC73353.1 chloroplastic isoform X2 [Micractinium conductrix]	QAXK01003026.1_6033-13877
+OG0002799	PSC71761.1 transmembrane emp24 domain-containing p24delta4-like [Micractinium conductrix]	QAXK01000454.1_923-1568
+OG0002810	PSC72789.1 Seven transmembrane 1 [Micractinium conductrix]	QAXK01009911.1_30762-28414
+OG0002812	PSC71072.1 hypothetical protein C2E20_5531 [Micractinium conductrix]	QAXK01008556.1_5708-3352
+OG0002818	PSC72694.1 DNA-directed RNA polymerase I subunit RPA12 [Micractinium conductrix]	QAXK01001221.1_1240-326
+OG0002819	PSC72651.1 Tocopherol chloroplastic [Micractinium conductrix]	QAXK01001402.1_3021-777
+OG0002820	PSC72742.1 ubiquinone biosynthesis O-methyltransferase [Micractinium conductrix]	QAXK01007101.1_2486-3500
+OG0002821	PSC77011.1 AP-1 complex subunit gamma-2-like isoform X2 [Micractinium conductrix]	QAXK01001240.1_4320-118
+OG0002827	PSC72065.1 Ubiquitin-like domain-containing CTD phosphatase [Micractinium conductrix]	QAXK01001575.1_9213-11802
+OG0002829	PSC72146.1 mRNA-capping enzyme isoform X1 [Micractinium conductrix]	QAXK01008464.1_4921-314
+OG0002831	PSC72346.1 Eukaryotic translation initiation factor 2 subunit alpha [Micractinium conductrix]	QAXK01009471.1_2975-111
+OG0002848	PSC67503.1 ribosomal L1 [Micractinium conductrix]	QAXK01011190.1_3792-5177
+OG0002852	PSC74250.1 histidine methyltransferase 1-like protein [Micractinium conductrix]	QAXK01002795.1_1894-3499
+OG0002853	PSC72444.1 Nudix hydrolase 8 [Micractinium conductrix]	QAXK01006222.1_6005-7514
+OG0002854	PSC72493.1 WAT1-related chloroplastic [Micractinium conductrix]	QAXK01000274.1_4441-2040
+OG0002861	PSC67442.1 Glycerol-3-phosphate chloroplastic [Micractinium conductrix]	QAXK01000336.1_29701-28621
+OG0002871	PSC68655.1 Tetratricopeptide repeat 1 [Micractinium conductrix]	QAXK01001665.1_2326-3883
+OG0002877	PSC77058.1 Monothiol glutaredoxin-chloroplastic [Micractinium conductrix]	QAXK01001383.1_16600-17459
+OG0002889	PSC70214.1 Hop-interacting protein [Micractinium conductrix]	QAXK01014533.1_1995-3733
+OG0002890	PSC76578.1 chloroplastic mitochondrial [Micractinium conductrix]	QAXK01012468.1_6191-5064
+OG0002892	PSC70170.1 phosphoribulokinase [Micractinium conductrix]	QAXK01004675.1_1944-4753
+OG0002895	PSC74875.1 tRNA pseudouridine_38 39_ synthase [Micractinium conductrix]	QAXK01006273.1_11056-8644
+OG0002898	PSC72673.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit mitochondrial [Micractinium conductrix]	QAXK01013787.1_6935-10103
+OG0002900	PSC72030.1 Rossmann-like alpha beta alpha sandwich fold isoform A [Micractinium conductrix], PSC72031.1 Rossmann-like alpha beta alpha sandwich fold isoform B [Micractinium conductrix]	QAXK01000573.1_11483-12681
+OG0002903	PSC75629.1 cytochrome c-type biogeneis [Micractinium conductrix]	QAXK01008701.1_3697-2030
+OG0002915	PSC72133.1 RFT1-like protein isoform X1 [Micractinium conductrix]	QAXK01000080.1_1794-5623
+OG0002916	PSC68832.1 hypothetical protein C2E20_7602 [Micractinium conductrix]	QAXK01010627.1_8219-6389
+OG0002918	PSC71570.1 squamous cell carcinoma antigen recognized by T-cells 3 [Micractinium conductrix]	QAXK01005102.1_8833-5901
+OG0002927	PSC74554.1 DNA-directed RNA polymerase subunit beta [Micractinium conductrix]	QAXK01012487.1_1571-2566
+OG0002931	PSC73632.1 NADPH_adrenodoxin mitochondrial isoform X1 [Micractinium conductrix]	QAXK01009697.1_3987-6949
+OG0002938	PSC72333.1 dr1-associated corepressor isoform X1 [Micractinium conductrix]	QAXK01014057.1_8141-7852
+OG0002940	PSC72126.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8-B-like [Micractinium conductrix]	QAXK01000147.1_17903-18595
+OG0002946	PSC76836.1 U3 small nucleolar RNA-associated 21-like protein [Micractinium conductrix]	QAXK01002261.1_40148-34742
+OG0002948	PSC68829.1 FAM63A-like isoform X2 [Micractinium conductrix]	QAXK01005661.1_3614-5576
+OG0002962	PSC69885.1 Rab GDP dissociation inhibitor [Micractinium conductrix]	QAXK01002423.1_4870-1549
+OG0002965	PSC69979.1 putative ATP-dependent RNA helicase DDX11 [Micractinium conductrix]	QAXK01009311.1_5086-9550
+OG0002971	PSC73122.1 cornichon-like protein 1 [Micractinium conductrix]	QAXK01004485.1_1816-3388
+OG0002974	PSC73996.1 glycerol-3-phosphate acyltransferase 3-like [Micractinium conductrix]	QAXK01000635.1_9875-7571
+OG0002988	PSC71301.1 NADH dehydrogenase _ubiquinone_ complex assembly factor 6 [Micractinium conductrix]	QAXK01005019.1_7837-6195
+OG0002994	PSC71362.1 DNA replication complex GINS PSF2 [Micractinium conductrix]	QAXK01008641.1_5826-4936
+OG0002996	PSC74043.1 GNAT family N-acetyltransferase [Micractinium conductrix]	QAXK01008356.1_1994-1323
+OG0003006	PSC68551.1 Peroxisome biogenesis 7 [Micractinium conductrix]	QAXK01009127.1_2830-5632
+OG0003009	PSC74135.1 p21-activated kinase-interacting 1-like [Micractinium conductrix]	QAXK01001726.1_8268-6818
+OG0003015	PSC73346.1 anaphase-promoting complex subunit 6 [Micractinium conductrix]	QAXK01017394.1_3188-4
+OG0003017	PSC74627.1 low molecular mass early light-induced [Micractinium conductrix]	QAXK01001070.1_5974-4798
+OG0003036	PSC69839.1 gamma carbonic anhydrase mitochondrial [Micractinium conductrix]	QAXK01000724.1_14653-15848
+OG0003041	PSC69180.1 hypothetical protein C2E20_7357 [Micractinium conductrix]	QAXK01001704.1_7113-6556
+OG0003042	PSC71404.1 ER membrane complex subunit 1 [Micractinium conductrix]	QAXK01014526.1_3534-6424
+OG0003049	PSC76990.1 phosphatidate cytidylyltransferase-like [Micractinium conductrix]	QAXK01005731.1_3330-6743
+OG0003059	PSC67464.1 hypothetical protein C2E20_8859 [Micractinium conductrix]	QAXK01007133.1_7499-8797
+OG0003064	PSC70861.1 pyridoxine pyridoxamine 5 -phosphate oxidase chloroplastic-like [Micractinium conductrix]	QAXK01005457.1_8974-4681
+OG0003068	PSC75229.1 cytochrome c oxidase assembly COX15 [Micractinium conductrix]	QAXK01015536.1_9170-6903
+OG0003075	PSC68822.1 Haloacid dehalogenase-like hydrolase family isoform 2 [Micractinium conductrix]	QAXK01016351.1_22-2386
+OG0003087	PSC74388.1 nuclear poly_A_ polymerase 1 [Micractinium conductrix]	QAXK01003513.1_13194-9646
+OG0003091	PSC71876.1 geranyl diphosphate synthase [Micractinium conductrix]	QAXK01014943.1_5708-4249
+OG0003097	PSC71399.1 prostaglandin E synthase 2-like [Micractinium conductrix]	QAXK01008899.1_16518-18484
+OG0003105	PSC69396.1 U3 small nucleolar RNA-associated 18-like protein [Micractinium conductrix]	QAXK01001158.1_6748-4261
+OG0003107	PSC70580.1 diphthamide biosynthesis 7 [Micractinium conductrix]	QAXK01014862.1_4087-1458
+OG0003111	PSC74814.1 vacuolar sorting-associated 41-like protein [Micractinium conductrix]	QAXK01008798.1_739-2238
+OG0003123	PSC75099.1 Phosphoribosylglycinamide chloroplastic [Micractinium conductrix]	QAXK01008567.1_4740-6650
+OG0003125	PSC68960.1 2-methoxy-6-polyprenyl-1_4-benzoquinol mitochondrial [Micractinium conductrix]	QAXK01001243.1_11567-10056
+OG0003126	PSC70496.1 iron-sulfur cluster assembly [Micractinium conductrix]	QAXK01016483.1_12203-9679
+OG0003127	PSC67902.1 tRNA dimethylallyltransferase 9 [Micractinium conductrix]	QAXK01017290.1_11269-8021
+OG0003129	PSC76257.1 DUF866 domain-containing [Micractinium conductrix]	QAXK01002314.1_19744-18688
+OG0003133	PSC68884.1 NEDD8-activating enzyme E1 regulatory subunit [Micractinium conductrix]	QAXK01000525.1_12654-17162
+OG0003137	PSC72427.1 translation initiation factor eIF-2B subunit beta [Micractinium conductrix]	QAXK01001082.1_3989-724
+OG0003148	PSC70379.1 ribosome biogenesis TSR3-like protein [Micractinium conductrix]	QAXK01012193.1_12536-14034
+OG0003149	PSC68957.1 photosystem II S4 domain [Micractinium conductrix]	QAXK01012663.1_1560-2913
+OG0003151	PSC70397.1 psbP chloroplastic [Micractinium conductrix]	QAXK01010249.1_1617-3048
+OG0003152	PSC76374.1 ribosome biogenesis BOP1-like protein [Micractinium conductrix]	QAXK01003852.1_5090-8561
+OG0003157	PSC68630.1 monothiol glutaredoxin-S17 [Micractinium conductrix]	QAXK01018936.1_2-1001
+OG0003160	PSC70298.1 Actin-related 6 [Micractinium conductrix]	QAXK01000595.1_5567-8159
+OG0003164	PSC73714.1 tRNA _adenine_58_-N_1__-methyltransferase catalytic subunit trmt61a [Micractinium conductrix]	QAXK01009877.1_4970-2684
+OG0003167	PSC70321.1 Sphingosine-1-phosphate lyase [Micractinium conductrix]	QAXK01014051.1_13887-12133
+OG0003172	PSC70903.1 V-type proton ATPase subunit F [Micractinium conductrix]	QAXK01000415.1_5823-6484
+OG0003191	PSC74259.1 WD repeat domain-containing 83 [Micractinium conductrix]	QAXK01004389.1_4946-6334
+OG0003196	PSC67520.1 chloroplast 1-hydroxy-2-methyl-2-_E_-butenyl-4-diphosphate synthase precursor [Micractinium conductrix]	QAXK01000596.1_17342-21595
+OG0003197	PSC70334.1 conserved oligomeric Golgi complex subunit 3 [Micractinium conductrix]	QAXK01003298.1_5048-551
+OG0003198	PSC73344.1 26S proteasome non-ATPase regulatory subunit 1-like protein A-like [Micractinium conductrix]	QAXK01002898.1_4695-10345
+OG0003204	PSC69750.1 Cleavage and polyadenylation specificity factor subunit 3 [Micractinium conductrix]	QAXK01006378.1_2719-127
+OG0003209	PSC70300.1 putative DNA helicase MCM8 isoform X1 [Micractinium conductrix]	QAXK01011390.1_6757-10508
+OG0003212	PSC68636.1 violaxanthin de-epoxidase-related [Micractinium conductrix]	QAXK01003629.1_5946-3703
+OG0003217	PSC69693.1 Fibronectin-binding A domain [Micractinium conductrix]	QAXK01017651.1_111-3535
+OG0003218	PSC68372.1 26S proteasome non-ATPase regulatory subunit 7-like protein A-like [Micractinium conductrix]	QAXK01003131.1_36278-34367
+OG0003220	PSC76230.1 RNA-binding pno1-like [Micractinium conductrix]	QAXK01004108.1_13829-15654
+OG0003226	PSC72105.1 Pre-mRNA-splicing factor SYF1 [Micractinium conductrix]	QAXK01003220.1_8522-13953
+OG0003227	PSC69930.1 putative Xaa-Pro aminopeptidase P [Micractinium conductrix]	QAXK01003375.1_5219-43
+OG0003230	PSC70627.1 ATP synthase subunit mitochondrial [Micractinium conductrix]	QAXK01000382.1_1570-3458
+OG0003235	PSC72776.1 nicotinate-nucleotide pyrophosphorylase [carboxylating] chloroplastic [Micractinium conductrix]	QAXK01014478.1_11654-8522
+OG0003239	PSC73023.1 family membrane [Micractinium conductrix]	QAXK01009911.1_3900-1880
+OG0003243	PSC72807.1 Deoxyhypusine synthase [Micractinium conductrix]	QAXK01012462.1_308-2720
+OG0003245	PSC75116.1 ribosome production factor 2-like protein [Micractinium conductrix]	QAXK01014831.1_1377-156
+OG0003248	PSC72859.1 glucosamine 6-phosphate N-acetyltransferase [Micractinium conductrix]	QAXK01003339.1_1231-2678
+OG0003249	PSC72169.1 hypothetical protein C2E20_4472 [Micractinium conductrix]	QAXK01001710.1_3704-3307
+OG0003250	PSC75527.1 splicing factor 3B subunit 3-like [Micractinium conductrix], PSC75463.1 splicing factor 3B subunit 3-like [Micractinium conductrix]	QAXK01003319.1_3618-13354
+OG0003251	PSC67190.1 cryptochrome-1-like [Micractinium conductrix], PSC67921.1 cryptochrome-1-like isoform X1 [Micractinium conductrix]	QAXK01015706.1_7236-11105
+OG0003252	PSC73253.1 origin of replication complex subunit 1B-like [Micractinium conductrix]	QAXK01000655.1_17305-22319
+OG0003253	PSC70371.1 RNA binding [Micractinium conductrix]	QAXK01000965.1_18464-16425
+OG0003254	PSC71487.1 pantothenate kinase-like [Micractinium conductrix]	QAXK01000983.1_27514-29192
+OG0003255	PSC73281.1 glutathione S-transferase [Micractinium conductrix], PSC73230.1 glutathione S-transferase [Micractinium conductrix]	QAXK01010066.1_5264-7166
+OG0003256	PSC73005.1 HD repeat domain-containing [Micractinium conductrix]	QAXK01014762.1_15208-13635
+OG0003257	PSC76670.1 nudix hydrolase mitochondrial-like [Micractinium conductrix]	QAXK01001567.1_22308-20679
+OG0003258	PSC70916.1 ubiquitin carboxyl-terminal hydrolase isozyme L3 [Micractinium conductrix], PSC70982.1 ubiquitin carboxyl-terminal hydrolase family [Micractinium conductrix]	QAXK01005019.1_6054-4921
+OG0003259	PSC67754.1 60S ribosomal L23A [Micractinium conductrix]	QAXK01003400.1_3813-5064
+OG0003357	PSC69154.1 Cytochrome b5 [Micractinium conductrix]	QAXK01001354.1_4891-5217
+OG0003361	PSC72135.1 Prefoldin subunit 2 [Micractinium conductrix]	QAXK01008796.1_1534-1839
+OG0003363	PSC74300.1 ABC transporter I family member chloroplastic [Micractinium conductrix]	QAXK01009044.1_6855-8605
+OG0003365	PSC74068.1 acetyl coenzyme A transporter [Micractinium conductrix]	QAXK01013436.1_3075-257
+OG0003376	PSC73976.1 rhodanese-like domain-containing 12 [Micractinium conductrix]	QAXK01015973.1_3186-2635
+OG0003378	PSC74714.1 40S ribosomal S11 [Micractinium conductrix]	QAXK01007832.1_7613-8663
+OG0003389	PSC72783.1 TBC1 domain family member 20 [Micractinium conductrix]	QAXK01000807.1_2417-1282
+OG0003390	PSC73497.1 rRNA methyltransferase mitochondrial [Micractinium conductrix]	QAXK01002975.1_1945-3061
+OG0003400	PSC74035.1 geranylgeranyl transferase type-2 subunit beta-like isoform X1 [Micractinium conductrix]	QAXK01011269.1_6226-3244
+OG0003418	PSC77030.1 DUF455 family [Micractinium conductrix]	QAXK01004430.1_3720-2428
+OG0003427	PSC68994.1 tRNA _guanine_9_-N1_-methyltransferase [Micractinium conductrix]	QAXK01017428.1_6517-5288
+OG0003452	PSC73624.1 methyltransferase MT-_ISS_ [Micractinium conductrix]	QAXK01012596.1_9132-5856
+OG0003460	PSC75864.1 Armadillo-type fold [Micractinium conductrix]	QAXK01010334.1_16568-22208
+OG0003462	PSC70500.1 Serine threonine-kinase haspin [Micractinium conductrix]	QAXK01004703.1_12039-13879
+OG0003465	PSC75410.1 50S ribosomal L17 [Micractinium conductrix]	QAXK01007075.1_15495-16375
+OG0003474	PSC76338.1 NHP2 1 [Micractinium conductrix]	QAXK01010270.1_2969-2237
+OG0003481	PSC68427.1 sm LSM8 [Micractinium conductrix]	QAXK01002106.1_10876-11265
+OG0003502	PSC68315.1 DNA-directed RNA polymerase II subunit RPB7 [Micractinium conductrix]	QAXK01000365.1_3565-4942
+OG0003509	PSC68364.1 trafficking particle complex subunit 2-like [Micractinium conductrix]	QAXK01011852.1_1562-2354
+OG0003538	PSC74114.1 CGLD23 required for cyt b6 assembly [Micractinium conductrix]	QAXK01008337.1_3990-5243
+OG0003540	PSC67565.1 hypothetical protein C2E20_8782 [Micractinium conductrix]	QAXK01001088.1_16015-14943
+OG0003568	PSC71491.1 cytochrome b561 domain-containing 2 [Micractinium conductrix]	QAXK01002228.1_1968-3201
+OG0003579	PSC71555.1 hypothetical protein C2E20_5127 [Micractinium conductrix]	QAXK01005668.1_9092-7561
+OG0003597	PSC73275.1 hypothetical protein C2E20_3343 [Micractinium conductrix]	QAXK01004574.1_6183-8163
+OG0003598	PSC67935.1 dnaJ-like protein subfamily C member 2 [Micractinium conductrix]	QAXK01002968.1_5239-542
+OG0003601	PSC68076.1 Trafficking particle complex subunit 6B [Micractinium conductrix]	QAXK01016048.1_1933-545
+OG0003625	PSC67663.1 indole-3-glycerol phosphate chloroplastic-like [Micractinium conductrix]	QAXK01001997.1_7467-5438
+OG0003643	PSC67803.1 farnesyltransferase subunit beta [Micractinium conductrix]	QAXK01000249.1_16165-13537
+OG0003644	PSC73075.1 ubiquitin receptor RAD23b-like [Micractinium conductrix]	QAXK01008360.1_3542-5458
+OG0003666	PSC75588.1 family tRNA rRNA methyltransferase [Micractinium conductrix]	QAXK01003616.1_6090-7285
+OG0003672	PSC72483.1 Peptidyl-tRNA hydrolase mitochondrial [Micractinium conductrix]	QAXK01004402.1_2407-3301
+OG0003687	PSC73210.1 DUF1279-domain-containing [Micractinium conductrix]	QAXK01006494.1_1594-1032
+OG0003693	PSC73688.1 Suf-domain-containing [Micractinium conductrix]	QAXK01003706.1_3896-8573
+OG0003697	PSC68272.1 Pentatricopeptide repeat-containing [Micractinium conductrix]	QAXK01004373.1_28195-25392
+OG0003713	PSC74830.1 multifunctional methyltransferase subunit TRM112 At1g22270 [Micractinium conductrix]	QAXK01002432.1_4248-4930
+OG0003731	PSC68266.1 p21-carboxy-terminal region-binding [Micractinium conductrix]	QAXK01017356.1_2411-500
+OG0003744	PSC75636.1 hypothetical protein C2E20_1411 [Micractinium conductrix]	QAXK01009613.1_9396-10310
+OG0003746	PSC76540.1 psbB mRNA maturation factor chloroplastic-like [Micractinium conductrix]	QAXK01004123.1_13625-15399
+OG0003773	PSC72194.1 signal recognition particle 19 kDa -like [Micractinium conductrix]	QAXK01014932.1_4139-2485
+OG0003784	PSC74367.1 50S ribosomal L24 [Micractinium conductrix]	QAXK01007229.1_11545-10178
+OG0003794	PSC67944.1 phosphoserine aminotransferase [Micractinium conductrix]	QAXK01000557.1_206-3811
+OG0003801	PSC67036.1 Coenzyme Q-binding COQ10 mitochondrial [Micractinium conductrix], PSC69318.1 coenzyme Q-binding COQ10 mitochondrial [Micractinium conductrix]	QAXK01000515.1_19189-19853
+OG0003824	PSC75018.1 U3 small nucleolar RNA-interacting 2 [Micractinium conductrix]	QAXK01001158.1_26014-28604
+OG0003826	PSC70258.1 ribonuclease HII [Micractinium conductrix]	QAXK01015643.1_1434-3404
+OG0003838	PSC70203.1 Cwf15 Cwc15 cell cycle control [Micractinium conductrix]	QAXK01001081.1_3765-5510
+OG0003841	PSC70145.1 Chaperone binding_ATPase activator [Micractinium conductrix]	QAXK01006012.1_2971-2223
+OG0003847	PSC71949.1 YIPF6-like protein [Micractinium conductrix]	QAXK01000325.1_43378-42220
+OG0003849	PSC71543.1 s-isoprenylcysteine o-methyltransferase [Micractinium conductrix]	QAXK01010227.1_9762-8151
+OG0003850	PSC67611.1 NADH dehydrogenase [ubiquinone] complex assembly factor 7-like protein [Micractinium conductrix]	QAXK01003563.1_5026-2636
+OG0003861	PSC74348.1 C-5 sterol desaturase [Micractinium conductrix]	QAXK01001160.1_34552-35942
+OG0003947	PSC68774.1 WW domain-binding 11 [Micractinium conductrix]	QAXK01000042.1_9232-7900
+OG0003958	PSC74922.1 putative rRNA-processing EBP2-like protein [Micractinium conductrix]	QAXK01001698.1_16624-15571
+OG0003973	PSC70888.1 trafficking particle complex subunit 4-like [Micractinium conductrix]	QAXK01005150.1_10239-11440
+OG0003976	PSC69769.1 FLUORESCENT IN BLUE chloroplastic [Micractinium conductrix]	QAXK01008391.1_3155-4981
+OG0003980	PSC71442.1 thioredoxin chloroplastic [Micractinium conductrix]	QAXK01001710.1_16426-15281
+OG0003985	PSC67461.1 hypothetical protein C2E20_8854 [Micractinium conductrix]	QAXK01006679.1_5844-7981
+OG0003999	PSC75989.1 translational inhibitor [Micractinium conductrix]	QAXK01017848.1_6990-5867
+OG0004036	PSC70515.1 nudix hydrolase chloroplastic-like isoform X1 [Micractinium conductrix]	QAXK01001182.1_6681-8037
+OG0004052	PSC68889.1 Cytochrome b-c1 complex subunit 7 [Micractinium conductrix]	QAXK01018827.1_2147-2783
+OG0004119	PSC74054.1 PELOTA 1 isoform X1 [Micractinium conductrix]	QAXK01011975.1_26427-25164
+OG0004127	PSC75077.1 U3 small nucleolar ribonucleo IMP3 [Micractinium conductrix]	QAXK01002477.1_12495-11499
+OG0004161	PSC72956.1 DUF1365-domain-containing protein [Micractinium conductrix]	QAXK01003741.1_3586-2152
+OG0004173	PSC71444.1 outer envelope 61-like [Micractinium conductrix]	QAXK01003131.1_14822-17632
+OG0004184	PSC70957.1 Carboxypeptidase Taq [Micractinium conductrix]	QAXK01001360.1_2587-7675
+OG0004188	PSC75509.1 26S proteasome non-ATPase regulatory subunit 8-like protein A [Micractinium conductrix]	QAXK01000965.1_13792-15638
+OG0004195	PSC69017.1 proline synthase co-transcribed bacterial-like protein -like [Micractinium conductrix]	QAXK01002159.1_9033-7570
+OG0004221	PSC69832.1 proteasome maturation factor UMP1 family [Micractinium conductrix]	QAXK01006710.1_2565-2167
+OG0004222	PSC72767.1 replication A 14 kDa subunit B [Micractinium conductrix]	QAXK01017090.1_773-1260
+OG0004223	PSC67748.1 ataxin-10 [Micractinium conductrix]	QAXK01019447.1_2073-2396
+OG0004224	PSC71189.1 riboflavin biosynthesis chloroplastic-like [Micractinium conductrix]	QAXK01003931.1_8204-3520
+OG0004225	PSC75133.1 farnesyl diphosphate synthase [Micractinium conductrix]	QAXK01001471.1_7507-5855
+OG0004226	PSC68991.1 rhodanese-like domain-containing chloroplastic [Micractinium conductrix]	QAXK01014810.1_5618-8818
+OG0004227	PSC67581.1 DNA mismatch repair PMS1 isoform X3 [Micractinium conductrix]	QAXK01000804.1_324-1387
+OG0004229	PSC72869.1 tRNA modification GTPase isoform X1 [Micractinium conductrix]	QAXK01014803.1_67-2405
+OG0004230	PSC76877.1 protease Do-like chloroplastic isoform X1 [Micractinium conductrix]	QAXK01004000.1_7642-5232
+OG0004231	PSC72675.1 oxidoreductase TDA3 [Micractinium conductrix]	QAXK01004677.1_1252-4060
+OG0004232	PSC70667.1 mitochondrial substrate carrier [Micractinium conductrix]	QAXK01001218.1_22461-19740
+OG0004233	PSC67110.1 3 -5 -exoribonuclease RNA binding [Micractinium conductrix]	QAXK01001871.1_3231-1985
+OG0004234	PSC73308.1 ribosome maturation SBDS [Micractinium conductrix]	QAXK01003347.1_1758-3582
+OG0004235	PSC74770.1 transcription initiation factor TFIID subunit 6-like isoform X1 [Micractinium conductrix]	QAXK01003902.1_8341-5830
+OG0004236	PSC76284.1 3-oxoacyl-[acyl-carrier] mitochondrial [Micractinium conductrix]	QAXK01008198.1_2951-5520
+OG0004237	PSC75892.1 Arginine N-methyltransferase 2 [Micractinium conductrix]	QAXK01011268.1_2959-4791
+OG0004238	PSC70165.1 tilB-like protein [Micractinium conductrix]	QAXK01018044.1_1256-217
+OG0004239	PSC68273.1 diphthamide biosynthesis 2 [Micractinium conductrix]	QAXK01009544.1_7380-9706
+OG0004240	PSC73240.1 Anaphase-promoting complex subunit 10 [Micractinium conductrix]	QAXK01003572.1_4178-5128
+OG0004241	PSC69962.1 plastid ribosomal S6 [Micractinium conductrix]	QAXK01011839.1_9-1697
+OG0004242	PSC70506.1 U3 small nucleolar RNA-associated 11 [Micractinium conductrix]	QAXK01001749.1_8132-6905
+OG0004243	PSC69757.1 Small RNA degrading nuclease [Micractinium conductrix]	QAXK01010227.1_10470-11308
+OG0004244	PSC70750.1 PHD finger-like domain-containing 5B [Micractinium conductrix]	QAXK01015529.1_1845-2785
+OG0004245	PSC74964.1 phosphoribosylanthranilate isomerase [Micractinium conductrix]	QAXK01011116.1_4220-2967
+OG0004246	PSC76984.1 cation transport regulator 2 [Micractinium conductrix]	QAXK01001784.1_27630-25510
+OG0004247	PSC70612.1 signal peptidase complex subunit 3B [Micractinium conductrix]	QAXK01003581.1_1217-562
+OG0004248	PSC70776.1 peptidoglycan binding [Micractinium conductrix]	QAXK01004599.1_5331-3218
+OG0004249	PSC68130.1 STAY-GREEN chloroplastic-like [Micractinium conductrix]	QAXK01000848.1_19191-20023
+OG0004476	PSC74419.1 mRNA-decapping enzyme isoform A [Micractinium conductrix], PSC74420.1 mRNA-decapping enzyme isoform B [Micractinium conductrix]	QAXK01005761.1_5110-4061
+OG0004571	PSC74432.1 transcription initiation factor TFIID subunit TAF9 [Micractinium conductrix]	QAXK01000171.1_2716-3341
+OG0004622	PSC75662.1 H ACA ribonucleo complex subunit 3 [Micractinium conductrix]	QAXK01002638.1_6633-6327
+OG0004656	PSC69977.1 Origin recognition complex subunit 2 [Micractinium conductrix]	QAXK01006388.1_12359-10899
+OG0004681	PSC75512.1 26S proteasome non-ATPase regulatory subunit 9 [Micractinium conductrix]	QAXK01001495.1_31486-30283
+OG0004710	PSC72475.1 Histone-lysine N-methyltransferase setd3 [Micractinium conductrix]	QAXK01006037.1_46307-44794
+OG0004743	PSC72039.1 tRNA pseudouridine synthase Pus10 [Micractinium conductrix]	QAXK01002841.1_2718-1158
+OG0004901	PSC68031.1 multi -bridging factor 1b [Micractinium conductrix]	QAXK01003939.1_11405-12434
+OG0004922	PSC70931.1 eukaryotic translation initiation factor eIF2A family [Micractinium conductrix]	QAXK01009836.1_3189-307
+OG0004939	PSC70689.1 Adenylyltransferase and sulfurtransferase MOCS3 [Micractinium conductrix]	QAXK01014925.1_5002-6648
+OG0004941	PSC68999.1 GPN-loop GTPase 1-like isoform X1 [Micractinium conductrix]	QAXK01007127.1_5270-7296
+OG0004942	PSC75225.1 phosphomannomutase A1 [Micractinium conductrix]	QAXK01005538.1_10163-11912
+OG0004943	PSC75061.1 peptidyl-prolyl cis-trans cyclophilin-type [Micractinium conductrix]	QAXK01000526.1_11161-10180
+OG0004944	PSC74788.1 exosome component [Micractinium conductrix]	QAXK01000032.1_16347-17734
+OG0004945	PSC75728.1 peptidyl-prolyl cis-trans isomerase chloroplastic [Micractinium conductrix]	QAXK01002261.1_13670-14278
+OG0004946	PSC67836.1 Ribonuclease Z [Micractinium conductrix]	QAXK01011417.1_18759-16577
+OG0005404	PSC69302.1 regulatory particle non-ATPase [Micractinium conductrix]	QAXK01000570.1_1207-4057
+OG0005615	PSC70340.1 TPR repeat [Micractinium conductrix]	QAXK01002408.1_3172-1756

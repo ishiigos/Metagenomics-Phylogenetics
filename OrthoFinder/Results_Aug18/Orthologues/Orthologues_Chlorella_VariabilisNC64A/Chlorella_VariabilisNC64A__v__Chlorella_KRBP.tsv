@@ -1,0 +1,915 @@
+Orthogroup	Chlorella_VariabilisNC64A	Chlorella_KRBP
+OG0000005	XP_005851876.1 hypothetical protein CHLNCDRAFT_133450 [Chlorella variabilis], XP_005843647.1 hypothetical protein CHLNCDRAFT_54989 [Chlorella variabilis], XP_005843638.1 hypothetical protein CHLNCDRAFT_54972 [Chlorella variabilis], XP_005847129.1 hypothetical protein CHLNCDRAFT_52799 [Chlorella variabilis], XP_005843094.1 hypothetical protein CHLNCDRAFT_28450 [Chlorella variabilis], XP_005843702.1 hypothetical protein CHLNCDRAFT_27894 [Chlorella variabilis], XP_005848689.1 hypothetical protein CHLNCDRAFT_21904 [Chlorella variabilis], XP_005852170.1 hypothetical protein CHLNCDRAFT_48410 [Chlorella variabilis]	QAXK01016321.1_1655-2667
+OG0000013	XP_005849557.1 hypothetical protein CHLNCDRAFT_30391 [Chlorella variabilis], XP_005842607.1 hypothetical protein CHLNCDRAFT_59511_ partial [Chlorella variabilis], XP_005848350.1 hypothetical protein CHLNCDRAFT_145069 [Chlorella variabilis], XP_005849558.1 hypothetical protein CHLNCDRAFT_34706 [Chlorella variabilis], XP_005849560.1 hypothetical protein CHLNCDRAFT_57249 [Chlorella variabilis], XP_005849559.1 hypothetical protein CHLNCDRAFT_142950 [Chlorella variabilis], XP_005851920.1 hypothetical protein CHLNCDRAFT_33664 [Chlorella variabilis], XP_005849819.1 expressed protein [Chlorella variabilis]	QAXK01004822.1_8132-10307
+OG0000049	XP_005849919.1 hypothetical protein CHLNCDRAFT_143222 [Chlorella variabilis], XP_005850664.1 hypothetical protein CHLNCDRAFT_140697 [Chlorella variabilis]	QAXK01004561.1_5673-2644
+OG0000059	XP_005842610.1 hypothetical protein CHLNCDRAFT_55845_ partial [Chlorella variabilis], XP_005846099.1 hypothetical protein CHLNCDRAFT_135999 [Chlorella variabilis], XP_005842738.1 hypothetical protein CHLNCDRAFT_28926_ partial [Chlorella variabilis], XP_005844783.1 hypothetical protein CHLNCDRAFT_138656 [Chlorella variabilis], XP_005843771.1 hypothetical protein CHLNCDRAFT_49195 [Chlorella variabilis], XP_005850074.1 hypothetical protein CHLNCDRAFT_142112 [Chlorella variabilis], XP_005843349.1 hypothetical protein CHLNCDRAFT_141273 [Chlorella variabilis]	QAXK01009817.1_2794-231
+OG0000060	XP_005844701.1 hypothetical protein CHLNCDRAFT_14999_ partial [Chlorella variabilis], XP_005844700.1 hypothetical protein CHLNCDRAFT_138629 [Chlorella variabilis], XP_005844698.1 hypothetical protein CHLNCDRAFT_138627 [Chlorella variabilis]	QAXK01006650.1_4897-1380
+OG0000095	XP_005849513.1 hypothetical protein CHLNCDRAFT_142850 [Chlorella variabilis], XP_005847243.1 hypothetical protein CHLNCDRAFT_35537 [Chlorella variabilis], XP_005847333.1 hypothetical protein CHLNCDRAFT_134505 [Chlorella variabilis]	QAXK01000980.1_6477-3589
+OG0000100	XP_005843553.1 hypothetical protein CHLNCDRAFT_140184 [Chlorella variabilis], XP_005843628.1 hypothetical protein CHLNCDRAFT_59237 [Chlorella variabilis], XP_005843554.1 hypothetical protein CHLNCDRAFT_59809 [Chlorella variabilis]	QAXK01004495.1_1525-5952
+OG0000102	XP_005850093.1 hypothetical protein CHLNCDRAFT_142154 [Chlorella variabilis], XP_005842556.1 hypothetical protein CHLNCDRAFT_144615 [Chlorella variabilis], XP_005851884.1 hypothetical protein CHLNCDRAFT_33619 [Chlorella variabilis], XP_005850092.1 hypothetical protein CHLNCDRAFT_142153 [Chlorella variabilis]	QAXK01002229.1_29280-27595
+OG0000106	XP_005852306.1 hypothetical protein CHLNCDRAFT_55668 [Chlorella variabilis], XP_005846592.1 hypothetical protein CHLNCDRAFT_9386_ partial [Chlorella variabilis], XP_005845071.1 hypothetical protein CHLNCDRAFT_58686 [Chlorella variabilis], XP_005851990.1 hypothetical protein CHLNCDRAFT_18492 [Chlorella variabilis]	QAXK01000521.1_8215-4849
+OG0000116	XP_005847886.1 hypothetical protein CHLNCDRAFT_145238 [Chlorella variabilis], XP_005844499.1 hypothetical protein CHLNCDRAFT_138861 [Chlorella variabilis], XP_005849021.1 hypothetical protein CHLNCDRAFT_21597_ partial [Chlorella variabilis]	QAXK01010643.1_4647-4102
+OG0000126	XP_005850870.1 hypothetical protein CHLNCDRAFT_140512 [Chlorella variabilis], XP_005850873.1 hypothetical protein CHLNCDRAFT_140516 [Chlorella variabilis], XP_005843576.1 hypothetical protein CHLNCDRAFT_33086 [Chlorella variabilis]	QAXK01000372.1_2577-4525
+OG0000128	XP_005847323.1 hypothetical protein CHLNCDRAFT_56178 [Chlorella variabilis], XP_005849098.1 hypothetical protein CHLNCDRAFT_143632 [Chlorella variabilis], XP_005849097.1 hypothetical protein CHLNCDRAFT_143631 [Chlorella variabilis], XP_005849583.1 hypothetical protein CHLNCDRAFT_143004 [Chlorella variabilis]	QAXK01009125.1_10140-8059
+OG0000137	XP_005852253.1 hypothetical protein CHLNCDRAFT_33679 [Chlorella variabilis], XP_005844633.1 hypothetical protein CHLNCDRAFT_138947 [Chlorella variabilis], XP_005844638.1 hypothetical protein CHLNCDRAFT_138957 [Chlorella variabilis], XP_005851936.1 hypothetical protein CHLNCDRAFT_12919_ partial [Chlorella variabilis], XP_005851937.1 hypothetical protein CHLNCDRAFT_133596 [Chlorella variabilis]	QAXK01002137.1_9267-10854
+OG0000152	XP_005843332.1 hypothetical protein CHLNCDRAFT_10735_ partial [Chlorella variabilis], XP_005844457.1 hypothetical protein CHLNCDRAFT_36812 [Chlorella variabilis], XP_005850318.1 hypothetical protein CHLNCDRAFT_50622 [Chlorella variabilis]	QAXK01008299.1_4185-5535
+OG0000163	XP_005850241.1 hypothetical protein CHLNCDRAFT_20429 [Chlorella variabilis], XP_005847412.1 hypothetical protein CHLNCDRAFT_35570 [Chlorella variabilis], XP_005845590.1 hypothetical protein CHLNCDRAFT_49011 [Chlorella variabilis]	QAXK01013733.1_9353-8061
+OG0000165	XP_005851011.1 hypothetical protein CHLNCDRAFT_140853 [Chlorella variabilis], XP_005847971.1 hypothetical protein CHLNCDRAFT_52121 [Chlorella variabilis], XP_005851012.1 hypothetical protein CHLNCDRAFT_140854 [Chlorella variabilis]	QAXK01004609.1_12369-13533
+OG0000175	XP_005849740.1 hypothetical protein CHLNCDRAFT_59621 [Chlorella variabilis], XP_005849739.1 hypothetical protein CHLNCDRAFT_57189 [Chlorella variabilis], XP_005847511.1 hypothetical protein CHLNCDRAFT_134529 [Chlorella variabilis]	QAXK01006319.1_3560-2355
+OG0000177	XP_005846177.1 hypothetical protein CHLNCDRAFT_53457 [Chlorella variabilis], XP_005850133.1 hypothetical protein CHLNCDRAFT_57100 [Chlorella variabilis], XP_005843259.1 hypothetical protein CHLNCDRAFT_141382 [Chlorella variabilis]	QAXK01000575.1_15675-16655
+OG0000187	XP_005845908.1 hypothetical protein CHLNCDRAFT_136511 [Chlorella variabilis], XP_005843412.1 hypothetical protein CHLNCDRAFT_28217_ partial [Chlorella variabilis]	QAXK01014854.1_51-3845
+OG0000189	XP_005848107.1 hypothetical protein CHLNCDRAFT_30996 [Chlorella variabilis], XP_005848105.1 hypothetical protein CHLNCDRAFT_145396 [Chlorella variabilis], XP_005848106.1 hypothetical protein CHLNCDRAFT_17179_ partial [Chlorella variabilis]	QAXK01000217.1_14674-15859
+OG0000192	XP_005843959.1 hypothetical protein CHLNCDRAFT_32928 [Chlorella variabilis], XP_005843577.1 hypothetical protein CHLNCDRAFT_33088 [Chlorella variabilis], XP_005842646.1 hypothetical protein CHLNCDRAFT_29032_ partial [Chlorella variabilis]	QAXK01001504.1_2221-4972
+OG0000199	XP_005843386.1 hypothetical protein CHLNCDRAFT_141221 [Chlorella variabilis]	QAXK01013035.1_1945-4404
+OG0000199	XP_005851124.1 hypothetical protein CHLNCDRAFT_137703 [Chlorella variabilis]	QAXK01010173.1_3319-5256
+OG0000201	XP_005850772.1 hypothetical protein CHLNCDRAFT_140958 [Chlorella variabilis], XP_005844567.1 hypothetical protein CHLNCDRAFT_138793 [Chlorella variabilis]	QAXK01000736.1_9467-8726
+OG0000207	XP_005850435.1 hypothetical protein CHLNCDRAFT_30168 [Chlorella variabilis]	QAXK01004998.1_5108-4093
+OG0000207	XP_005850434.1 hypothetical protein CHLNCDRAFT_34478 [Chlorella variabilis]	QAXK01001786.1_12609-11430
+OG0000215	XP_005844078.1 hypothetical protein CHLNCDRAFT_37079_ partial [Chlorella variabilis], XP_005845727.1 hypothetical protein CHLNCDRAFT_58424 [Chlorella variabilis], XP_005849801.1 hypothetical protein CHLNCDRAFT_50966 [Chlorella variabilis], XP_005844077.1 hypothetical protein CHLNCDRAFT_139472 [Chlorella variabilis]	QAXK01013809.1_3869-6090
+OG0000217	XP_005851986.1 hypothetical protein CHLNCDRAFT_59525 [Chlorella variabilis], XP_005849954.1 hypothetical protein CHLNCDRAFT_21192_ partial [Chlorella variabilis]	QAXK01003927.1_26651-24094
+OG0000222	XP_005844141.1 hypothetical protein CHLNCDRAFT_139232 [Chlorella variabilis], XP_005844140.1 hypothetical protein CHLNCDRAFT_139231 [Chlorella variabilis]	QAXK01005046.1_1470-3041
+OG0000225	XP_005845654.1 hypothetical protein CHLNCDRAFT_136690 [Chlorella variabilis], XP_005849588.1 hypothetical protein CHLNCDRAFT_143015 [Chlorella variabilis]	QAXK01000132.1_14211-8944
+OG0000226	XP_005846881.1 hypothetical protein CHLNCDRAFT_134722 [Chlorella variabilis], XP_005851633.1 hypothetical protein CHLNCDRAFT_138195 [Chlorella variabilis], XP_005851632.1 hypothetical protein CHLNCDRAFT_138191 [Chlorella variabilis]	QAXK01001147.1_264-2985
+OG0000234	XP_005845171.1 eukaryotic initiation factor 4A _ATP-dependent RNA helicase eIF4A_ [Chlorella variabilis]	QAXK01001703.1_3693-800
+OG0000234	XP_005851716.1 hypothetical protein CHLNCDRAFT_29172 [Chlorella variabilis]	QAXK01001715.1_46567-44103
+OG0000243	XP_005842720.1 hypothetical protein CHLNCDRAFT_55718_ partial [Chlorella variabilis], XP_005842665.1 hypothetical protein CHLNCDRAFT_37749 [Chlorella variabilis], XP_005844355.1 hypothetical protein CHLNCDRAFT_36916 [Chlorella variabilis], XP_005847379.1 hypothetical protein CHLNCDRAFT_134199 [Chlorella variabilis]	QAXK01017572.1_4284-1659
+OG0000255	XP_005850447.1 hypothetical protein CHLNCDRAFT_50794 [Chlorella variabilis], XP_005850195.1 hypothetical protein CHLNCDRAFT_50798 [Chlorella variabilis]	QAXK01003493.1_20875-19869
+OG0000256	XP_005850527.1 hypothetical protein CHLNCDRAFT_11200_ partial [Chlorella variabilis], XP_005850529.1 hypothetical protein CHLNCDRAFT_140385 [Chlorella variabilis], XP_005852164.1 hypothetical protein CHLNCDRAFT_133330 [Chlorella variabilis]	QAXK01000928.1_4721-1230
+OG0000260	XP_005847825.1 hypothetical protein CHLNCDRAFT_52381 [Chlorella variabilis], XP_005848085.1 hypothetical protein CHLNCDRAFT_22974 [Chlorella variabilis]	QAXK01007811.1_6343-7669
+OG0000262	XP_005847132.1 hypothetical protein CHLNCDRAFT_24350_ partial [Chlorella variabilis]	QAXK01001305.1_3092-9737
+OG0000268	XP_005847540.1 hypothetical protein CHLNCDRAFT_133732 [Chlorella variabilis], XP_005846000.1 hypothetical protein CHLNCDRAFT_31922 [Chlorella variabilis], XP_005843444.1 hypothetical protein CHLNCDRAFT_141147 [Chlorella variabilis]	QAXK01007959.1_4344-7510
+OG0000269	XP_005850324.1 hypothetical protein CHLNCDRAFT_142100 [Chlorella variabilis], XP_005850323.1 hypothetical protein CHLNCDRAFT_142099 [Chlorella variabilis]	QAXK01000159.1_2526-4128
+OG0000276	XP_005843894.1 expressed protein [Chlorella variabilis], XP_005843916.1 hypothetical protein CHLNCDRAFT_139804 [Chlorella variabilis]	QAXK01013106.1_2869-3857
+OG0000290	XP_005851745.1 hypothetical protein CHLNCDRAFT_56489 [Chlorella variabilis], XP_005847707.1 hypothetical protein CHLNCDRAFT_52224 [Chlorella variabilis]	QAXK01007708.1_8045-6769
+OG0000293	XP_005847963.1 hypothetical protein CHLNCDRAFT_35323 [Chlorella variabilis], XP_005849129.1 hypothetical protein CHLNCDRAFT_143714 [Chlorella variabilis]	QAXK01000427.1_18710-23853
+OG0000297	XP_005849963.1 hypothetical protein CHLNCDRAFT_143323 [Chlorella variabilis], XP_005849602.1 hypothetical protein CHLNCDRAFT_143059 [Chlorella variabilis]	QAXK01003382.1_7730-10683
+OG0000298	XP_005843810.1 hypothetical protein CHLNCDRAFT_139858 [Chlorella variabilis], XP_005843812.1 hypothetical protein CHLNCDRAFT_54915 [Chlorella variabilis], XP_005843811.1 hypothetical protein CHLNCDRAFT_139859 [Chlorella variabilis]	QAXK01006215.1_8306-11634
+OG0000299	XP_005851620.1 hypothetical protein CHLNCDRAFT_19207 [Chlorella variabilis], XP_005851619.1 hypothetical protein CHLNCDRAFT_18854_ partial [Chlorella variabilis]	QAXK01000488.1_8485-5165
+OG0000300	XP_005849278.1 hypothetical protein CHLNCDRAFT_56094 [Chlorella variabilis], XP_005844637.1 hypothetical protein CHLNCDRAFT_58882 [Chlorella variabilis]	QAXK01000495.1_4618-6885
+OG0000301	XP_005850633.1 hypothetical protein CHLNCDRAFT_34137 [Chlorella variabilis], XP_005846374.1 hypothetical protein CHLNCDRAFT_135840 [Chlorella variabilis]	QAXK01005324.1_4296-8149
+OG0000302	XP_005842935.1 hypothetical protein CHLNCDRAFT_6977_ partial [Chlorella variabilis], XP_005850901.1 hypothetical protein CHLNCDRAFT_140589 [Chlorella variabilis]	QAXK01009146.1_0-3841
+OG0000304	XP_005845253.1 hypothetical protein CHLNCDRAFT_136923 [Chlorella variabilis], XP_005849062.1 hypothetical protein CHLNCDRAFT_21811_ partial [Chlorella variabilis], XP_005845252.1 hypothetical protein CHLNCDRAFT_136922 [Chlorella variabilis]	QAXK01014492.1_877-182
+OG0000315	XP_005852304.1 hypothetical protein CHLNCDRAFT_59481 [Chlorella variabilis], XP_005846168.1 hypothetical protein CHLNCDRAFT_136163 [Chlorella variabilis], XP_005843373.1 hypothetical protein CHLNCDRAFT_37464 [Chlorella variabilis]	QAXK01002353.1_19232-23410
+OG0000316	XP_005849873.1 hypothetical protein CHLNCDRAFT_21181_ partial [Chlorella variabilis], XP_005842593.1 hypothetical protein CHLNCDRAFT_55867_ partial [Chlorella variabilis], XP_005849872.1 hypothetical protein CHLNCDRAFT_143098_ partial [Chlorella variabilis]	QAXK01003905.1_19782-15375
+OG0000317	XP_005848629.1 hypothetical protein CHLNCDRAFT_30648 [Chlorella variabilis], XP_005847625.1 26S proteasome AAA-ATPase subunit RPT2a [Chlorella variabilis]	QAXK01008437.1_3645-238
+OG0000320	XP_005846023.1 hypothetical protein CHLNCDRAFT_136135 [Chlorella variabilis], XP_005852051.1 hypothetical protein CHLNCDRAFT_14012_ partial [Chlorella variabilis]	QAXK01008510.1_15994-20405
+OG0000321	XP_005848515.1 hypothetical protein CHLNCDRAFT_145001 [Chlorella variabilis], XP_005848518.1 hypothetical protein CHLNCDRAFT_145007 [Chlorella variabilis], XP_005847616.1 hypothetical protein CHLNCDRAFT_59671 [Chlorella variabilis]	QAXK01000378.1_25585-26545
+OG0000340	XP_005846623.1 hypothetical protein CHLNCDRAFT_24443_ partial [Chlorella variabilis], XP_005850990.1 hypothetical protein CHLNCDRAFT_56016 [Chlorella variabilis]	QAXK01005276.1_5688-3058
+OG0000352	XP_005843767.1 hypothetical protein CHLNCDRAFT_54929 [Chlorella variabilis], XP_005845791.1 hypothetical protein CHLNCDRAFT_136500 [Chlorella variabilis]	QAXK01000899.1_7462-5804
+OG0000353	XP_005846841.1 hypothetical protein CHLNCDRAFT_31371 [Chlorella variabilis], XP_005846842.1 hypothetical protein CHLNCDRAFT_35689 [Chlorella variabilis], XP_005842605.1 hypothetical protein CHLNCDRAFT_16011_ partial [Chlorella variabilis]	QAXK01000970.1_11060-12297
+OG0000355	XP_005843214.1 hypothetical protein CHLNCDRAFT_28384 [Chlorella variabilis], XP_005843184.1 hypothetical protein CHLNCDRAFT_141464 [Chlorella variabilis]	QAXK01000575.1_38061-33279
+OG0000356	XP_005850419.1 hypothetical protein CHLNCDRAFT_142335 [Chlorella variabilis], XP_005850962.1 hypothetical protein CHLNCDRAFT_48551 [Chlorella variabilis]	QAXK01001458.1_25468-28021
+OG0000362	XP_005846340.1 hypothetical protein CHLNCDRAFT_135759 [Chlorella variabilis], XP_005847152.1 hypothetical protein CHLNCDRAFT_58089 [Chlorella variabilis]	QAXK01002504.1_1584-235
+OG0000372	XP_005850810.1 hypothetical protein CHLNCDRAFT_140350 [Chlorella variabilis], XP_005842733.1 hypothetical protein CHLNCDRAFT_55698_ partial [Chlorella variabilis], XP_005850811.1 hypothetical protein CHLNCDRAFT_140351 [Chlorella variabilis]	QAXK01000007.1_3483-1851
+OG0000374	XP_005849751.1 hypothetical protein CHLNCDRAFT_34609 [Chlorella variabilis], XP_005849750.1 hypothetical protein CHLNCDRAFT_21051_ partial [Chlorella variabilis]	QAXK01001576.1_25385-29462
+OG0000375	XP_005846709.1 hypothetical protein CHLNCDRAFT_8428_ partial [Chlorella variabilis], XP_005846575.1 hypothetical protein CHLNCDRAFT_52919 [Chlorella variabilis]	QAXK01008707.1_239-2925
+OG0000383	XP_005851508.1 hypothetical protein CHLNCDRAFT_48478 [Chlorella variabilis]	QAXK01011194.1_5918-9002
+OG0000390	XP_005844467.1 hypothetical protein CHLNCDRAFT_138794 [Chlorella variabilis]	QAXK01005078.1_1174-132
+OG0000390	XP_005844468.1 hypothetical protein CHLNCDRAFT_138795 [Chlorella variabilis]	QAXK01003294.1_6337-3495
+OG0000394	XP_005852179.1 hypothetical protein CHLNCDRAFT_133375 [Chlorella variabilis]	QAXK01008702.1_3083-212
+OG0000408	XP_005845135.1 hypothetical protein CHLNCDRAFT_26194 [Chlorella variabilis], XP_005845028.1 hypothetical protein CHLNCDRAFT_137251 [Chlorella variabilis]	QAXK01003094.1_1529-6518
+OG0000412	XP_005843796.1 hypothetical protein CHLNCDRAFT_139944 [Chlorella variabilis], XP_005844481.1 hypothetical protein CHLNCDRAFT_26750_ partial [Chlorella variabilis]	QAXK01007672.1_3589-1228
+OG0000418	XP_005849660.1 hypothetical protein CHLNCDRAFT_34770 [Chlorella variabilis], XP_005850396.1 hypothetical protein CHLNCDRAFT_142278 [Chlorella variabilis]	QAXK01005097.1_6985-2749
+OG0000431	XP_005847566.1 hypothetical protein CHLNCDRAFT_133810 [Chlorella variabilis], XP_005849442.1 hypothetical protein CHLNCDRAFT_142698 [Chlorella variabilis]	QAXK01001330.1_10692-5073
+OG0000443	XP_005844006.1 hypothetical protein CHLNCDRAFT_27314 [Chlorella variabilis], XP_005844009.1 hypothetical protein CHLNCDRAFT_54762 [Chlorella variabilis], XP_005844004.1 hypothetical protein CHLNCDRAFT_139527 [Chlorella variabilis]	QAXK01002390.1_2379-454
+OG0000446	XP_005849694.1 hypothetical protein CHLNCDRAFT_20970_ partial [Chlorella variabilis]	QAXK01006391.1_1754-3793
+OG0000449	XP_005851351.1 hypothetical protein CHLNCDRAFT_19196 [Chlorella variabilis], XP_005851646.1 hypothetical protein CHLNCDRAFT_19379_ partial [Chlorella variabilis]	QAXK01017753.1_1728-436
+OG0000452	XP_005850888.1 hypothetical protein CHLNCDRAFT_56887 [Chlorella variabilis]	QAXK01003135.1_2479-16
+OG0000455	XP_005843906.1 hypothetical protein CHLNCDRAFT_27668_ partial [Chlorella variabilis], XP_005843905.1 hypothetical protein CHLNCDRAFT_59136 [Chlorella variabilis]	QAXK01015054.1_2845-4309
+OG0000468	XP_005846307.1 GTP-binding protein yptV1 [Chlorella variabilis], XP_005851611.1 hypothetical protein CHLNCDRAFT_33935 [Chlorella variabilis]	QAXK01006097.1_2371-905
+OG0000470	XP_005848387.1 hypothetical protein CHLNCDRAFT_145167 [Chlorella variabilis], XP_005843941.1 hypothetical protein CHLNCDRAFT_32859 [Chlorella variabilis]	QAXK01000050.1_24428-29981
+OG0000471	XP_005849344.1 hypothetical protein CHLNCDRAFT_143750 [Chlorella variabilis], XP_005849343.1 hypothetical protein CHLNCDRAFT_143749 [Chlorella variabilis]	QAXK01001670.1_7180-6388
+OG0000474	XP_005845200.1 hypothetical protein CHLNCDRAFT_26241_ partial [Chlorella variabilis], XP_005845199.1 hypothetical protein CHLNCDRAFT_137425 [Chlorella variabilis]	QAXK01000042.1_28045-28765
+OG0000479	XP_005845224.1 hypothetical protein CHLNCDRAFT_59750 [Chlorella variabilis], XP_005845223.1 hypothetical protein CHLNCDRAFT_137476 [Chlorella variabilis]	QAXK01004028.1_58546-56431
+OG0000499	XP_005847220.1 hypothetical protein CHLNCDRAFT_31176_ partial [Chlorella variabilis]	QAXK01009964.1_53-2582
+OG0000501	XP_005849197.1 hypothetical protein CHLNCDRAFT_21535_ partial [Chlorella variabilis]	QAXK01015180.1_1811-4048
+OG0000501	XP_005849394.1 hypothetical protein CHLNCDRAFT_143887 [Chlorella variabilis]	QAXK01019765.1_356-165
+OG0000506	XP_005849792.1 hypothetical protein CHLNCDRAFT_142884 [Chlorella variabilis], XP_005849791.1 hypothetical protein CHLNCDRAFT_142883 [Chlorella variabilis]	QAXK01002250.1_1739-4040
+OG0000512	XP_005844806.1 hypothetical protein CHLNCDRAFT_26566 [Chlorella variabilis], XP_005844807.1 hypothetical protein CHLNCDRAFT_36787_ partial [Chlorella variabilis]	QAXK01000565.1_7520-10250
+OG0000517	XP_005846970.1 hypothetical protein CHLNCDRAFT_58100 [Chlorella variabilis]	QAXK01001595.1_3107-7081
+OG0000519	XP_005847186.1 hypothetical protein CHLNCDRAFT_134977 [Chlorella variabilis], XP_005847907.1 hypothetical protein CHLNCDRAFT_48776 [Chlorella variabilis]	QAXK01004538.1_836-4145
+OG0000520	XP_005852105.1 hypothetical protein CHLNCDRAFT_18410 [Chlorella variabilis], XP_005852106.1 hypothetical protein CHLNCDRAFT_48072 [Chlorella variabilis]	QAXK01002274.1_7306-5678
+OG0000521	XP_005843587.1 hypothetical protein CHLNCDRAFT_59242 [Chlorella variabilis]	QAXK01000876.1_25410-28882
+OG0000522	XP_005844333.1 hypothetical protein CHLNCDRAFT_54553 [Chlorella variabilis], XP_005844349.1 hypothetical protein CHLNCDRAFT_139136 [Chlorella variabilis]	QAXK01010222.1_2855-4006
+OG0000528	XP_005851802.1 hypothetical protein CHLNCDRAFT_11319_ partial [Chlorella variabilis], XP_005851801.1 hypothetical protein CHLNCDRAFT_49502 [Chlorella variabilis]	QAXK01011871.1_1755-3976
+OG0000535	XP_005846241.1 hypothetical protein CHLNCDRAFT_135529 [Chlorella variabilis], XP_005845288.1 hypothetical protein CHLNCDRAFT_36534 [Chlorella variabilis]	QAXK01008326.1_3715-2230
+OG0000542	XP_005848123.1 hypothetical protein CHLNCDRAFT_22879 [Chlorella variabilis], XP_005848122.1 hypothetical protein CHLNCDRAFT_145437 [Chlorella variabilis]	QAXK01007731.1_21245-25168
+OG0000546	XP_005847042.1 hypothetical protein CHLNCDRAFT_134688 [Chlorella variabilis], XP_005844576.1 hypothetical protein CHLNCDRAFT_138824 [Chlorella variabilis], XP_005844577.1 hypothetical protein CHLNCDRAFT_58852 [Chlorella variabilis]	QAXK01003383.1_11610-10089
+OG0000552	XP_005848535.1 hypothetical protein CHLNCDRAFT_22188 [Chlorella variabilis], XP_005848536.1 hypothetical protein CHLNCDRAFT_22309_ partial [Chlorella variabilis]	QAXK01001452.1_4877-8338
+OG0000565	XP_005847677.1 hypothetical protein CHLNCDRAFT_23378 [Chlorella variabilis], XP_005847676.1 hypothetical protein CHLNCDRAFT_17706_ partial [Chlorella variabilis]	QAXK01012018.1_21-2846
+OG0000572	XP_005849076.1 hypothetical protein CHLNCDRAFT_143568 [Chlorella variabilis], XP_005849078.1 hypothetical protein CHLNCDRAFT_143570 [Chlorella variabilis]	QAXK01002353.1_6519-15187
+OG0000573	XP_005844799.1 hypothetical protein CHLNCDRAFT_36784 [Chlorella variabilis], XP_005844717.1 hypothetical protein CHLNCDRAFT_7719_ partial [Chlorella variabilis]	QAXK01003348.1_1486-6
+OG0000577	XP_005847226.1 hypothetical protein CHLNCDRAFT_134176 [Chlorella variabilis], XP_005847225.1 hypothetical protein CHLNCDRAFT_134175 [Chlorella variabilis]	QAXK01003132.1_5372-2862
+OG0000585	XP_005845870.1 hypothetical protein CHLNCDRAFT_10527_ partial [Chlorella variabilis]	QAXK01002652.1_31218-33264
+OG0000586	XP_005849977.1 hypothetical protein CHLNCDRAFT_57002 [Chlorella variabilis], XP_005846410.1 hypothetical protein CHLNCDRAFT_36005 [Chlorella variabilis]	QAXK01001200.1_17606-19818
+OG0000594	XP_005847169.1 hypothetical protein CHLNCDRAFT_134944 [Chlorella variabilis]	QAXK01013585.1_2213-468
+OG0000595	XP_005848051.1 hypothetical protein CHLNCDRAFT_48772 [Chlorella variabilis], XP_005843019.1 hypothetical protein CHLNCDRAFT_33302 [Chlorella variabilis]	QAXK01010664.1_1473-417
+OG0000611	XP_005849196.1 hypothetical protein CHLNCDRAFT_143888 [Chlorella variabilis], XP_005849198.1 hypothetical protein CHLNCDRAFT_15068_ partial [Chlorella variabilis]	QAXK01011586.1_4054-3461
+OG0000616	XP_005846240.1 hypothetical protein CHLNCDRAFT_135527 [Chlorella variabilis], XP_005844439.1 hypothetical protein CHLNCDRAFT_139157 [Chlorella variabilis]	QAXK01001265.1_8774-9883
+OG0000618	XP_005849532.1 40S ribosomal protein S15 [Chlorella variabilis], XP_005849796.1 hypothetical protein CHLNCDRAFT_142893 [Chlorella variabilis]	QAXK01000835.1_1-309
+OG0000626	XP_005845350.1 hypothetical protein CHLNCDRAFT_32275 [Chlorella variabilis], XP_005843990.1 hypothetical protein CHLNCDRAFT_27284 [Chlorella variabilis]	QAXK01003230.1_4778-8012
+OG0000635	XP_005850070.1 ribulose-phosphate 3-epimerase mature form [Chlorella variabilis], XP_005851858.1 hypothetical protein CHLNCDRAFT_48415 [Chlorella variabilis]	QAXK01004870.1_4878-5513
+OG0000637	XP_005846769.1 hypothetical protein CHLNCDRAFT_48918 [Chlorella variabilis]	QAXK01001575.1_13855-13334
+OG0000638	XP_005843569.1 hypothetical protein CHLNCDRAFT_37406 [Chlorella variabilis]	QAXK01010124.1_10448-8669
+OG0000649	XP_005845245.1 hypothetical protein CHLNCDRAFT_58576 [Chlorella variabilis]	QAXK01000254.1_6101-3555
+OG0000653	XP_005847351.1 hypothetical protein CHLNCDRAFT_134577 [Chlorella variabilis]	QAXK01000123.1_7289-10291
+OG0000654	XP_005851510.1 hypothetical protein CHLNCDRAFT_137921 [Chlorella variabilis], XP_005851509.1 hypothetical protein CHLNCDRAFT_137920 [Chlorella variabilis]	QAXK01000799.1_92299-89512
+OG0000660	XP_005847363.1 40S ribosomal protein S27 [Chlorella variabilis]	QAXK01014960.1_11495-10348
+OG0000661	XP_005844719.1 hypothetical protein CHLNCDRAFT_32463 [Chlorella variabilis], XP_005844720.1 hypothetical protein CHLNCDRAFT_138688 [Chlorella variabilis]	QAXK01004242.1_3727-7707
+OG0000662	XP_005851960.1 hypothetical protein CHLNCDRAFT_29389 [Chlorella variabilis], XP_005843043.1 hypothetical protein CHLNCDRAFT_141599 [Chlorella variabilis]	QAXK01000452.1_6301-4533
+OG0000664	XP_005850644.1 hypothetical protein CHLNCDRAFT_10628_ partial [Chlorella variabilis], XP_005850643.1 hypothetical protein CHLNCDRAFT_140646 [Chlorella variabilis]	QAXK01015723.1_3192-4172
+OG0000671	XP_005849549.1 hypothetical protein CHLNCDRAFT_59631 [Chlorella variabilis], XP_005847530.1 hypothetical protein CHLNCDRAFT_133710 [Chlorella variabilis]	QAXK01001535.1_15806-14316
+OG0000676	XP_005846476.1 hypothetical protein CHLNCDRAFT_135669 [Chlorella variabilis], XP_005849546.1 hypothetical protein CHLNCDRAFT_21126 [Chlorella variabilis]	QAXK01015338.1_519-166
+OG0000678	XP_005846143.1 hypothetical protein CHLNCDRAFT_136109 [Chlorella variabilis], XP_005846142.1 hypothetical protein CHLNCDRAFT_59724 [Chlorella variabilis]	QAXK01001500.1_1992-2978
+OG0000679	XP_005846174.1 hypothetical protein CHLNCDRAFT_56243 [Chlorella variabilis], XP_005846173.1 hypothetical protein CHLNCDRAFT_13326_ partial [Chlorella variabilis]	QAXK01006881.1_8512-9541
+OG0000688	XP_005850119.1 hypothetical protein CHLNCDRAFT_142211 [Chlorella variabilis], XP_005850120.1 hypothetical protein CHLNCDRAFT_142212 [Chlorella variabilis]	QAXK01003305.1_27047-24211
+OG0000689	XP_005851963.1 hypothetical protein CHLNCDRAFT_133663 [Chlorella variabilis]	QAXK01001638.1_16082-13313
+OG0000691	XP_005850169.1 hypothetical protein CHLNCDRAFT_56043 [Chlorella variabilis]	QAXK01001186.1_10565-8532
+OG0000693	XP_005850448.1 hypothetical protein CHLNCDRAFT_142405 [Chlorella variabilis], XP_005850441.1 hypothetical protein CHLNCDRAFT_16859_ partial [Chlorella variabilis]	QAXK01008377.1_3630-1851
+OG0000694	XP_005850838.1 hypothetical protein CHLNCDRAFT_140428 [Chlorella variabilis], XP_005850837.1 hypothetical protein CHLNCDRAFT_140427 [Chlorella variabilis]	QAXK01012986.1_3546-2582
+OG0000697	XP_005849518.1 hypothetical protein CHLNCDRAFT_17300_ partial [Chlorella variabilis], XP_005849517.1 hypothetical protein CHLNCDRAFT_142855 [Chlorella variabilis]	QAXK01000899.1_15443-14285
+OG0000704	XP_005852043.1 hypothetical protein CHLNCDRAFT_133014 [Chlorella variabilis], XP_005852044.1 hypothetical protein CHLNCDRAFT_133015 [Chlorella variabilis]	QAXK01006701.1_1896-1296
+OG0000730	XP_005849771.1 hypothetical protein CHLNCDRAFT_142825 [Chlorella variabilis], XP_005849770.1 hypothetical protein CHLNCDRAFT_142824 [Chlorella variabilis]	QAXK01001551.1_59690-63747
+OG0000732	XP_005848939.1 hypothetical protein CHLNCDRAFT_144411 [Chlorella variabilis]	QAXK01003652.1_16558-15646
+OG0000734	XP_005852202.1 hypothetical protein CHLNCDRAFT_133426 [Chlorella variabilis], XP_005852203.1 hypothetical protein CHLNCDRAFT_133427 [Chlorella variabilis]	QAXK01007307.1_6962-7960
+OG0000735	XP_005849935.1 hypothetical protein CHLNCDRAFT_20778 [Chlorella variabilis], XP_005849933.1 hypothetical protein CHLNCDRAFT_143259 [Chlorella variabilis]	QAXK01011105.1_8336-6488
+OG0000747	XP_005852077.1 hypothetical protein CHLNCDRAFT_18657 [Chlorella variabilis], XP_005852076.1 hypothetical protein CHLNCDRAFT_18784_ partial [Chlorella variabilis]	QAXK01006607.1_16309-17535
+OG0000753	XP_005843828.1 hypothetical protein CHLNCDRAFT_139908 [Chlorella variabilis]	QAXK01001647.1_3154-482
+OG0000764	XP_005845039.1 hypothetical protein CHLNCDRAFT_26131 [Chlorella variabilis]	QAXK01005724.1_7661-4858
+OG0000770	XP_005847482.1 hypothetical protein CHLNCDRAFT_35636 [Chlorella variabilis], XP_005844360.1 hypothetical protein CHLNCDRAFT_36917 [Chlorella variabilis]	QAXK01003607.1_11324-13747
+OG0000774	XP_005849008.1 hypothetical protein CHLNCDRAFT_30733 [Chlorella variabilis]	QAXK01004825.1_8965-10753
+OG0000777	XP_005842954.1 hypothetical protein CHLNCDRAFT_141766 [Chlorella variabilis], XP_005842955.1 hypothetical protein CHLNCDRAFT_141768 [Chlorella variabilis]	QAXK01002948.1_4354-3157
+OG0000778	XP_005843007.1 hypothetical protein CHLNCDRAFT_141664 [Chlorella variabilis], XP_005842978.1 hypothetical protein CHLNCDRAFT_141673 [Chlorella variabilis]	QAXK01014006.1_1593-3302
+OG0000782	XP_005851138.1 hypothetical protein CHLNCDRAFT_137734 [Chlorella variabilis], XP_005850480.1 hypothetical protein CHLNCDRAFT_13680_ partial [Chlorella variabilis]	QAXK01009651.1_2303-1712
+OG0000784	XP_005849247.1 hypothetical protein CHLNCDRAFT_57362 [Chlorella variabilis]	QAXK01014689.1_5406-4708
+OG0000786	XP_005844217.1 expressed protein [Chlorella variabilis], XP_005846364.1 hypothetical protein CHLNCDRAFT_135817 [Chlorella variabilis], XP_005846363.1 hypothetical protein CHLNCDRAFT_48255 [Chlorella variabilis]	QAXK01006828.1_9411-7696
+OG0000788	XP_005843738.1 hypothetical protein CHLNCDRAFT_140078 [Chlorella variabilis]	QAXK01010339.1_3422-4517
+OG0000793	XP_005842638.1 hypothetical protein CHLNCDRAFT_55812_ partial [Chlorella variabilis], XP_005842545.1 expressed protein [Chlorella variabilis]	QAXK01000249.1_22218-16975
+OG0000799	XP_005848196.1 hypothetical protein CHLNCDRAFT_22668 [Chlorella variabilis]	QAXK01005565.1_18254-19052
+OG0000818	XP_005849239.1 hypothetical protein CHLNCDRAFT_34838 [Chlorella variabilis]	QAXK01008587.1_153-1989
+OG0000819	XP_005850196.1 hypothetical protein CHLNCDRAFT_142412 [Chlorella variabilis], XP_005850197.1 hypothetical protein CHLNCDRAFT_142413 [Chlorella variabilis]	QAXK01003572.1_15443-13865
+OG0000827	XP_005847337.1 hypothetical protein CHLNCDRAFT_58001 [Chlorella variabilis]	QAXK01003364.1_14418-18303
+OG0000828	XP_005843561.1 hypothetical protein CHLNCDRAFT_140197 [Chlorella variabilis]	QAXK01000782.1_20679-19905
+OG0000830	XP_005850427.1 hypothetical protein CHLNCDRAFT_7891_ partial [Chlorella variabilis], XP_005846670.1 hypothetical protein CHLNCDRAFT_58196 [Chlorella variabilis]	QAXK01013271.1_12309-15183
+OG0000856	XP_005844273.1 hypothetical protein CHLNCDRAFT_27124 [Chlorella variabilis], XP_005845339.1 hypothetical protein CHLNCDRAFT_137137 [Chlorella variabilis]	QAXK01018212.1_1235-2568
+OG0000857	XP_005850992.1 hypothetical protein CHLNCDRAFT_20008_ partial [Chlorella variabilis], XP_005846797.1 hypothetical protein CHLNCDRAFT_15594_ partial [Chlorella variabilis]	QAXK01003829.1_4453-4800
+OG0000858	XP_005848812.1 hypothetical protein CHLNCDRAFT_21843 [Chlorella variabilis], XP_005848813.1 hypothetical protein CHLNCDRAFT_22035_ partial [Chlorella variabilis]	QAXK01000114.1_14115-13091
+OG0000882	XP_005842852.1 hypothetical protein CHLNCDRAFT_37697 [Chlorella variabilis]	QAXK01006249.1_4939-7634
+OG0000890	XP_005847925.1 hypothetical protein CHLNCDRAFT_145342 [Chlorella variabilis]	QAXK01001134.1_10091-19430
+OG0000898	XP_005849127.1 hypothetical protein CHLNCDRAFT_57403 [Chlorella variabilis]	QAXK01003876.1_5991-120
+OG0000899	XP_005843944.1 hypothetical protein CHLNCDRAFT_59104 [Chlorella variabilis]	QAXK01013989.1_346-4178
+OG0000908	XP_005844750.1 hypothetical protein CHLNCDRAFT_14993_ partial [Chlorella variabilis]	QAXK01003972.1_3812-4471
+OG0000925	XP_005846393.1 expressed protein [Chlorella variabilis]	QAXK01005294.1_1798-325
+OG0000926	XP_005844518.1 hypothetical protein CHLNCDRAFT_138907 [Chlorella variabilis]	QAXK01006171.1_11343-179
+OG0000932	XP_005849800.1 hypothetical protein CHLNCDRAFT_57230 [Chlorella variabilis], XP_005849799.1 hypothetical protein CHLNCDRAFT_20847 [Chlorella variabilis]	QAXK01003666.1_997-2479
+OG0000934	XP_005844039.1 hypothetical protein CHLNCDRAFT_139598 [Chlorella variabilis]	QAXK01002301.1_12772-10269
+OG0000936	XP_005847964.1 hypothetical protein CHLNCDRAFT_145441 [Chlorella variabilis]	QAXK01016824.1_8642-5783
+OG0000942	XP_005851129.1 hypothetical protein CHLNCDRAFT_137717 [Chlorella variabilis]	QAXK01000587.1_67122-65127
+OG0000950	XP_005851036.1 hypothetical protein CHLNCDRAFT_140909 [Chlorella variabilis]	QAXK01002497.1_4221-184
+OG0000971	XP_005843484.1 hypothetical protein CHLNCDRAFT_140983 [Chlorella variabilis], XP_005847640.1 hypothetical protein CHLNCDRAFT_133979 [Chlorella variabilis]	QAXK01002117.1_8261-6549
+OG0000972	XP_005846008.1 NADH_ubiquinone oxidoreductase 51 kD subunit_ partial [Chlorella variabilis]	QAXK01000705.1_20067-23668
+OG0000974	XP_005846110.1 hypothetical protein CHLNCDRAFT_31911 [Chlorella variabilis]	QAXK01004234.1_3012-6646
+OG0000975	XP_005844479.1 hypothetical protein CHLNCDRAFT_32504 [Chlorella variabilis]	QAXK01000204.1_17480-21863
+OG0000993	XP_005847703.1 hypothetical protein CHLNCDRAFT_52216 [Chlorella variabilis]	QAXK01000283.1_5726-3204
+OG0001052	XP_005850574.1 hypothetical protein CHLNCDRAFT_140491 [Chlorella variabilis]	QAXK01004375.1_5952-7899
+OG0001054	XP_005843928.1 hypothetical protein CHLNCDRAFT_56352 [Chlorella variabilis]	QAXK01011306.1_4473-2613
+OG0001058	XP_005844270.1 expressed protein [Chlorella variabilis]	QAXK01006232.1_3779-3289
+OG0001060	XP_005845689.1 hypothetical protein CHLNCDRAFT_136793 [Chlorella variabilis]	QAXK01001037.1_5070-1976
+OG0001061	XP_005844925.1 hypothetical protein CHLNCDRAFT_15784_ partial [Chlorella variabilis]	QAXK01005753.1_2076-3799
+OG0001062	XP_005845518.1 hypothetical protein CHLNCDRAFT_58505 [Chlorella variabilis]	QAXK01000341.1_1318-5933
+OG0001063	XP_005843936.1 hypothetical protein CHLNCDRAFT_37165 [Chlorella variabilis]	QAXK01005942.1_10013-5629
+OG0001064	XP_005845681.1 hypothetical protein CHLNCDRAFT_36436 [Chlorella variabilis]	QAXK01004812.1_12403-13506
+OG0001072	XP_005849779.1 hypothetical protein CHLNCDRAFT_142847 [Chlorella variabilis], XP_005849780.1 hypothetical protein CHLNCDRAFT_142849 [Chlorella variabilis]	QAXK01000429.1_50912-41458
+OG0001074	XP_005848049.1 S-adenosyl-L-methionine synthetase [Chlorella variabilis]	QAXK01000217.1_8076-10531
+OG0001079	XP_005849803.1 hypothetical protein CHLNCDRAFT_34679 [Chlorella variabilis]	QAXK01000446.1_57156-52957
+OG0001082	XP_005850332.1 hypothetical protein CHLNCDRAFT_142121 [Chlorella variabilis]	QAXK01005854.1_4720-5401
+OG0001088	XP_005848088.1 hypothetical protein CHLNCDRAFT_30965 [Chlorella variabilis], XP_005848087.1 hypothetical protein CHLNCDRAFT_145350 [Chlorella variabilis]	QAXK01002175.1_7346-5749
+OG0001094	XP_005849677.1 hypothetical protein CHLNCDRAFT_57327 [Chlorella variabilis]	QAXK01001089.1_6956-8023
+OG0001095	XP_005848174.1 hypothetical protein CHLNCDRAFT_145571 [Chlorella variabilis]	QAXK01000217.1_13973-11099
+OG0001096	XP_005851996.1 hypothetical protein CHLNCDRAFT_132912 [Chlorella variabilis]	QAXK01005613.1_12658-11106
+OG0001099	XP_005848659.1 hypothetical protein CHLNCDRAFT_144215 [Chlorella variabilis], XP_005848658.1 hypothetical protein CHLNCDRAFT_144214 [Chlorella variabilis]	QAXK01001823.1_3618-2631
+OG0001101	XP_005844570.1 hypothetical protein CHLNCDRAFT_32503 [Chlorella variabilis]	QAXK01003836.1_8909-3187
+OG0001103	XP_005846499.1 hypothetical protein CHLNCDRAFT_56219 [Chlorella variabilis]	QAXK01003163.1_8178-11099
+OG0001105	XP_005847507.1 hypothetical protein CHLNCDRAFT_134521 [Chlorella variabilis]	QAXK01006902.1_4861-6562
+OG0001122	XP_005846965.1 hypothetical protein CHLNCDRAFT_134932 [Chlorella variabilis]	QAXK01010311.1_2932-555
+OG0001123	XP_005851759.1 hypothetical protein CHLNCDRAFT_33512_ partial [Chlorella variabilis]	QAXK01007750.1_2281-4745
+OG0001133	XP_005850993.1 hypothetical protein CHLNCDRAFT_19551_ partial [Chlorella variabilis]	QAXK01006196.1_4390-1589
+OG0001143	XP_005851850.1 hypothetical protein CHLNCDRAFT_133371 [Chlorella variabilis], XP_005851851.1 hypothetical protein CHLNCDRAFT_133372 [Chlorella variabilis]	QAXK01003700.1_2979-9653
+OG0001144	XP_005846212.1 hypothetical protein CHLNCDRAFT_36301 [Chlorella variabilis]	QAXK01003900.1_2413-4929
+OG0001154	XP_005849664.1 hypothetical protein CHLNCDRAFT_143206 [Chlorella variabilis], XP_005851582.1 hypothetical protein CHLNCDRAFT_138089 [Chlorella variabilis]	QAXK01011150.1_3959-2216
+OG0001156	XP_005844964.1 hypothetical protein CHLNCDRAFT_26350 [Chlorella variabilis]	QAXK01018601.1_3296-410
+OG0001158	XP_005846743.1 hypothetical protein CHLNCDRAFT_35907 [Chlorella variabilis]	QAXK01006945.1_6596-10279
+OG0001161	XP_005847996.1 hypothetical protein CHLNCDRAFT_35354_ partial [Chlorella variabilis]	QAXK01004407.1_7887-8977
+OG0001166	XP_005851224.1 hypothetical protein CHLNCDRAFT_18825 [Chlorella variabilis]	QAXK01009825.1_846-2644
+OG0001171	XP_005844538.1 expressed protein [Chlorella variabilis]	QAXK01006983.1_10356-12388
+OG0001176	XP_005849287.1 hypothetical protein CHLNCDRAFT_30552 [Chlorella variabilis]	QAXK01004323.1_8147-5874
+OG0001180	XP_005844712.1 hypothetical protein CHLNCDRAFT_138669 [Chlorella variabilis], XP_005844788.1 hypothetical protein CHLNCDRAFT_36776 [Chlorella variabilis]	QAXK01019295.1_3574-2070
+OG0001194	XP_005846959.1 hypothetical protein CHLNCDRAFT_56196 [Chlorella variabilis]	QAXK01001649.1_8862-4505
+OG0001201	XP_005843198.1 hypothetical protein CHLNCDRAFT_33230 [Chlorella variabilis]	QAXK01000596.1_10252-6748
+OG0001208	XP_005850301.1 hypothetical protein CHLNCDRAFT_50601 [Chlorella variabilis]	QAXK01012769.1_10100-9091
+OG0001212	XP_005848409.1 hypothetical protein CHLNCDRAFT_51737 [Chlorella variabilis], XP_005848678.1 hypothetical protein CHLNCDRAFT_17713_ partial [Chlorella variabilis]	QAXK01005236.1_15612-13478
+OG0001214	XP_005846274.1 hypothetical protein CHLNCDRAFT_36044 [Chlorella variabilis], XP_005848647.1 hypothetical protein CHLNCDRAFT_48708 [Chlorella variabilis]	QAXK01012739.1_10679-8642
+OG0001216	XP_005844266.1 hypothetical protein CHLNCDRAFT_32681 [Chlorella variabilis]	QAXK01001490.1_17280-15927
+OG0001219	XP_005843856.1 hypothetical protein CHLNCDRAFT_16969_ partial [Chlorella variabilis]	QAXK01008035.1_3747-6912
+OG0001221	XP_005850840.1 hypothetical protein CHLNCDRAFT_48524 [Chlorella variabilis]	QAXK01001061.1_17190-18239
+OG0001223	XP_005847551.1 hypothetical protein CHLNCDRAFT_52248 [Chlorella variabilis], XP_005842897.1 hypothetical protein CHLNCDRAFT_55557 [Chlorella variabilis]	QAXK01005846.1_3896-588
+OG0001225	XP_005849146.1 hypothetical protein CHLNCDRAFT_30584 [Chlorella variabilis], XP_005849147.1 hypothetical protein CHLNCDRAFT_143760 [Chlorella variabilis]	QAXK01000732.1_2978-2655
+OG0001229	XP_005847572.1 hypothetical protein CHLNCDRAFT_56155 [Chlorella variabilis]	QAXK01016063.1_5569-3270
+OG0001231	XP_005847262.1 hypothetical protein CHLNCDRAFT_134271 [Chlorella variabilis], XP_005847261.1 hypothetical protein CHLNCDRAFT_35566 [Chlorella variabilis]	QAXK01000362.1_21408-20438
+OG0001236	XP_005843958.1 hypothetical protein CHLNCDRAFT_48339 [Chlorella variabilis]	QAXK01000513.1_15183-11736
+OG0001242	XP_005851115.1 hypothetical protein CHLNCDRAFT_33771 [Chlorella variabilis]	QAXK01004645.1_1487-5075
+OG0001246	XP_005845102.1 hypothetical protein CHLNCDRAFT_137448 [Chlorella variabilis]	QAXK01010639.1_8900-15142
+OG0001248	XP_005847702.1 hypothetical protein CHLNCDRAFT_52424_ partial [Chlorella variabilis], XP_005844136.1 hypothetical protein CHLNCDRAFT_54617_ partial [Chlorella variabilis]	QAXK01010718.1_75-1989
+OG0001264	XP_005847698.1 hypothetical protein CHLNCDRAFT_48821 [Chlorella variabilis], XP_005847123.1 hypothetical protein CHLNCDRAFT_24333 [Chlorella variabilis]	QAXK01001653.1_329-2259
+OG0001279	XP_005849115.1 hypothetical protein CHLNCDRAFT_143681 [Chlorella variabilis], XP_005849116.1 hypothetical protein CHLNCDRAFT_143682 [Chlorella variabilis]	QAXK01000624.1_32528-30577
+OG0001307	XP_005849409.1 hypothetical protein CHLNCDRAFT_143921 [Chlorella variabilis], XP_005849410.1 hypothetical protein CHLNCDRAFT_143922 [Chlorella variabilis]	QAXK01005917.1_319-7230
+OG0001308	XP_005847083.1 hypothetical protein CHLNCDRAFT_24199 [Chlorella variabilis]	QAXK01006084.1_8922-13556
+OG0001309	XP_005846908.1 hypothetical protein CHLNCDRAFT_134789_ partial [Chlorella variabilis]	QAXK01004533.1_5070-10667
+OG0001310	XP_005849411.1 hypothetical protein CHLNCDRAFT_143924 [Chlorella variabilis]	QAXK01002895.1_5020-6663
+OG0001311	XP_005846912.1 hypothetical protein CHLNCDRAFT_35777 [Chlorella variabilis]	QAXK01001613.1_2521-6885
+OG0001312	XP_005843854.1 hypothetical protein CHLNCDRAFT_27642 [Chlorella variabilis]	QAXK01003510.1_1900-3653
+OG0001313	XP_005846901.1 hypothetical protein CHLNCDRAFT_24291_ partial [Chlorella variabilis], XP_005846900.1 hypothetical protein CHLNCDRAFT_52755 [Chlorella variabilis]	QAXK01001184.1_9548-5781
+OG0001314	XP_005846897.1 hypothetical protein CHLNCDRAFT_134762 [Chlorella variabilis]	QAXK01001944.1_3765-1753
+OG0001316	XP_005845703.1 hypothetical protein CHLNCDRAFT_58555 [Chlorella variabilis]	QAXK01006921.1_16832-14836
+OG0001318	XP_005848322.1 hypothetical protein CHLNCDRAFT_30844 [Chlorella variabilis]	QAXK01001801.1_7866-9916
+OG0001320	XP_005845683.1 hypothetical protein CHLNCDRAFT_8099_ partial [Chlorella variabilis]	QAXK01000167.1_14384-11911
+OG0001328	XP_005844082.1 hypothetical protein CHLNCDRAFT_56342 [Chlorella variabilis]	QAXK01006882.1_17133-19836
+OG0001331	XP_005848712.1 hypothetical protein CHLNCDRAFT_144369 [Chlorella variabilis]	QAXK01009171.1_15170-12352
+OG0001332	XP_005849793.1 hypothetical protein CHLNCDRAFT_57223 [Chlorella variabilis]	QAXK01004338.1_10706-15436
+OG0001334	XP_005845274.1 hypothetical protein CHLNCDRAFT_25981 [Chlorella variabilis]	QAXK01003133.1_258-4577
+OG0001338	XP_005848731.1 hypothetical protein CHLNCDRAFT_144412 [Chlorella variabilis]	QAXK01002293.1_4021-8056
+OG0001340	XP_005844812.1 hypothetical protein CHLNCDRAFT_36797 [Chlorella variabilis]	QAXK01004523.1_6228-4685
+OG0001342	XP_005849334.1 hypothetical protein CHLNCDRAFT_143718 [Chlorella variabilis]	QAXK01003268.1_11937-16935
+OG0001343	XP_005849911.1 hypothetical protein CHLNCDRAFT_21002 [Chlorella variabilis]	QAXK01000799.1_6873-2057
+OG0001353	XP_005846771.1 hypothetical protein CHLNCDRAFT_52990 [Chlorella variabilis]	QAXK01011632.1_4873-7912
+OG0001356	XP_005851938.1 hypothetical protein CHLNCDRAFT_133597 [Chlorella variabilis]	QAXK01003307.1_27135-26267
+OG0001360	XP_005849861.1 hypothetical protein CHLNCDRAFT_143054 [Chlorella variabilis]	QAXK01001741.1_6153-8648
+OG0001363	XP_005849404.1 hypothetical protein CHLNCDRAFT_34933 [Chlorella variabilis]	QAXK01003747.1_13973-10331
+OG0001365	XP_005847199.1 hypothetical protein CHLNCDRAFT_134999 [Chlorella variabilis]	QAXK01000515.1_20837-25236
+OG0001366	XP_005850938.1 hypothetical protein CHLNCDRAFT_140676 [Chlorella variabilis]	QAXK01004846.1_20461-19235
+OG0001370	XP_005843617.1 hypothetical protein CHLNCDRAFT_27963 [Chlorella variabilis]	QAXK01000381.1_4423-6771
+OG0001374	XP_005843622.1 hypothetical protein CHLNCDRAFT_49235 [Chlorella variabilis]	QAXK01013224.1_5335-6988
+OG0001375	XP_005847170.1 hypothetical protein CHLNCDRAFT_23906 [Chlorella variabilis]	QAXK01005120.1_8361-10056
+OG0001376	XP_005852078.1 expressed protein [Chlorella variabilis]	QAXK01019935.1_413-1820
+OG0001381	XP_005844407.1 argininosuccinate lyase [Chlorella variabilis]	QAXK01000172.1_6135-2748
+OG0001382	XP_005843626.1 hypothetical protein CHLNCDRAFT_59234 [Chlorella variabilis]	QAXK01001066.1_8917-1138
+OG0001383	XP_005842570.1 hypothetical protein CHLNCDRAFT_55891_ partial [Chlorella variabilis], XP_005843581.1 hypothetical protein CHLNCDRAFT_56398 [Chlorella variabilis]	QAXK01003326.1_3639-1243
+OG0001385	XP_005844342.1 hypothetical protein CHLNCDRAFT_26891 [Chlorella variabilis]	QAXK01005279.1_10173-5871
+OG0001388	XP_005844954.1 hypothetical protein CHLNCDRAFT_26393_ partial [Chlorella variabilis]	QAXK01001208.1_10635-13964
+OG0001393	XP_005846625.1 hypothetical protein CHLNCDRAFT_9747_ partial [Chlorella variabilis]	QAXK01005917.1_17047-13738
+OG0001397	XP_005846379.1 hypothetical protein CHLNCDRAFT_24755_ partial [Chlorella variabilis]	QAXK01000502.1_39339-43298
+OG0001398	XP_005849717.1 hypothetical protein CHLNCDRAFT_34562 [Chlorella variabilis]	QAXK01003277.1_3770-8
+OG0001400	XP_005843813.1 hypothetical protein CHLNCDRAFT_12853_ partial [Chlorella variabilis]	QAXK01001993.1_28544-29840
+OG0001401	XP_005848967.1 hypothetical protein CHLNCDRAFT_144492 [Chlorella variabilis]	QAXK01010276.1_2943-1867
+OG0001406	XP_005851025.1 hypothetical protein CHLNCDRAFT_56983 [Chlorella variabilis]	QAXK01000595.1_2983-1676
+OG0001408	XP_005844747.1 hypothetical protein CHLNCDRAFT_56301 [Chlorella variabilis]	QAXK01000367.1_8675-18356
+OG0001409	XP_005846539.1 hypothetical protein CHLNCDRAFT_135831 [Chlorella variabilis]	QAXK01004930.1_4250-5628
+OG0001417	XP_005848359.1 hypothetical protein CHLNCDRAFT_59660 [Chlorella variabilis]	QAXK01005381.1_315-2273
+OG0001420	XP_005851832.1 hypothetical protein CHLNCDRAFT_133322 [Chlorella variabilis]	QAXK01000297.1_21777-22493
+OG0001424	XP_005848357.1 hypothetical protein CHLNCDRAFT_22496 [Chlorella variabilis]	QAXK01001628.1_9434-11057
+OG0001425	XP_005848403.1 hypothetical protein CHLNCDRAFT_11586_ partial [Chlorella variabilis]	QAXK01003581.1_2363-4183
+OG0001426	XP_005844348.1 hypothetical protein CHLNCDRAFT_58930 [Chlorella variabilis]	QAXK01005880.1_1-9276
+OG0001428	XP_005845307.1 hypothetical protein CHLNCDRAFT_137054 [Chlorella variabilis]	QAXK01000837.1_14096-17956
+OG0001431	XP_005848243.1 hypothetical protein CHLNCDRAFT_144800 [Chlorella variabilis]	QAXK01013424.1_6153-1945
+OG0001432	XP_005844036.1 hypothetical protein CHLNCDRAFT_49152 [Chlorella variabilis]	QAXK01000224.1_16848-15439
+OG0001445	XP_005843270.1 hypothetical protein CHLNCDRAFT_55283 [Chlorella variabilis]	QAXK01000732.1_11950-7418
+OG0001455	XP_005849069.1 hypothetical protein CHLNCDRAFT_51247 [Chlorella variabilis]	QAXK01001576.1_5934-8651
+OG0001456	XP_005845731.1 hypothetical protein CHLNCDRAFT_136322 [Chlorella variabilis]	QAXK01006785.1_1906-1226
+OG0001460	XP_005849260.1 hypothetical protein CHLNCDRAFT_143518 [Chlorella variabilis], XP_005849066.1 hypothetical protein CHLNCDRAFT_143546 [Chlorella variabilis]	QAXK01015424.1_3358-1233
+OG0001462	XP_005849044.1 hypothetical protein CHLNCDRAFT_143487 [Chlorella variabilis]	QAXK01002112.1_6014-14709
+OG0001465	XP_005848956.1 hypothetical protein CHLNCDRAFT_22067 [Chlorella variabilis]	QAXK01006322.1_7890-11183
+OG0001469	XP_005849423.1 hypothetical protein CHLNCDRAFT_51429 [Chlorella variabilis], XP_005850473.1 hypothetical protein CHLNCDRAFT_16970_ partial [Chlorella variabilis]	QAXK01007783.1_10721-12010
+OG0001473	XP_005844309.1 hypothetical protein CHLNCDRAFT_59761 [Chlorella variabilis]	QAXK01003650.1_4575-2929
+OG0001476	XP_005843038.1 hypothetical protein CHLNCDRAFT_141588 [Chlorella variabilis]	QAXK01001134.1_7136-9582
+OG0001477	XP_005847477.1 hypothetical protein CHLNCDRAFT_57981 [Chlorella variabilis], XP_005849361.1 hypothetical protein CHLNCDRAFT_143807 [Chlorella variabilis]	QAXK01003160.1_17527-15091
+OG0001480	XP_005843037.1 hypothetical protein CHLNCDRAFT_28509_ partial [Chlorella variabilis]	QAXK01000632.1_24086-22557
+OG0001482	XP_005847130.1 hypothetical protein CHLNCDRAFT_134869 [Chlorella variabilis]	QAXK01000159.1_14204-11398
+OG0001488	XP_005843630.1 hypothetical protein CHLNCDRAFT_33094 [Chlorella variabilis]	QAXK01004286.1_7784-2904
+OG0001492	XP_005847074.1 hypothetical protein CHLNCDRAFT_56191 [Chlorella variabilis]	QAXK01003809.1_2040-4733
+OG0001493	XP_005843967.1 hypothetical protein CHLNCDRAFT_32953 [Chlorella variabilis]	QAXK01001201.1_5367-10319
+OG0001503	XP_005844070.1 hypothetical protein CHLNCDRAFT_32746 [Chlorella variabilis], XP_005844069.1 hypothetical protein CHLNCDRAFT_139459 [Chlorella variabilis]	QAXK01001163.1_27767-28960
+OG0001506	XP_005848003.1 hypothetical protein CHLNCDRAFT_22955 [Chlorella variabilis]	QAXK01000137.1_3425-4331
+OG0001508	XP_005848097.1 hypothetical protein CHLNCDRAFT_145376 [Chlorella variabilis], XP_005842657.1 hypothetical protein CHLNCDRAFT_139005_ partial [Chlorella variabilis]	QAXK01001982.1_904-3015
+OG0001514	XP_005846135.1 hypothetical protein CHLNCDRAFT_58381 [Chlorella variabilis]	QAXK01003231.1_16625-14068
+OG0001526	XP_005847609.1 hypothetical protein CHLNCDRAFT_35428 [Chlorella variabilis]	QAXK01019948.1_5388-2969
+OG0001527	XP_005844327.1 hypothetical protein CHLNCDRAFT_54543 [Chlorella variabilis]	QAXK01013863.1_4654-1867
+OG0001528	XP_005850071.1 hypothetical protein CHLNCDRAFT_142104 [Chlorella variabilis]	QAXK01000325.1_37384-41123
+OG0001529	XP_005844210.1 hypothetical protein CHLNCDRAFT_139408 [Chlorella variabilis]	QAXK01004092.1_4427-5291
+OG0001532	XP_005851497.1 hypothetical protein CHLNCDRAFT_137885 [Chlorella variabilis]	QAXK01000782.1_11007-12134
+OG0001533	XP_005844336.1 hypothetical protein CHLNCDRAFT_58922 [Chlorella variabilis]	QAXK01000265.1_17007-12444
+OG0001534	XP_005846636.1 hypothetical protein CHLNCDRAFT_35936 [Chlorella variabilis]	QAXK01000695.1_5671-2183
+OG0001538	XP_005847304.1 hypothetical protein CHLNCDRAFT_35625 [Chlorella variabilis]	QAXK01009353.1_4260-348
+OG0001542	XP_005848850.1 hypothetical protein CHLNCDRAFT_17454_ partial [Chlorella variabilis]	QAXK01011884.1_2510-4036
+OG0001544	XP_005845316.1 hypothetical protein CHLNCDRAFT_11702_ partial [Chlorella variabilis]	QAXK01002332.1_5291-4007
+OG0001545	XP_005850377.1 hypothetical protein CHLNCDRAFT_142244 [Chlorella variabilis]	QAXK01000350.1_22889-27018
+OG0001546	XP_005845367.1 hypothetical protein CHLNCDRAFT_8322_ partial [Chlorella variabilis]	QAXK01011857.1_1226-3209
+OG0001548	XP_005851947.1 hypothetical protein CHLNCDRAFT_14078_ partial [Chlorella variabilis], XP_005851944.1 hypothetical protein CHLNCDRAFT_49694 [Chlorella variabilis]	QAXK01001795.1_1688-3314
+OG0001549	XP_005843954.1 hypothetical protein CHLNCDRAFT_37236 [Chlorella variabilis]	QAXK01005406.1_4717-2509
+OG0001550	XP_005852260.1 hypothetical protein CHLNCDRAFT_59548 [Chlorella variabilis]	QAXK01004537.1_7009-1449
+OG0001551	XP_005848918.1 hypothetical protein CHLNCDRAFT_14635_ partial [Chlorella variabilis]	QAXK01006072.1_19473-19787
+OG0001554	XP_005846426.1 hypothetical protein CHLNCDRAFT_58243 [Chlorella variabilis]	QAXK01001638.1_7681-11612
+OG0001561	XP_005847751.1 hypothetical protein CHLNCDRAFT_23069_ partial [Chlorella variabilis]	QAXK01003228.1_3995-6597
+OG0001562	XP_005846433.1 hypothetical protein CHLNCDRAFT_135568 [Chlorella variabilis]	QAXK01000869.1_5647-9196
+OG0001571	XP_005847775.1 hypothetical protein CHLNCDRAFT_133904 [Chlorella variabilis]	QAXK01005898.1_15715-20620
+OG0001573	XP_005848187.1 hypothetical protein CHLNCDRAFT_145600 [Chlorella variabilis], XP_005848186.1 hypothetical protein CHLNCDRAFT_145599 [Chlorella variabilis]	QAXK01001714.1_23807-22483
+OG0001575	XP_005849584.1 hypothetical protein CHLNCDRAFT_21056 [Chlorella variabilis]	QAXK01006456.1_5116-6698
+OG0001576	XP_005844329.1 hypothetical protein CHLNCDRAFT_59763 [Chlorella variabilis]	QAXK01003511.1_8584-2188
+OG0001579	XP_005852049.1 hypothetical protein CHLNCDRAFT_29164 [Chlorella variabilis]	QAXK01000149.1_3007-205
+OG0001581	XP_005843562.1 hypothetical protein CHLNCDRAFT_56390 [Chlorella variabilis]	QAXK01003468.1_8146-4525
+OG0001582	XP_005851455.1 hypothetical protein CHLNCDRAFT_19166 [Chlorella variabilis]	QAXK01003110.1_3669-4960
+OG0001592	XP_005851118.1 hypothetical protein CHLNCDRAFT_137692 [Chlorella variabilis]	QAXK01004995.1_4321-153
+OG0001595	XP_005843472.1 hypothetical protein CHLNCDRAFT_28127_ partial [Chlorella variabilis]	QAXK01003821.1_4511-8191
+OG0001599	XP_005842658.1 hypothetical protein CHLNCDRAFT_33426_ partial [Chlorella variabilis]	QAXK01001163.1_31234-32344
+OG0001602	XP_005850800.1 hypothetical protein CHLNCDRAFT_17175_ partial [Chlorella variabilis], XP_005851501.1 hypothetical protein CHLNCDRAFT_33851 [Chlorella variabilis]	QAXK01009112.1_2932-1649
+OG0001606	XP_005847657.1 hypothetical protein CHLNCDRAFT_57875 [Chlorella variabilis]	QAXK01001551.1_37852-43451
+OG0001618	XP_005849721.1 hypothetical protein CHLNCDRAFT_34566 [Chlorella variabilis]	QAXK01003579.1_4454-5700
+OG0001620	XP_005850928.1 hypothetical protein CHLNCDRAFT_140660 [Chlorella variabilis]	QAXK01004906.1_4885-7564
+OG0001624	XP_005849539.1 hypothetical protein CHLNCDRAFT_142910 [Chlorella variabilis]	QAXK01001935.1_7191-6190
+OG0001625	XP_005844624.1 hypothetical protein CHLNCDRAFT_36836 [Chlorella variabilis]	QAXK01008598.1_11627-10467
+OG0001666	XP_005847082.1 hypothetical protein CHLNCDRAFT_48880 [Chlorella variabilis]	QAXK01000648.1_7716-3949
+OG0001670	XP_005843919.1 glutamate-1-semialdehyde 2_1-aminomutase [Chlorella variabilis]	QAXK01001801.1_20671-18627
+OG0001676	XP_005843159.1 hypothetical protein CHLNCDRAFT_59360 [Chlorella variabilis]	QAXK01000084.1_15952-9180
+OG0001677	XP_005845431.1 hypothetical protein CHLNCDRAFT_49033 [Chlorella variabilis]	QAXK01006154.1_7199-4782
+OG0001681	XP_005844442.1 hypothetical protein CHLNCDRAFT_139160 [Chlorella variabilis]	QAXK01003694.1_10054-1111
+OG0001683	XP_005845629.1 hypothetical protein CHLNCDRAFT_58507 [Chlorella variabilis]	QAXK01005873.1_4902-1877
+OG0001684	XP_005842849.1 hypothetical protein CHLNCDRAFT_59437 [Chlorella variabilis]	QAXK01001160.1_46203-44172
+OG0001686	XP_005844264.1 hypothetical protein CHLNCDRAFT_139336 [Chlorella variabilis]	QAXK01001518.1_29154-38461
+OG0001687	XP_005845014.1 hypothetical protein CHLNCDRAFT_138486 [Chlorella variabilis]	QAXK01011350.1_4968-4302
+OG0001689	XP_005849111.1 hypothetical protein CHLNCDRAFT_30565 [Chlorella variabilis]	QAXK01000325.1_49285-50693
+OG0001691	XP_005851736.1 hypothetical protein CHLNCDRAFT_55930 [Chlorella variabilis]	QAXK01009543.1_7053-9512
+OG0001694	XP_005845023.1 hypothetical protein CHLNCDRAFT_26457 [Chlorella variabilis]	QAXK01004860.1_550-2257
+OG0001698	XP_005844288.1 hypothetical protein CHLNCDRAFT_59034 [Chlorella variabilis]	QAXK01011739.1_15998-17366
+OG0001700	XP_005846866.1 hypothetical protein CHLNCDRAFT_35731 [Chlorella variabilis]	QAXK01001944.1_5351-7976
+OG0001702	XP_005848118.1 hypothetical protein CHLNCDRAFT_22943 [Chlorella variabilis]	QAXK01000864.1_61145-62900
+OG0001703	XP_005850492.1 hypothetical protein CHLNCDRAFT_10114_ partial [Chlorella variabilis]	QAXK01003602.1_34329-32576
+OG0001704	XP_005849515.1 hypothetical protein CHLNCDRAFT_142853 [Chlorella variabilis]	QAXK01008991.1_236-2513
+OG0001705	XP_005851895.1 hypothetical protein CHLNCDRAFT_33640 [Chlorella variabilis]	QAXK01002478.1_7313-12188
+OG0001708	XP_005849514.1 hypothetical protein CHLNCDRAFT_142851 [Chlorella variabilis]	QAXK01014303.1_4896-6584
+OG0001709	XP_005848120.1 hypothetical protein CHLNCDRAFT_145427 [Chlorella variabilis]	QAXK01018148.1_4196-2780
+OG0001712	XP_005849945.1 hypothetical protein CHLNCDRAFT_17540_ partial [Chlorella variabilis]	QAXK01008136.1_3960-6111
+OG0001713	XP_005847896.1 hypothetical protein CHLNCDRAFT_57712 [Chlorella variabilis]	QAXK01001137.1_1588-5821
+OG0001714	XP_005848686.1 hypothetical protein CHLNCDRAFT_34979 [Chlorella variabilis]	QAXK01014632.1_3916-2466
+OG0001715	XP_005848544.1 hypothetical protein CHLNCDRAFT_30873 [Chlorella variabilis]	QAXK01004338.1_24179-21163
+OG0001716	XP_005849493.1 hypothetical protein CHLNCDRAFT_34626 [Chlorella variabilis]	QAXK01000646.1_3437-2178
+OG0001718	XP_005849538.1 hypothetical protein CHLNCDRAFT_142905 [Chlorella variabilis]	QAXK01002273.1_1901-3023
+OG0001719	XP_005848715.1 hypothetical protein CHLNCDRAFT_22097 [Chlorella variabilis]	QAXK01013811.1_5298-9155
+OG0001724	XP_005844663.1 hypothetical protein CHLNCDRAFT_138547 [Chlorella variabilis]	QAXK01006565.1_2429-269
+OG0001728	XP_005849924.1 hypothetical protein CHLNCDRAFT_143236 [Chlorella variabilis]	QAXK01001807.1_1026-15
+OG0001729	XP_005847983.1 hypothetical protein CHLNCDRAFT_145492 [Chlorella variabilis]	QAXK01006338.1_1051-28
+OG0001737	XP_005847929.1 hypothetical protein CHLNCDRAFT_57737 [Chlorella variabilis]	QAXK01014793.1_2710-905
+OG0001738	XP_005849598.1 hypothetical protein CHLNCDRAFT_48657 [Chlorella variabilis]	QAXK01000446.1_74898-73132
+OG0001743	XP_005846786.1 26S proteasome AAA-ATPase subunit RPT6a [Chlorella variabilis]	QAXK01001289.1_5327-2954
+OG0001744	XP_005848093.1 hypothetical protein CHLNCDRAFT_145362 [Chlorella variabilis]	QAXK01016939.1_17085-19159
+OG0001748	XP_005846488.1 hypothetical protein CHLNCDRAFT_56217 [Chlorella variabilis]	QAXK01007592.1_13848-10196
+OG0001750	XP_005845257.1 hypothetical protein CHLNCDRAFT_136930 [Chlorella variabilis]	QAXK01018869.1_1324-446
+OG0001751	XP_005848198.1 hypothetical protein CHLNCDRAFT_145630 [Chlorella variabilis]	QAXK01000276.1_2022-2543
+OG0001756	XP_005851692.1 hypothetical protein CHLNCDRAFT_48385 [Chlorella variabilis]	QAXK01004906.1_9592-13569
+OG0001760	XP_005849764.1 hypothetical protein CHLNCDRAFT_142811 [Chlorella variabilis]	QAXK01008046.1_15224-18152
+OG0001763	XP_005851794.1 hypothetical protein CHLNCDRAFT_33545 [Chlorella variabilis]	QAXK01006402.1_6220-3948
+OG0001770	XP_005847942.1 hypothetical protein CHLNCDRAFT_145385 [Chlorella variabilis]	QAXK01001922.1_7027-5313
+OG0001772	XP_005848805.1 hypothetical protein CHLNCDRAFT_144078 [Chlorella variabilis], XP_005848806.1 hypothetical protein CHLNCDRAFT_144079 [Chlorella variabilis]	QAXK01010435.1_780-2170
+OG0001778	XP_005844926.1 hypothetical protein CHLNCDRAFT_138255 [Chlorella variabilis]	QAXK01006312.1_5841-2543
+OG0001780	XP_005843618.1 hypothetical protein CHLNCDRAFT_140213 [Chlorella variabilis]	QAXK01003072.1_7601-12066
+OG0001782	XP_005851109.1 hypothetical protein CHLNCDRAFT_137670 [Chlorella variabilis]	QAXK01000627.1_25854-27382
+OG0001783	XP_005846508.1 hypothetical protein CHLNCDRAFT_24868 [Chlorella variabilis]	QAXK01004723.1_8556-4882
+OG0001788	XP_005847231.1 hypothetical protein CHLNCDRAFT_57920 [Chlorella variabilis]	QAXK01008099.1_16922-14889
+OG0001790	XP_005847180.1 hypothetical protein CHLNCDRAFT_31542 [Chlorella variabilis]	QAXK01000362.1_13682-19843
+OG0001792	XP_005843567.1 hypothetical protein CHLNCDRAFT_33073 [Chlorella variabilis]	QAXK01002348.1_22026-23431
+OG0001794	XP_005847188.1 hypothetical protein CHLNCDRAFT_24218 [Chlorella variabilis]	QAXK01000643.1_10651-8242
+OG0001801	XP_005847064.1 hypothetical protein CHLNCDRAFT_134731 [Chlorella variabilis]	QAXK01000208.1_37779-38874
+OG0001806	XP_005852172.1 hypothetical protein CHLNCDRAFT_29265 [Chlorella variabilis]	QAXK01005447.1_6594-9151
+OG0001810	XP_005843778.1 hypothetical protein CHLNCDRAFT_139906 [Chlorella variabilis]	QAXK01011106.1_2568-3152
+OG0001812	XP_005847056.1 hypothetical protein CHLNCDRAFT_56190 [Chlorella variabilis]	QAXK01006399.1_9428-14604
+OG0001813	XP_005849441.1 hypothetical protein CHLNCDRAFT_56054 [Chlorella variabilis]	QAXK01000513.1_11487-8211
+OG0001818	XP_005850392.1 hypothetical protein CHLNCDRAFT_59607 [Chlorella variabilis]	QAXK01004132.1_4579-6060
+OG0001821	XP_005846245.1 hypothetical protein CHLNCDRAFT_135536 [Chlorella variabilis]	QAXK01004177.1_17288-11319
+OG0001824	XP_005850417.1 hypothetical protein CHLNCDRAFT_142331 [Chlorella variabilis]	QAXK01003744.1_2800-6411
+OG0001826	XP_005850140.1 hypothetical protein CHLNCDRAFT_34430 [Chlorella variabilis]	QAXK01000105.1_5499-2693
+OG0001832	XP_005848116.1 hypothetical protein CHLNCDRAFT_145418 [Chlorella variabilis]	QAXK01005654.1_7220-1642
+OG0001837	XP_005846754.1 hypothetical protein CHLNCDRAFT_24638 [Chlorella variabilis]	QAXK01000842.1_51041-53429
+OG0001838	XP_005843602.1 hypothetical protein CHLNCDRAFT_37364 [Chlorella variabilis]	QAXK01003976.1_8556-3734
+OG0001841	XP_005843266.1 hypothetical protein CHLNCDRAFT_28318_ partial [Chlorella variabilis]	QAXK01000976.1_10766-5866
+OG0001842	XP_005847927.1 hypothetical protein CHLNCDRAFT_145345 [Chlorella variabilis]	QAXK01006275.1_27485-25822
+OG0001843	XP_005847045.1 hypothetical protein CHLNCDRAFT_31418 [Chlorella variabilis]	QAXK01004149.1_22375-24958
+OG0001845	XP_005850968.1 hypothetical protein CHLNCDRAFT_50385 [Chlorella variabilis]	QAXK01001702.1_1666-273
+OG0001847	XP_005843596.1 hypothetical protein CHLNCDRAFT_59206 [Chlorella variabilis]	QAXK01009311.1_428-2889
+OG0001849	XP_005843900.1 hypothetical protein CHLNCDRAFT_139763 [Chlorella variabilis]	QAXK01007671.1_6596-4238
+OG0001855	XP_005850713.1 hypothetical protein CHLNCDRAFT_10145_ partial [Chlorella variabilis]	QAXK01000335.1_27254-25603
+OG0001856	XP_005843910.1 hypothetical protein CHLNCDRAFT_27683_ partial [Chlorella variabilis]	QAXK01003506.1_17890-19170
+OG0001857	XP_005846369.1 GTP-binding protein [Chlorella variabilis]	QAXK01002176.1_5254-6169
+OG0001858	XP_005848475.1 hypothetical protein CHLNCDRAFT_35106 [Chlorella variabilis]	QAXK01017983.1_2022-269
+OG0001860	XP_005848467.1 hypothetical protein CHLNCDRAFT_22470_ partial [Chlorella variabilis]	QAXK01000036.1_15496-18071
+OG0001861	XP_005848466.1 hypothetical protein CHLNCDRAFT_144859 [Chlorella variabilis]	QAXK01001933.1_13708-11461
+OG0001862	XP_005848199.1 hypothetical protein CHLNCDRAFT_144674 [Chlorella variabilis]	QAXK01002439.1_1431-31
+OG0001863	XP_005848362.1 hypothetical protein CHLNCDRAFT_30897 [Chlorella variabilis]	QAXK01000006.1_11270-7049
+OG0001864	XP_005848421.1 hypothetical protein CHLNCDRAFT_22266 [Chlorella variabilis]	QAXK01001807.1_30588-28596
+OG0001866	XP_005849396.1 hypothetical protein CHLNCDRAFT_143895 [Chlorella variabilis]	QAXK01004671.1_3332-9990
+OG0001867	XP_005848495.1 hypothetical protein CHLNCDRAFT_35128 [Chlorella variabilis]	QAXK01006658.1_2089-1110
+OG0001868	XP_005844444.1 hypothetical protein CHLNCDRAFT_139164 [Chlorella variabilis]	QAXK01018034.1_4900-2264
+OG0001869	XP_005848226.1 hypothetical protein CHLNCDRAFT_144742 [Chlorella variabilis]	QAXK01002273.1_12619-10163
+OG0001870	XP_005848947.1 hypothetical protein CHLNCDRAFT_35000 [Chlorella variabilis]	QAXK01007444.1_11468-13953
+OG0001871	XP_005851849.1 hypothetical protein CHLNCDRAFT_59538 [Chlorella variabilis]	QAXK01000027.1_14275-12645
+OG0001873	XP_005852162.1 hypothetical protein CHLNCDRAFT_133325 [Chlorella variabilis]	QAXK01003671.1_1285-5252
+OG0001874	XP_005851878.1 hypothetical protein CHLNCDRAFT_133453 [Chlorella variabilis]	QAXK01002443.1_10680-7074
+OG0001879	XP_005848540.1 hypothetical protein CHLNCDRAFT_59658 [Chlorella variabilis]	QAXK01014786.1_3020-29
+OG0001880	XP_005845420.1 hypothetical protein CHLNCDRAFT_25814 [Chlorella variabilis]	QAXK01014616.1_960-3765
+OG0001882	XP_005852209.1 hypothetical protein CHLNCDRAFT_55943 [Chlorella variabilis]	QAXK01001694.1_21339-20476
+OG0001883	XP_005848555.1 hypothetical protein CHLNCDRAFT_17736_ partial [Chlorella variabilis]	QAXK01000225.1_2559-365
+OG0001887	XP_005846063.1 hypothetical protein CHLNCDRAFT_36297 [Chlorella variabilis]	QAXK01004187.1_1760-33
+OG0001888	XP_005848777.1 hypothetical protein CHLNCDRAFT_56118 [Chlorella variabilis]	QAXK01016711.1_4152-7100
+OG0001890	XP_005845523.1 hypothetical protein CHLNCDRAFT_9699_ partial [Chlorella variabilis]	QAXK01010406.1_2162-130
+OG0001893	XP_005844059.1 hypothetical protein CHLNCDRAFT_139632 [Chlorella variabilis]	QAXK01002579.1_17292-15497
+OG0001895	XP_005843026.1 hypothetical protein CHLNCDRAFT_141716 [Chlorella variabilis]	QAXK01016971.1_2990-681
+OG0001898	XP_005842993.1 hypothetical protein CHLNCDRAFT_37639 [Chlorella variabilis]	QAXK01001156.1_3180-1500
+OG0001900	XP_005845377.1 hypothetical protein CHLNCDRAFT_136896 [Chlorella variabilis]	QAXK01009399.1_423-2536
+OG0001902	XP_005845384.1 hypothetical protein CHLNCDRAFT_48281 [Chlorella variabilis]	QAXK01008314.1_4813-7042
+OG0001907	XP_005843000.1 hypothetical protein CHLNCDRAFT_55490 [Chlorella variabilis]	QAXK01003345.1_36704-34696
+OG0001911	XP_005846509.1 hypothetical protein CHLNCDRAFT_56225 [Chlorella variabilis]	QAXK01003378.1_5209-366
+OG0001915	XP_005847492.1 hypothetical protein CHLNCDRAFT_57991 [Chlorella variabilis]	QAXK01004688.1_3441-5908
+OG0001916	XP_005848590.1 hypothetical protein CHLNCDRAFT_8491_ partial [Chlorella variabilis]	QAXK01001344.1_15728-16873
+OG0001917	XP_005847967.1 hypothetical protein CHLNCDRAFT_31015 [Chlorella variabilis]	QAXK01010657.1_2437-238
+OG0001918	XP_005846580.1 hypothetical protein CHLNCDRAFT_35898 [Chlorella variabilis]	QAXK01003671.1_14459-17304
+OG0001919	XP_005851575.1 hypothetical protein CHLNCDRAFT_29593 [Chlorella variabilis]	QAXK01001468.1_4935-8852
+OG0001920	XP_005851583.1 hypothetical protein CHLNCDRAFT_18801_ partial [Chlorella variabilis]	QAXK01000770.1_6276-4831
+OG0001921	XP_005844973.1 hypothetical protein CHLNCDRAFT_138366 [Chlorella variabilis]	QAXK01004635.1_12023-13891
+OG0001922	XP_005848180.1 hypothetical protein CHLNCDRAFT_145586 [Chlorella variabilis]	QAXK01011133.1_12839-6837
+OG0001928	XP_005851595.1 hypothetical protein CHLNCDRAFT_18936_ partial [Chlorella variabilis]	QAXK01003150.1_16472-17917
+OG0001930	XP_005843239.1 hypothetical protein CHLNCDRAFT_141341 [Chlorella variabilis]	QAXK01003163.1_7337-4796
+OG0001931	XP_005843231.1 hypothetical protein CHLNCDRAFT_37552_ partial [Chlorella variabilis]	QAXK01002575.1_2869-493
+OG0001934	XP_005844025.1 hypothetical protein CHLNCDRAFT_139571 [Chlorella variabilis]	QAXK01001681.1_35798-38541
+OG0001935	XP_005850139.1 hypothetical protein CHLNCDRAFT_20716_ partial [Chlorella variabilis]	QAXK01001208.1_4428-3497
+OG0001936	XP_005844628.1 hypothetical protein CHLNCDRAFT_32522 [Chlorella variabilis]	QAXK01000947.1_9658-8064
+OG0001937	XP_005851432.1 hypothetical protein CHLNCDRAFT_29479 [Chlorella variabilis]	QAXK01002895.1_11877-8991
+OG0001938	XP_005844531.1 hypothetical protein CHLNCDRAFT_12102_ partial [Chlorella variabilis]	QAXK01006045.1_3548-5265
+OG0001943	XP_005851141.1 hypothetical protein CHLNCDRAFT_29482 [Chlorella variabilis]	QAXK01001495.1_35130-32135
+OG0001945	XP_005851439.1 hypothetical protein CHLNCDRAFT_8480_ partial [Chlorella variabilis]	QAXK01006788.1_3504-1107
+OG0001946	XP_005851431.1 hypothetical protein CHLNCDRAFT_56683 [Chlorella variabilis]	QAXK01006196.1_6560-8156
+OG0001947	XP_005851157.1 hypothetical protein CHLNCDRAFT_55974 [Chlorella variabilis]	QAXK01001881.1_90892-88031
+OG0001951	XP_005850125.1 40S ribosomal protein S18 [Chlorella variabilis]	QAXK01010684.1_1460-556
+OG0001952	XP_005850128.1 hypothetical protein CHLNCDRAFT_20545 [Chlorella variabilis]	QAXK01001616.1_0-2161
+OG0001953	XP_005847727.1 hypothetical protein CHLNCDRAFT_133789 [Chlorella variabilis], XP_005847728.1 hypothetical protein CHLNCDRAFT_133790 [Chlorella variabilis]	QAXK01001871.1_8489-9868
+OG0001954	XP_005847810.1 hypothetical protein CHLNCDRAFT_23357 [Chlorella variabilis]	QAXK01014389.1_130-668
+OG0001956	XP_005850566.1 hypothetical protein CHLNCDRAFT_34068 [Chlorella variabilis]	QAXK01004150.1_9770-14859
+OG0001958	XP_005842951.1 hypothetical protein CHLNCDRAFT_28686 [Chlorella variabilis]	QAXK01007010.1_8318-9471
+OG0001960	XP_005843657.1 hypothetical protein CHLNCDRAFT_140025 [Chlorella variabilis]	QAXK01005538.1_9255-7797
+OG0001961	XP_005850242.1 hypothetical protein CHLNCDRAFT_141905 [Chlorella variabilis]	QAXK01009093.1_4766-1793
+OG0001966	XP_005851182.1 hypothetical protein CHLNCDRAFT_13270_ partial [Chlorella variabilis]	QAXK01016188.1_2666-4256
+OG0001967	XP_005849249.1 hypothetical protein CHLNCDRAFT_48682 [Chlorella variabilis]	QAXK01000446.1_47170-46172
+OG0001969	XP_005847582.1 hypothetical protein CHLNCDRAFT_23038 [Chlorella variabilis]	QAXK01002063.1_20394-18703
+OG0001970	XP_005842828.1 hypothetical protein CHLNCDRAFT_142572 [Chlorella variabilis]	QAXK01001186.1_3380-493
+OG0001973	XP_005850767.1 hypothetical protein CHLNCDRAFT_20078 [Chlorella variabilis]	QAXK01000335.1_27471-29404
+OG0001979	XP_005850162.1 hypothetical protein CHLNCDRAFT_57124 [Chlorella variabilis]	QAXK01001265.1_1827-4399
+OG0001980	XP_005845340.1 hypothetical protein CHLNCDRAFT_32265 [Chlorella variabilis]	QAXK01003309.1_3370-103
+OG0001986	XP_005844785.1 hypothetical protein CHLNCDRAFT_138663 [Chlorella variabilis]	QAXK01000295.1_10054-5194
+OG0001991	XP_005846716.1 hypothetical protein CHLNCDRAFT_35894 [Chlorella variabilis]	QAXK01002862.1_2144-4831
+OG0001993	XP_005849767.1 hypothetical protein CHLNCDRAFT_30316 [Chlorella variabilis]	QAXK01002212.1_3400-1645
+OG0001995	XP_005844310.1 hypothetical protein CHLNCDRAFT_26970 [Chlorella variabilis]	QAXK01014184.1_2136-4076
+OG0001996	XP_005850817.1 hypothetical protein CHLNCDRAFT_29723 [Chlorella variabilis]	QAXK01001275.1_1545-3783
+OG0001998	XP_005846616.1 hypothetical protein CHLNCDRAFT_11379_ partial [Chlorella variabilis]	QAXK01000407.1_9246-10753
+OG0001999	XP_005850511.1 hypothetical protein CHLNCDRAFT_48513 [Chlorella variabilis]	QAXK01001060.1_158-4769
+OG0002000	XP_005851332.1 hypothetical protein CHLNCDRAFT_55988 [Chlorella variabilis]	QAXK01003280.1_21069-16498
+OG0002001	XP_005850504.1 hypothetical protein CHLNCDRAFT_140333 [Chlorella variabilis]	QAXK01007038.1_3322-7876
+OG0002003	XP_005846398.1 hypothetical protein CHLNCDRAFT_58339 [Chlorella variabilis]	QAXK01002652.1_3797-1393
+OG0002004	XP_005846397.1 hypothetical protein CHLNCDRAFT_135887 [Chlorella variabilis]	QAXK01012829.1_4377-6139
+OG0002005	XP_005846922.1 hypothetical protein CHLNCDRAFT_31479 [Chlorella variabilis]	QAXK01004007.1_7633-6740
+OG0002006	XP_005847149.1 hypothetical protein CHLNCDRAFT_35818 [Chlorella variabilis]	QAXK01000137.1_21575-22932
+OG0002007	XP_005846928.1 hypothetical protein CHLNCDRAFT_58077 [Chlorella variabilis]	QAXK01009439.1_10946-16439
+OG0002008	XP_005846921.1 hypothetical protein CHLNCDRAFT_23831 [Chlorella variabilis]	QAXK01000685.1_2507-3830
+OG0002010	XP_005847098.1 transcription factor_ partial [Chlorella variabilis]	QAXK01004465.1_1413-1889
+OG0002011	XP_005846943.1 hypothetical protein CHLNCDRAFT_56195 [Chlorella variabilis]	QAXK01008697.1_3621-1
+OG0002012	XP_005847113.1 hypothetical protein CHLNCDRAFT_52783 [Chlorella variabilis]	QAXK01008479.1_22-1572
+OG0002013	XP_005847108.1 hypothetical protein CHLNCDRAFT_24122 [Chlorella variabilis]	QAXK01000704.1_865-2353
+OG0002014	XP_005847106.1 hypothetical protein CHLNCDRAFT_134820 [Chlorella variabilis]	QAXK01001731.1_8237-12954
+OG0002015	XP_005849463.1 hypothetical protein CHLNCDRAFT_30278 [Chlorella variabilis]	QAXK01001095.1_1607-5427
+OG0002018	XP_005846373.1 hypothetical protein CHLNCDRAFT_36152 [Chlorella variabilis]	QAXK01000579.1_6879-2831
+OG0002023	XP_005843972.1 40S ribosomal protein S5 [Chlorella variabilis]	QAXK01004467.1_4446-2978
+OG0002024	XP_005849995.1 hypothetical protein CHLNCDRAFT_141922 [Chlorella variabilis]	QAXK01007476.1_6843-3464
+OG0002026	XP_005850261.1 hypothetical protein CHLNCDRAFT_50559 [Chlorella variabilis]	QAXK01000116.1_15959-12419
+OG0002027	XP_005843965.1 hypothetical protein CHLNCDRAFT_27518 [Chlorella variabilis]	QAXK01000153.1_10025-9224
+OG0002028	XP_005845802.1 hypothetical protein CHLNCDRAFT_25435_ partial [Chlorella variabilis]	QAXK01001007.1_9576-3460
+OG0002029	XP_005845275.1 hypothetical protein CHLNCDRAFT_136976 [Chlorella variabilis]	QAXK01001726.1_9416-10685
+OG0002032	XP_005843992.1 hypothetical protein CHLNCDRAFT_37081 [Chlorella variabilis]	QAXK01018007.1_11683-5307
+OG0002035	XP_005851164.1 hypothetical protein CHLNCDRAFT_137783 [Chlorella variabilis]	QAXK01001162.1_4704-11654
+OG0002036	XP_005849552.1 hypothetical protein CHLNCDRAFT_142934 [Chlorella variabilis]	QAXK01003552.1_4945-952
+OG0002040	XP_005844252.1 hypothetical protein CHLNCDRAFT_58991 [Chlorella variabilis]	QAXK01004862.1_20323-24029
+OG0002043	XP_005843364.1 hypothetical protein CHLNCDRAFT_141171 [Chlorella variabilis]	QAXK01000495.1_11359-8819
+OG0002046	XP_005847675.1 hypothetical protein CHLNCDRAFT_134066 [Chlorella variabilis]	QAXK01003370.1_5253-2449
+OG0002049	XP_005843997.1 hypothetical protein CHLNCDRAFT_139495 [Chlorella variabilis]	QAXK01004800.1_3523-170
+OG0002051	XP_005848173.1 hypothetical protein CHLNCDRAFT_145563 [Chlorella variabilis]	QAXK01005999.1_9988-12832
+OG0002063	XP_005845983.1 hypothetical protein CHLNCDRAFT_31906 [Chlorella variabilis]	QAXK01001387.1_26607-27895
+OG0002070	XP_005849733.1 hypothetical protein CHLNCDRAFT_20835_ partial [Chlorella variabilis]	QAXK01003882.1_7725-3343
+OG0002072	XP_005843555.1 hypothetical protein CHLNCDRAFT_33052 [Chlorella variabilis]	QAXK01000401.1_8251-6577
+OG0002073	XP_005846849.1 hypothetical protein CHLNCDRAFT_58028 [Chlorella variabilis]	QAXK01011684.1_2005-861
+OG0002074	XP_005851189.1 hypothetical protein CHLNCDRAFT_13957_ partial [Chlorella variabilis]	QAXK01005165.1_9870-10888
+OG0002075	XP_005851530.1 hypothetical protein CHLNCDRAFT_55979 [Chlorella variabilis]	QAXK01000112.1_21457-19158
+OG0002080	XP_005851526.1 hypothetical protein CHLNCDRAFT_48481 [Chlorella variabilis]	QAXK01005319.1_1852-5123
+OG0002081	XP_005847591.1 hypothetical protein CHLNCDRAFT_23248_ partial [Chlorella variabilis]	QAXK01000024.1_6845-4701
+OG0002082	XP_005847059.1 hypothetical protein CHLNCDRAFT_24020 [Chlorella variabilis]	QAXK01003767.1_15037-16578
+OG0002086	XP_005851544.1 hypothetical protein CHLNCDRAFT_56758 [Chlorella variabilis]	QAXK01000416.1_236-1468
+OG0002088	XP_005849940.1 hypothetical protein CHLNCDRAFT_34803 [Chlorella variabilis]	QAXK01004430.1_4845-10525
+OG0002090	XP_005849937.1 hypothetical protein CHLNCDRAFT_56088 [Chlorella variabilis]	QAXK01000004.1_10133-7859
+OG0002092	XP_005850595.1 hypothetical protein CHLNCDRAFT_19573_ partial [Chlorella variabilis]	QAXK01001415.1_8205-13561
+OG0002095	XP_005844921.1 hypothetical protein CHLNCDRAFT_26444 [Chlorella variabilis]	QAXK01000224.1_15148-12485
+OG0002103	XP_005844488.1 hypothetical protein CHLNCDRAFT_138837 [Chlorella variabilis]	QAXK01000770.1_6581-10685
+OG0002105	XP_005847315.1 hypothetical protein CHLNCDRAFT_48854 [Chlorella variabilis]	QAXK01018040.1_3609-5929
+OG0002110	XP_005849193.1 hypothetical protein CHLNCDRAFT_57434 [Chlorella variabilis]	QAXK01007447.1_7916-1145
+OG0002111	XP_005843494.1 hypothetical protein CHLNCDRAFT_141018 [Chlorella variabilis]	QAXK01013514.1_9351-7632
+OG0002112	XP_005850467.1 hypothetical protein CHLNCDRAFT_57155 [Chlorella variabilis]	QAXK01015359.1_10390-8068
+OG0002120	XP_005845488.1 hypothetical protein CHLNCDRAFT_137169 [Chlorella variabilis]	QAXK01005023.1_11393-17094
+OG0002122	XP_005845363.1 hypothetical protein CHLNCDRAFT_32290 [Chlorella variabilis]	QAXK01010373.1_8651-6830
+OG0002123	XP_005845456.1 hypothetical protein CHLNCDRAFT_56279 [Chlorella variabilis]	QAXK01000700.1_5491-3572
+OG0002124	XP_005850376.1 hypothetical protein CHLNCDRAFT_8434_ partial [Chlorella variabilis]	QAXK01004007.1_8647-10727
+OG0002127	XP_005847214.1 hypothetical protein CHLNCDRAFT_35880 [Chlorella variabilis]	QAXK01001495.1_27698-29888
+OG0002128	XP_005852230.1 hypothetical protein CHLNCDRAFT_56582 [Chlorella variabilis]	QAXK01002518.1_56-2855
+OG0002131	XP_005852270.1 hypothetical protein CHLNCDRAFT_33701 [Chlorella variabilis]	QAXK01001894.1_15083-15978
+OG0002132	XP_005848592.1 hypothetical protein CHLNCDRAFT_22033 [Chlorella variabilis]	QAXK01009974.1_15390-17483
+OG0002134	XP_005851967.1 hypothetical protein CHLNCDRAFT_133685 [Chlorella variabilis]	QAXK01000252.1_16687-14824
+OG0002138	XP_005850578.1 hypothetical protein CHLNCDRAFT_140496 [Chlorella variabilis]	QAXK01015692.1_7967-6370
+OG0002139	XP_005850179.1 hypothetical protein CHLNCDRAFT_56045 [Chlorella variabilis]	QAXK01003183.1_18810-17365
+OG0002141	XP_005849340.1 hypothetical protein CHLNCDRAFT_21468 [Chlorella variabilis]	QAXK01004474.1_7154-5648
+OG0002142	XP_005850452.1 hypothetical protein CHLNCDRAFT_59611 [Chlorella variabilis]	QAXK01011512.1_2962-4685
+OG0002144	XP_005852223.1 hypothetical protein CHLNCDRAFT_18700 [Chlorella variabilis]	QAXK01000452.1_14665-16837
+OG0002145	XP_005843157.1 hypothetical protein CHLNCDRAFT_141566 [Chlorella variabilis]	QAXK01000208.1_15729-14120
+OG0002146	XP_005846425.1 hypothetical protein CHLNCDRAFT_53139 [Chlorella variabilis]	QAXK01014393.1_10002-7696
+OG0002147	XP_005850839.1 hypothetical protein CHLNCDRAFT_19927_ partial [Chlorella variabilis]	QAXK01000383.1_6224-8512
+OG0002149	XP_005849527.1 hypothetical protein CHLNCDRAFT_20952 [Chlorella variabilis]	QAXK01007800.1_664-2473
+OG0002153	XP_005849915.1 hypothetical protein CHLNCDRAFT_30464_ partial [Chlorella variabilis]	QAXK01004231.1_9560-10863
+OG0002154	XP_005850444.1 hypothetical protein CHLNCDRAFT_57139 [Chlorella variabilis]	QAXK01001673.1_7134-5531
+OG0002158	XP_005850880.1 hypothetical protein CHLNCDRAFT_34097 [Chlorella variabilis]	QAXK01000427.1_69010-61523
+OG0002159	XP_005852294.1 hypothetical protein CHLNCDRAFT_135070_ partial [Chlorella variabilis]	QAXK01001947.1_6933-16171
+OG0002161	XP_005845858.1 hypothetical protein CHLNCDRAFT_25481 [Chlorella variabilis]	QAXK01000667.1_5631-9231
+OG0002162	XP_005843140.1 hypothetical protein CHLNCDRAFT_37575 [Chlorella variabilis]	QAXK01001956.1_6721-5102
+OG0002165	XP_005849136.1 hypothetical protein CHLNCDRAFT_21506 [Chlorella variabilis]	QAXK01004616.1_9420-16745
+OG0002167	XP_005849133.1 hypothetical protein CHLNCDRAFT_15032_ partial [Chlorella variabilis], XP_005849134.1 hypothetical protein CHLNCDRAFT_15221_ partial [Chlorella variabilis]	QAXK01011260.1_4573-3532
+OG0002169	XP_005849728.1 hypothetical protein CHLNCDRAFT_21333 [Chlorella variabilis]	QAXK01012387.1_1585-757
+OG0002171	XP_005844164.1 hypothetical protein CHLNCDRAFT_49120 [Chlorella variabilis]	QAXK01000446.1_58269-64323
+OG0002172	XP_005847255.1 hypothetical protein CHLNCDRAFT_35552 [Chlorella variabilis]	QAXK01012305.1_2510-4620
+OG0002173	XP_005847253.1 hypothetical protein CHLNCDRAFT_134244 [Chlorella variabilis]	QAXK01000596.1_14630-16935
+OG0002175	XP_005844249.1 hypothetical protein CHLNCDRAFT_54649 [Chlorella variabilis]	QAXK01001681.1_26607-28630
+OG0002176	XP_005847368.1 hypothetical protein CHLNCDRAFT_23545 [Chlorella variabilis]	QAXK01006378.1_6447-7421
+OG0002177	XP_005847395.1 hypothetical protein CHLNCDRAFT_134241 [Chlorella variabilis]	QAXK01001458.1_24314-19030
+OG0002179	XP_005847268.1 hypothetical protein CHLNCDRAFT_35582 [Chlorella variabilis]	QAXK01000816.1_3651-1777
+OG0002180	XP_005844238.1 hypothetical protein CHLNCDRAFT_27224 [Chlorella variabilis]	QAXK01013408.1_2179-3352
+OG0002181	XP_005847266.1 hypothetical protein CHLNCDRAFT_52504 [Chlorella variabilis]	QAXK01001085.1_14460-16185
+OG0002182	XP_005850913.1 hypothetical protein CHLNCDRAFT_19961 [Chlorella variabilis]	QAXK01011403.1_8648-10184
+OG0002185	XP_005845097.1 hypothetical protein CHLNCDRAFT_49059 [Chlorella variabilis]	QAXK01004305.1_1287-2625
+OG0002187	XP_005846649.1 hypothetical protein CHLNCDRAFT_24653 [Chlorella variabilis]	QAXK01008561.1_1927-3583
+OG0002194	XP_005846953.1 hypothetical protein CHLNCDRAFT_17401_ partial [Chlorella variabilis]	QAXK01000283.1_35828-37170
+OG0002195	XP_005843440.1 hypothetical protein CHLNCDRAFT_141133 [Chlorella variabilis]	QAXK01004230.1_16730-15188
+OG0002201	XP_005844122.1 hypothetical protein CHLNCDRAFT_139585 [Chlorella variabilis]	QAXK01010560.1_4646-7806
+OG0002202	XP_005848838.1 hypothetical protein CHLNCDRAFT_30650 [Chlorella variabilis]	QAXK01015485.1_1487-4220
+OG0002203	XP_005850052.1 hypothetical protein CHLNCDRAFT_142059 [Chlorella variabilis]	QAXK01002836.1_26336-33102
+OG0002205	XP_005843563.1 hypothetical protein CHLNCDRAFT_59811 [Chlorella variabilis]	QAXK01006533.1_2359-4576
+OG0002206	XP_005845784.1 hypothetical protein CHLNCDRAFT_10117_ partial [Chlorella variabilis]	QAXK01001756.1_16985-18889
+OG0002211	XP_005846232.1 hypothetical protein CHLNCDRAFT_25137 [Chlorella variabilis]	QAXK01002337.1_17192-14208
+OG0002212	XP_005848910.1 hypothetical protein CHLNCDRAFT_144336 [Chlorella variabilis]	QAXK01004985.1_1921-3702
+OG0002214	XP_005846412.1 hypothetical protein CHLNCDRAFT_135512 [Chlorella variabilis]	QAXK01004099.1_10602-7616
+OG0002216	XP_005844466.1 hypothetical protein CHLNCDRAFT_138791 [Chlorella variabilis]	QAXK01008333.1_5211-755
+OG0002218	XP_005851667.1 hypothetical protein CHLNCDRAFT_56430 [Chlorella variabilis]	QAXK01008568.1_4370-1172
+OG0002219	XP_005846808.1 hypothetical protein CHLNCDRAFT_135366_ partial [Chlorella variabilis]	QAXK01000926.1_8546-11734
+OG0002221	XP_005844566.1 hypothetical protein CHLNCDRAFT_138790 [Chlorella variabilis]	QAXK01000669.1_13732-11344
+OG0002223	XP_005844198.1 hypothetical protein CHLNCDRAFT_139383 [Chlorella variabilis]	QAXK01002445.1_7314-8396
+OG0002227	XP_005851401.1 hypothetical protein CHLNCDRAFT_137657 [Chlorella variabilis]	QAXK01002658.1_19503-16448
+OG0002228	XP_005851107.1 hypothetical protein CHLNCDRAFT_48459 [Chlorella variabilis]	QAXK01005657.1_4133-2964
+OG0002229	XP_005851402.1 hypothetical protein CHLNCDRAFT_7238_ partial [Chlorella variabilis]	QAXK01012523.1_554-5993
+OG0002231	XP_005845215.1 hypothetical protein CHLNCDRAFT_26239 [Chlorella variabilis]	QAXK01000465.1_13752-12830
+OG0002232	XP_005847385.1 hypothetical protein CHLNCDRAFT_57928 [Chlorella variabilis]	QAXK01003345.1_4291-6594
+OG0002233	XP_005848528.1 hypothetical protein CHLNCDRAFT_35169 [Chlorella variabilis]	QAXK01000437.1_11961-16259
+OG0002235	XP_005848524.1 hypothetical protein CHLNCDRAFT_51897 [Chlorella variabilis]	QAXK01001803.1_9702-7639
+OG0002238	XP_005852114.1 hypothetical protein CHLNCDRAFT_55933 [Chlorella variabilis]	QAXK01001182.1_10605-8247
+OG0002241	XP_005846821.1 40S ribosomal protein S14 [Chlorella variabilis]	QAXK01018825.1_5368-4150
+OG0002243	XP_005844162.1 hypothetical protein CHLNCDRAFT_139286 [Chlorella variabilis]	QAXK01000459.1_16579-20716
+OG0002246	XP_005849051.1 hypothetical protein CHLNCDRAFT_143500 [Chlorella variabilis]	QAXK01004963.1_17662-16561
+OG0002250	XP_005846668.1 hypothetical protein CHLNCDRAFT_53051 [Chlorella variabilis]	QAXK01009768.1_6744-3068
+OG0002257	XP_005851941.1 hypothetical protein CHLNCDRAFT_48441 [Chlorella variabilis]	QAXK01003840.1_2463-275
+OG0002262	XP_005848671.1 hypothetical protein CHLNCDRAFT_144240 [Chlorella variabilis]	QAXK01009985.1_8201-11435
+OG0002280	XP_005850951.1 hypothetical protein CHLNCDRAFT_34185 [Chlorella variabilis]	QAXK01000180.1_9982-8131
+OG0002282	XP_005846229.1 hypothetical protein CHLNCDRAFT_31689 [Chlorella variabilis]	QAXK01000502.1_36980-37941
+OG0002289	XP_005847955.1 hypothetical protein CHLNCDRAFT_22749 [Chlorella variabilis], XP_005847956.1 hypothetical protein CHLNCDRAFT_22676_ partial [Chlorella variabilis]	QAXK01009887.1_2599-389
+OG0002367	XP_005846946.1 hypothetical protein CHLNCDRAFT_134882 [Chlorella variabilis]	QAXK01000828.1_1794-5888
+OG0002368	XP_005847088.1 hypothetical protein CHLNCDRAFT_134783 [Chlorella variabilis]	QAXK01012125.1_2420-651
+OG0002374	XP_005843853.1 hypothetical protein CHLNCDRAFT_49159 [Chlorella variabilis]	QAXK01003443.1_1888-4145
+OG0002375	XP_005846945.1 hypothetical protein CHLNCDRAFT_48897 [Chlorella variabilis]	QAXK01000611.1_344-2643
+OG0002377	XP_005843851.1 hypothetical protein CHLNCDRAFT_32827 [Chlorella variabilis]	QAXK01000070.1_5006-2926
+OG0002391	XP_005845580.1 hypothetical protein CHLNCDRAFT_56260 [Chlorella variabilis]	QAXK01001032.1_529-3021
+OG0002392	XP_005849320.1 hypothetical protein CHLNCDRAFT_21511 [Chlorella variabilis]	QAXK01004092.1_39419-40407
+OG0002393	XP_005843152.1 thioredoxin domain 2 [Chlorella variabilis]	QAXK01004425.1_5700-7015
+OG0002398	XP_005849113.1 hypothetical protein CHLNCDRAFT_143677 [Chlorella variabilis]	QAXK01007630.1_3354-1779
+OG0002400	XP_005849321.1 hypothetical protein CHLNCDRAFT_143678 [Chlorella variabilis]	QAXK01009758.1_1852-165
+OG0002402	XP_005845552.1 hypothetical protein CHLNCDRAFT_36420 [Chlorella variabilis]	QAXK01006527.1_8708-6017
+OG0002404	XP_005845583.1 hypothetical protein CHLNCDRAFT_25653 [Chlorella variabilis]	QAXK01000840.1_31502-30180
+OG0002407	XP_005842937.1 hypothetical protein CHLNCDRAFT_141799 [Chlorella variabilis]	QAXK01002424.1_5771-2597
+OG0002409	XP_005844800.1 hypothetical protein CHLNCDRAFT_138698 [Chlorella variabilis]	QAXK01003096.1_14696-17609
+OG0002410	XP_005844279.1 hypothetical protein CHLNCDRAFT_37029 [Chlorella variabilis]	QAXK01000328.1_7305-8962
+OG0002415	XP_005842718.1 hypothetical protein CHLNCDRAFT_28947 [Chlorella variabilis]	QAXK01018530.1_1173-3834
+OG0002417	XP_005851892.1 hypothetical protein CHLNCDRAFT_18725 [Chlorella variabilis]	QAXK01014946.1_5937-4091
+OG0002421	XP_005850494.1 DNA polymerase delta subunit [Chlorella variabilis]	QAXK01000019.1_127-3831
+OG0002424	XP_005843415.1 hypothetical protein CHLNCDRAFT_55270 [Chlorella variabilis]	QAXK01004230.1_13015-11861
+OG0002429	XP_005847890.1 hypothetical protein CHLNCDRAFT_22901 [Chlorella variabilis]	QAXK01018188.1_2713-2029
+OG0002433	XP_005848065.1 hypothetical protein CHLNCDRAFT_145279 [Chlorella variabilis]	QAXK01010016.1_2591-4898
+OG0002435	XP_005849797.1 hypothetical protein CHLNCDRAFT_34665 [Chlorella variabilis]	QAXK01006642.1_4903-8475
+OG0002439	XP_005849465.1 hypothetical protein CHLNCDRAFT_142741 [Chlorella variabilis]	QAXK01006012.1_4611-6378
+OG0002441	XP_005849743.1 hypothetical protein CHLNCDRAFT_21048 [Chlorella variabilis]	QAXK01000523.1_8909-7053
+OG0002447	XP_005849526.1 hypothetical protein CHLNCDRAFT_21245 [Chlorella variabilis]	QAXK01011649.1_6227-2645
+OG0002451	XP_005848344.1 hypothetical protein CHLNCDRAFT_48753 [Chlorella variabilis]	QAXK01000979.1_11011-9108
+OG0002454	XP_005845395.1 hypothetical protein CHLNCDRAFT_25875 [Chlorella variabilis]	QAXK01017228.1_872-211
+OG0002461	XP_005849658.1 hypothetical protein CHLNCDRAFT_34767 [Chlorella variabilis]	QAXK01008372.1_4504-1777
+OG0002470	XP_005847527.1 hypothetical protein CHLNCDRAFT_134584 [Chlorella variabilis]	QAXK01004760.1_349-2010
+OG0002473	XP_005844143.1 hypothetical protein CHLNCDRAFT_54625 [Chlorella variabilis]	QAXK01005580.1_145-5612
+OG0002481	XP_005849842.1 hypothetical protein CHLNCDRAFT_143002 [Chlorella variabilis]	QAXK01019295.1_5920-5732
+OG0002489	XP_005843739.1 hypothetical protein CHLNCDRAFT_27798_ partial [Chlorella variabilis]	QAXK01011332.1_7730-6306
+OG0002490	XP_005843896.1 hypothetical protein CHLNCDRAFT_139756 [Chlorella variabilis]	QAXK01005493.1_5709-8739
+OG0002491	XP_005850669.1 hypothetical protein CHLNCDRAFT_140708 [Chlorella variabilis]	QAXK01001982.1_13111-9273
+OG0002493	XP_005843392.1 hypothetical protein CHLNCDRAFT_141230 [Chlorella variabilis]	QAXK01003356.1_3976-6343
+OG0002501	XP_005843953.1 hypothetical protein CHLNCDRAFT_59114 [Chlorella variabilis]	QAXK01015333.1_8887-6386
+OG0002502	XP_005847916.1 hypothetical protein CHLNCDRAFT_35269 [Chlorella variabilis]	QAXK01004701.1_7826-2022
+OG0002509	XP_005846785.1 hypothetical protein CHLNCDRAFT_135301 [Chlorella variabilis]	QAXK01002072.1_7784-4601
+OG0002520	XP_005847375.1 hypothetical protein CHLNCDRAFT_134191 [Chlorella variabilis]	QAXK01004095.1_2354-706
+OG0002524	XP_005846917.1 hypothetical protein CHLNCDRAFT_134811 [Chlorella variabilis]	QAXK01000577.1_7847-8807
+OG0002525	XP_005847372.1 hypothetical protein CHLNCDRAFT_23464 [Chlorella variabilis]	QAXK01004000.1_12088-10081
+OG0002540	XP_005846446.1 hypothetical protein CHLNCDRAFT_9535_ partial [Chlorella variabilis]	QAXK01000802.1_2542-6601
+OG0002550	XP_005843504.1 hypothetical protein CHLNCDRAFT_37436 [Chlorella variabilis]	QAXK01001082.1_16962-21149
+OG0002551	XP_005844202.1 hypothetical protein CHLNCDRAFT_56335 [Chlorella variabilis]	QAXK01000484.1_4718-2307
+OG0002552	XP_005848911.1 hypothetical protein CHLNCDRAFT_17690_ partial [Chlorella variabilis]	QAXK01001169.1_7647-4609
+OG0002561	XP_005844399.1 hypothetical protein CHLNCDRAFT_36871 [Chlorella variabilis]	QAXK01000325.1_52702-51360
+OG0002563	XP_005852185.1 hypothetical protein CHLNCDRAFT_18295 [Chlorella variabilis]	QAXK01010777.1_196-929
+OG0002569	XP_005850168.1 hypothetical protein CHLNCDRAFT_57128 [Chlorella variabilis]	QAXK01008095.1_6073-1465
+OG0002570	XP_005846461.1 hypothetical protein CHLNCDRAFT_58265 [Chlorella variabilis]	QAXK01004879.1_5868-4307
+OG0002572	XP_005844882.1 hypothetical protein CHLNCDRAFT_58754 [Chlorella variabilis]	QAXK01003017.1_10269-9177
+OG0002575	XP_005851754.1 hypothetical protein CHLNCDRAFT_133134 [Chlorella variabilis]	QAXK01018811.1_5082-3547
+OG0002581	XP_005843212.1 hypothetical protein CHLNCDRAFT_28371 [Chlorella variabilis]	QAXK01000799.1_52275-51787
+OG0002588	XP_005843513.1 hypothetical protein CHLNCDRAFT_28079_ partial [Chlorella variabilis]	QAXK01006532.1_11118-4758
+OG0002596	XP_005844749.1 malate dehydrogenase_ cytoplasmic [Chlorella variabilis]	QAXK01013827.1_4630-1867
+OG0002601	XP_005851022.1 hypothetical protein CHLNCDRAFT_34254 [Chlorella variabilis]	QAXK01013188.1_5354-2685
+OG0002604	XP_005843161.1 hypothetical protein CHLNCDRAFT_28367 [Chlorella variabilis]	QAXK01003755.1_5170-9460
+OG0002608	XP_005848267.1 hypothetical protein CHLNCDRAFT_57612_ partial [Chlorella variabilis]	QAXK01001306.1_3606-5501
+OG0002610	XP_005846536.1 hypothetical protein CHLNCDRAFT_135827 [Chlorella variabilis]	QAXK01006881.1_2636-4947
+OG0002611	XP_005846533.1 hypothetical protein CHLNCDRAFT_14420_ partial [Chlorella variabilis]	QAXK01008206.1_13328-14330
+OG0002613	XP_005846362.1 hypothetical protein CHLNCDRAFT_58309 [Chlorella variabilis]	QAXK01001336.1_4314-5769
+OG0002615	XP_005844611.1 hypothetical protein CHLNCDRAFT_26827 [Chlorella variabilis]	QAXK01018285.1_3833-2399
+OG0002620	XP_005851786.1 hypothetical protein CHLNCDRAFT_56513 [Chlorella variabilis]	QAXK01005400.1_31209-29659
+OG0002627	XP_005848545.1 hypothetical protein CHLNCDRAFT_48757 [Chlorella variabilis]	QAXK01000679.1_20862-23970
+OG0002632	XP_005848356.1 hypothetical protein CHLNCDRAFT_30881 [Chlorella variabilis]	QAXK01000208.1_858-3327
+OG0002633	XP_005849535.1 hypothetical protein CHLNCDRAFT_16774_ partial [Chlorella variabilis]	QAXK01015735.1_789-3208
+OG0002634	XP_005848745.1 hypothetical protein CHLNCDRAFT_144447 [Chlorella variabilis]	QAXK01005319.1_15043-16886
+OG0002641	XP_005844917.1 hypothetical protein CHLNCDRAFT_138485 [Chlorella variabilis]	QAXK01001768.1_11195-11945
+OG0002642	XP_005852175.1 hypothetical protein CHLNCDRAFT_59537 [Chlorella variabilis]	QAXK01002348.1_6292-8730
+OG0002654	XP_005848256.1 hypothetical protein CHLNCDRAFT_57607 [Chlorella variabilis]	QAXK01008540.1_14282-12509
+OG0002656	XP_005846060.1 hypothetical protein CHLNCDRAFT_14518_ partial [Chlorella variabilis]	QAXK01008693.1_1704-2778
+OG0002657	XP_005848250.1 hypothetical protein CHLNCDRAFT_51790 [Chlorella variabilis]	QAXK01001396.1_8898-9977
+OG0002663	XP_005842960.1 hypothetical protein CHLNCDRAFT_59830 [Chlorella variabilis]	QAXK01005614.1_2666-5868
+OG0002665	XP_005844037.1 hypothetical protein CHLNCDRAFT_9497_ partial [Chlorella variabilis]	QAXK01013120.1_9967-12816
+OG0002670	XP_005843714.1 hypothetical protein CHLNCDRAFT_27787_ partial [Chlorella variabilis]	QAXK01006673.1_15764-13631
+OG0002674	XP_005843022.1 hypothetical protein CHLNCDRAFT_141711 [Chlorella variabilis]	QAXK01009777.1_8817-6577
+OG0002680	XP_005843003.1 hypothetical protein CHLNCDRAFT_141731 [Chlorella variabilis]	QAXK01002348.1_28743-27471
+OG0002684	XP_005848863.1 hypothetical protein CHLNCDRAFT_57491 [Chlorella variabilis]	QAXK01009099.1_14211-12777
+OG0002690	XP_005844978.1 hypothetical protein CHLNCDRAFT_26344 [Chlorella variabilis]	QAXK01002281.1_18158-20087
+OG0002691	XP_005848285.1 hypothetical protein CHLNCDRAFT_30799 [Chlorella variabilis]	QAXK01017025.1_286-4417
+OG0002692	XP_005844862.1 hypothetical protein CHLNCDRAFT_48299 [Chlorella variabilis]	QAXK01018733.1_2749-2003
+OG0002693	XP_005851574.1 hypothetical protein CHLNCDRAFT_18967 [Chlorella variabilis]	QAXK01001086.1_9229-7556
+OG0002695	XP_005852143.1 hypothetical protein CHLNCDRAFT_133267 [Chlorella variabilis]	QAXK01007477.1_3698-5226
+OG0002710	XP_005846608.1 hypothetical protein CHLNCDRAFT_135218 [Chlorella variabilis]	QAXK01005359.1_3667-6796
+OG0002711	XP_005852191.1 hypothetical protein CHLNCDRAFT_18754_ partial [Chlorella variabilis], XP_005851505.1 hypothetical protein CHLNCDRAFT_33857 [Chlorella variabilis]	QAXK01000142.1_2803-4675
+OG0002714	XP_005849628.1 hypothetical protein CHLNCDRAFT_11464_ partial [Chlorella variabilis]	QAXK01008206.1_4068-2028
+OG0002716	XP_005843294.1 hypothetical protein CHLNCDRAFT_56407 [Chlorella variabilis]	QAXK01002299.1_25676-26628
+OG0002723	XP_005844003.1 hypothetical protein CHLNCDRAFT_27382 [Chlorella variabilis]	QAXK01001735.1_19259-17991
+OG0002725	XP_005844013.1 hypothetical protein CHLNCDRAFT_139542 [Chlorella variabilis]	QAXK01014870.1_4125-17
+OG0002728	XP_005844529.1 hypothetical protein CHLNCDRAFT_36846 [Chlorella variabilis]	QAXK01001551.1_13518-17077
+OG0002729	XP_005844108.1 hypothetical protein CHLNCDRAFT_139544_ partial [Chlorella variabilis]	QAXK01006977.1_27647-33279
+OG0002737	XP_005851444.1 hypothetical protein CHLNCDRAFT_137774 [Chlorella variabilis]	QAXK01003565.1_11016-9575
+OG0002740	XP_005850764.1 hypothetical protein CHLNCDRAFT_13632_ partial [Chlorella variabilis]	QAXK01008073.1_769-1809
+OG0002747	XP_005847764.1 hypothetical protein CHLNCDRAFT_23258 [Chlorella variabilis]	QAXK01003905.1_20331-25213
+OG0002748	XP_005851053.1 hypothetical protein CHLNCDRAFT_19755 [Chlorella variabilis]	QAXK01006264.1_6024-5189
+OG0002758	XP_005849988.1 hypothetical protein CHLNCDRAFT_141902 [Chlorella variabilis]	QAXK01000240.1_34950-34312
+OG0002759	XP_005842836.1 hypothetical protein CHLNCDRAFT_33393 [Chlorella variabilis]	QAXK01007099.1_3453-8857
+OG0002761	XP_005846403.1 hypothetical protein CHLNCDRAFT_135487 [Chlorella variabilis]	QAXK01001947.1_20720-25947
+OG0002768	XP_005847729.1 hypothetical protein CHLNCDRAFT_133791 [Chlorella variabilis]	QAXK01003475.1_1733-1302
+OG0002771	XP_005850599.1 expressed protein [Chlorella variabilis]	QAXK01011921.1_1066-3701
+OG0002772	XP_005851016.1 hypothetical protein CHLNCDRAFT_140862 [Chlorella variabilis]	QAXK01003475.1_2682-4175
+OG0002773	XP_005849286.1 hypothetical protein CHLNCDRAFT_34863 [Chlorella variabilis]	QAXK01017743.1_4283-978
+OG0002777	XP_005844235.1 hypothetical protein CHLNCDRAFT_27061 [Chlorella variabilis]	QAXK01014000.1_19150-23189
+OG0002778	XP_005844609.1 hypothetical protein CHLNCDRAFT_49093 [Chlorella variabilis]	QAXK01002678.1_2058-278
+OG0002781	XP_005850851.1 hypothetical protein CHLNCDRAFT_140453 [Chlorella variabilis]	QAXK01008309.1_4393-845
+OG0002791	XP_005850219.1 hypothetical protein CHLNCDRAFT_57163 [Chlorella variabilis]	QAXK01006910.1_4587-4039
+OG0002793	XP_005844387.1 hypothetical protein CHLNCDRAFT_139027 [Chlorella variabilis]	QAXK01003026.1_6033-13877
+OG0002799	XP_005844721.1 hypothetical protein CHLNCDRAFT_138690 [Chlorella variabilis]	QAXK01000454.1_923-1568
+OG0002810	XP_005850821.1 hypothetical protein CHLNCDRAFT_140375 [Chlorella variabilis]	QAXK01009911.1_30762-28414
+OG0002812	XP_005846994.1 hypothetical protein CHLNCDRAFT_24112 [Chlorella variabilis]	QAXK01008556.1_5708-3352
+OG0002818	XP_005850517.1 hypothetical protein CHLNCDRAFT_140360 [Chlorella variabilis]	QAXK01001221.1_1240-326
+OG0002819	XP_005850523.1 hypothetical protein CHLNCDRAFT_19624 [Chlorella variabilis]	QAXK01001402.1_3021-777
+OG0002820	XP_005850516.1 hypothetical protein CHLNCDRAFT_12117_ partial [Chlorella variabilis]	QAXK01007101.1_2486-3500
+OG0002821	XP_005851641.1 hypothetical protein CHLNCDRAFT_18984_ partial [Chlorella variabilis]	QAXK01001240.1_4320-118
+OG0002827	XP_005846933.1 hypothetical protein CHLNCDRAFT_134850 [Chlorella variabilis]	QAXK01001575.1_9213-11802
+OG0002829	XP_005846920.1 hypothetical protein CHLNCDRAFT_24090 [Chlorella variabilis]	QAXK01008464.1_4921-314
+OG0002831	XP_005847096.1 hypothetical protein CHLNCDRAFT_134805 [Chlorella variabilis]	QAXK01009471.1_2975-111
+OG0002842	XP_005850248.1 hypothetical protein CHLNCDRAFT_141923 [Chlorella variabilis]	QAXK01002063.1_17610-18209
+OG0002848	XP_005843901.1 hypothetical protein CHLNCDRAFT_139764 [Chlorella variabilis]	QAXK01011190.1_3792-5177
+OG0002852	XP_005847578.1 hypothetical protein CHLNCDRAFT_133833 [Chlorella variabilis]	QAXK01002795.1_1894-3499
+OG0002853	XP_005850271.1 hypothetical protein CHLNCDRAFT_11561_ partial [Chlorella variabilis]	QAXK01006222.1_6005-7514
+OG0002854	XP_005850027.1 hypothetical protein CHLNCDRAFT_142001 [Chlorella variabilis]	QAXK01000274.1_4441-2040
+OG0002871	XP_005844861.1 hypothetical protein CHLNCDRAFT_26451_ partial [Chlorella variabilis]	QAXK01001665.1_2326-3883
+OG0002877	XP_005844072.1 hypothetical protein CHLNCDRAFT_37075 [Chlorella variabilis]	QAXK01001383.1_16600-17459
+OG0002889	XP_005847829.1 hypothetical protein CHLNCDRAFT_134051 [Chlorella variabilis]	QAXK01014533.1_1995-3733
+OG0002890	XP_005848191.1 hypothetical protein CHLNCDRAFT_145612 [Chlorella variabilis]	QAXK01012468.1_6191-5064
+OG0002892	XP_005847700.1 phosphoribulokinase precursor_ partial [Chlorella variabilis]	QAXK01004675.1_1944-4753
+OG0002895	XP_005847645.1 hypothetical protein CHLNCDRAFT_133992 [Chlorella variabilis]	QAXK01006273.1_11056-8644
+OG0002898	XP_005850526.1 hypothetical protein CHLNCDRAFT_34039 [Chlorella variabilis]	QAXK01013787.1_6935-10103
+OG0002900	XP_005846147.1 hypothetical protein CHLNCDRAFT_136117 [Chlorella variabilis]	QAXK01000573.1_11483-12681
+OG0002903	XP_005849676.1 hypothetical protein CHLNCDRAFT_20834 [Chlorella variabilis]	QAXK01008701.1_3697-2030
+OG0002915	XP_005846853.1 hypothetical protein CHLNCDRAFT_134653 [Chlorella variabilis]	QAXK01000080.1_1794-5623
+OG0002916	XP_005851190.1 hypothetical protein CHLNCDRAFT_56722 [Chlorella variabilis]	QAXK01010627.1_8219-6389
+OG0002918	XP_005850875.1 hypothetical protein CHLNCDRAFT_19664 [Chlorella variabilis]	QAXK01005102.1_8833-5901
+OG0002927	XP_005847782.1 hypothetical protein CHLNCDRAFT_133923 [Chlorella variabilis]	QAXK01012487.1_1571-2566
+OG0002931	XP_005849944.1 hypothetical protein CHLNCDRAFT_34805 [Chlorella variabilis]	QAXK01009697.1_3987-6949
+OG0002938	XP_005847021.1 hypothetical protein CHLNCDRAFT_134630 [Chlorella variabilis]	QAXK01014057.1_8141-7852
+OG0002940	XP_005847026.1 hypothetical protein CHLNCDRAFT_23947 [Chlorella variabilis]	QAXK01000147.1_17903-18595
+OG0002946	XP_005851597.1 hypothetical protein CHLNCDRAFT_33926 [Chlorella variabilis]	QAXK01002261.1_40148-34742
+OG0002948	XP_005851200.1 hypothetical protein CHLNCDRAFT_137880 [Chlorella variabilis]	QAXK01005661.1_3614-5576
+OG0002955	XP_005847027.1 hypothetical protein CHLNCDRAFT_11894_ partial [Chlorella variabilis]	QAXK01003496.1_4117-1328
+OG0002962	XP_005847470.1 hypothetical protein CHLNCDRAFT_35621 [Chlorella variabilis]	QAXK01002423.1_4870-1549
+OG0002965	XP_005844595.1 hypothetical protein CHLNCDRAFT_58862 [Chlorella variabilis]	QAXK01009311.1_5086-9550
+OG0002969	XP_005847306.1 hypothetical protein CHLNCDRAFT_14184_ partial [Chlorella variabilis]	QAXK01007111.1_9724-10631
+OG0002971	XP_005849373.1 hypothetical protein CHLNCDRAFT_21686 [Chlorella variabilis]	QAXK01004485.1_1816-3388
+OG0002988	XP_005844117.1 hypothetical protein CHLNCDRAFT_27289 [Chlorella variabilis]	QAXK01005019.1_7837-6195
+OG0002994	XP_005846441.1 hypothetical protein CHLNCDRAFT_17561_ partial [Chlorella variabilis]	QAXK01008641.1_5826-4936
+OG0002996	XP_005851902.1 hypothetical protein CHLNCDRAFT_133517 [Chlorella variabilis]	QAXK01008356.1_1994-1323
+OG0003000	XP_005847851.1 hypothetical protein CHLNCDRAFT_134092 [Chlorella variabilis], XP_005851922.1 hypothetical protein CHLNCDRAFT_18066_ partial [Chlorella variabilis]	QAXK01018219.1_153-1479
+OG0003006	XP_005852269.1 hypothetical protein CHLNCDRAFT_33699 [Chlorella variabilis]	QAXK01009127.1_2830-5632
+OG0003009	XP_005852245.1 hypothetical protein CHLNCDRAFT_133558 [Chlorella variabilis]	QAXK01001726.1_8268-6818
+OG0003011	XP_005847212.1 hypothetical protein CHLNCDRAFT_35878 [Chlorella variabilis]	QAXK01014149.1_4580-2650
+OG0003015	XP_005845004.1 hypothetical protein CHLNCDRAFT_7539_ partial [Chlorella variabilis]	QAXK01017394.1_3188-4
+OG0003017	XP_005843939.1 hypothetical protein CHLNCDRAFT_59785 [Chlorella variabilis]	QAXK01001070.1_5974-4798
+OG0003026	XP_005847581.1 hypothetical protein CHLNCDRAFT_23150_ partial [Chlorella variabilis]	QAXK01001672.1_6564-5317
+OG0003036	XP_005850190.1 hypothetical protein CHLNCDRAFT_57142 [Chlorella variabilis]	QAXK01000724.1_14653-15848
+OG0003041	XP_005844487.1 hypothetical protein CHLNCDRAFT_138831 [Chlorella variabilis]	QAXK01001704.1_7113-6556
+OG0003042	XP_005846272.1 hypothetical protein CHLNCDRAFT_58253 [Chlorella variabilis]	QAXK01014526.1_3534-6424
+OG0003049	XP_005849038.1 hypothetical protein CHLNCDRAFT_143470 [Chlorella variabilis]	QAXK01005731.1_3330-6743
+OG0003059	XP_005850549.1 hypothetical protein CHLNCDRAFT_48112 [Chlorella variabilis]	QAXK01007133.1_7499-8797
+OG0003064	XP_005847413.1 hypothetical protein CHLNCDRAFT_134278 [Chlorella variabilis]	QAXK01005457.1_8974-4681
+OG0003068	XP_005847405.1 hypothetical protein CHLNCDRAFT_23687_ partial [Chlorella variabilis]	QAXK01015536.1_9170-6903
+OG0003075	XP_005851177.1 hypothetical protein CHLNCDRAFT_18937 [Chlorella variabilis]	QAXK01016351.1_22-2386
+OG0003087	XP_005847622.1 hypothetical protein CHLNCDRAFT_23208 [Chlorella variabilis]	QAXK01003513.1_13194-9646
+OG0003091	XP_005845989.1 hypothetical protein CHLNCDRAFT_58364 [Chlorella variabilis]	QAXK01014943.1_5708-4249
+OG0003097	XP_005844042.1 hypothetical protein CHLNCDRAFT_11521_ partial [Chlorella variabilis]	QAXK01008899.1_16518-18484
+OG0003105	XP_005845823.1 hypothetical protein CHLNCDRAFT_58500 [Chlorella variabilis]	QAXK01001158.1_6748-4261
+OG0003107	XP_005843492.1 hypothetical protein CHLNCDRAFT_141008 [Chlorella variabilis]	QAXK01014862.1_4087-1458
+OG0003111	XP_005852084.1 hypothetical protein CHLNCDRAFT_133107 [Chlorella variabilis]	QAXK01008798.1_739-2238
+OG0003123	XP_005851674.1 hypothetical protein CHLNCDRAFT_132916 [Chlorella variabilis]	QAXK01008567.1_4740-6650
+OG0003125	XP_005846681.1 hypothetical protein CHLNCDRAFT_135406 [Chlorella variabilis]	QAXK01001243.1_11567-10056
+OG0003126	XP_005843614.1 hypothetical protein CHLNCDRAFT_59225 [Chlorella variabilis]	QAXK01016483.1_12203-9679
+OG0003127	XP_005843467.1 hypothetical protein CHLNCDRAFT_55198 [Chlorella variabilis]	QAXK01017290.1_11269-8021
+OG0003129	XP_005849905.1 hypothetical protein CHLNCDRAFT_143180 [Chlorella variabilis]	QAXK01002314.1_19744-18688
+OG0003133	XP_005851464.1 hypothetical protein CHLNCDRAFT_137823 [Chlorella variabilis]	QAXK01000525.1_12654-17162
+OG0003137	XP_005846793.1 hypothetical protein CHLNCDRAFT_24479 [Chlorella variabilis]	QAXK01001082.1_3989-724
+OG0003142	XP_005851410.1 hypothetical protein CHLNCDRAFT_137672 [Chlorella variabilis]	QAXK01011367.1_1094-2688
+OG0003148	XP_005848508.1 hypothetical protein CHLNCDRAFT_35154 [Chlorella variabilis]	QAXK01012193.1_12536-14034
+OG0003149	XP_005846677.1 hypothetical protein CHLNCDRAFT_35967 [Chlorella variabilis]	QAXK01012663.1_1560-2913
+OG0003151	XP_005848519.1 hypothetical protein CHLNCDRAFT_13502_ partial [Chlorella variabilis]	QAXK01010249.1_1617-3048
+OG0003152	XP_005849892.1 hypothetical protein CHLNCDRAFT_21212_ partial [Chlorella variabilis]	QAXK01003852.1_5090-8561
+OG0003157	XP_005845214.1 hypothetical protein CHLNCDRAFT_26293_ partial [Chlorella variabilis]	QAXK01018936.1_2-1001
+OG0003160	XP_005844155.1 hypothetical protein CHLNCDRAFT_56324 [Chlorella variabilis]	QAXK01000595.1_5567-8159
+OG0003164	XP_005845210.1 hypothetical protein CHLNCDRAFT_26258 [Chlorella variabilis]	QAXK01009877.1_4970-2684
+OG0003167	XP_005848319.1 hypothetical protein CHLNCDRAFT_144988 [Chlorella variabilis]	QAXK01014051.1_13887-12133
+OG0003172	XP_005848341.1 hypothetical protein CHLNCDRAFT_48752 [Chlorella variabilis]	QAXK01000415.1_5823-6484
+OG0003191	XP_005851899.1 hypothetical protein CHLNCDRAFT_33649 [Chlorella variabilis]	QAXK01004389.1_4946-6334
+OG0003196	XP_005848392.1 hypothetical protein CHLNCDRAFT_144676 [Chlorella variabilis]	QAXK01000596.1_17342-21595
+OG0003197	XP_005848504.1 hypothetical protein CHLNCDRAFT_30835 [Chlorella variabilis]	QAXK01003298.1_5048-551
+OG0003198	XP_005848231.1 hypothetical protein CHLNCDRAFT_48732 [Chlorella variabilis]	QAXK01002898.1_4695-10345
+OG0003204	XP_005850465.1 hypothetical protein CHLNCDRAFT_142438 [Chlorella variabilis]	QAXK01006378.1_2719-127
+OG0003209	XP_005848310.1 hypothetical protein CHLNCDRAFT_22556_ partial [Chlorella variabilis]	QAXK01011390.1_6757-10508
+OG0003212	XP_005845123.1 hypothetical protein CHLNCDRAFT_26298_ partial [Chlorella variabilis]	QAXK01003629.1_5946-3703
+OG0003217	XP_005846545.1 hypothetical protein CHLNCDRAFT_31860 [Chlorella variabilis]	QAXK01017651.1_111-3535
+OG0003218	XP_005846486.1 hypothetical protein CHLNCDRAFT_10776_ partial [Chlorella variabilis]	QAXK01003131.1_36278-34367
+OG0003219	XP_005846447.1 hypothetical protein CHLNCDRAFT_24942_ partial [Chlorella variabilis]	QAXK01002499.1_5466-6313
+OG0003220	XP_005845492.1 hypothetical protein CHLNCDRAFT_25917 [Chlorella variabilis]	QAXK01004108.1_13829-15654
+OG0003226	XP_005847048.1 hypothetical protein CHLNCDRAFT_134697 [Chlorella variabilis]	QAXK01003220.1_8522-13953
+OG0003227	XP_005847344.1 hypothetical protein CHLNCDRAFT_23797 [Chlorella variabilis]	QAXK01003375.1_5219-43
+OG0003230	XP_005845642.1 hypothetical protein CHLNCDRAFT_32096 [Chlorella variabilis]	QAXK01000382.1_1570-3458
+OG0003235	XP_005850991.1 hypothetical protein CHLNCDRAFT_19514 [Chlorella variabilis]	QAXK01014478.1_11654-8522
+OG0003239	XP_005849360.1 hypothetical protein CHLNCDRAFT_12433_ partial [Chlorella variabilis]	QAXK01009911.1_3900-1880
+OG0003243	XP_005850683.1 hypothetical protein CHLNCDRAFT_19955 [Chlorella variabilis]	QAXK01012462.1_308-2720
+OG0003248	XP_005850481.1 hypothetical protein CHLNCDRAFT_56820 [Chlorella variabilis]	QAXK01003339.1_1231-2678
+OG0003249	XP_005846887.1 hypothetical protein CHLNCDRAFT_23959 [Chlorella variabilis]	QAXK01001710.1_3704-3307
+OG0003250	XP_005849840.1 hypothetical protein CHLNCDRAFT_56079 [Chlorella variabilis]	QAXK01003319.1_3618-13354
+OG0003251	XP_005843478.1 hypothetical protein CHLNCDRAFT_7260_ partial [Chlorella variabilis]	QAXK01015706.1_7236-11105
+OG0003252	XP_005844434.1 hypothetical protein CHLNCDRAFT_139139 [Chlorella variabilis]	QAXK01000655.1_17305-22319
+OG0003253	XP_005848485.1 hypothetical protein CHLNCDRAFT_35116 [Chlorella variabilis]	QAXK01000965.1_18464-16425
+OG0003254	XP_005850909.1 hypothetical protein CHLNCDRAFT_19893 [Chlorella variabilis]	QAXK01000983.1_27514-29192
+OG0003255	XP_005845006.1 hypothetical protein CHLNCDRAFT_54240 [Chlorella variabilis]	QAXK01010066.1_5264-7166
+OG0003256	XP_005845389.1 hypothetical protein CHLNCDRAFT_25996 [Chlorella variabilis]	QAXK01014762.1_15208-13635
+OG0003257	XP_005851581.1 hypothetical protein CHLNCDRAFT_33911 [Chlorella variabilis]	QAXK01001567.1_22308-20679
+OG0003258	XP_005847439.1 hypothetical protein CHLNCDRAFT_35608 [Chlorella variabilis], XP_005847440.1 expressed protein [Chlorella variabilis]	QAXK01005019.1_6054-4921
+OG0003259	XP_005844163.1 hypothetical protein CHLNCDRAFT_139288 [Chlorella variabilis]	QAXK01003400.1_3813-5064
+OG0003357	XP_005849205.1 expressed protein [Chlorella variabilis]	QAXK01001354.1_4891-5217
+OG0003361	XP_005846902.1 hypothetical protein CHLNCDRAFT_14368_ partial [Chlorella variabilis]	QAXK01008796.1_1534-1839
+OG0003363	XP_005845670.1 hypothetical protein CHLNCDRAFT_25702 [Chlorella variabilis]	QAXK01009044.1_6855-8605
+OG0003365	XP_005845578.1 hypothetical protein CHLNCDRAFT_11505_ partial [Chlorella variabilis]	QAXK01013436.1_3075-257
+OG0003376	XP_005845686.1 hypothetical protein CHLNCDRAFT_58544 [Chlorella variabilis]	QAXK01015973.1_3186-2635
+OG0003378	XP_005842843.1 hypothetical protein CHLNCDRAFT_37706 [Chlorella variabilis]	QAXK01007832.1_7613-8663
+OG0003389	XP_005850987.1 hypothetical protein CHLNCDRAFT_140797 [Chlorella variabilis]	QAXK01000807.1_2417-1282
+OG0003390	XP_005847631.1 hypothetical protein CHLNCDRAFT_133965 [Chlorella variabilis]	QAXK01002975.1_1945-3061
+OG0003400	XP_005852224.1 hypothetical protein CHLNCDRAFT_133483 [Chlorella variabilis]	QAXK01011269.1_6226-3244
+OG0003418	XP_005849745.1 hypothetical protein CHLNCDRAFT_50882 [Chlorella variabilis]	QAXK01004430.1_3720-2428
+OG0003427	XP_005850731.1 hypothetical protein CHLNCDRAFT_140856 [Chlorella variabilis]	QAXK01017428.1_6517-5288
+OG0003452	XP_005848804.1 hypothetical protein CHLNCDRAFT_144074 [Chlorella variabilis]	QAXK01012596.1_9132-5856
+OG0003462	XP_005849378.1 hypothetical protein CHLNCDRAFT_9043_ partial [Chlorella variabilis]	QAXK01004703.1_12039-13879
+OG0003465	XP_005849683.1 hypothetical protein CHLNCDRAFT_17719_ partial [Chlorella variabilis]	QAXK01007075.1_15495-16375
+OG0003474	XP_005847978.1 ribosomal protein L7 [Chlorella variabilis]	QAXK01010270.1_2969-2237
+OG0003481	XP_005852014.1 hypothetical protein CHLNCDRAFT_132948 [Chlorella variabilis]	QAXK01002106.1_10876-11265
+OG0003502	XP_005846326.1 hypothetical protein CHLNCDRAFT_36106 [Chlorella variabilis]	QAXK01000365.1_3565-4942
+OG0003538	XP_005848476.1 hypothetical protein CHLNCDRAFT_12757_ partial [Chlorella variabilis]	QAXK01008337.1_3990-5243
+OG0003568	XP_005850626.1 hypothetical protein CHLNCDRAFT_56903 [Chlorella variabilis]	QAXK01002228.1_1968-3201
+OG0003579	XP_005850621.1 hypothetical protein CHLNCDRAFT_56897 [Chlorella variabilis]	QAXK01005668.1_9092-7561
+OG0003601	XP_005848541.1 hypothetical protein CHLNCDRAFT_22413 [Chlorella variabilis]	QAXK01016048.1_1933-545
+OG0003625	XP_005846207.1 hypothetical protein CHLNCDRAFT_25164 [Chlorella variabilis]	QAXK01001997.1_7467-5438
+OG0003643	XP_005843021.1 hypothetical protein CHLNCDRAFT_28585 [Chlorella variabilis]	QAXK01000249.1_16165-13537
+OG0003666	XP_005846737.1 hypothetical protein CHLNCDRAFT_17312_ partial [Chlorella variabilis]	QAXK01003616.1_6090-7285
+OG0003671	XP_005846603.1 hypothetical protein CHLNCDRAFT_135209 [Chlorella variabilis]	QAXK01000459.1_9787-9028
+OG0003672	XP_005850234.1 hypothetical protein CHLNCDRAFT_14837_ partial [Chlorella variabilis]	QAXK01004402.1_2407-3301
+OG0003677	XP_005844495.1 hypothetical protein CHLNCDRAFT_138851 [Chlorella variabilis], XP_005846565.1 hypothetical protein CHLNCDRAFT_24529 [Chlorella variabilis]	QAXK01010442.1_6499-5620
+OG0003687	XP_005849182.1 hypothetical protein CHLNCDRAFT_143848 [Chlorella variabilis]	QAXK01006494.1_1594-1032
+OG0003693	XP_005851274.1 hypothetical protein CHLNCDRAFT_138056 [Chlorella variabilis]	QAXK01003706.1_3896-8573
+OG0003731	XP_005851522.1 hypothetical protein CHLNCDRAFT_49975 [Chlorella variabilis]	QAXK01017356.1_2411-500
+OG0003744	XP_005843837.1 expressed protein [Chlorella variabilis]	QAXK01009613.1_9396-10310
+OG0003746	XP_005845477.1 hypothetical protein CHLNCDRAFT_25984 [Chlorella variabilis]	QAXK01004123.1_13625-15399
+OG0003755	XP_005844253.1 hypothetical protein CHLNCDRAFT_32658 [Chlorella variabilis]	QAXK01002565.1_12559-10828
+OG0003771	XP_005843298.1 hypothetical protein CHLNCDRAFT_141372 [Chlorella variabilis]	QAXK01010052.1_3190-4640
+OG0003773	XP_005847133.1 hypothetical protein CHLNCDRAFT_134874 [Chlorella variabilis]	QAXK01014932.1_4139-2485
+OG0003794	XP_005849811.1 hypothetical protein CHLNCDRAFT_142929 [Chlorella variabilis]	QAXK01000557.1_206-3811
+OG0003824	XP_005848008.1 hypothetical protein CHLNCDRAFT_22742 [Chlorella variabilis]	QAXK01001158.1_26014-28604
+OG0003826	XP_005847862.1 hypothetical protein CHLNCDRAFT_23163 [Chlorella variabilis]	QAXK01015643.1_1434-3404
+OG0003838	XP_005847689.1 hypothetical protein CHLNCDRAFT_134109 [Chlorella variabilis]	QAXK01001081.1_3765-5510
+OG0003847	XP_005846145.1 hypothetical protein CHLNCDRAFT_25191_ partial [Chlorella variabilis]	QAXK01000325.1_43378-42220
+OG0003849	XP_005850635.1 hypothetical protein CHLNCDRAFT_50320 [Chlorella variabilis]	QAXK01010227.1_9762-8151
+OG0003850	XP_005846090.1 hypothetical protein CHLNCDRAFT_25175_ partial [Chlorella variabilis]	QAXK01003563.1_5026-2636
+OG0003861	XP_005843620.1 hypothetical protein CHLNCDRAFT_37407 [Chlorella variabilis]	QAXK01001160.1_34552-35942
+OG0003904	XP_005846778.1 hypothetical protein CHLNCDRAFT_24644 [Chlorella variabilis]	QAXK01003852.1_2138-563
+OG0003944	XP_005847213.1 hypothetical protein CHLNCDRAFT_135034 [Chlorella variabilis]	QAXK01005846.1_7514-8614
+OG0003947	XP_005843937.1 hypothetical protein CHLNCDRAFT_139686 [Chlorella variabilis]	QAXK01000042.1_9232-7900
+OG0003954	XP_005848030.1 hypothetical protein CHLNCDRAFT_145198 [Chlorella variabilis]	QAXK01004732.1_20335-21271
+OG0003964	XP_005849240.1 hypothetical protein CHLNCDRAFT_30526 [Chlorella variabilis]	QAXK01001551.1_63875-64499
+OG0003973	XP_005848562.1 hypothetical protein CHLNCDRAFT_51950 [Chlorella variabilis]	QAXK01005150.1_10239-11440
+OG0003976	XP_005850431.1 hypothetical protein CHLNCDRAFT_9763_ partial [Chlorella variabilis]	QAXK01008391.1_3155-4981
+OG0003980	XP_005846422.1 hypothetical protein CHLNCDRAFT_13220_ partial [Chlorella variabilis]	QAXK01001710.1_16426-15281
+OG0003985	XP_005850547.1 hypothetical protein CHLNCDRAFT_19917 [Chlorella variabilis]	QAXK01006679.1_5844-7981
+OG0003999	XP_005847252.1 hypothetical protein CHLNCDRAFT_134242 [Chlorella variabilis]	QAXK01017848.1_6990-5867
+OG0004036	XP_005843592.1 hypothetical protein CHLNCDRAFT_27994 [Chlorella variabilis]	QAXK01001182.1_6681-8037
+OG0004052	XP_005851167.1 hypothetical protein CHLNCDRAFT_33822 [Chlorella variabilis]	QAXK01018827.1_2147-2783
+OG0004119	XP_005851930.1 hypothetical protein CHLNCDRAFT_29371 [Chlorella variabilis]	QAXK01011975.1_26427-25164
+OG0004127	XP_005844007.1 hypothetical protein CHLNCDRAFT_32779 [Chlorella variabilis]	QAXK01002477.1_12495-11499
+OG0004131	XP_005848391.1 hypothetical protein CHLNCDRAFT_144675 [Chlorella variabilis]	QAXK01008931.1_8768-10630
+OG0004161	XP_005843404.1 hypothetical protein CHLNCDRAFT_59293 [Chlorella variabilis]	QAXK01003741.1_3586-2152
+OG0004173	XP_005846451.1 hypothetical protein CHLNCDRAFT_135604 [Chlorella variabilis]	QAXK01003131.1_14822-17632
+OG0004188	XP_005849837.1 hypothetical protein CHLNCDRAFT_142990 [Chlorella variabilis]	QAXK01000965.1_13792-15638
+OG0004195	XP_005851035.1 hypothetical protein CHLNCDRAFT_48564 [Chlorella variabilis]	QAXK01002159.1_9033-7570
+OG0004221	XP_005850459.1 hypothetical protein CHLNCDRAFT_142429 [Chlorella variabilis]	QAXK01006710.1_2565-2167
+OG0004222	XP_005850857.1 hypothetical protein CHLNCDRAFT_140465 [Chlorella variabilis]	QAXK01017090.1_773-1260
+OG0004223	XP_005844246.1 hypothetical protein CHLNCDRAFT_27021 [Chlorella variabilis]	QAXK01019447.1_2073-2396
+OG0004224	XP_005847156.1 hypothetical protein CHLNCDRAFT_24125_ partial [Chlorella variabilis]	QAXK01003931.1_8204-3520
+OG0004225	XP_005851791.1 hypothetical protein CHLNCDRAFT_33543 [Chlorella variabilis]	QAXK01001471.1_7507-5855
+OG0004226	XP_005850742.1 hypothetical protein CHLNCDRAFT_10350_ partial [Chlorella variabilis]	QAXK01014810.1_5618-8818
+OG0004228	XP_005843260.1 hypothetical protein CHLNCDRAFT_141384 [Chlorella variabilis]	QAXK01010701.1_10887-7922
+OG0004229	XP_005850980.1 hypothetical protein CHLNCDRAFT_19706_ partial [Chlorella variabilis]	QAXK01014803.1_67-2405
+OG0004230	XP_005845406.1 hypothetical protein CHLNCDRAFT_25936 [Chlorella variabilis]	QAXK01004000.1_7642-5232
+OG0004231	XP_005850975.1 hypothetical protein CHLNCDRAFT_140762 [Chlorella variabilis]	QAXK01004677.1_1252-4060
+OG0004232	XP_005847872.1 hypothetical protein CHLNCDRAFT_23011 [Chlorella variabilis]	QAXK01001218.1_22461-19740
+OG0004233	XP_005852012.1 hypothetical protein CHLNCDRAFT_132943 [Chlorella variabilis]	QAXK01001871.1_3231-1985
+OG0004234	XP_005852215.1 hypothetical protein CHLNCDRAFT_11851_ partial [Chlorella variabilis]	QAXK01003347.1_1758-3582
+OG0004235	XP_005843945.1 hypothetical protein CHLNCDRAFT_139708 [Chlorella variabilis]	QAXK01003902.1_8341-5830
+OG0004236	XP_005845341.1 hypothetical protein CHLNCDRAFT_59740 [Chlorella variabilis]	QAXK01008198.1_2951-5520
+OG0004237	XP_005848667.1 hypothetical protein CHLNCDRAFT_144236 [Chlorella variabilis]	QAXK01011268.1_2959-4791
+OG0004238	XP_005847842.1 hypothetical protein CHLNCDRAFT_52395 [Chlorella variabilis]	QAXK01018044.1_1256-217
+OG0004239	XP_005844008.1 hypothetical protein CHLNCDRAFT_139532 [Chlorella variabilis]	QAXK01009544.1_7380-9706
+OG0004240	XP_005843763.1 hypothetical protein CHLNCDRAFT_139870 [Chlorella variabilis]	QAXK01003572.1_4178-5128
+OG0004241	XP_005847446.1 hypothetical protein CHLNCDRAFT_134354 [Chlorella variabilis]	QAXK01011839.1_9-1697
+OG0004242	XP_005843607.1 hypothetical protein CHLNCDRAFT_140183 [Chlorella variabilis]	QAXK01001749.1_8132-6905
+OG0004243	XP_005850203.1 hypothetical protein CHLNCDRAFT_142424 [Chlorella variabilis]	QAXK01010227.1_10470-11308
+OG0004244	XP_005842945.1 hypothetical protein CHLNCDRAFT_49281 [Chlorella variabilis]	QAXK01015529.1_1845-2785
+OG0004245	XP_005847349.1 hypothetical protein CHLNCDRAFT_11532_ partial [Chlorella variabilis]	QAXK01011116.1_4220-2967
+OG0004246	XP_005849734.1 hypothetical protein CHLNCDRAFT_12490_ partial [Chlorella variabilis]	QAXK01001784.1_27630-25510
+OG0004247	XP_005844204.1 hypothetical protein CHLNCDRAFT_13794_ partial [Chlorella variabilis]	QAXK01003581.1_1217-562
+OG0004248	XP_005847898.1 expressed protein_ partial [Chlorella variabilis]	QAXK01004599.1_5331-3218
+OG0004249	XP_005850408.1 hypothetical protein CHLNCDRAFT_142305 [Chlorella variabilis]	QAXK01000848.1_19191-20023
+OG0004423	XP_005842882.1 hypothetical protein CHLNCDRAFT_142475 [Chlorella variabilis]	QAXK01000899.1_12678-10778
+OG0004581	XP_005848418.1 hypothetical protein CHLNCDRAFT_14905_ partial [Chlorella variabilis]	QAXK01003359.1_6916-7635
+OG0004622	XP_005848654.1 hypothetical protein CHLNCDRAFT_21830 [Chlorella variabilis]	QAXK01002638.1_6633-6327
+OG0004656	XP_005844490.1 hypothetical protein CHLNCDRAFT_26858_ partial [Chlorella variabilis]	QAXK01006388.1_12359-10899
+OG0004681	XP_005843794.1 hypothetical protein CHLNCDRAFT_139941 [Chlorella variabilis]	QAXK01001495.1_31486-30283
+OG0004710	XP_005843755.1 hypothetical protein CHLNCDRAFT_139846 [Chlorella variabilis]	QAXK01006037.1_46307-44794
+OG0004743	XP_005845994.1 hypothetical protein CHLNCDRAFT_136052 [Chlorella variabilis]	QAXK01002841.1_2718-1158
+OG0004765	XP_005843872.1 hypothetical protein CHLNCDRAFT_139725 [Chlorella variabilis]	QAXK01013662.1_15761-16601
+OG0004825	XP_005846188.1 hypothetical protein CHLNCDRAFT_136208 [Chlorella variabilis]	QAXK01012785.1_94-624
+OG0004901	XP_005843191.1 hypothetical protein CHLNCDRAFT_28362 [Chlorella variabilis]	QAXK01003939.1_11405-12434
+OG0004939	XP_005848035.1 hypothetical protein CHLNCDRAFT_22673 [Chlorella variabilis]	QAXK01014925.1_5002-6648
+OG0004940	XP_005850347.1 hypothetical protein CHLNCDRAFT_34387 [Chlorella variabilis]	QAXK01003992.1_14682-12697
+OG0004941	XP_005851044.1 hypothetical protein CHLNCDRAFT_9694_ partial [Chlorella variabilis]	QAXK01007127.1_5270-7296
+OG0004943	XP_005852002.1 hypothetical protein CHLNCDRAFT_132922 [Chlorella variabilis]	QAXK01000526.1_11161-10180
+OG0004944	XP_005847611.1 hypothetical protein CHLNCDRAFT_133914 [Chlorella variabilis]	QAXK01000032.1_16347-17734
+OG0004945	XP_005847227.1 hypothetical protein CHLNCDRAFT_134179 [Chlorella variabilis]	QAXK01002261.1_13670-14278
+OG0004946	XP_005846052.1 hypothetical protein CHLNCDRAFT_58404 [Chlorella variabilis]	QAXK01011417.1_18759-16577
+OG0005364	XP_005846751.1 hypothetical protein CHLNCDRAFT_31601 [Chlorella variabilis]	QAXK01008706.1_11935-11020
+OG0005372	XP_005844892.1 hypothetical protein CHLNCDRAFT_26436 [Chlorella variabilis]	QAXK01012603.1_2052-3066
+OG0005404	XP_005843292.1 hypothetical protein CHLNCDRAFT_141354 [Chlorella variabilis]	QAXK01000570.1_1207-4057
+OG0005613	XP_005851309.1 hypothetical protein CHLNCDRAFT_15743_ partial [Chlorella variabilis]	QAXK01006058.1_8137-6433
+OG0005614	XP_005849376.1 hypothetical protein CHLNCDRAFT_143846 [Chlorella variabilis]	QAXK01012020.1_2254-4849
+OG0005615	XP_005848497.1 hypothetical protein CHLNCDRAFT_22249 [Chlorella variabilis]	QAXK01002408.1_3172-1756

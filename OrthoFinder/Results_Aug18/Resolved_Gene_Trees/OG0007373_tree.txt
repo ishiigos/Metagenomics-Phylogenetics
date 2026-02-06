@@ -1,0 +1,1 @@
+(Coccomyxa_SubellipsoideaC169_EIE19221.1 amine oxidase _Coccomyxa subellipsoidea C-169_:0.346863,(Scenedesmus_PABB004_KAF8072874.1 PAO3 _Scenedesmus sp. PABB004_:0.43496,(Scenedesmus_NREL_KAF6238025.1 amine oxidase _Scenedesmus sp. NREL 46B-D3_:0.499596,Scenedesmus_NREL_KAF6266764.1 amine oxidase-like protein _Scenedesmus sp. NREL 46B-D3_:0.196493)n2:0.0218326)n1:0.031703)n0;

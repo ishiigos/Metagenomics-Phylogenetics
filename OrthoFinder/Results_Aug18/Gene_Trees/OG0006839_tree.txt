@@ -1,0 +1,1 @@
+(Chlorella_A99_PCFQ01000002.1 g684 _Chlorella sp. A99_:0.78816,(Chlorella_VariabilisNC64A_XP_005842648.1 expressed protein _Chlorella variabilis_:0.912793,(Chlorella_Sorokiniana1602_PRW20190.1 hypothetical protein C2E21_9235 _Chlorella sorokiniana_:0.560763,Chlorella_Vulgaris2111P_KAI3430658.1 hypothetical protein D9Q98_005250 _Chlorella vulgaris_:0.416992):0.304545):0.78816);

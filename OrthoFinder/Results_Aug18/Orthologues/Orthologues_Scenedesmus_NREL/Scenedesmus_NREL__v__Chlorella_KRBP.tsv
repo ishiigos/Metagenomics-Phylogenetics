@@ -1,0 +1,927 @@
+Orthogroup	Scenedesmus_NREL	Chlorella_KRBP
+OG0000005	KAF6246278.1 histone 2A variant [Scenedesmus sp. NREL 46B-D3], KAF6252076.1 hypothetical protein COO60DRAFT_1251114_ partial [Scenedesmus sp. NREL 46B-D3], KAF6252084.1 hypothetical protein COO60DRAFT_1257178_ partial [Scenedesmus sp. NREL 46B-D3], KAF6263025.1 histone-fold-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6254739.1 histone-fold-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6240835.1 histone-fold-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6262800.1 histone-fold-containing protein_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01016321.1_1655-2667
+OG0000013	KAF6252425.1 cobalt transport protein [Scenedesmus sp. NREL 46B-D3], KAF6250537.1 hypothetical protein COO60DRAFT_808178 [Scenedesmus sp. NREL 46B-D3], KAF6250536.1 hypothetical protein COO60DRAFT_1629611 [Scenedesmus sp. NREL 46B-D3], KAF6248250.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6263511.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6263514.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6250539.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6257324.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6255583.1 Snf1-like ser/thr protein kinase [Scenedesmus sp. NREL 46B-D3], KAF6258910.1 Snf1-like protein kinase [Scenedesmus sp. NREL 46B-D3], KAF6262199.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6256418.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6256672.1 Rab3 GTPase-activating protein catalytic subunit-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004822.1_8132-10307
+OG0000049	KAF6260775.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6250885.1 histidine phosphatase superfamily [Scenedesmus sp. NREL 46B-D3], KAF6260064.1 hypothetical protein COO60DRAFT_1686201 [Scenedesmus sp. NREL 46B-D3], KAF6254669.1 hypothetical protein COO60DRAFT_296766 [Scenedesmus sp. NREL 46B-D3], KAF6251092.1 eukaryotic translation initiation factor 2B alpha [Scenedesmus sp. NREL 46B-D3]	QAXK01004561.1_5673-2644
+OG0000059	KAF6256534.1 intramembrane metalloprotease [Scenedesmus sp. NREL 46B-D3], KAF6264360.1 CobW/HypB/UreG_ nucleotide-binding domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6256533.1 CobW/HypB/UreG_ nucleotide-binding domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6264285.1 CobW/HypB/UreG_ nucleotide-binding domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009817.1_2794-231
+OG0000060	KAF6264570.1 hypothetical protein COO60DRAFT_1698180 [Scenedesmus sp. NREL 46B-D3], KAF6252347.1 hypothetical protein COO60DRAFT_1644120 [Scenedesmus sp. NREL 46B-D3], KAF6250815.1 hypothetical protein COO60DRAFT_1298823 [Scenedesmus sp. NREL 46B-D3]	QAXK01006650.1_4897-1380
+OG0000095	KAF6265709.1 digestive organ expansion factor [Scenedesmus sp. NREL 46B-D3], KAF6265697.1 hypothetical protein COO60DRAFT_868721 [Scenedesmus sp. NREL 46B-D3], KAF6265696.1 hypothetical protein COO60DRAFT_868698 [Scenedesmus sp. NREL 46B-D3], KAF6250576.1 hypothetical protein COO60DRAFT_1705674 [Scenedesmus sp. NREL 46B-D3], KAF6251044.1 hypothetical protein COO60DRAFT_1645535 [Scenedesmus sp. NREL 46B-D3]	QAXK01000980.1_6477-3589
+OG0000100	KAF6264645.1 hypothetical protein COO60DRAFT_1470258 [Scenedesmus sp. NREL 46B-D3], KAF6261137.1 chaperonin 60A [Scenedesmus sp. NREL 46B-D3], KAF6259379.1 chaperonin 60B2 [Scenedesmus sp. NREL 46B-D3]	QAXK01004495.1_1525-5952
+OG0000102	KAF6252716.1 uracil-DNA glycosylase Ung2 [Scenedesmus sp. NREL 46B-D3], KAF6263529.1 ferredoxin-dependent glutamate synthase [Scenedesmus sp. NREL 46B-D3], KAF6263375.1 hypothetical protein COO60DRAFT_459133 [Scenedesmus sp. NREL 46B-D3], KAF6261166.1 uracil-DNA glycosylase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002229.1_29280-27595
+OG0000106	KAF6257191.1 aldose-1-epimerase [Scenedesmus sp. NREL 46B-D3], KAF6259777.1 galactose mutarotase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6264647.1 farnesyl-diphosphate farnesyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01000521.1_8215-4849
+OG0000116	KAF6260622.1 putative ferredoxin [Scenedesmus sp. NREL 46B-D3], KAF6251762.1 chloroplast ferredoxin [Scenedesmus sp. NREL 46B-D3], KAF6265058.1 2Fe-2S ferredoxin-type domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01010643.1_4647-4102
+OG0000126	KAF6255491.1 hypothetical protein COO60DRAFT_1535137 [Scenedesmus sp. NREL 46B-D3], KAF6259992.1 hypothetical protein COO60DRAFT_938415 [Scenedesmus sp. NREL 46B-D3], KAF6255492.1 sulfolipid synthase [Scenedesmus sp. NREL 46B-D3]	QAXK01000372.1_2577-4525
+OG0000128	KAF6259601.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3], KAF6259600.1 hypothetical protein COO60DRAFT_1638280 [Scenedesmus sp. NREL 46B-D3]	QAXK01009125.1_10140-8059
+OG0000137	KAF6266779.1 hypothetical protein COO60DRAFT_1473461 [Scenedesmus sp. NREL 46B-D3], KAF6266778.1 hypothetical protein COO60DRAFT_13571 [Scenedesmus sp. NREL 46B-D3], KAF6252752.1 hypothetical protein COO60DRAFT_502919 [Scenedesmus sp. NREL 46B-D3], KAF6253014.1 hypothetical protein COO60DRAFT_1670477 [Scenedesmus sp. NREL 46B-D3]	QAXK01002137.1_9267-10854
+OG0000152	KAF6252116.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6254693.1 kinase-like domain-containing protein_ partial [Scenedesmus sp. NREL 46B-D3], KAF6257891.1 kinase-like domain-containing protein_ partial [Scenedesmus sp. NREL 46B-D3], KAF6253092.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6260961.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008299.1_4185-5535
+OG0000163	KAF6262567.1 ARF-like small GTPase [Scenedesmus sp. NREL 46B-D3], KAF6252648.1 ARF/SAR superfamily small monomeric GTP binding protein [Scenedesmus sp. NREL 46B-D3], KAF6259562.1 ADP-ribosylation factor family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01013733.1_9353-8061
+OG0000165	KAF6251611.1 ClpP/crotonase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6251613.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3], KAF6259839.1 hypothetical protein COO60DRAFT_964545 [Scenedesmus sp. NREL 46B-D3], KAF6259838.1 hypothetical protein COO60DRAFT_964543 [Scenedesmus sp. NREL 46B-D3]	QAXK01004609.1_12369-13533
+OG0000175	KAF6259553.1 ribosomal protein L9 component of cytosolic 80S ribosome and 60S large subunit [Scenedesmus sp. NREL 46B-D3], KAF6259738.1 Mechanosensitive ion channel-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6256732.1 hypothetical protein COO60DRAFT_1461548 [Scenedesmus sp. NREL 46B-D3]	QAXK01006319.1_3560-2355
+OG0000177	KAF6252768.1 hypothetical protein COO60DRAFT_1628454 [Scenedesmus sp. NREL 46B-D3], KAF6266246.1 hypothetical protein COO60DRAFT_1470052 [Scenedesmus sp. NREL 46B-D3], KAF6252766.1 hypothetical protein COO60DRAFT_1643727 [Scenedesmus sp. NREL 46B-D3]	QAXK01000575.1_15675-16655
+OG0000187	KAF6259491.1 DNA repair metallo-beta-lactamase-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6259490.1 ATP-dependent DNA ligase [Scenedesmus sp. NREL 46B-D3], KAF6259489.1 putative DNA ligase [Scenedesmus sp. NREL 46B-D3], KAF6253198.1 ATP-dependent DNA ligase [Scenedesmus sp. NREL 46B-D3]	QAXK01014854.1_51-3845
+OG0000189	KAF6261506.1 ATPvL1m [Scenedesmus sp. NREL 46B-D3], KAF6254779.1 PAP2 superfamily C-terminal-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000217.1_14674-15859
+OG0000192	KAF6256084.1 cyclin-dependent kinase 1 [Scenedesmus sp. NREL 46B-D3]	QAXK01001504.1_2221-4972
+OG0000199	KAF6257908.1 hypothetical protein COO60DRAFT_1176070 [Scenedesmus sp. NREL 46B-D3]	QAXK01013035.1_1945-4404
+OG0000199	KAF6259718.1 hypothetical protein COO60DRAFT_1700679 [Scenedesmus sp. NREL 46B-D3], KAF6259716.1 hypothetical protein COO60DRAFT_1511685 [Scenedesmus sp. NREL 46B-D3]	QAXK01010173.1_3319-5256
+OG0000201	KAF6257784.1 RNA helicase_ activating signal cointegrator 1 [Scenedesmus sp. NREL 46B-D3], KAF6239466.1 P-loop containing nucleoside triphosphate hydrolase protein_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01000736.1_9467-8726
+OG0000207	KAF6251648.1 glycosyl transferase [Scenedesmus sp. NREL 46B-D3]	QAXK01001786.1_12609-11430
+OG0000215	KAF6250982.1 hypothetical protein COO60DRAFT_704582 [Scenedesmus sp. NREL 46B-D3]	QAXK01013809.1_3869-6090
+OG0000217	KAF6255849.1 hypothetical protein COO60DRAFT_167760 [Scenedesmus sp. NREL 46B-D3], KAF6263151.1 hypothetical protein COO60DRAFT_1293128 [Scenedesmus sp. NREL 46B-D3]	QAXK01003927.1_26651-24094
+OG0000222	KAF6266750.1 ClpP/crotonase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6266749.1 GDP-L-fucose synthetase [Scenedesmus sp. NREL 46B-D3], KAF6265501.1 RmlC-like cupin domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6259281.1 RmlC-like cupin domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005046.1_1470-3041
+OG0000225	KAF6251373.1 hypothetical protein COO60DRAFT_1704859 [Scenedesmus sp. NREL 46B-D3], KAF6259171.1 hypothetical protein COO60DRAFT_1047098 [Scenedesmus sp. NREL 46B-D3], KAF6251376.1 hypothetical protein COO60DRAFT_1704861 [Scenedesmus sp. NREL 46B-D3]	QAXK01000132.1_14211-8944
+OG0000226	KAF6266041.1 hypothetical protein COO60DRAFT_640239 [Scenedesmus sp. NREL 46B-D3], KAF6256557.1 HAD-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001147.1_264-2985
+OG0000234	KAF6259762.1 eukaryotic initiation factor 4A _ATP-dependent RNA helicase eIF4A_ [Scenedesmus sp. NREL 46B-D3]	QAXK01001703.1_3693-800
+OG0000234	KAF6254290.1 DEAD-box ATP-dependent RNA helicase 2-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001715.1_46567-44103
+OG0000243	KAF6256564.1 KRI1-like family C-terminal-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6256563.1 vitamin B12 dependent methionine synthase [Scenedesmus sp. NREL 46B-D3]	QAXK01017572.1_4284-1659
+OG0000255	KAF6265959.1 mitochondrial inner membrane signal peptidase [Scenedesmus sp. NREL 46B-D3], KAF6259925.1 mitochondrial inner membrane signal peptidase [Scenedesmus sp. NREL 46B-D3]	QAXK01003493.1_20875-19869
+OG0000256	KAF6253140.1 hypothetical protein COO60DRAFT_465048 [Scenedesmus sp. NREL 46B-D3], KAF6264364.1 hypothetical protein COO60DRAFT_1698391 [Scenedesmus sp. NREL 46B-D3]	QAXK01000928.1_4721-1230
+OG0000260	KAF6261620.1 UbiA prenyltransferase family [Scenedesmus sp. NREL 46B-D3], KAF6261618.1 hypothetical protein COO60DRAFT_742444 [Scenedesmus sp. NREL 46B-D3], KAF6262710.1 hypothetical protein COO60DRAFT_1624864 [Scenedesmus sp. NREL 46B-D3], KAF6262711.1 hypothetical protein COO60DRAFT_1293310 [Scenedesmus sp. NREL 46B-D3]	QAXK01007811.1_6343-7669
+OG0000262	KAF6252317.1 formate-tetrahydrofolate ligase [Scenedesmus sp. NREL 46B-D3], KAF6256327.1 hypothetical protein COO60DRAFT_1702395 [Scenedesmus sp. NREL 46B-D3], KAF6251003.1 hypothetical protein COO60DRAFT_1645666 [Scenedesmus sp. NREL 46B-D3], KAF6255554.1 hypothetical protein COO60DRAFT_1534327 [Scenedesmus sp. NREL 46B-D3], KAF6250525.1 component of oligomeric golgi complex 4_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01001305.1_3092-9737
+OG0000268	KAF6258185.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3], KAF6258184.1 phosphatase 2C-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01007959.1_4344-7510
+OG0000269	KAF6254813.1 hypothetical protein COO60DRAFT_282105 [Scenedesmus sp. NREL 46B-D3], KAF6253061.1 scamp family-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6264121.1 scamp family-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6254832.1 hypothetical protein COO60DRAFT_283071 [Scenedesmus sp. NREL 46B-D3]	QAXK01000159.1_2526-4128
+OG0000276	KAF6256473.1 hypothetical protein COO60DRAFT_1702335 [Scenedesmus sp. NREL 46B-D3], KAF6258440.1 hypothetical protein COO60DRAFT_1639124 [Scenedesmus sp. NREL 46B-D3], KAF6261834.1 hypothetical protein COO60DRAFT_725775 [Scenedesmus sp. NREL 46B-D3], KAF6261833.1 hypothetical protein COO60DRAFT_725809 [Scenedesmus sp. NREL 46B-D3], KAF6266662.1 ankyrin repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01013106.1_2869-3857
+OG0000290	KAF6256341.1 hypothetical protein COO60DRAFT_120150 [Scenedesmus sp. NREL 46B-D3], KAF6266475.1 peptidase family M1-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6266735.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01007708.1_8045-6769
+OG0000293	KAF6259679.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000427.1_18710-23853
+OG0000297	KAF6252055.1 major facilitator superfamily domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6260837.1 sialin [Scenedesmus sp. NREL 46B-D3]	QAXK01003382.1_7730-10683
+OG0000298	KAF6263169.1 hypothetical protein COO60DRAFT_511779 [Scenedesmus sp. NREL 46B-D3], KAF6257416.1 hypothetical protein COO60DRAFT_1226594 [Scenedesmus sp. NREL 46B-D3], KAF6264183.1 iron hydrogenase [Scenedesmus sp. NREL 46B-D3]	QAXK01006215.1_8306-11634
+OG0000299	KAF6250930.1 hypothetical protein COO60DRAFT_1645765 [Scenedesmus sp. NREL 46B-D3], KAF6265100.1 MAP kinase-like protein [Scenedesmus sp. NREL 46B-D3], KAF6265107.1 hypothetical protein COO60DRAFT_1697955 [Scenedesmus sp. NREL 46B-D3], KAF6258441.1 JAB1/Mov34/MPN/PAD-1 ubiquitin protease-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000488.1_8485-5165
+OG0000300	KAF6260239.1 inorganic pyrophosphatase precursor [Scenedesmus sp. NREL 46B-D3], KAF6260241.1 hypothetical protein COO60DRAFT_917990 [Scenedesmus sp. NREL 46B-D3]	QAXK01000495.1_4618-6885
+OG0000301	KAF6260690.1 PHM/PNGase F domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6260689.1 hypothetical protein COO60DRAFT_1294224 [Scenedesmus sp. NREL 46B-D3], KAF6253795.1 hypothetical protein COO60DRAFT_389579 [Scenedesmus sp. NREL 46B-D3]	QAXK01005324.1_4296-8149
+OG0000302	KAF6262826.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3], KAF6261897.1 cell division cycle protein 48 [Scenedesmus sp. NREL 46B-D3]	QAXK01009146.1_0-3841
+OG0000304	KAF6266399.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3], KAF6256538.1 hypothetical protein COO60DRAFT_1640613 [Scenedesmus sp. NREL 46B-D3], KAF6259325.1 hypothetical protein COO60DRAFT_1014637 [Scenedesmus sp. NREL 46B-D3]	QAXK01014492.1_877-182
+OG0000315	KAF6251725.1 R1 protein [Scenedesmus sp. NREL 46B-D3], KAF6251726.1 eukaryotic initiation factor [Scenedesmus sp. NREL 46B-D3]	QAXK01002353.1_19232-23410
+OG0000316	KAF6262133.1 6-phosphogluconate dehydrogenase [Scenedesmus sp. NREL 46B-D3], KAF6256549.1 XRN 5'-3' exonuclease N-terminus-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003905.1_19782-15375
+OG0000317	KAF6256363.1 26S proteasome regulatory complex [Scenedesmus sp. NREL 46B-D3], KAF6262077.1 26S proteasome regulatory subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01008437.1_3645-238
+OG0000320	KAF6259471.1 Arginase/deacetylase [Scenedesmus sp. NREL 46B-D3], KAF6257482.1 Arginase/deacetylase [Scenedesmus sp. NREL 46B-D3], KAF6257480.1 Flavokinase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008510.1_15994-20405
+OG0000321	KAF6262334.1 AP complex_ mu/sigma subunit [Scenedesmus sp. NREL 46B-D3], KAF6264873.1 putative clathrin coat assembly protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000378.1_25585-26545
+OG0000340	KAF6257731.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3], KAF6257735.1 ferrochelatase [Scenedesmus sp. NREL 46B-D3]	QAXK01005276.1_5688-3058
+OG0000352	KAF6252061.1 Rieske [2Fe-2S] iron-sulfur domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6255246.1 thioredoxin-like protein [Scenedesmus sp. NREL 46B-D3], KAF6252597.1 thioredoxin-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000899.1_7462-5804
+OG0000353	KAF6264048.1 Isy1-like splicing factor [Scenedesmus sp. NREL 46B-D3], KAF6253220.1 WD40 repeat-like protein [Scenedesmus sp. NREL 46B-D3], KAF6247242.1 WD40 repeat-like protein_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01000970.1_11060-12297
+OG0000355	KAF6261365.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6257415.1 ubiquitin elongating factor core-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000575.1_38061-33279
+OG0000356	KAF6253021.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3], KAF6264188.1 DEAD-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001458.1_25468-28021
+OG0000362	KAF6257186.1 Serine/threonine protein kinase 38-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002504.1_1584-235
+OG0000372	KAF6262399.1 Pescadillo N-terminus-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6261229.1 hypothetical protein COO60DRAFT_1621869 [Scenedesmus sp. NREL 46B-D3]	QAXK01000007.1_3483-1851
+OG0000374	KAF6265961.1 hypothetical protein COO60DRAFT_771840 [Scenedesmus sp. NREL 46B-D3], KAF6265935.1 shikimate kinase-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6255076.1 NADH_ubiquinone oxidoreductase 76 kDa subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01001576.1_25385-29462
+OG0000375	KAF6263856.1 CBF/Mak21 family-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6262971.1 4-aminobutyrate aminotransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01008707.1_239-2925
+OG0000383	KAF6256586.1 mitochondrial carrier domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6264115.1 mitochondrial carrier domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6232856.1 chloride channel [Scenedesmus sp. NREL 46B-D3]	QAXK01011194.1_5918-9002
+OG0000390	KAF6266773.1 hypothetical protein COO60DRAFT_1621378 [Scenedesmus sp. NREL 46B-D3]	QAXK01005078.1_1174-132
+OG0000390	KAF6248357.1 radical SAM enzyme [Scenedesmus sp. NREL 46B-D3], KAF6249263.1 hypothetical protein COO60DRAFT_985055 [Scenedesmus sp. NREL 46B-D3]	QAXK01003294.1_6337-3495
+OG0000394	KAF6263084.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3], KAF6263083.1 nucleoside phosphatase GDA1/CD39 [Scenedesmus sp. NREL 46B-D3], KAF6260856.1 nucleoside phosphatase family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008702.1_3083-212
+OG0000408	KAF6263152.1 SE-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6266502.1 tRNA synthetases class I _R_-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003094.1_1529-6518
+OG0000412	KAF6253511.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3], KAF6253528.1 hypothetical protein COO60DRAFT_408782 [Scenedesmus sp. NREL 46B-D3], KAF6259239.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01007672.1_3589-1228
+OG0000417	KAF6259459.1 kinase phosphorylation protein-domain-containing protein_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01003046.1_10052-9637
+OG0000418	KAF6252523.1 hypothetical protein COO60DRAFT_1471478 [Scenedesmus sp. NREL 46B-D3], KAF6262260.1 membrane AAA-metalloprotease [Scenedesmus sp. NREL 46B-D3]	QAXK01005097.1_6985-2749
+OG0000431	KAF6260591.1 allophanate hydrolase subunit 2-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6261061.1 hypothetical protein COO60DRAFT_1637104 [Scenedesmus sp. NREL 46B-D3], KAF6254124.1 hypothetical protein COO60DRAFT_352275 [Scenedesmus sp. NREL 46B-D3]	QAXK01001330.1_10692-5073
+OG0000443	KAF6262054.1 chorismate mutase [Scenedesmus sp. NREL 46B-D3], KAF6239459.1 chorismate mutase [Scenedesmus sp. NREL 46B-D3]	QAXK01002390.1_2379-454
+OG0000446	KAF6258032.1 hypothetical protein COO60DRAFT_1693831 [Scenedesmus sp. NREL 46B-D3], KAF6258033.1 hypothetical protein COO60DRAFT_1701513 [Scenedesmus sp. NREL 46B-D3], KAF6258448.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006391.1_1754-3793
+OG0000449	KAF6265130.1 hypothetical protein COO60DRAFT_1116784 [Scenedesmus sp. NREL 46B-D3], KAF6256020.1 hypothetical protein COO60DRAFT_1641046 [Scenedesmus sp. NREL 46B-D3]	QAXK01017753.1_1728-436
+OG0000452	KAF6253437.1 S-adenosyl-L-methionine-dependent methyltransferase [Scenedesmus sp. NREL 46B-D3], KAF6258428.1 component of the ESCRT-III complex [Scenedesmus sp. NREL 46B-D3]	QAXK01003135.1_2479-16
+OG0000455	KAF6258914.1 magnesium protoporphyrin IX S-adenosyl methionine O-methyl transferase chloroplast precursor [Scenedesmus sp. NREL 46B-D3], KAF6264410.1 armadillo-type protein [Scenedesmus sp. NREL 46B-D3]	QAXK01015054.1_2845-4309
+OG0000468	KAF6266086.1 ras family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006097.1_2371-905
+OG0000470	KAF6264278.1 pseudouridine synthase [Scenedesmus sp. NREL 46B-D3], KAF6264279.1 hypothetical protein COO60DRAFT_1281825 [Scenedesmus sp. NREL 46B-D3]	QAXK01000050.1_24428-29981
+OG0000471	KAF6264464.1 histone chaperone [Scenedesmus sp. NREL 46B-D3], KAF6252498.1 hTAFII28-like protein conserved region-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6264461.1 hypothetical protein COO60DRAFT_1484576 [Scenedesmus sp. NREL 46B-D3], KAF6264462.1 hypothetical protein COO60DRAFT_126418 [Scenedesmus sp. NREL 46B-D3]	QAXK01001670.1_7180-6388
+OG0000474	KAF6264185.1 hypothetical protein COO60DRAFT_223547 [Scenedesmus sp. NREL 46B-D3]	QAXK01000042.1_28045-28765
+OG0000479	KAF6260988.1 hypothetical protein COO60DRAFT_1700073 [Scenedesmus sp. NREL 46B-D3], KAF6256903.1 sister chromatid cohesion protein Dcc1 [Scenedesmus sp. NREL 46B-D3], KAF6256884.1 hypothetical protein COO60DRAFT_57976 [Scenedesmus sp. NREL 46B-D3]	QAXK01004028.1_58546-56431
+OG0000499	KAF6258970.1 hypothetical protein COO60DRAFT_1470849 [Scenedesmus sp. NREL 46B-D3], KAF6262532.1 hypothetical protein COO60DRAFT_1699247 [Scenedesmus sp. NREL 46B-D3], KAF6258971.1 hypothetical protein COO60DRAFT_1059082 [Scenedesmus sp. NREL 46B-D3], KAF6262531.1 hypothetical protein COO60DRAFT_1635883 [Scenedesmus sp. NREL 46B-D3]	QAXK01009964.1_53-2582
+OG0000501	KAF6255578.1 DHHC palmitoyltransferase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01015180.1_1811-4048
+OG0000501	KAF6262126.1 hypothetical protein COO60DRAFT_1282794 [Scenedesmus sp. NREL 46B-D3]	QAXK01019765.1_356-165
+OG0000506	KAF6261270.1 hypothetical protein COO60DRAFT_1699952 [Scenedesmus sp. NREL 46B-D3], KAF6250372.1 hypothetical protein COO60DRAFT_1629876 [Scenedesmus sp. NREL 46B-D3]	QAXK01002250.1_1739-4040
+OG0000512	KAF6263857.1 gamma-glutamylcysteine synthetase [Scenedesmus sp. NREL 46B-D3], KAF6257896.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000565.1_7520-10250
+OG0000517	KAF6249280.1 hypothetical protein COO60DRAFT_1706583 [Scenedesmus sp. NREL 46B-D3], KAF6263624.1 hypothetical protein COO60DRAFT_378802 [Scenedesmus sp. NREL 46B-D3]	QAXK01001595.1_3107-7081
+OG0000519	KAF6261511.1 TPR-like protein [Scenedesmus sp. NREL 46B-D3], KAF6261512.1 N-myristoyl transferase [Scenedesmus sp. NREL 46B-D3]	QAXK01004538.1_836-4145
+OG0000520	KAF6254643.1 3-oxo-5-alpha-steroid 4-dehydrogenase-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6254640.1 hypothetical protein COO60DRAFT_1664290 [Scenedesmus sp. NREL 46B-D3], KAF6263055.1 ribosomal protein S27a-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002274.1_7306-5678
+OG0000521	KAF6252631.1 hypothetical protein COO60DRAFT_1274199_ partial [Scenedesmus sp. NREL 46B-D3], KAF6263950.1 cysteine proteinase [Scenedesmus sp. NREL 46B-D3], KAF6260287.1 surface antigen-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000876.1_25410-28882
+OG0000522	KAF6260667.1 succinate dehydrogenase subunit b560 [Scenedesmus sp. NREL 46B-D3]	QAXK01010222.1_2855-4006
+OG0000528	KAF6256013.1 thylakoid lumen protein [Scenedesmus sp. NREL 46B-D3], KAF6254288.1 hypothetical protein COO60DRAFT_1541995_ partial [Scenedesmus sp. NREL 46B-D3], KAF6254283.1 hypothetical protein COO60DRAFT_1541839_ partial [Scenedesmus sp. NREL 46B-D3], KAF6254282.1 CRAL-TRIO domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01011871.1_1755-3976
+OG0000535	KAF6266655.1 kinesin family member 6 [Scenedesmus sp. NREL 46B-D3]	QAXK01008326.1_3715-2230
+OG0000542	KAF6250385.1 SM/Sec1-family protein [Scenedesmus sp. NREL 46B-D3], KAF6256996.1 hypothetical protein COO60DRAFT_1526179 [Scenedesmus sp. NREL 46B-D3]	QAXK01007731.1_21245-25168
+OG0000546	KAF6257944.1 Qa-snare protein_ Tlg2/Syntaxin16-family [Scenedesmus sp. NREL 46B-D3]	QAXK01003383.1_11610-10089
+OG0000552	KAF6252042.1 peptidase S10_ serine carboxypeptidase [Scenedesmus sp. NREL 46B-D3]	QAXK01001452.1_4877-8338
+OG0000565	KAF6250897.1 hypothetical protein COO60DRAFT_715515 [Scenedesmus sp. NREL 46B-D3], KAF6251047.1 3-dehydroquinate synthase-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6250896.1 3-dehydroquinate synthase [Scenedesmus sp. NREL 46B-D3], KAF6257116.1 hypothetical protein COO60DRAFT_40936 [Scenedesmus sp. NREL 46B-D3]	QAXK01012018.1_21-2846
+OG0000572	KAF6264865.1 CREB-binding protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002353.1_6519-15187
+OG0000573	KAF6254941.1 hypothetical protein COO60DRAFT_1703082 [Scenedesmus sp. NREL 46B-D3], KAF6262029.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003348.1_1486-6
+OG0000577	KAF6257785.1 eukaryotic translation initiation factor 3f [Scenedesmus sp. NREL 46B-D3], KAF6258062.1 TLC ATP/ADP transporter-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003132.1_5372-2862
+OG0000585	KAF6253097.1 hypothetical protein COO60DRAFT_1703986 [Scenedesmus sp. NREL 46B-D3], KAF6259402.1 hypothetical protein COO60DRAFT_1513169 [Scenedesmus sp. NREL 46B-D3], KAF6259403.1 mitochondrial carrier domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002652.1_31218-33264
+OG0000586	KAF6254748.1 NMT1/THI5 like-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6254749.1 mitochondrial processing peptidase alpha subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01001200.1_17606-19818
+OG0000594	KAF6253931.1 hypothetical protein COO60DRAFT_1703593 [Scenedesmus sp. NREL 46B-D3], KAF6263985.1 hypothetical protein COO60DRAFT_1258405_ partial [Scenedesmus sp. NREL 46B-D3], KAF6261593.1 hypothetical protein COO60DRAFT_1459090 [Scenedesmus sp. NREL 46B-D3], KAF6252403.1 solute carrier protein [Scenedesmus sp. NREL 46B-D3]	QAXK01013585.1_2213-468
+OG0000595	KAF6255346.1 small rab-related GTPase [Scenedesmus sp. NREL 46B-D3], KAF6253399.1 ras-related protein YPTC6 [Scenedesmus sp. NREL 46B-D3]	QAXK01010664.1_1473-417
+OG0000611	KAF6260522.1 hypothetical protein COO60DRAFT_1294336 [Scenedesmus sp. NREL 46B-D3]	QAXK01011586.1_4054-3461
+OG0000616	KAF6265002.1 hypothetical protein COO60DRAFT_1281606 [Scenedesmus sp. NREL 46B-D3]	QAXK01001265.1_8774-9883
+OG0000618	KAF6251048.1 ribosomal protein S8 [Scenedesmus sp. NREL 46B-D3], KAF6250898.1 component of cytosolic 80S ribosome and 40S small subunit [Scenedesmus sp. NREL 46B-D3], KAF6256221.1 mitochondrial K+-H+ exchange-related-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000835.1_1-309
+OG0000626	KAF6250382.1 hypothetical protein COO60DRAFT_1706034 [Scenedesmus sp. NREL 46B-D3], KAF6262746.1 SDA1-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003230.1_4778-8012
+OG0000635	KAF6252210.1 ribulose phosphate-3-epimerase chloroplast precursor [Scenedesmus sp. NREL 46B-D3], KAF6266665.1 Ribulose-phosphate 3-epimerase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004870.1_4878-5513
+OG0000637	KAF6261646.1 hypothetical protein COO60DRAFT_1283019 [Scenedesmus sp. NREL 46B-D3], KAF6261640.1 acyl-CoA N-acyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01001575.1_13855-13334
+OG0000638	KAF6249193.1 iron-sulfur cluster assembly protein [Scenedesmus sp. NREL 46B-D3], KAF6265415.1 FAE1/Type III polyketide synthase-like protein-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01010124.1_10448-8669
+OG0000649	KAF6254392.1 triose-phosphate transporter family-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6258687.1 diaminopimelate decarboxylase [Scenedesmus sp. NREL 46B-D3]	QAXK01000254.1_6101-3555
+OG0000653	KAF6266722.1 aspartate semialdehyde dehydrogenase [Scenedesmus sp. NREL 46B-D3], KAF6258595.1 hypothetical protein COO60DRAFT_1101716 [Scenedesmus sp. NREL 46B-D3]	QAXK01000123.1_7289-10291
+OG0000654	KAF6256078.1 Mur ligase [Scenedesmus sp. NREL 46B-D3], KAF6259155.1 hypothetical protein COO60DRAFT_1460310 [Scenedesmus sp. NREL 46B-D3]	QAXK01000799.1_92299-89512
+OG0000660	KAF6256393.1 leucine-rich repeat family protein [Scenedesmus sp. NREL 46B-D3], KAF6266345.1 component of 80S ribosome and 40S small subunit [Scenedesmus sp. NREL 46B-D3], KAF6257922.1 hypothetical protein COO60DRAFT_1521190_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01014960.1_11495-10348
+OG0000661	KAF6261306.1 hypothetical protein COO60DRAFT_1699870 [Scenedesmus sp. NREL 46B-D3]	QAXK01004242.1_3727-7707
+OG0000662	KAF6249725.1 hypothetical protein COO60DRAFT_1706386 [Scenedesmus sp. NREL 46B-D3], KAF6256312.1 hypothetical protein COO60DRAFT_1627219 [Scenedesmus sp. NREL 46B-D3]	QAXK01000452.1_6301-4533
+OG0000664	KAF6249780.1 hypothetical protein COO60DRAFT_1579329 [Scenedesmus sp. NREL 46B-D3], KAF6257804.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01015723.1_3192-4172
+OG0000671	KAF6256769.1 hypothetical protein COO60DRAFT_1296048 [Scenedesmus sp. NREL 46B-D3], KAF6256768.1 RNA polymerase Rpc34 subunit-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001535.1_15806-14316
+OG0000676	KAF6262523.1 hypothetical protein COO60DRAFT_1495501 [Scenedesmus sp. NREL 46B-D3]	QAXK01015338.1_519-166
+OG0000678	KAF6254309.1 E3 ubiquitin ligase [Scenedesmus sp. NREL 46B-D3], KAF6265082.1 Gar1/Naf1 RNA binding region-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001500.1_1992-2978
+OG0000679	KAF6264887.1 ribosomal protein L17 [Scenedesmus sp. NREL 46B-D3], KAF6264969.1 hypothetical protein COO60DRAFT_1694712_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01006881.1_8512-9541
+OG0000688	KAF6250964.1 hypothetical protein COO60DRAFT_1678393 [Scenedesmus sp. NREL 46B-D3], KAF6257766.1 glycoside hydrolase superfamily [Scenedesmus sp. NREL 46B-D3]	QAXK01003305.1_27047-24211
+OG0000689	KAF6261836.1 2-isopropylmalate synthase [Scenedesmus sp. NREL 46B-D3], KAF6259364.1 2-isopropylmalate synthase [Scenedesmus sp. NREL 46B-D3]	QAXK01001638.1_16082-13313
+OG0000691	KAF6255696.1 NAD_P_-binding protein [Scenedesmus sp. NREL 46B-D3], KAF6263832.1 hypothetical protein COO60DRAFT_1751935 [Scenedesmus sp. NREL 46B-D3], KAF6250067.1 hypothetical protein COO60DRAFT_912483 [Scenedesmus sp. NREL 46B-D3]	QAXK01001186.1_10565-8532
+OG0000693	KAF6259217.1 MRG-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6259714.1 dihydrouridine synthase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008377.1_3630-1851
+OG0000694	KAF6256705.1 hypothetical protein COO60DRAFT_1640499 [Scenedesmus sp. NREL 46B-D3], KAF6251786.1 hypothetical protein COO60DRAFT_584986 [Scenedesmus sp. NREL 46B-D3]	QAXK01012986.1_3546-2582
+OG0000697	KAF6260566.1 hypothetical protein COO60DRAFT_884459 [Scenedesmus sp. NREL 46B-D3], KAF6255221.1 peptide deformylase [Scenedesmus sp. NREL 46B-D3]	QAXK01000899.1_15443-14285
+OG0000704	KAF6253983.1 transmembrane protein 18-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006701.1_1896-1296
+OG0000730	KAF6256171.1 U4/U6 small nuclear ribonucleoprotein [Scenedesmus sp. NREL 46B-D3]	QAXK01001551.1_59690-63747
+OG0000732	KAF6242159.1 transcription factor S-II_ central domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6242161.1 major facilitator superfamily domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6242162.1 major facilitator superfamily domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003652.1_16558-15646
+OG0000734	KAF6262490.1 hypothetical protein COO60DRAFT_1699221 [Scenedesmus sp. NREL 46B-D3]	QAXK01007307.1_6962-7960
+OG0000735	KAF6259735.1 TBP-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01011105.1_8336-6488
+OG0000747	KAF6264347.1 Qc-SNARE_ Tlg1/Syntaxin 6-family [Scenedesmus sp. NREL 46B-D3]	QAXK01006607.1_16309-17535
+OG0000753	KAF6261754.1 succinate-CoA ligase beta chain [Scenedesmus sp. NREL 46B-D3], KAF6251499.1 succinate-CoA ligase beta chain [Scenedesmus sp. NREL 46B-D3], KAF6261753.1 succinate-CoA ligase beta chain [Scenedesmus sp. NREL 46B-D3], KAF6261752.1 succinate-CoA ligase beta chain [Scenedesmus sp. NREL 46B-D3]	QAXK01001647.1_3154-482
+OG0000764	KAF6261803.1 S-adenosyl-L-methionine-dependent methyltransferase [Scenedesmus sp. NREL 46B-D3], KAF6258457.1 S-adenosyl-L-methionine-dependent methyltransferase [Scenedesmus sp. NREL 46B-D3], KAF6261802.1 ankyrin repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005724.1_7661-4858
+OG0000770	KAF6256742.1 galactose mutarotase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003607.1_11324-13747
+OG0000774	KAF6264870.1 protein-tyrosine phosphatase-like protein [Scenedesmus sp. NREL 46B-D3], KAF6254095.1 protein-tyrosine phosphatase-like protein [Scenedesmus sp. NREL 46B-D3], KAF6265393.1 hypothetical protein COO60DRAFT_1623981 [Scenedesmus sp. NREL 46B-D3]	QAXK01004825.1_8965-10753
+OG0000777	KAF6263137.1 glyoxylase family protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002948.1_4354-3157
+OG0000778	KAF6252259.1 hypothetical protein COO60DRAFT_1297946 [Scenedesmus sp. NREL 46B-D3], KAF6250652.1 hypothetical protein COO60DRAFT_777883 [Scenedesmus sp. NREL 46B-D3]	QAXK01014006.1_1593-3302
+OG0000782	KAF6255083.1 divergent PAP2 family-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6259465.1 divergent PAP2 family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009651.1_2303-1712
+OG0000784	KAF6258975.1 nucleotide-diphospho-sugar transferase [Scenedesmus sp. NREL 46B-D3]	QAXK01014689.1_5406-4708
+OG0000786	KAF6263024.1 Fructosamine/Ketosamine-3-kinase [Scenedesmus sp. NREL 46B-D3]	QAXK01006828.1_9411-7696
+OG0000788	KAF6263716.1 centrin-2-like protein [Scenedesmus sp. NREL 46B-D3], KAF6253416.1 hypothetical protein COO60DRAFT_421039 [Scenedesmus sp. NREL 46B-D3], KAF6264950.1 hypothetical protein COO60DRAFT_1457367 [Scenedesmus sp. NREL 46B-D3], KAF6253417.1 hypothetical protein COO60DRAFT_1546978 [Scenedesmus sp. NREL 46B-D3], KAF6253413.1 caltractin [Scenedesmus sp. NREL 46B-D3]	QAXK01010339.1_3422-4517
+OG0000793	KAF6265964.1 RHD3/Sey1 [Scenedesmus sp. NREL 46B-D3], KAF6257729.1 BTB/POZ protein [Scenedesmus sp. NREL 46B-D3], KAF6265965.1 BTB/POZ protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000249.1_22218-16975
+OG0000799	KAF6253321.1 hypothetical protein COO60DRAFT_429579 [Scenedesmus sp. NREL 46B-D3]	QAXK01005565.1_18254-19052
+OG0000818	KAF6236640.1 mitochondrial carrier protein-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008587.1_153-1989
+OG0000819	KAF6254870.1 hypothetical protein COO60DRAFT_1641961 [Scenedesmus sp. NREL 46B-D3]	QAXK01003572.1_15443-13865
+OG0000827	KAF6266765.1 acetohydroxy acid isomeroreductase [Scenedesmus sp. NREL 46B-D3]	QAXK01003364.1_14418-18303
+OG0000828	KAF6263531.1 protein required for cyt b6 assembly [Scenedesmus sp. NREL 46B-D3], KAF6259378.1 ribosomal protein L21-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000782.1_20679-19905
+OG0000830	KAF6263671.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01013271.1_12309-15183
+OG0000838	KAF6263861.1 hypothetical protein COO60DRAFT_1624437 [Scenedesmus sp. NREL 46B-D3], KAF6260780.1 plastid division protein FtsZ2 [Scenedesmus sp. NREL 46B-D3], KAF6263141.1 hypothetical protein COO60DRAFT_1671815 [Scenedesmus sp. NREL 46B-D3]	QAXK01003718.1_1305-2104
+OG0000856	KAF6261243.1 hypothetical protein COO60DRAFT_1502974 [Scenedesmus sp. NREL 46B-D3]	QAXK01018212.1_1235-2568
+OG0000857	KAF6257329.1 HCO3 transporter family-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6257328.1 HCO3 transporter family-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6251213.1 DnaJ domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003829.1_4453-4800
+OG0000858	KAF6252976.1 peptidase M76 [Scenedesmus sp. NREL 46B-D3], KAF6263733.1 hypothetical protein COO60DRAFT_1634883 [Scenedesmus sp. NREL 46B-D3]	QAXK01000114.1_14115-13091
+OG0000882	KAF6263127.1 hypothetical protein COO60DRAFT_1698911 [Scenedesmus sp. NREL 46B-D3], KAF6257330.1 nuclease_ Rad2 family [Scenedesmus sp. NREL 46B-D3]	QAXK01006249.1_4939-7634
+OG0000890	KAF6255971.1 Hydantoinase B/oxoprolinase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001134.1_10091-19430
+OG0000898	KAF6251387.1 GNAT acetyltransferase 2-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6255647.1 GNAT acetyltransferase 2-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003876.1_5991-120
+OG0000899	KAF6256429.1 hypothetical protein COO60DRAFT_104562 [Scenedesmus sp. NREL 46B-D3]	QAXK01013989.1_346-4178
+OG0000908	KAF6251464.1 iron-sulfur cluster assembly protein IscA [Scenedesmus sp. NREL 46B-D3], KAF6262851.1 iron-sulfur cluster assembly protein IscA [Scenedesmus sp. NREL 46B-D3]	QAXK01003972.1_3812-4471
+OG0000925	KAF6256799.1 hypothetical protein COO60DRAFT_1702180 [Scenedesmus sp. NREL 46B-D3]	QAXK01005294.1_1798-325
+OG0000926	KAF6262791.1 armadillo-type protein [Scenedesmus sp. NREL 46B-D3], KAF6262792.1 hypothetical protein COO60DRAFT_1635625 [Scenedesmus sp. NREL 46B-D3]	QAXK01006171.1_11343-179
+OG0000932	KAF6260671.1 hypothetical protein COO60DRAFT_877155 [Scenedesmus sp. NREL 46B-D3], KAF6265463.1 hypothetical protein COO60DRAFT_1281356 [Scenedesmus sp. NREL 46B-D3]	QAXK01003666.1_997-2479
+OG0000934	KAF6257880.1 nucleotide-diphospho-sugar transferase [Scenedesmus sp. NREL 46B-D3], KAF6265116.1 nucleotide-diphospho-sugar transferase [Scenedesmus sp. NREL 46B-D3]	QAXK01002301.1_12772-10269
+OG0000936	KAF6256994.1 hypothetical protein COO60DRAFT_1702037 [Scenedesmus sp. NREL 46B-D3]	QAXK01016824.1_8642-5783
+OG0000942	KAF6253100.1 ankyrin repeat-containing domain protein_ partial [Scenedesmus sp. NREL 46B-D3], KAF6253101.1 DHHC palmitoyltransferase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000587.1_67122-65127
+OG0000950	KAF6254110.1 glycosyl hydrolases family 2_ TIM barrel domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6254109.1 hypothetical protein COO60DRAFT_1703503 [Scenedesmus sp. NREL 46B-D3]	QAXK01002497.1_4221-184
+OG0000953	KAF6260811.1 hypothetical protein COO60DRAFT_848775 [Scenedesmus sp. NREL 46B-D3], KAF6266627.1 COP9 signalosome complex subunit 2-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003575.1_2283-197
+OG0000971	KAF6261100.1 hypothetical protein COO60DRAFT_1682356 [Scenedesmus sp. NREL 46B-D3]	QAXK01002117.1_8261-6549
+OG0000972	KAF6260857.1 NADH dehydrogenase flavo protein 1 [Scenedesmus sp. NREL 46B-D3]	QAXK01000705.1_20067-23668
+OG0000974	KAF6260245.1 DEAD-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6242394.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004234.1_3012-6646
+OG0000975	KAF6255827.1 hypothetical protein COO60DRAFT_1702652 [Scenedesmus sp. NREL 46B-D3], KAF6256258.1 hypothetical protein COO60DRAFT_1530236 [Scenedesmus sp. NREL 46B-D3]	QAXK01000204.1_17480-21863
+OG0000993	KAF6262860.1 argininosuccinate synthase [Scenedesmus sp. NREL 46B-D3], KAF6262858.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000283.1_5726-3204
+OG0001052	KAF6255334.1 hypothetical protein COO60DRAFT_226811 [Scenedesmus sp. NREL 46B-D3]	QAXK01004375.1_5952-7899
+OG0001054	KAF6251457.1 mitochondrial substrate carrier protein [Scenedesmus sp. NREL 46B-D3], KAF6251459.1 mitochondrial substrate carrier_ partial [Scenedesmus sp. NREL 46B-D3], KAF6237335.1 mitochondrial substrate carrier protein [Scenedesmus sp. NREL 46B-D3]	QAXK01011306.1_4473-2613
+OG0001058	KAF6251942.1 hypothetical protein COO60DRAFT_1556043 [Scenedesmus sp. NREL 46B-D3]	QAXK01006232.1_3779-3289
+OG0001060	KAF6258226.1 nuclear RNA helicase-like protein Bat1 [Scenedesmus sp. NREL 46B-D3]	QAXK01001037.1_5070-1976
+OG0001061	KAF6259710.1 ribosomal protein S3Ae [Scenedesmus sp. NREL 46B-D3], KAF6259709.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005753.1_2076-3799
+OG0001062	KAF6258240.1 component of IIS longevity pathway SMK-1-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000341.1_1318-5933
+OG0001063	KAF6254566.1 selenide_ water dikinase [Scenedesmus sp. NREL 46B-D3]	QAXK01005942.1_10013-5629
+OG0001064	KAF6254616.1 signal peptide peptidase-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6260106.1 signal peptide peptidase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004812.1_12403-13506
+OG0001072	KAF6264611.1 hypothetical protein COO60DRAFT_73335 [Scenedesmus sp. NREL 46B-D3], KAF6264612.1 NUC121 domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000429.1_50912-41458
+OG0001074	KAF6257969.1 S-adenosyl-L-methionine synthetase [Scenedesmus sp. NREL 46B-D3], KAF6261472.1 S-adenosylmethionine synthase [Scenedesmus sp. NREL 46B-D3]	QAXK01000217.1_8076-10531
+OG0001079	KAF6257385.1 fumble-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6257411.1 fumble-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000446.1_57156-52957
+OG0001082	KAF6260362.1 hypothetical protein COO60DRAFT_900351 [Scenedesmus sp. NREL 46B-D3], KAF6260361.1 ATP synthase [Scenedesmus sp. NREL 46B-D3]	QAXK01005854.1_4720-5401
+OG0001088	KAF6262745.1 ribosomal protein L18A component of cytosolic 80S ribosome and 60S large subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01002175.1_7346-5749
+OG0001094	KAF6266742.1 hypothetical protein COO60DRAFT_11231 [Scenedesmus sp. NREL 46B-D3], KAF6266747.1 putative galactose kinase [Scenedesmus sp. NREL 46B-D3]	QAXK01001089.1_6956-8023
+OG0001095	KAF6261468.1 hypothetical protein COO60DRAFT_774232 [Scenedesmus sp. NREL 46B-D3], KAF6261490.1 eukaryotic translation initiation factor 5 [Scenedesmus sp. NREL 46B-D3]	QAXK01000217.1_13973-11099
+OG0001096	KAF6253902.1 putative MND1 domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005613.1_12658-11106
+OG0001099	KAF6253922.1 DNA-directed RNA polymerase II_ 36 kDa polypeptide [Scenedesmus sp. NREL 46B-D3]	QAXK01001823.1_3618-2631
+OG0001101	KAF6253322.1 eukaryotic translation initiation factor 3_ subunit 7 [Scenedesmus sp. NREL 46B-D3]	QAXK01003836.1_8909-3187
+OG0001103	KAF6252463.1 EMP/nonaspanin domain family protein [Scenedesmus sp. NREL 46B-D3], KAF6263028.1 EMP/nonaspanin domain family protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003163.1_8178-11099
+OG0001105	KAF6265837.1 hypothetical protein COO60DRAFT_1266128 [Scenedesmus sp. NREL 46B-D3]	QAXK01006902.1_4861-6562
+OG0001120	KAF6258950.1 RNA polymerase subunit [Scenedesmus sp. NREL 46B-D3], KAF6255074.1 DNA-directed RNA polymerase [Scenedesmus sp. NREL 46B-D3]	QAXK01002607.1_494-808
+OG0001122	KAF6260581.1 armadillo-type protein [Scenedesmus sp. NREL 46B-D3]	QAXK01010311.1_2932-555
+OG0001123	KAF6264690.1 pre-mRNA splicing factor component-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01007750.1_2281-4745
+OG0001133	KAF6254630.1 translation elongation factor_ mitochondrial [Scenedesmus sp. NREL 46B-D3]	QAXK01006196.1_4390-1589
+OG0001143	KAF6259029.1 hypothetical protein COO60DRAFT_1062256 [Scenedesmus sp. NREL 46B-D3], KAF6259027.1 hypothetical protein COO60DRAFT_1515824 [Scenedesmus sp. NREL 46B-D3]	QAXK01003700.1_2979-9653
+OG0001144	KAF6262497.1 autophagy protein [Scenedesmus sp. NREL 46B-D3], KAF6262496.1 Metalloenzyme_ LuxS/M16 peptidase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003900.1_2413-4929
+OG0001154	KAF6265118.1 hypothetical protein COO60DRAFT_1116131 [Scenedesmus sp. NREL 46B-D3]	QAXK01011150.1_3959-2216
+OG0001156	KAF6260396.1 hypothetical protein COO60DRAFT_1294458 [Scenedesmus sp. NREL 46B-D3], KAF6260398.1 hypothetical protein COO60DRAFT_901873 [Scenedesmus sp. NREL 46B-D3]	QAXK01018601.1_3296-410
+OG0001158	KAF6252610.1 sulfite reductase [Scenedesmus sp. NREL 46B-D3]	QAXK01006945.1_6596-10279
+OG0001161	KAF6262163.1 hypothetical protein COO60DRAFT_1699448 [Scenedesmus sp. NREL 46B-D3], KAF6255364.1 hypothetical protein COO60DRAFT_215195 [Scenedesmus sp. NREL 46B-D3], KAF6262164.1 hypothetical protein COO60DRAFT_1497567 [Scenedesmus sp. NREL 46B-D3], KAF6240404.1 hypothetical protein COO60DRAFT_339150 [Scenedesmus sp. NREL 46B-D3]	QAXK01004407.1_7887-8977
+OG0001166	KAF6253380.1 hypothetical protein COO60DRAFT_1547236 [Scenedesmus sp. NREL 46B-D3], KAF6260140.1 hypothetical protein COO60DRAFT_1470735 [Scenedesmus sp. NREL 46B-D3], KAF6260136.1 glycoside hydrolase superfamily_ partial [Scenedesmus sp. NREL 46B-D3], KAF6260138.1 pyruvate kinase [Scenedesmus sp. NREL 46B-D3]	QAXK01009825.1_846-2644
+OG0001171	KAF6254968.1 translation initiation factor eIF-2B subunit delta-like protein [Scenedesmus sp. NREL 46B-D3], KAF6254967.1 sarcaleumin-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006983.1_10356-12388
+OG0001176	KAF6248527.1 hypothetical protein COO60DRAFT_1706973 [Scenedesmus sp. NREL 46B-D3], KAF6255651.1 hypothetical protein COO60DRAFT_1296524 [Scenedesmus sp. NREL 46B-D3]	QAXK01004323.1_8147-5874
+OG0001180	KAF6253376.1 ATP synthase subunit D-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01019295.1_3574-2070
+OG0001194	KAF6261184.1 succinate dehydrogenase subunit A [Scenedesmus sp. NREL 46B-D3], KAF6258167.1 succinate dehydrogenase subunit A [Scenedesmus sp. NREL 46B-D3]	QAXK01001649.1_8862-4505
+OG0001201	KAF6255869.1 thiamine diphosphate-binding protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000596.1_10252-6748
+OG0001208	KAF6261670.1 hypothetical protein COO60DRAFT_1500678 [Scenedesmus sp. NREL 46B-D3]	QAXK01012769.1_10100-9091
+OG0001212	KAF6251429.1 hypothetical protein COO60DRAFT_1287543 [Scenedesmus sp. NREL 46B-D3], KAF6250874.1 hypothetical protein COO60DRAFT_1705296 [Scenedesmus sp. NREL 46B-D3], KAF6250872.1 hypothetical protein COO60DRAFT_1565983 [Scenedesmus sp. NREL 46B-D3], KAF6251430.1 hypothetical protein COO60DRAFT_1560018 [Scenedesmus sp. NREL 46B-D3]	QAXK01005236.1_15612-13478
+OG0001214	KAF6260089.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01012739.1_10679-8642
+OG0001216	KAF6256483.1 CRAL-TRIO domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6256482.1 hypothetical protein COO60DRAFT_1528798 [Scenedesmus sp. NREL 46B-D3]	QAXK01001490.1_17280-15927
+OG0001219	KAF6259011.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008035.1_3747-6912
+OG0001221	KAF6251783.1 t-SNARE [Scenedesmus sp. NREL 46B-D3]	QAXK01001061.1_17190-18239
+OG0001223	KAF6265057.1 hypothetical protein COO60DRAFT_1697935 [Scenedesmus sp. NREL 46B-D3]	QAXK01005846.1_3896-588
+OG0001225	KAF6265158.1 component of cytosolic 80S ribosome and 60S large subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01000732.1_2978-2655
+OG0001229	KAF6262332.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01016063.1_5569-3270
+OG0001231	KAF6255898.1 GTP-binding protein YPTC5_ partial [Scenedesmus sp. NREL 46B-D3], KAF6259889.1 hypothetical protein COO60DRAFT_1700630 [Scenedesmus sp. NREL 46B-D3]	QAXK01000362.1_21408-20438
+OG0001236	KAF6254877.1 dihydrolipoyl dehydrogenase [Scenedesmus sp. NREL 46B-D3]	QAXK01000513.1_15183-11736
+OG0001242	KAF6259290.1 hypothetical protein COO60DRAFT_1294910 [Scenedesmus sp. NREL 46B-D3]	QAXK01004645.1_1487-5075
+OG0001246	KAF6254122.1 tRNA synthetases class I_ catalytic domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01010639.1_8900-15142
+OG0001248	KAF6266557.1 hypothetical protein COO60DRAFT_1697133 [Scenedesmus sp. NREL 46B-D3]	QAXK01010718.1_75-1989
+OG0001264	KAF6252199.1 hypothetical protein COO60DRAFT_1297975 [Scenedesmus sp. NREL 46B-D3], KAF6266195.1 hypothetical protein COO60DRAFT_1291712 [Scenedesmus sp. NREL 46B-D3]	QAXK01001653.1_329-2259
+OG0001279	KAF6265982.1 FAD dependent oxidoreductase-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6265150.1 pre-RNA processing PIH1/Nop17-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000624.1_32528-30577
+OG0001307	KAF6251849.1 magnesium protoporphyrin chelatase [Scenedesmus sp. NREL 46B-D3]	QAXK01005917.1_319-7230
+OG0001308	KAF6254924.1 hypothetical protein COO60DRAFT_1296819 [Scenedesmus sp. NREL 46B-D3], KAF6254937.1 NADH_ubiquinone oxidoreductase 49 kd subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01006084.1_8922-13556
+OG0001309	KAF6251060.1 putative splicing factor 3A subunit 1 [Scenedesmus sp. NREL 46B-D3]	QAXK01004533.1_5070-10667
+OG0001310	KAF6254147.1 WD40 repeat-like protein [Scenedesmus sp. NREL 46B-D3], KAF6248611.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002895.1_5020-6663
+OG0001311	KAF6264582.1 ARM repeat-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001613.1_2521-6885
+OG0001312	KAF6264070.1 insert subdomain of RNA polymerase alpha subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01003510.1_1900-3653
+OG0001313	KAF6256137.1 phosphoacetylglucosamine mutase [Scenedesmus sp. NREL 46B-D3]	QAXK01001184.1_9548-5781
+OG0001314	KAF6259157.1 hypothetical protein COO60DRAFT_1046462 [Scenedesmus sp. NREL 46B-D3], KAF6252721.1 hypothetical protein COO60DRAFT_1463572 [Scenedesmus sp. NREL 46B-D3], KAF6259158.1 hypothetical protein COO60DRAFT_1622080 [Scenedesmus sp. NREL 46B-D3]	QAXK01001944.1_3765-1753
+OG0001316	KAF6251111.1 molecular chaperone [Scenedesmus sp. NREL 46B-D3]	QAXK01006921.1_16832-14836
+OG0001317	KAF6260545.1 peptidase M24_ structural domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01010058.1_4279-1636
+OG0001318	KAF6255921.1 hypothetical protein COO60DRAFT_1532445 [Scenedesmus sp. NREL 46B-D3], KAF6257050.1 hypothetical protein COO60DRAFT_1285162 [Scenedesmus sp. NREL 46B-D3]	QAXK01001801.1_7866-9916
+OG0001320	KAF6264179.1 eukaryotic and archaeal DNA primase_ large subunit-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000167.1_14384-11911
+OG0001328	KAF6266528.1 tryptophan synthase beta [Scenedesmus sp. NREL 46B-D3]	QAXK01006882.1_17133-19836
+OG0001331	KAF6259451.1 hypothetical protein COO60DRAFT_1700847 [Scenedesmus sp. NREL 46B-D3]	QAXK01009171.1_15170-12352
+OG0001332	KAF6257747.1 RNA polymerase I-associated factor PAF67-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004338.1_10706-15436
+OG0001334	KAF6262592.1 hypothetical protein COO60DRAFT_1699171 [Scenedesmus sp. NREL 46B-D3]	QAXK01003133.1_258-4577
+OG0001338	KAF6257457.1 phosphatase family [Scenedesmus sp. NREL 46B-D3]	QAXK01002293.1_4021-8056
+OG0001340	KAF6256011.1 hypothetical protein COO60DRAFT_151543 [Scenedesmus sp. NREL 46B-D3], KAF6263281.1 diaminopimelate epimerase [Scenedesmus sp. NREL 46B-D3], KAF6263286.1 hypothetical protein COO60DRAFT_488362 [Scenedesmus sp. NREL 46B-D3]	QAXK01004523.1_6228-4685
+OG0001342	KAF6262215.1 NPL4 family-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6262213.1 NPL4 family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003268.1_11937-16935
+OG0001343	KAF6237058.1 hypothetical protein COO60DRAFT_464443 [Scenedesmus sp. NREL 46B-D3], KAF6252370.1 Spc98 family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000799.1_6873-2057
+OG0001353	KAF6252089.1 aminotransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01011632.1_4873-7912
+OG0001356	KAF6257093.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3], KAF6257094.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003307.1_27135-26267
+OG0001360	KAF6260878.1 type I 3-dehydroquinase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001741.1_6153-8648
+OG0001363	KAF6262604.1 hypothetical protein COO60DRAFT_1494915 [Scenedesmus sp. NREL 46B-D3]	QAXK01003747.1_13973-10331
+OG0001365	KAF6253447.1 hypothetical protein COO60DRAFT_1668760 [Scenedesmus sp. NREL 46B-D3], KAF6253448.1 armadillo/beta-catenin repeat family protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000515.1_20837-25236
+OG0001366	KAF6253160.1 hypothetical protein COO60DRAFT_1703931 [Scenedesmus sp. NREL 46B-D3], KAF6257173.1 ribosomal protein S5 domain 2-type protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004846.1_20461-19235
+OG0001370	KAF6257353.1 hypothetical protein COO60DRAFT_1271387 [Scenedesmus sp. NREL 46B-D3], KAF6257354.1 Meckelin [Scenedesmus sp. NREL 46B-D3]	QAXK01000381.1_4423-6771
+OG0001374	KAF6260021.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3], KAF6260022.1 hypothetical protein COO60DRAFT_1686479 [Scenedesmus sp. NREL 46B-D3]	QAXK01013224.1_5335-6988
+OG0001375	KAF6254893.1 rae1-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005120.1_8361-10056
+OG0001376	KAF6254292.1 ubiquitin-conjugating enzyme/RWD-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01019935.1_413-1820
+OG0001381	KAF6254982.1 argininosuccinate lyase [Scenedesmus sp. NREL 46B-D3]	QAXK01000172.1_6135-2748
+OG0001382	KAF6256242.1 structural maintenance of chromosomes protein 2 [Scenedesmus sp. NREL 46B-D3]	QAXK01001066.1_8917-1138
+OG0001383	KAF6254075.1 DNA topoisomerase [Scenedesmus sp. NREL 46B-D3]	QAXK01003326.1_3639-1243
+OG0001385	KAF6259681.1 topoisomerase VI B subunit_ transducer-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005279.1_10173-5871
+OG0001388	KAF6264094.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001208.1_10635-13964
+OG0001393	KAF6262789.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005917.1_17047-13738
+OG0001397	KAF6260621.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000502.1_39339-43298
+OG0001398	KAF6255085.1 aminotransferase class V domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003277.1_3770-8
+OG0001400	KAF6262738.1 DUF814-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001993.1_28544-29840
+OG0001401	KAF6266776.1 galactose-binding domain-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01010276.1_2943-1867
+OG0001406	KAF6262721.1 nucleophile aminohydrolase [Scenedesmus sp. NREL 46B-D3]	QAXK01000595.1_2983-1676
+OG0001408	KAF6255320.1 exportin [Scenedesmus sp. NREL 46B-D3]	QAXK01000367.1_8675-18356
+OG0001409	KAF6253891.1 hypothetical protein COO60DRAFT_1703610 [Scenedesmus sp. NREL 46B-D3], KAF6253890.1 S-adenosyl-L-methionine-dependent methyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01004930.1_4250-5628
+OG0001417	KAF6257655.1 threonine synthase [Scenedesmus sp. NREL 46B-D3], KAF6254861.1 threonine synthase [Scenedesmus sp. NREL 46B-D3]	QAXK01005381.1_315-2273
+OG0001420	KAF6257003.1 HIT-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000297.1_21777-22493
+OG0001424	KAF6262246.1 homoserine kinase [Scenedesmus sp. NREL 46B-D3]	QAXK01001628.1_9434-11057
+OG0001425	KAF6258030.1 class I glutamine amidotransferase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003581.1_2363-4183
+OG0001426	KAF6257163.1 splicing factor_ component of the U5 snRNP and of the spliceosome [Scenedesmus sp. NREL 46B-D3]	QAXK01005880.1_1-9276
+OG0001428	KAF6264749.1 hypothetical protein COO60DRAFT_1698126 [Scenedesmus sp. NREL 46B-D3]	QAXK01000837.1_14096-17956
+OG0001431	KAF6253815.1 hypothetical protein COO60DRAFT_386572 [Scenedesmus sp. NREL 46B-D3]	QAXK01013424.1_6153-1945
+OG0001432	KAF6258468.1 putative adrenodoxin [Scenedesmus sp. NREL 46B-D3]	QAXK01000224.1_16848-15439
+OG0001445	KAF6252875.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000732.1_11950-7418
+OG0001455	KAF6257977.1 CYP97C3 [Scenedesmus sp. NREL 46B-D3]	QAXK01001576.1_5934-8651
+OG0001456	KAF6257845.1 hypothetical protein COO60DRAFT_1701643 [Scenedesmus sp. NREL 46B-D3]	QAXK01006785.1_1906-1226
+OG0001460	KAF6255600.1 plastid/chloroplast ribosomal protein L15 [Scenedesmus sp. NREL 46B-D3]	QAXK01015424.1_3358-1233
+OG0001462	KAF6262154.1 hypothetical protein COO60DRAFT_1470516 [Scenedesmus sp. NREL 46B-D3]	QAXK01002112.1_6014-14709
+OG0001465	KAF6251973.1 dihydropryrimidine dehydrogenase [Scenedesmus sp. NREL 46B-D3]	QAXK01006322.1_7890-11183
+OG0001469	KAF6258644.1 hypothetical protein COO60DRAFT_1270603 [Scenedesmus sp. NREL 46B-D3], KAF6256983.1 peroxisome biogenesis factor_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01007783.1_10721-12010
+OG0001473	KAF6265642.1 PTHB1 N-terminus-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6265627.1 DNA-binding protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003650.1_4575-2929
+OG0001476	KAF6250612.1 component of oligomeric golgi complex 6 [Scenedesmus sp. NREL 46B-D3]	QAXK01001134.1_7136-9582
+OG0001477	KAF6256158.1 hypothetical protein COO60DRAFT_1702451 [Scenedesmus sp. NREL 46B-D3]	QAXK01003160.1_17527-15091
+OG0001480	KAF6261102.1 peptidase family M3-domain-containing protein_ partial [Scenedesmus sp. NREL 46B-D3], KAF6234468.1 hypothetical protein COO60DRAFT_521857 [Scenedesmus sp. NREL 46B-D3], KAF6259351.1 hypothetical protein COO60DRAFT_1016180 [Scenedesmus sp. NREL 46B-D3]	QAXK01000632.1_24086-22557
+OG0001482	KAF6242043.1 hypothetical protein COO60DRAFT_1651842 [Scenedesmus sp. NREL 46B-D3], KAF6253056.1 non-discriminatory gln-glu-trna synthetase [Scenedesmus sp. NREL 46B-D3]	QAXK01000159.1_14204-11398
+OG0001488	KAF6241970.1 hypothetical protein COO60DRAFT_1631864 [Scenedesmus sp. NREL 46B-D3], KAF6262324.1 hypothetical protein COO60DRAFT_1699333 [Scenedesmus sp. NREL 46B-D3]	QAXK01004286.1_7784-2904
+OG0001492	KAF6242387.1 hypothetical protein COO60DRAFT_1661373 [Scenedesmus sp. NREL 46B-D3], KAF6249607.1 hypothetical protein COO60DRAFT_1580224 [Scenedesmus sp. NREL 46B-D3]	QAXK01003809.1_2040-4733
+OG0001493	KAF6263522.1 NSG5 protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001201.1_5367-10319
+OG0001503	KAF6255227.1 chloroplast ATP synthase subunit II [Scenedesmus sp. NREL 46B-D3]	QAXK01001163.1_27767-28960
+OG0001506	KAF6251605.1 ribosomal protein L13 domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000137.1_3425-4331
+OG0001514	KAF6264543.1 cytochrome c1 [Scenedesmus sp. NREL 46B-D3]	QAXK01003231.1_16625-14068
+OG0001526	KAF6263693.1 aspartyl-tRNA synthetase [Scenedesmus sp. NREL 46B-D3]	QAXK01019948.1_5388-2969
+OG0001527	KAF6260754.1 PRP38 family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01013863.1_4654-1867
+OG0001528	KAF6252231.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000325.1_37384-41123
+OG0001529	KAF6262526.1 hypothetical protein COO60DRAFT_1621760 [Scenedesmus sp. NREL 46B-D3], KAF6262524.1 hypothetical protein COO60DRAFT_1635873 [Scenedesmus sp. NREL 46B-D3]	QAXK01004092.1_4427-5291
+OG0001532	KAF6259009.1 hypothetical protein COO60DRAFT_1515719 [Scenedesmus sp. NREL 46B-D3], KAF6259007.1 phosphatidylinositol 3 and 4-kinase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000782.1_11007-12134
+OG0001533	KAF6265552.1 hypothetical protein COO60DRAFT_1697812 [Scenedesmus sp. NREL 46B-D3], KAF6253727.1 hypothetical protein COO60DRAFT_1703701 [Scenedesmus sp. NREL 46B-D3]	QAXK01000265.1_17007-12444
+OG0001534	KAF6261572.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000695.1_5671-2183
+OG0001538	KAF6259221.1 26S proteasome subunit RPN7-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6264271.1 Rhodanese-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009353.1_4260-348
+OG0001544	KAF6254535.1 triose-phosphate transporter family-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6250654.1 thiamine pyrophosphokinase [Scenedesmus sp. NREL 46B-D3], KAF6252257.1 hypothetical protein COO60DRAFT_1704370 [Scenedesmus sp. NREL 46B-D3]	QAXK01002332.1_5291-4007
+OG0001545	KAF6251864.1 PRMT5 arginine-N-methyltransferase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000350.1_22889-27018
+OG0001546	KAF6254336.1 glycoprotease family-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6260275.1 HIT-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01011857.1_1226-3209
+OG0001548	KAF6249192.1 hypothetical protein COO60DRAFT_991607 [Scenedesmus sp. NREL 46B-D3]	QAXK01001795.1_1688-3314
+OG0001549	KAF6257961.1 centromere/microtubule-binding protein cbf5 [Scenedesmus sp. NREL 46B-D3]	QAXK01005406.1_4717-2509
+OG0001550	KAF6262578.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3], KAF6262579.1 hypothetical protein COO60DRAFT_1251193_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01004537.1_7009-1449
+OG0001551	KAF6260891.1 hypothetical protein COO60DRAFT_1682948 [Scenedesmus sp. NREL 46B-D3], KAF6265204.1 RNA polymerase II-binding domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006072.1_19473-19787
+OG0001554	KAF6254198.1 phosphoglucomutase [Scenedesmus sp. NREL 46B-D3]	QAXK01001638.1_7681-11612
+OG0001561	KAF6262765.1 pre-mRNA processing factor 3-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6238383.1 pre-mRNA processing factor 3-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003228.1_3995-6597
+OG0001562	KAF6264703.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3], KAF6264704.1 hypothetical protein COO60DRAFT_1698098 [Scenedesmus sp. NREL 46B-D3]	QAXK01000869.1_5647-9196
+OG0001571	KAF6258764.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005898.1_15715-20620
+OG0001573	KAF6253165.1 Alpha/Beta hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001714.1_23807-22483
+OG0001575	KAF6260922.1 peptidase M24_ structural domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6259256.1 peptidase M24_ structural domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006456.1_5116-6698
+OG0001576	KAF6255342.1 ClpP/crotonase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003511.1_8584-2188
+OG0001579	KAF6258989.1 gamma tubulin [Scenedesmus sp. NREL 46B-D3]	QAXK01000149.1_3007-205
+OG0001581	KAF6266189.1 cysteine desulfurase [Scenedesmus sp. NREL 46B-D3], KAF6244154.1 hypothetical protein COO60DRAFT_1290311 [Scenedesmus sp. NREL 46B-D3]	QAXK01003468.1_8146-4525
+OG0001582	KAF6254171.1 hypothetical protein COO60DRAFT_1543014 [Scenedesmus sp. NREL 46B-D3]	QAXK01003110.1_3669-4960
+OG0001592	KAF6257925.1 hypothetical protein COO60DRAFT_1284744 [Scenedesmus sp. NREL 46B-D3]	QAXK01004995.1_4321-153
+OG0001595	KAF6257946.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003821.1_4511-8191
+OG0001599	KAF6256953.1 CPLD51 protein required for cyt b6 assembly [Scenedesmus sp. NREL 46B-D3]	QAXK01001163.1_31234-32344
+OG0001602	KAF6259680.1 telomere recombination-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009112.1_2932-1649
+OG0001606	KAF6262603.1 tRNA synthetases class I _C_ catalytic domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001551.1_37852-43451
+OG0001618	KAF6254680.1 HotDog domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6254679.1 hypothetical protein COO60DRAFT_291261 [Scenedesmus sp. NREL 46B-D3]	QAXK01003579.1_4454-5700
+OG0001620	KAF6263002.1 NAD_P_-binding protein [Scenedesmus sp. NREL 46B-D3], KAF6263001.1 hypothetical protein COO60DRAFT_1698969 [Scenedesmus sp. NREL 46B-D3]	QAXK01004906.1_4885-7564
+OG0001624	KAF6252126.1 hypothetical protein COO60DRAFT_1704422 [Scenedesmus sp. NREL 46B-D3], KAF6250760.1 hypothetical protein COO60DRAFT_1705489 [Scenedesmus sp. NREL 46B-D3]	QAXK01001935.1_7191-6190
+OG0001625	KAF6237644.1 hypothetical protein COO60DRAFT_422905 [Scenedesmus sp. NREL 46B-D3], KAF6250973.1 hypothetical protein COO60DRAFT_705986 [Scenedesmus sp. NREL 46B-D3], KAF6250970.1 hypothetical protein COO60DRAFT_1645713 [Scenedesmus sp. NREL 46B-D3]	QAXK01008598.1_11627-10467
+OG0001666	KAF6264457.1 transketolase [Scenedesmus sp. NREL 46B-D3]	QAXK01000648.1_7716-3949
+OG0001670	KAF6264382.1 glutamate-1-semialdehyde 2_1-aminomutase_ chloroplastic [Scenedesmus sp. NREL 46B-D3]	QAXK01001801.1_20671-18627
+OG0001676	KAF6260222.1 ARM repeat-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000084.1_15952-9180
+OG0001677	KAF6260541.1 molybdenum cofactor biosynthesis prote [Scenedesmus sp. NREL 46B-D3]	QAXK01006154.1_7199-4782
+OG0001679	KAF6263770.1 mitochondrial glycoprotein [Scenedesmus sp. NREL 46B-D3], KAF6266713.1 mitochondrial glycoprotein [Scenedesmus sp. NREL 46B-D3]	QAXK01005586.1_4660-3715
+OG0001681	KAF6265707.1 CobB/CobQ-like glutamine amidotransferase domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003694.1_10054-1111
+OG0001683	KAF6255860.1 NifU-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005873.1_4902-1877
+OG0001684	KAF6252970.1 MIF4G domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001160.1_46203-44172
+OG0001686	KAF6255267.1 clathrin heavy chain [Scenedesmus sp. NREL 46B-D3]	QAXK01001518.1_29154-38461
+OG0001687	KAF6250622.1 NADH_ubiquinone oxidoreductase B14 subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01011350.1_4968-4302
+OG0001689	KAF6252229.1 nucleophile aminohydrolase [Scenedesmus sp. NREL 46B-D3]	QAXK01000325.1_49285-50693
+OG0001691	KAF6263075.1 putative D-lactate dehydrogenase [Scenedesmus sp. NREL 46B-D3]	QAXK01009543.1_7053-9512
+OG0001694	KAF6264164.1 Mak16 protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004860.1_550-2257
+OG0001698	KAF6259518.1 aldolase [Scenedesmus sp. NREL 46B-D3]	QAXK01011739.1_15998-17366
+OG0001700	KAF6252909.1 heat shock protein Hsp70E [Scenedesmus sp. NREL 46B-D3]	QAXK01001944.1_5351-7976
+OG0001702	KAF6263925.1 hypothetical protein COO60DRAFT_1487967 [Scenedesmus sp. NREL 46B-D3]	QAXK01000864.1_61145-62900
+OG0001703	KAF6255494.1 DNA polymerase alpha/epsilon subunit B-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003602.1_34329-32576
+OG0001704	KAF6257938.1 cleft lip and palate transmembrane 1 [Scenedesmus sp. NREL 46B-D3]	QAXK01008991.1_236-2513
+OG0001705	KAF6259353.1 hypothetical protein COO60DRAFT_1470818 [Scenedesmus sp. NREL 46B-D3]	QAXK01002478.1_7313-12188
+OG0001708	KAF6262416.1 hypothetical protein COO60DRAFT_625238 [Scenedesmus sp. NREL 46B-D3], KAF6246664.1 hypothetical protein COO60DRAFT_1649728 [Scenedesmus sp. NREL 46B-D3]	QAXK01014303.1_4896-6584
+OG0001709	KAF6264967.1 ankyrin repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01018148.1_4196-2780
+OG0001712	KAF6259019.1 ribosomal protein L13a component of cytosolic 80S ribosome and 60S large subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01008136.1_3960-6111
+OG0001713	KAF6259070.1 hypothetical protein COO60DRAFT_1622084 [Scenedesmus sp. NREL 46B-D3]	QAXK01001137.1_1588-5821
+OG0001714	KAF6243700.1 hypothetical protein COO60DRAFT_145414 [Scenedesmus sp. NREL 46B-D3], KAF6240409.1 hypothetical protein COO60DRAFT_1632101 [Scenedesmus sp. NREL 46B-D3]	QAXK01014632.1_3916-2466
+OG0001715	KAF6261177.1 thymidylate synthase/dCMP hydroxymethylase domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004338.1_24179-21163
+OG0001716	KAF6259212.1 thioredoxin-like [2Fe-2S] ferredoxin-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000646.1_3437-2178
+OG0001718	KAF6256056.1 Mpp10 protein-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6250754.1 Mpp10 protein-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002273.1_1901-3023
+OG0001719	KAF6265226.1 T-complex protein_ zeta subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01013811.1_5298-9155
+OG0001724	KAF6262022.1 S-adenosyl-L-methionine-dependent methyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01006565.1_2429-269
+OG0001728	KAF6253997.1 ribosomal protein S19 component of cytosolic 80S ribosome and 40S small subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01001807.1_1026-15
+OG0001729	KAF6262976.1 hypothetical protein COO60DRAFT_1699086 [Scenedesmus sp. NREL 46B-D3], KAF6258756.1 hypothetical protein COO60DRAFT_1701147 [Scenedesmus sp. NREL 46B-D3]	QAXK01006338.1_1051-28
+OG0001737	KAF6248760.1 splicing factor U2af 38 kDa subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01014793.1_2710-905
+OG0001738	KAF6259365.1 hypothetical protein COO60DRAFT_1017430 [Scenedesmus sp. NREL 46B-D3]	QAXK01000446.1_74898-73132
+OG0001743	KAF6266107.1 putative 26S protease regulatory subunit 8 [Scenedesmus sp. NREL 46B-D3]	QAXK01001289.1_5327-2954
+OG0001744	KAF6253446.1 calponin homology domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01016939.1_17085-19159
+OG0001748	KAF6265917.1 sterol 14 desaturase [Scenedesmus sp. NREL 46B-D3]	QAXK01007592.1_13848-10196
+OG0001750	KAF6255637.1 tubulin binding cofactor C-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01018869.1_1324-446
+OG0001751	KAF6251603.1 hypothetical protein COO60DRAFT_1704702 [Scenedesmus sp. NREL 46B-D3]	QAXK01000276.1_2022-2543
+OG0001756	KAF6266369.1 chloroplast elongation factor G [Scenedesmus sp. NREL 46B-D3]	QAXK01004906.1_9592-13569
+OG0001760	KAF6251506.1 DHHC palmitoyltransferase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008046.1_15224-18152
+OG0001763	KAF6252453.1 Pre-mRNA cleavage complex II protein Clp1-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006402.1_6220-3948
+OG0001770	KAF6265043.1 ATP synthase gamma-subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01001922.1_7027-5313
+OG0001772	KAF6258279.1 hypothetical protein COO60DRAFT_1139840 [Scenedesmus sp. NREL 46B-D3]	QAXK01010435.1_780-2170
+OG0001778	KAF6250421.1 IMP dehydrogenase/GMP reductase [Scenedesmus sp. NREL 46B-D3]	QAXK01006312.1_5841-2543
+OG0001780	KAF6265414.1 armadillo-type protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003072.1_7601-12066
+OG0001782	KAF6255311.1 hypothetical protein COO60DRAFT_1641647 [Scenedesmus sp. NREL 46B-D3], KAF6255309.1 glycoside hydrolase superfamily [Scenedesmus sp. NREL 46B-D3]	QAXK01000627.1_25854-27382
+OG0001783	KAF6260325.1 AIR carboxylase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004723.1_8556-4882
+OG0001788	KAF6257549.1 molecular chaperone [Scenedesmus sp. NREL 46B-D3]	QAXK01008099.1_16922-14889
+OG0001790	KAF6259142.1 adaptin N terminal region-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000362.1_13682-19843
+OG0001792	KAF6254416.1 plastid ribosomal protein L1 [Scenedesmus sp. NREL 46B-D3]	QAXK01002348.1_22026-23431
+OG0001794	KAF6257203.1 hypothetical protein COO60DRAFT_1525063 [Scenedesmus sp. NREL 46B-D3]	QAXK01000643.1_10651-8242
+OG0001801	KAF6258944.1 DUF1084-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000208.1_37779-38874
+OG0001806	KAF6265628.1 hypothetical protein COO60DRAFT_1697655 [Scenedesmus sp. NREL 46B-D3]	QAXK01005447.1_6594-9151
+OG0001810	KAF6263248.1 hypothetical protein COO60DRAFT_486492 [Scenedesmus sp. NREL 46B-D3], KAF6263249.1 hypothetical protein COO60DRAFT_486587 [Scenedesmus sp. NREL 46B-D3]	QAXK01011106.1_2568-3152
+OG0001812	KAF6255868.1 coatomer subunit beta [Scenedesmus sp. NREL 46B-D3]	QAXK01006399.1_9428-14604
+OG0001813	KAF6256936.1 hypothetical protein COO60DRAFT_1471060 [Scenedesmus sp. NREL 46B-D3]	QAXK01000513.1_11487-8211
+OG0001818	KAF6253041.1 60s acidic ribosomal protein-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004132.1_4579-6060
+OG0001821	KAF6266692.1 Metallo-dependent phosphatase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004177.1_17288-11319
+OG0001824	KAF6263737.1 peptidase M24_ structural domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003744.1_2800-6411
+OG0001826	KAF6249501.1 chaperonin subunit 8 theta [Scenedesmus sp. NREL 46B-D3]	QAXK01000105.1_5499-2693
+OG0001832	KAF6255654.1 pyridoxal phosphate-dependent transferase [Scenedesmus sp. NREL 46B-D3]	QAXK01005654.1_7220-1642
+OG0001837	KAF6256206.1 AICARFT/IMPCHase bienzyme-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000842.1_51041-53429
+OG0001838	KAF6265681.1 hypothetical protein COO60DRAFT_867682 [Scenedesmus sp. NREL 46B-D3]	QAXK01003976.1_8556-3734
+OG0001841	KAF6252209.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000976.1_10766-5866
+OG0001842	KAF6251288.1 acyl-ACP thioesterase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006275.1_27485-25822
+OG0001843	KAF6264312.1 eukaryotic translation initiation factor 2 gamma [Scenedesmus sp. NREL 46B-D3]	QAXK01004149.1_22375-24958
+OG0001845	KAF6255581.1 hypothetical protein COO60DRAFT_199906 [Scenedesmus sp. NREL 46B-D3]	QAXK01001702.1_1666-273
+OG0001847	KAF6266544.1 SecY subunit domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009311.1_428-2889
+OG0001849	KAF6264825.1 Protochlorophyllide reductase_ chloroplastic [Scenedesmus sp. NREL 46B-D3]	QAXK01007671.1_6596-4238
+OG0001855	KAF6252750.1 hypothetical protein COO60DRAFT_1551587 [Scenedesmus sp. NREL 46B-D3]	QAXK01000335.1_27254-25603
+OG0001856	KAF6259928.1 uracil phosphoribosyltransferase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003506.1_17890-19170
+OG0001857	KAF6264935.1 ran-like small GTPase [Scenedesmus sp. NREL 46B-D3]	QAXK01002176.1_5254-6169
+OG0001858	KAF6255062.1 component of cytosolic 80S ribosome and 60S large subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01017983.1_2022-269
+OG0001860	KAF6264537.1 tRNA synthetases class II core domain _F_-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000036.1_15496-18071
+OG0001861	KAF6256691.1 hypothetical protein COO60DRAFT_1622288 [Scenedesmus sp. NREL 46B-D3]	QAXK01001933.1_13708-11461
+OG0001862	KAF6257795.1 YIF1-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002439.1_1431-31
+OG0001863	KAF6261374.1 SM/Sec1-family protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000006.1_11270-7049
+OG0001864	KAF6261105.1 S-adenosyl-L-methionine-dependent methyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01001807.1_30588-28596
+OG0001866	KAF6256068.1 armadillo-type protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004671.1_3332-9990
+OG0001867	KAF6262544.1 complex I intermediate-associated protein 30-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006658.1_2089-1110
+OG0001868	KAF6254074.1 Pep3/Vps18/deep orange family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01018034.1_4900-2264
+OG0001869	KAF6255199.1 hypothetical protein COO60DRAFT_1285921 [Scenedesmus sp. NREL 46B-D3]	QAXK01002273.1_12619-10163
+OG0001870	KAF6260966.1 10 TM acyl transferase domain found in Cas1p-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01007444.1_11468-13953
+OG0001873	KAF6251091.1 hypothetical protein COO60DRAFT_1563392 [Scenedesmus sp. NREL 46B-D3]	QAXK01003671.1_1285-5252
+OG0001874	KAF6259627.1 chaperonin 10-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002443.1_10680-7074
+OG0001879	KAF6253015.1 4-hydroxy-3-methylbut-2-enyl diphosphate reductase [Scenedesmus sp. NREL 46B-D3]	QAXK01014786.1_3020-29
+OG0001880	KAF6258482.1 hypothetical protein COO60DRAFT_1284549 [Scenedesmus sp. NREL 46B-D3]	QAXK01014616.1_960-3765
+OG0001882	KAF6266563.1 SOR/SNZ family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001694.1_21339-20476
+OG0001883	KAF6254103.1 eukaryotic initiation factor [Scenedesmus sp. NREL 46B-D3]	QAXK01000225.1_2559-365
+OG0001887	KAF6261148.1 subunit of ESCRT-II complex [Scenedesmus sp. NREL 46B-D3]	QAXK01004187.1_1760-33
+OG0001888	KAF6257475.1 putative 26S proteasome regulatory subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01016711.1_4152-7100
+OG0001890	KAF6253011.1 hypothetical protein COO60DRAFT_476829 [Scenedesmus sp. NREL 46B-D3], KAF6248317.1 Alpha/Beta hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01010406.1_2162-130
+OG0001893	KAF6254001.1 thioredoxin-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002579.1_17292-15497
+OG0001895	KAF6251483.1 hypothetical protein COO60DRAFT_1287529 [Scenedesmus sp. NREL 46B-D3]	QAXK01016971.1_2990-681
+OG0001898	KAF6264754.1 hypothetical protein COO60DRAFT_19013 [Scenedesmus sp. NREL 46B-D3]	QAXK01001156.1_3180-1500
+OG0001900	KAF6264712.1 ubiquitin fusion degradation protein UFD1-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009399.1_423-2536
+OG0001902	KAF6257524.1 Ribokinase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008314.1_4813-7042
+OG0001907	KAF6263907.1 histone acetyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01003345.1_36704-34696
+OG0001911	KAF6262956.1 hypothetical protein COO60DRAFT_1699075 [Scenedesmus sp. NREL 46B-D3]	QAXK01003378.1_5209-366
+OG0001915	KAF6264241.1 regulator of chromosome condensation 1/beta-lactamase-inhibitor protein II [Scenedesmus sp. NREL 46B-D3]	QAXK01004688.1_3441-5908
+OG0001916	KAF6260163.1 hypothetical protein COO60DRAFT_1700490 [Scenedesmus sp. NREL 46B-D3]	QAXK01001344.1_15728-16873
+OG0001917	KAF6262762.1 hypothetical protein COO60DRAFT_1635750 [Scenedesmus sp. NREL 46B-D3]	QAXK01010657.1_2437-238
+OG0001918	KAF6254644.1 acetylornithine aminotransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01003671.1_14459-17304
+OG0001919	KAF6257815.1 small subunit of acetolactate synthase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001468.1_4935-8852
+OG0001920	KAF6253920.1 hypothetical protein COO60DRAFT_1703589 [Scenedesmus sp. NREL 46B-D3]	QAXK01000770.1_6276-4831
+OG0001921	KAF6249508.1 ATP synthase subunit-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004635.1_12023-13891
+OG0001922	KAF6253231.1 kinesin-like calmodulin binding protein [Scenedesmus sp. NREL 46B-D3]	QAXK01011133.1_12839-6837
+OG0001928	KAF6257246.1 hypothetical protein COO60DRAFT_1701930 [Scenedesmus sp. NREL 46B-D3]	QAXK01003150.1_16472-17917
+OG0001930	KAF6264720.1 Mu homology domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003163.1_7337-4796
+OG0001931	KAF6258618.1 component of cytosolic 80S ribosome and 60S large subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01002575.1_2869-493
+OG0001934	KAF6255653.1 RCC1/BLIP-II [Scenedesmus sp. NREL 46B-D3]	QAXK01001681.1_35798-38541
+OG0001935	KAF6260332.1 NADH_ubiquinone oxidoreductase subunit 8 [Scenedesmus sp. NREL 46B-D3]	QAXK01001208.1_4428-3497
+OG0001936	KAF6253476.1 mitochondrial carrier protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000947.1_9658-8064
+OG0001937	KAF6265455.1 RIO1 family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002895.1_11877-8991
+OG0001938	KAF6266384.1 ribosomal protein S5 domain 2-type protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006045.1_3548-5265
+OG0001943	KAF6254175.1 eukaryotic release factor 1 [Scenedesmus sp. NREL 46B-D3]	QAXK01001495.1_35130-32135
+OG0001945	KAF6266818.1 pachytene checkpoint protein 2 [Scenedesmus sp. NREL 46B-D3]	QAXK01006788.1_3504-1107
+OG0001946	KAF6251396.1 coatomer epsilon subunit-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006196.1_6560-8156
+OG0001947	KAF6254452.1 putative leucyl tRNA synthetase [Scenedesmus sp. NREL 46B-D3]	QAXK01001881.1_90892-88031
+OG0001951	KAF6258288.1 ribosomal protein S18 component of cytosolic 80S ribosome and 40S small subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01010684.1_1460-556
+OG0001952	KAF6258690.1 26S proteasome regulatory complex [Scenedesmus sp. NREL 46B-D3]	QAXK01001616.1_0-2161
+OG0001954	KAF6261917.1 S-adenosyl-L-methionine-dependent methyltransferase [Scenedesmus sp. NREL 46B-D3], KAF6259801.1 hypothetical protein COO60DRAFT_1687420 [Scenedesmus sp. NREL 46B-D3]	QAXK01014389.1_130-668
+OG0001956	KAF6264142.1 hypothetical protein COO60DRAFT_220797 [Scenedesmus sp. NREL 46B-D3]	QAXK01004150.1_9770-14859
+OG0001958	KAF6258420.1 heme peroxidase [Scenedesmus sp. NREL 46B-D3], KAF6238216.1 heme peroxidase_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01007010.1_8318-9471
+OG0001960	KAF6254085.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005538.1_9255-7797
+OG0001961	KAF6257872.1 glycyl-tRNA synthetase beta subunit-domain-containing protein_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01009093.1_4766-1793
+OG0001966	KAF6259414.1 ataxin-3 [Scenedesmus sp. NREL 46B-D3], KAF6259412.1 hypothetical protein COO60DRAFT_1513245 [Scenedesmus sp. NREL 46B-D3]	QAXK01016188.1_2666-4256
+OG0001967	KAF6263415.1 ribosomal protein S19-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000446.1_47170-46172
+OG0001969	KAF6252991.1 cytosolic Fe-S cluster assembly factor NUBP1 [Scenedesmus sp. NREL 46B-D3]	QAXK01002063.1_20394-18703
+OG0001970	KAF6264792.1 hypothetical protein COO60DRAFT_1266780 [Scenedesmus sp. NREL 46B-D3]	QAXK01001186.1_3380-493
+OG0001973	KAF6254186.1 4-hydroxyphenylpyruvate dioxygenase [Scenedesmus sp. NREL 46B-D3]	QAXK01000335.1_27471-29404
+OG0001979	KAF6260556.1 putative nucleolar protein 5-2-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001265.1_1827-4399
+OG0001980	KAF6263123.1 vacuolar ATP synthase subunit H [Scenedesmus sp. NREL 46B-D3]	QAXK01003309.1_3370-103
+OG0001986	KAF6264019.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000295.1_10054-5194
+OG0001991	KAF6254449.1 hemolysin-III related-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002862.1_2144-4831
+OG0001993	KAF6261980.1 HAD-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002212.1_3400-1645
+OG0001995	KAF6258536.1 hypothetical protein COO60DRAFT_1701294 [Scenedesmus sp. NREL 46B-D3]	QAXK01014184.1_2136-4076
+OG0001996	KAF6252519.1 hypothetical protein COO60DRAFT_1287067 [Scenedesmus sp. NREL 46B-D3]	QAXK01001275.1_1545-3783
+OG0001998	KAF6255411.1 cyclopropyl isomerase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000407.1_9246-10753
+OG0001999	KAF6253882.1 hypothetical protein COO60DRAFT_1703604 [Scenedesmus sp. NREL 46B-D3], KAF6253885.1 hypothetical protein COO60DRAFT_1628088 [Scenedesmus sp. NREL 46B-D3]	QAXK01001060.1_158-4769
+OG0002000	KAF6260117.1 hypothetical protein COO60DRAFT_1294530 [Scenedesmus sp. NREL 46B-D3]	QAXK01003280.1_21069-16498
+OG0002001	KAF6260650.1 LMBR1-like membrane protein [Scenedesmus sp. NREL 46B-D3]	QAXK01007038.1_3322-7876
+OG0002003	KAF6260998.1 XAP5_ circadian clock regulator-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002652.1_3797-1393
+OG0002004	KAF6252308.1 Qb-snare protein_ Bos1/Membrin family [Scenedesmus sp. NREL 46B-D3]	QAXK01012829.1_4377-6139
+OG0002005	KAF6257829.1 hypothetical protein COO60DRAFT_1190510 [Scenedesmus sp. NREL 46B-D3]	QAXK01004007.1_7633-6740
+OG0002006	KAF6257400.1 minor chlorophyll a/b-binding protein of photosystem II [Scenedesmus sp. NREL 46B-D3]	QAXK01000137.1_21575-22932
+OG0002007	KAF6252903.1 CAS/CSE protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009439.1_10946-16439
+OG0002008	KAF6258506.1 hypothetical protein COO60DRAFT_1626402 [Scenedesmus sp. NREL 46B-D3]	QAXK01000685.1_2507-3830
+OG0002010	KAF6254357.1 histone-fold-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6256850.1 transcription factor NF-Y_ CCAAT-binding like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004465.1_1413-1889
+OG0002011	KAF6262268.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008697.1_3621-1
+OG0002012	KAF6259161.1 diacylglycerol acyltransferase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008479.1_22-1572
+OG0002013	KAF6261663.1 cytochrome c oxidase assembly factor [Scenedesmus sp. NREL 46B-D3]	QAXK01000704.1_865-2353
+OG0002014	KAF6260124.1 hypothetical protein COO60DRAFT_1685901 [Scenedesmus sp. NREL 46B-D3]	QAXK01001731.1_8237-12954
+OG0002015	KAF6259215.1 glutamic-gamma-semialdehyde dehydrogenase [Scenedesmus sp. NREL 46B-D3]	QAXK01001095.1_1607-5427
+OG0002018	KAF6261455.1 hypothetical protein COO60DRAFT_1283060 [Scenedesmus sp. NREL 46B-D3]	QAXK01000579.1_6879-2831
+OG0002023	KAF6264272.1 ribosomal protein S5 component of cytosolic 80S ribosome and 40S small subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01004467.1_4446-2978
+OG0002024	KAF6259557.1 MATH-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01007476.1_6843-3464
+OG0002026	KAF6253098.1 GC-rich sequence DNA-binding factor-like protein-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000116.1_15959-12419
+OG0002027	KAF6261692.1 phosphoribosyltransferase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000153.1_10025-9224
+OG0002028	KAF6261976.1 26S proteasome regulatory complex [Scenedesmus sp. NREL 46B-D3]	QAXK01001007.1_9576-3460
+OG0002029	KAF6260568.1 actin family [Scenedesmus sp. NREL 46B-D3]	QAXK01001726.1_9416-10685
+OG0002032	KAF6257873.1 Dynamin family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01018007.1_11683-5307
+OG0002035	KAF6262252.1 DNA topoisomerase [Scenedesmus sp. NREL 46B-D3]	QAXK01001162.1_4704-11654
+OG0002036	KAF6247865.1 hypothetical protein COO60DRAFT_1649434 [Scenedesmus sp. NREL 46B-D3]	QAXK01003552.1_4945-952
+OG0002040	KAF6256743.1 acetohydroxyacid dehydratase_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01004862.1_20323-24029
+OG0002043	KAF6263998.1 DNA polymerase epsilon_ subunit B [Scenedesmus sp. NREL 46B-D3]	QAXK01000495.1_11359-8819
+OG0002046	KAF6260819.1 ribosomal protein S2_ flavodoxin-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003370.1_5253-2449
+OG0002049	KAF6259361.1 Mre11 DNA-binding presumed domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6235446.1 MRE11 eukaryotic DNA repair protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004800.1_3523-170
+OG0002051	KAF6262555.1 hypothetical protein COO60DRAFT_1282656 [Scenedesmus sp. NREL 46B-D3]	QAXK01005999.1_9988-12832
+OG0002063	KAF6258940.1 amidase signature domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001387.1_26607-27895
+OG0002070	KAF6264933.1 DEAD-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003882.1_7725-3343
+OG0002072	KAF6257779.1 porphobilinogen deaminase [Scenedesmus sp. NREL 46B-D3]	QAXK01000401.1_8251-6577
+OG0002073	KAF6265745.1 ribosomal protein S5 domain 2-type protein [Scenedesmus sp. NREL 46B-D3]	QAXK01011684.1_2005-861
+OG0002074	KAF6251235.1 ribosomal protein L24e-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005165.1_9870-10888
+OG0002075	KAF6254194.1 myo-inositol-1-phosphate synthase [Scenedesmus sp. NREL 46B-D3]	QAXK01000112.1_21457-19158
+OG0002080	KAF6266274.1 pyridoxal phosphate-dependent transferase [Scenedesmus sp. NREL 46B-D3]	QAXK01005319.1_1852-5123
+OG0002081	KAF6262034.1 putative diphthamide synthesis protein-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000024.1_6845-4701
+OG0002082	KAF6255848.1 20S proteasome alpha subunit D [Scenedesmus sp. NREL 46B-D3]	QAXK01003767.1_15037-16578
+OG0002086	KAF6266323.1 HIT-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000416.1_236-1468
+OG0002088	KAF6258280.1 TPR-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004430.1_4845-10525
+OG0002090	KAF6261749.1 20S proteasome alpha subunit G [Scenedesmus sp. NREL 46B-D3]	QAXK01000004.1_10133-7859
+OG0002092	KAF6263534.1 Spb1 C-terminal domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001415.1_8205-13561
+OG0002095	KAF6250419.1 nucleophile aminohydrolase [Scenedesmus sp. NREL 46B-D3]	QAXK01000224.1_15148-12485
+OG0002103	KAF6255102.1 acyl-CoA dehydrogenase [Scenedesmus sp. NREL 46B-D3]	QAXK01000770.1_6581-10685
+OG0002105	KAF6265016.1 ribosomal protein L5 [Scenedesmus sp. NREL 46B-D3]	QAXK01018040.1_3609-5929
+OG0002110	KAF6251089.1 hypothetical protein COO60DRAFT_1629131 [Scenedesmus sp. NREL 46B-D3]	QAXK01007447.1_7916-1145
+OG0002111	KAF6260478.1 apoptosis antagonizing transcription factor-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01013514.1_9351-7632
+OG0002112	KAF6258232.1 ribosomal protein L27 component of cytosolic 80S ribosome and 60S large subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01015359.1_10390-8068
+OG0002120	KAF6254209.1 component of oligomeric golgi complex 5 [Scenedesmus sp. NREL 46B-D3], KAF6250671.1 component of oligomeric golgi complex 5 [Scenedesmus sp. NREL 46B-D3]	QAXK01005023.1_11393-17094
+OG0002122	KAF6266618.1 KDEL receptor A [Scenedesmus sp. NREL 46B-D3]	QAXK01010373.1_8651-6830
+OG0002123	KAF6261841.1 beta-lactamase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000700.1_5491-3572
+OG0002124	KAF6255524.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004007.1_8647-10727
+OG0002127	KAF6262753.1 vacuolar H+ ATPase V1 sector_ subunit C [Scenedesmus sp. NREL 46B-D3]	QAXK01001495.1_27698-29888
+OG0002128	KAF6265401.1 pre-mRNA-splicing ATP-dependent RNA helicase [Scenedesmus sp. NREL 46B-D3]	QAXK01002518.1_56-2855
+OG0002131	KAF6262651.1 hypothetical protein COO60DRAFT_601699 [Scenedesmus sp. NREL 46B-D3]	QAXK01001894.1_15083-15978
+OG0002132	KAF6253349.1 mitochondrial carrier domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009974.1_15390-17483
+OG0002134	KAF6258983.1 NAD binding domain of 6-phosphogluconate dehydrogenase-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6262725.1 6-phosphogluconate dehydrogenase [Scenedesmus sp. NREL 46B-D3]	QAXK01000252.1_16687-14824
+OG0002138	KAF6266142.1 hypothetical protein COO60DRAFT_1281100 [Scenedesmus sp. NREL 46B-D3]	QAXK01015692.1_7967-6370
+OG0002139	KAF6259747.1 component of cytosolic 80S ribosome and 60S large subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01003183.1_18810-17365
+OG0002141	KAF6255601.1 ribosomal protein L6 component of cytosolic 80S ribosome and 60S large subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01004474.1_7154-5648
+OG0002142	KAF6258200.1 Qc-snare protein_ Syn8/Syntaxin8-family [Scenedesmus sp. NREL 46B-D3], KAF6258201.1 hypothetical protein COO60DRAFT_1145294 [Scenedesmus sp. NREL 46B-D3]	QAXK01011512.1_2962-4685
+OG0002144	KAF6264267.1 cation efflux family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000452.1_14665-16837
+OG0002145	KAF6258958.1 Clp protease-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6252983.1 Clp protease-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000208.1_15729-14120
+OG0002146	KAF6259497.1 hypothetical protein COO60DRAFT_1622042 [Scenedesmus sp. NREL 46B-D3]	QAXK01014393.1_10002-7696
+OG0002147	KAF6266808.1 mitochondrial ribosomal protein L13 [Scenedesmus sp. NREL 46B-D3]	QAXK01000383.1_6224-8512
+OG0002149	KAF6260509.1 thymidylate kinase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01007800.1_664-2473
+OG0002153	KAF6265596.1 Snf7-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6265598.1 hypothetical protein COO60DRAFT_863753 [Scenedesmus sp. NREL 46B-D3]	QAXK01004231.1_9560-10863
+OG0002154	KAF6253711.1 hypothetical protein COO60DRAFT_1667849 [Scenedesmus sp. NREL 46B-D3], KAF6253708.1 hypothetical protein COO60DRAFT_1703688 [Scenedesmus sp. NREL 46B-D3]	QAXK01001673.1_7134-5531
+OG0002158	KAF6255490.1 PRP1 splicing factor_ N-terminal-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000427.1_69010-61523
+OG0002159	KAF6260720.1 phosphatidylinositol 3-kinase [Scenedesmus sp. NREL 46B-D3]	QAXK01001947.1_6933-16171
+OG0002161	KAF6250341.1 ADC synthase [Scenedesmus sp. NREL 46B-D3]	QAXK01000667.1_5631-9231
+OG0002162	KAF6259748.1 60S ribosomal protein L5 [Scenedesmus sp. NREL 46B-D3]	QAXK01001956.1_6721-5102
+OG0002163	KAF6253591.1 component of oligomeric golgi complex 8 [Scenedesmus sp. NREL 46B-D3], KAF6253607.1 hypothetical protein COO60DRAFT_1668193 [Scenedesmus sp. NREL 46B-D3]	QAXK01000249.1_23024-26432
+OG0002165	KAF6250446.1 glycoside hydrolase superfamily [Scenedesmus sp. NREL 46B-D3]	QAXK01004616.1_9420-16745
+OG0002167	KAF6260235.1 hypothetical protein COO60DRAFT_1700452 [Scenedesmus sp. NREL 46B-D3]	QAXK01011260.1_4573-3532
+OG0002169	KAF6256090.1 eukaryotic translation initiation factor 3a [Scenedesmus sp. NREL 46B-D3]	QAXK01012387.1_1585-757
+OG0002171	KAF6262033.1 hypothetical protein COO60DRAFT_1621809 [Scenedesmus sp. NREL 46B-D3]	QAXK01000446.1_58269-64323
+OG0002172	KAF6252570.1 ribosomal protein L32e [Scenedesmus sp. NREL 46B-D3]	QAXK01012305.1_2510-4620
+OG0002173	KAF6266664.1 AAA-ATPase of VPS4/SKD1 family [Scenedesmus sp. NREL 46B-D3]	QAXK01000596.1_14630-16935
+OG0002175	KAF6251057.1 tetrapyrrole methylase [Scenedesmus sp. NREL 46B-D3]	QAXK01001681.1_26607-28630
+OG0002176	KAF6258304.1 hypothetical protein COO60DRAFT_1131809 [Scenedesmus sp. NREL 46B-D3], KAF6258300.1 UbiA prenyltransferase family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006378.1_6447-7421
+OG0002177	KAF6251652.1 armadillo-type protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001458.1_24314-19030
+OG0002179	KAF6256679.1 breast carcinoma amplified sequence 2 [Scenedesmus sp. NREL 46B-D3]	QAXK01000816.1_3651-1777
+OG0002180	KAF6259263.1 component of TRAPP complex [Scenedesmus sp. NREL 46B-D3]	QAXK01013408.1_2179-3352
+OG0002181	KAF6264513.1 YebC-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001085.1_14460-16185
+OG0002182	KAF6263599.1 hypothetical protein COO60DRAFT_1488952 [Scenedesmus sp. NREL 46B-D3]	QAXK01011403.1_8648-10184
+OG0002185	KAF6259405.1 hypothetical protein COO60DRAFT_1626075 [Scenedesmus sp. NREL 46B-D3]	QAXK01004305.1_1287-2625
+OG0002187	KAF6256133.1 ARF-like GTPase [Scenedesmus sp. NREL 46B-D3], KAF6262286.1 small Arf-related GTPase [Scenedesmus sp. NREL 46B-D3]	QAXK01008561.1_1927-3583
+OG0002194	KAF6260862.1 tubulin folding cofactor B [Scenedesmus sp. NREL 46B-D3]	QAXK01000283.1_35828-37170
+OG0002195	KAF6262600.1 succinyl-CoA synthetase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004230.1_16730-15188
+OG0002201	KAF6252435.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01010560.1_4646-7806
+OG0002202	KAF6257338.1 vacuolar protein sorting-associated protein 26-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01015485.1_1487-4220
+OG0002203	KAF6259993.1 cation-transporting ATPase [Scenedesmus sp. NREL 46B-D3]	QAXK01002836.1_26336-33102
+OG0002205	KAF6262633.1 CCR4-associated factor [Scenedesmus sp. NREL 46B-D3]	QAXK01006533.1_2359-4576
+OG0002206	KAF6263675.1 lipid transfer machine permease [Scenedesmus sp. NREL 46B-D3]	QAXK01001756.1_16985-18889
+OG0002211	KAF6266696.1 SKIP/SNW domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002337.1_17192-14208
+OG0002212	KAF6255713.1 hypothetical protein COO60DRAFT_1285707 [Scenedesmus sp. NREL 46B-D3]	QAXK01004985.1_1921-3702
+OG0002214	KAF6259059.1 bystin-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004099.1_10602-7616
+OG0002216	KAF6250354.1 hypothetical protein COO60DRAFT_1576296 [Scenedesmus sp. NREL 46B-D3]	QAXK01008333.1_5211-755
+OG0002218	KAF6251247.1 DEAD-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6254673.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008568.1_4370-1172
+OG0002219	KAF6264490.1 LL-diaminopimelate aminotransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01000926.1_8546-11734
+OG0002221	KAF6263968.1 hypothetical protein COO60DRAFT_1698480 [Scenedesmus sp. NREL 46B-D3]	QAXK01000669.1_13732-11344
+OG0002223	KAF6260975.1 HSP20-like chaperone [Scenedesmus sp. NREL 46B-D3]	QAXK01002445.1_7314-8396
+OG0002227	KAF6266096.1 purF protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002658.1_19503-16448
+OG0002228	KAF6257634.1 Fcf1-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005657.1_4133-2964
+OG0002229	KAF6257633.1 hypothetical protein COO60DRAFT_1212651 [Scenedesmus sp. NREL 46B-D3]	QAXK01012523.1_554-5993
+OG0002231	KAF6255872.1 thioredoxin-like protein [Scenedesmus sp. NREL 46B-D3], KAF6251955.1 SGNH hydrolase-type esterase domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000465.1_13752-12830
+OG0002232	KAF6255577.1 lariat debranching enzyme_ C-terminal domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003345.1_4291-6594
+OG0002233	KAF6261738.1 UDP-sugar pyrophosphorylase 1 [Scenedesmus sp. NREL 46B-D3]	QAXK01000437.1_11961-16259
+OG0002235	KAF6259237.1 anticodon-binding protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001803.1_9702-7639
+OG0002238	KAF6261850.1 26S proteasome regulatory complex [Scenedesmus sp. NREL 46B-D3]	QAXK01001182.1_10605-8247
+OG0002241	KAF6262008.1 putative 40S ribosomal protein RPS14 [Scenedesmus sp. NREL 46B-D3]	QAXK01018825.1_5368-4150
+OG0002243	KAF6256521.1 CTP synthase N-terminus-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000459.1_16579-20716
+OG0002246	KAF6264060.1 hypothetical protein COO60DRAFT_1292762 [Scenedesmus sp. NREL 46B-D3]	QAXK01004963.1_17662-16561
+OG0002250	KAF6254864.1 hypothetical protein COO60DRAFT_1703120 [Scenedesmus sp. NREL 46B-D3]	QAXK01009768.1_6744-3068
+OG0002257	KAF6241284.1 hypothetical protein COO60DRAFT_1708869 [Scenedesmus sp. NREL 46B-D3], KAF6259250.1 phosphate cyclase [Scenedesmus sp. NREL 46B-D3]	QAXK01003840.1_2463-275
+OG0002262	KAF6251980.1 hypothetical protein COO60DRAFT_1704510 [Scenedesmus sp. NREL 46B-D3], KAF6260413.1 hypothetical protein COO60DRAFT_1625705 [Scenedesmus sp. NREL 46B-D3]	QAXK01009985.1_8201-11435
+OG0002280	KAF6257456.1 UAA transporter [Scenedesmus sp. NREL 46B-D3]	QAXK01000180.1_9982-8131
+OG0002282	KAF6254213.1 thylakoid lumenal protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000502.1_36980-37941
+OG0002289	KAF6252194.1 PLP-dependent transferase [Scenedesmus sp. NREL 46B-D3]	QAXK01009887.1_2599-389
+OG0002367	KAF6259168.1 hypothetical protein COO60DRAFT_1701000 [Scenedesmus sp. NREL 46B-D3]	QAXK01000828.1_1794-5888
+OG0002368	KAF6256877.1 hypothetical protein COO60DRAFT_1640403 [Scenedesmus sp. NREL 46B-D3]	QAXK01012125.1_2420-651
+OG0002374	KAF6258891.1 glycosyl transferase family 4-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003443.1_1888-4145
+OG0002375	KAF6258874.1 ubiE/COQ5 methyltransferase family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000611.1_344-2643
+OG0002377	KAF6258633.1 hypothetical protein COO60DRAFT_1701277 [Scenedesmus sp. NREL 46B-D3]	QAXK01000070.1_5006-2926
+OG0002391	KAF6260914.1 metal-dependent protein hydrolase [Scenedesmus sp. NREL 46B-D3]	QAXK01001032.1_529-3021
+OG0002392	KAF6256050.1 zeta-cop_ subunit of COP-I complex [Scenedesmus sp. NREL 46B-D3]	QAXK01004092.1_39419-40407
+OG0002393	KAF6254999.1 mitosis protein DIM1-domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6254595.1 mitosis protein DIM1-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004425.1_5700-7015
+OG0002398	KAF6253835.1 photosystem II biogenesis protein Psp29 [Scenedesmus sp. NREL 46B-D3]	QAXK01007630.1_3354-1779
+OG0002400	KAF6264856.1 hypothetical protein COO60DRAFT_1481147 [Scenedesmus sp. NREL 46B-D3]	QAXK01009758.1_1852-165
+OG0002402	KAF6257920.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3], KAF6260407.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006527.1_8708-6017
+OG0002404	KAF6264306.1 nucleophile aminohydrolase [Scenedesmus sp. NREL 46B-D3]	QAXK01000840.1_31502-30180
+OG0002407	KAF6259192.1 trafficking protein Mon1-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002424.1_5771-2597
+OG0002409	KAF6251928.1 hypothetical protein COO60DRAFT_1674245 [Scenedesmus sp. NREL 46B-D3]	QAXK01003096.1_14696-17609
+OG0002410	KAF6254835.1 acetylglutamate kinase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000328.1_7305-8962
+OG0002415	KAF6258680.1 hypothetical protein COO60DRAFT_1517833 [Scenedesmus sp. NREL 46B-D3]	QAXK01018530.1_1173-3834
+OG0002417	KAF6251378.1 mitochondrial substrate carrier [Scenedesmus sp. NREL 46B-D3]	QAXK01014946.1_5937-4091
+OG0002421	KAF6262665.1 DNA polymerase delta subunit one [Scenedesmus sp. NREL 46B-D3]	QAXK01000019.1_127-3831
+OG0002424	KAF6252582.1 4'-phosphopantetheinyl transferase [Scenedesmus sp. NREL 46B-D3]	QAXK01004230.1_13015-11861
+OG0002429	KAF6253458.1 hypothetical protein COO60DRAFT_1643145 [Scenedesmus sp. NREL 46B-D3]	QAXK01018188.1_2713-2029
+OG0002433	KAF6264176.1 mitochondrial carrier domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01010016.1_2591-4898
+OG0002435	KAF6262649.1 hypothetical protein COO60DRAFT_1635812 [Scenedesmus sp. NREL 46B-D3]	QAXK01006642.1_4903-8475
+OG0002439	KAF6266581.1 N2227-like protein-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006012.1_4611-6378
+OG0002441	KAF6263837.1 hypothetical protein COO60DRAFT_1487315 [Scenedesmus sp. NREL 46B-D3]	QAXK01000523.1_8909-7053
+OG0002447	KAF6262172.1 peroxisomal targeting signal 1 receptor [Scenedesmus sp. NREL 46B-D3]	QAXK01011649.1_6227-2645
+OG0002451	KAF6265257.1 iron-sulfur cluster assembly protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000979.1_11011-9108
+OG0002454	KAF6258778.1 BTB/POZ protein [Scenedesmus sp. NREL 46B-D3]	QAXK01017228.1_872-211
+OG0002461	KAF6263305.1 Pex12 amino terminal region-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008372.1_4504-1777
+OG0002470	KAF6261051.1 SURF1 family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004760.1_349-2010
+OG0002473	KAF6257096.1 RNA polymerase I-specific transcription initiation factor RRN3-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005580.1_145-5612
+OG0002481	KAF6253375.1 ribosomal protein L38 component of cytosolic 80S ribosome and 60S large subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01019295.1_5920-5732
+OG0002489	KAF6248582.1 oligosaccharide biosynthesis protein Alg14-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01011332.1_7730-6306
+OG0002490	KAF6266179.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005493.1_5709-8739
+OG0002491	KAF6256700.1 Mu homology domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001982.1_13111-9273
+OG0002493	KAF6264315.1 coenzyme Q biosynthesis protein Coq4-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003356.1_3976-6343
+OG0002501	KAF6257849.1 hypothetical protein COO60DRAFT_1701647 [Scenedesmus sp. NREL 46B-D3]	QAXK01015333.1_8887-6386
+OG0002502	KAF6254200.1 NMDA receptor-regulated protein 1-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004701.1_7826-2022
+OG0002509	KAF6258007.1 La domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002072.1_7784-4601
+OG0002520	KAF6255582.1 ankyrin repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004095.1_2354-706
+OG0002524	KAF6254378.1 ribosomal protein rpl36a [Scenedesmus sp. NREL 46B-D3]	QAXK01000577.1_7847-8807
+OG0002525	KAF6255703.1 S-adenosyl-L-methionine-dependent methyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01004000.1_12088-10081
+OG0002540	KAF6264746.1 HI0933-like protein-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000802.1_2542-6601
+OG0002550	KAF6250889.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001082.1_16962-21149
+OG0002551	KAF6254558.1 peptidylprolyl isomerase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000484.1_4718-2307
+OG0002552	KAF6251481.1 cupin-like domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6251485.1 hypothetical protein COO60DRAFT_611308 [Scenedesmus sp. NREL 46B-D3]	QAXK01001169.1_7647-4609
+OG0002561	KAF6258528.1 eukaryotic porin/Tom40 [Scenedesmus sp. NREL 46B-D3]	QAXK01000325.1_52702-51360
+OG0002563	KAF6262683.1 hypothetical protein COO60DRAFT_1699128 [Scenedesmus sp. NREL 46B-D3]	QAXK01010777.1_196-929
+OG0002569	KAF6266501.1 hypothetical protein COO60DRAFT_1632621 [Scenedesmus sp. NREL 46B-D3]	QAXK01008095.1_6073-1465
+OG0002570	KAF6259331.1 ribosome biogenesis protein Nop16 [Scenedesmus sp. NREL 46B-D3]	QAXK01004879.1_5868-4307
+OG0002572	KAF6252228.1 hypothetical protein COO60DRAFT_1644237 [Scenedesmus sp. NREL 46B-D3]	QAXK01003017.1_10269-9177
+OG0002575	KAF6260929.1 ribosomal protein L27a component of cytosolic 80S ribosome and 60S large subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01018811.1_5082-3547
+OG0002578	KAF6257595.1 hypothetical protein COO60DRAFT_1210988 [Scenedesmus sp. NREL 46B-D3], KAF6257592.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006849.1_22455-23625
+OG0002581	KAF6254581.1 Tim10/DDP family zinc finger-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000799.1_52275-51787
+OG0002587	KAF6265856.1 prephenate dehydratase [Scenedesmus sp. NREL 46B-D3]	QAXK01003879.1_1866-205
+OG0002588	KAF6258211.1 hypothetical protein COO60DRAFT_1295463 [Scenedesmus sp. NREL 46B-D3], KAF6247042.1 hypothetical protein COO60DRAFT_1649696 [Scenedesmus sp. NREL 46B-D3]	QAXK01006532.1_11118-4758
+OG0002596	KAF6266251.1 malate dehydrogenase_ cytoplasmic [Scenedesmus sp. NREL 46B-D3]	QAXK01013827.1_4630-1867
+OG0002601	KAF6258437.1 putative inositol monophosphatase 3 [Scenedesmus sp. NREL 46B-D3]	QAXK01013188.1_5354-2685
+OG0002604	KAF6260161.1 dihydroxyacetone kinase family protein [Scenedesmus sp. NREL 46B-D3], KAF6260158.1 hypothetical protein COO60DRAFT_1508812 [Scenedesmus sp. NREL 46B-D3]	QAXK01003755.1_5170-9460
+OG0002608	KAF6262774.1 hypothetical protein COO60DRAFT_1699091 [Scenedesmus sp. NREL 46B-D3]	QAXK01001306.1_3606-5501
+OG0002610	KAF6259077.1 hypothetical protein COO60DRAFT_1270304 [Scenedesmus sp. NREL 46B-D3]	QAXK01006881.1_2636-4947
+OG0002611	KAF6261095.1 acyl-CoA N-acyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01008206.1_13328-14330
+OG0002613	KAF6264678.1 hypothetical protein COO60DRAFT_1698232 [Scenedesmus sp. NREL 46B-D3]	QAXK01001336.1_4314-5769
+OG0002615	KAF6256517.1 hypothetical protein COO60DRAFT_1271868 [Scenedesmus sp. NREL 46B-D3]	QAXK01018285.1_3833-2399
+OG0002620	KAF6260951.1 kinase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005400.1_31209-29659
+OG0002627	KAF6254383.1 aspartate carbamoyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01000679.1_20862-23970
+OG0002632	KAF6254567.1 ketopantoate hydroxymethyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01000208.1_858-3327
+OG0002633	KAF6264314.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01015735.1_789-3208
+OG0002634	KAF6246279.1 MraW methylase family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005319.1_15043-16886
+OG0002641	KAF6252191.1 hypothetical protein COO60DRAFT_1704406 [Scenedesmus sp. NREL 46B-D3]	QAXK01001768.1_11195-11945
+OG0002642	KAF6262226.1 Enoyl-reductase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002348.1_6292-8730
+OG0002654	KAF6260068.1 triose-phosphate transporter family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008540.1_14282-12509
+OG0002656	KAF6252876.1 ribosomal L22e protein family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008693.1_1704-2778
+OG0002657	KAF6251808.1 hypothetical protein COO60DRAFT_1704588 [Scenedesmus sp. NREL 46B-D3]	QAXK01001396.1_8898-9977
+OG0002663	KAF6250717.1 50S ribosomal protein L30e-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005614.1_2666-5868
+OG0002665	KAF6254681.1 Formamidopyrimidine-DNA glycosylase H2TH domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01013120.1_9967-12816
+OG0002670	KAF6258796.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006673.1_15764-13631
+OG0002674	KAF6253381.1 nucleoside phosphorylase domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009777.1_8817-6577
+OG0002680	KAF6258512.1 hypothetical protein COO60DRAFT_1107045 [Scenedesmus sp. NREL 46B-D3]	QAXK01002348.1_28743-27471
+OG0002684	KAF6251965.1 Fcf1-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009099.1_14211-12777
+OG0002690	KAF6265572.1 anticodon-binding protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002281.1_18158-20087
+OG0002691	KAF6254217.1 purine 5'-nucleotidase [Scenedesmus sp. NREL 46B-D3]	QAXK01017025.1_286-4417
+OG0002692	KAF6264858.1 Plastocyanin_ chloroplastic [Scenedesmus sp. NREL 46B-D3]	QAXK01018733.1_2749-2003
+OG0002693	KAF6265505.1 PTPA-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001086.1_9229-7556
+OG0002695	KAF6256805.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01007477.1_3698-5226
+OG0002710	KAF6259081.1 hypothetical protein COO60DRAFT_1701024 [Scenedesmus sp. NREL 46B-D3]	QAXK01005359.1_3667-6796
+OG0002711	KAF6265477.1 cytidine and deoxycytidylate deaminase zinc-binding region-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000142.1_2803-4675
+OG0002714	KAF6251204.1 casein kinase II_ regulatory subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01008206.1_4068-2028
+OG0002716	KAF6256472.1 PUA-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002299.1_25676-26628
+OG0002723	KAF6266218.1 mitochondrial RNA polymerase [Scenedesmus sp. NREL 46B-D3]	QAXK01001735.1_19259-17991
+OG0002725	KAF6257940.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01014870.1_4125-17
+OG0002728	KAF6260742.1 eukaryotic DNA topoisomerase I [Scenedesmus sp. NREL 46B-D3]	QAXK01001551.1_13518-17077
+OG0002729	KAF6258577.1 glycosyl hydrolases family 31-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006977.1_27647-33279
+OG0002737	KAF6255189.1 hypothetical protein COO60DRAFT_1296694 [Scenedesmus sp. NREL 46B-D3]	QAXK01003565.1_11016-9575
+OG0002740	KAF6264442.1 acyl-CoA N-acyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01008073.1_769-1809
+OG0002747	KAF6262886.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003905.1_20331-25213
+OG0002748	KAF6261545.1 phosphatidylinositol synthase [Scenedesmus sp. NREL 46B-D3]	QAXK01006264.1_6024-5189
+OG0002758	KAF6259746.1 hypothetical protein COO60DRAFT_1638175 [Scenedesmus sp. NREL 46B-D3]	QAXK01000240.1_34950-34312
+OG0002759	KAF6264721.1 cysteine proteinase [Scenedesmus sp. NREL 46B-D3]	QAXK01007099.1_3453-8857
+OG0002761	KAF6259296.1 humps family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001947.1_20720-25947
+OG0002768	KAF6256601.1 hypothetical protein COO60DRAFT_91820 [Scenedesmus sp. NREL 46B-D3]	QAXK01003475.1_1733-1302
+OG0002771	KAF6262693.1 hypothetical protein COO60DRAFT_1699132 [Scenedesmus sp. NREL 46B-D3]	QAXK01011921.1_1066-3701
+OG0002772	KAF6256602.1 Rtf2 RING-finger-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003475.1_2682-4175
+OG0002777	KAF6265797.1 hypothetical protein COO60DRAFT_762517 [Scenedesmus sp. NREL 46B-D3]	QAXK01014000.1_19150-23189
+OG0002778	KAF6250727.1 Pre-mRNA-splicing factor 38 [Scenedesmus sp. NREL 46B-D3]	QAXK01002678.1_2058-278
+OG0002781	KAF6262593.1 nucleotide-diphospho-sugar transferase [Scenedesmus sp. NREL 46B-D3]	QAXK01008309.1_4393-845
+OG0002791	KAF6260295.1 hypothetical protein COO60DRAFT_908809 [Scenedesmus sp. NREL 46B-D3]	QAXK01006910.1_4587-4039
+OG0002793	KAF6255592.1 hypothetical protein COO60DRAFT_1641425 [Scenedesmus sp. NREL 46B-D3]	QAXK01003026.1_6033-13877
+OG0002799	KAF6251245.1 emp24/gp25L/p24 family/GOLD-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000454.1_923-1568
+OG0002810	KAF6265789.1 PQ loop repeat-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009911.1_30762-28414
+OG0002812	KAF6263400.1 hypothetical protein COO60DRAFT_1293065 [Scenedesmus sp. NREL 46B-D3]	QAXK01008556.1_5708-3352
+OG0002818	KAF6250416.1 DNA-directed RNA polymerase I subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01001221.1_1240-326
+OG0002819	KAF6251155.1 tocopherol cyclase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001402.1_3021-777
+OG0002820	KAF6255179.1 S-adenosyl-L-methionine-dependent methyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01007101.1_2486-3500
+OG0002827	KAF6261641.1 HAD-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001575.1_9213-11802
+OG0002829	KAF6258115.1 mRNA capping enzyme_ catalytic domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008464.1_4921-314
+OG0002831	KAF6261378.1 eukaryotic initiation factor [Scenedesmus sp. NREL 46B-D3]	QAXK01009471.1_2975-111
+OG0002842	KAF6258953.1 component of cytosolic 80S ribosome and 60S large subunit [Scenedesmus sp. NREL 46B-D3], KAF6252978.1 component of cytosolic 80S ribosome and 60S large subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01002063.1_17610-18209
+OG0002848	KAF6264966.1 ribosomal protein L1 [Scenedesmus sp. NREL 46B-D3]	QAXK01011190.1_3792-5177
+OG0002852	KAF6259139.1 hypothetical protein COO60DRAFT_1514683 [Scenedesmus sp. NREL 46B-D3]	QAXK01002795.1_1894-3499
+OG0002853	KAF6254177.1 NUDIX hydrolase domain-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006222.1_6005-7514
+OG0002854	KAF6254775.1 EamA-like transporter family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000274.1_4441-2040
+OG0002861	KAF6266197.1 glycerol-3-phosphate acyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01000336.1_29701-28621
+OG0002871	KAF6266432.1 hypothetical protein COO60DRAFT_1697389 [Scenedesmus sp. NREL 46B-D3]	QAXK01001665.1_2326-3883
+OG0002877	KAF6265978.1 thioredoxin-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001383.1_16600-17459
+OG0002889	KAF6266652.1 hypothetical protein COO60DRAFT_1291621 [Scenedesmus sp. NREL 46B-D3]	QAXK01014533.1_1995-3733
+OG0002890	KAF6259439.1 bola protein [Scenedesmus sp. NREL 46B-D3]	QAXK01012468.1_6191-5064
+OG0002895	KAF6264036.1 pseudouridine synthase [Scenedesmus sp. NREL 46B-D3]	QAXK01006273.1_11056-8644
+OG0002898	KAF6258008.1 hypothetical protein COO60DRAFT_1163870 [Scenedesmus sp. NREL 46B-D3]	QAXK01013787.1_6935-10103
+OG0002900	KAF6260516.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000573.1_11483-12681
+OG0002903	KAF6252872.1 cytochrome C biogenesis protein transmembrane region-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008701.1_3697-2030
+OG0002915	KAF6255977.1 Rft protein-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000080.1_1794-5623
+OG0002916	KAF6256954.1 Alpha/Beta hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01010627.1_8219-6389
+OG0002918	KAF6257164.1 hypothetical protein COO60DRAFT_1271527 [Scenedesmus sp. NREL 46B-D3]	QAXK01005102.1_8833-5901
+OG0002927	KAF6259833.1 hypothetical protein COO60DRAFT_964462 [Scenedesmus sp. NREL 46B-D3]	QAXK01012487.1_1571-2566
+OG0002931	KAF6253362.1 hypothetical protein COO60DRAFT_1273754 [Scenedesmus sp. NREL 46B-D3]	QAXK01009697.1_3987-6949
+OG0002938	KAF6252925.1 histone-fold-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01014057.1_8141-7852
+OG0002940	KAF6262929.1 hypothetical protein COO60DRAFT_1699063 [Scenedesmus sp. NREL 46B-D3]	QAXK01000147.1_17903-18595
+OG0002946	KAF6265106.1 WD40 repeat-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002261.1_40148-34742
+OG0002948	KAF6265489.1 hypothetical protein COO60DRAFT_1457089 [Scenedesmus sp. NREL 46B-D3]	QAXK01005661.1_3614-5576
+OG0002955	KAF6251367.1 L domain-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003496.1_4117-1328
+OG0002962	KAF6266723.1 GDP dissociation inhibitor [Scenedesmus sp. NREL 46B-D3]	QAXK01002423.1_4870-1549
+OG0002965	KAF6266543.1 helicase C-terminal domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009311.1_5086-9550
+OG0002969	KAF6251811.1 hypothetical protein COO60DRAFT_1464035 [Scenedesmus sp. NREL 46B-D3]	QAXK01007111.1_9724-10631
+OG0002971	KAF6254970.1 hypothetical protein COO60DRAFT_1537822 [Scenedesmus sp. NREL 46B-D3]	QAXK01004485.1_1816-3388
+OG0002974	KAF6257017.1 hypothetical protein COO60DRAFT_1526229 [Scenedesmus sp. NREL 46B-D3]	QAXK01000635.1_9875-7571
+OG0002988	KAF6263000.1 isoprenoid synthase domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005019.1_7837-6195
+OG0002994	KAF6259391.1 GINS complex_ Psf2 component [Scenedesmus sp. NREL 46B-D3]	QAXK01008641.1_5826-4936
+OG0002996	KAF6265841.1 acyl-CoA N-acyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01008356.1_1994-1323
+OG0003000	KAF6262622.1 thioredoxin-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01018219.1_153-1479
+OG0003006	KAF6266775.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009127.1_2830-5632
+OG0003009	KAF6254299.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001726.1_8268-6818
+OG0003011	KAF6263443.1 MOSC N-terminal beta barrel domain-containing protein_ partial [Scenedesmus sp. NREL 46B-D3], KAF6263444.1 MOSC-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01014149.1_4580-2650
+OG0003015	KAF6256091.1 hypothetical protein COO60DRAFT_1471149 [Scenedesmus sp. NREL 46B-D3]	QAXK01017394.1_3188-4
+OG0003017	KAF6255183.1 low molecular mass early light-induced protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001070.1_5974-4798
+OG0003026	KAF6253532.1 hypothetical protein COO60DRAFT_408847 [Scenedesmus sp. NREL 46B-D3], KAF6253531.1 TLD-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001672.1_6564-5317
+OG0003036	KAF6250867.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000724.1_14653-15848
+OG0003041	KAF6261694.1 hypothetical protein COO60DRAFT_1268542 [Scenedesmus sp. NREL 46B-D3]	QAXK01001704.1_7113-6556
+OG0003042	KAF6258674.1 hypothetical protein COO60DRAFT_1517822 [Scenedesmus sp. NREL 46B-D3]	QAXK01014526.1_3534-6424
+OG0003049	KAF6255369.1 phosphatidate cytidylyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01005731.1_3330-6743
+OG0003059	KAF6260060.1 AP complex_ mu/sigma subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01007133.1_7499-8797
+OG0003064	KAF6253047.1 hypothetical protein COO60DRAFT_1703992 [Scenedesmus sp. NREL 46B-D3]	QAXK01005457.1_8974-4681
+OG0003068	KAF6257636.1 cytochrome oxidase assembly [Scenedesmus sp. NREL 46B-D3]	QAXK01015536.1_9170-6903
+OG0003075	KAF6266484.1 HAD-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01016351.1_22-2386
+OG0003087	KAF6251896.1 Poly_A_ polymerase central domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003513.1_13194-9646
+OG0003091	KAF6244108.1 isoprenoid synthase domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01014943.1_5708-4249
+OG0003097	KAF6251723.1 glutathione S-transferase [Scenedesmus sp. NREL 46B-D3]	QAXK01008899.1_16518-18484
+OG0003105	KAF6264482.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001158.1_6748-4261
+OG0003107	KAF6262815.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01014862.1_4087-1458
+OG0003111	KAF6251385.1 hypothetical protein COO60DRAFT_1704853 [Scenedesmus sp. NREL 46B-D3]	QAXK01008798.1_739-2238
+OG0003123	KAF6265191.1 formyl transferase [Scenedesmus sp. NREL 46B-D3]	QAXK01008567.1_4740-6650
+OG0003125	KAF6257341.1 putative ubiquinone/menaquinone biosynthesis methyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01001243.1_11567-10056
+OG0003126	KAF6261409.1 hypothetical protein COO60DRAFT_784224 [Scenedesmus sp. NREL 46B-D3]	QAXK01016483.1_12203-9679
+OG0003127	KAF6256678.1 IPP transferase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01017290.1_11269-8021
+OG0003129	KAF6266137.1 hypothetical protein COO60DRAFT_1475747 [Scenedesmus sp. NREL 46B-D3]	QAXK01002314.1_19744-18688
+OG0003133	KAF6256211.1 hypothetical protein COO60DRAFT_135121 [Scenedesmus sp. NREL 46B-D3]	QAXK01000525.1_12654-17162
+OG0003137	KAF6257780.1 nagb/rpia/CoA transferase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001082.1_3989-724
+OG0003142	KAF6253674.1 hypothetical protein COO60DRAFT_1545566 [Scenedesmus sp. NREL 46B-D3]	QAXK01011367.1_1094-2688
+OG0003148	KAF6258189.1 hypothetical protein COO60DRAFT_1639335 [Scenedesmus sp. NREL 46B-D3]	QAXK01012193.1_12536-14034
+OG0003149	KAF6251656.1 hypothetical protein COO60DRAFT_1622685 [Scenedesmus sp. NREL 46B-D3]	QAXK01012663.1_1560-2913
+OG0003151	KAF6259582.1 PsbP-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01010249.1_1617-3048
+OG0003152	KAF6261990.1 NUC169 domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003852.1_5090-8561
+OG0003157	KAF6260884.1 thioredoxin-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01018936.1_2-1001
+OG0003160	KAF6265657.1 hypothetical protein COO60DRAFT_1697664 [Scenedesmus sp. NREL 46B-D3]	QAXK01000595.1_5567-8159
+OG0003164	KAF6250328.1 tRNA methyltransferase complex GCD14 subunit-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009877.1_4970-2684
+OG0003167	KAF6262831.1 PLP-dependent transferase [Scenedesmus sp. NREL 46B-D3]	QAXK01014051.1_13887-12133
+OG0003172	KAF6262068.1 vacuolar ATP synthase subunit F [Scenedesmus sp. NREL 46B-D3]	QAXK01000415.1_5823-6484
+OG0003191	KAF6256358.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004389.1_4946-6334
+OG0003196	KAF6261909.1 putative chloroplast 1-hydroxy-2-methyl-2-_E_-butenyl-4-diphosphate synthase precursor [Scenedesmus sp. NREL 46B-D3]	QAXK01000596.1_17342-21595
+OG0003197	KAF6258560.1 component of oligomeric golgi complex 3 [Scenedesmus sp. NREL 46B-D3]	QAXK01003298.1_5048-551
+OG0003198	KAF6257926.1 26S proteasome regulatory complex [Scenedesmus sp. NREL 46B-D3]	QAXK01002898.1_4695-10345
+OG0003204	KAF6258928.1 beta-lactamase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006378.1_2719-127
+OG0003209	KAF6258257.1 MCM2/3/5 family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01011390.1_6757-10508
+OG0003212	KAF6260070.1 hypothetical protein COO60DRAFT_1621990 [Scenedesmus sp. NREL 46B-D3]	QAXK01003629.1_5946-3703
+OG0003217	KAF6261230.1 fibronectin-binding protein A N-terminus-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01017651.1_111-3535
+OG0003218	KAF6263029.1 26S proteasome regulatory complex [Scenedesmus sp. NREL 46B-D3]	QAXK01003131.1_36278-34367
+OG0003219	KAF6266706.1 ubiquitin-related domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002499.1_5466-6313
+OG0003220	KAF6252130.1 hypothetical protein COO60DRAFT_1274500 [Scenedesmus sp. NREL 46B-D3]	QAXK01004108.1_13829-15654
+OG0003226	KAF6261373.1 protein prenylyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01003220.1_8522-13953
+OG0003227	KAF6262047.1 peptidase M24_ structural domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003375.1_5219-43
+OG0003230	KAF6263325.1 F1F0 ATP synthase_ subunit G_ mitochondrial [Scenedesmus sp. NREL 46B-D3]	QAXK01000382.1_1570-3458
+OG0003235	KAF6263340.1 Quinolinate phosphoribosyl transferase [Scenedesmus sp. NREL 46B-D3]	QAXK01014478.1_11654-8522
+OG0003239	KAF6265810.1 snare associated Golgi protein-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009911.1_3900-1880
+OG0003243	KAF6261048.1 deoxypusine synthase 1 [Scenedesmus sp. NREL 46B-D3]	QAXK01012462.1_308-2720
+OG0003245	KAF6250832.1 Brix domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6252067.1 Brix domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01014831.1_1377-156
+OG0003248	KAF6250858.1 hypothetical protein COO60DRAFT_1464780 [Scenedesmus sp. NREL 46B-D3], KAF6250854.1 acyl-CoA N-acyltransferase [Scenedesmus sp. NREL 46B-D3], KAF6252261.1 acyl-CoA N-acyltransferase_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01003339.1_1231-2678
+OG0003249	KAF6260030.1 hypothetical protein COO60DRAFT_1509923 [Scenedesmus sp. NREL 46B-D3], KAF6249164.1 hypothetical protein COO60DRAFT_991937_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01001710.1_3704-3307
+OG0003250	KAF6255086.1 CPSF A subunit region-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003319.1_3618-13354
+OG0003251	KAF6258816.1 6-4 photolyase [Scenedesmus sp. NREL 46B-D3]	QAXK01015706.1_7236-11105
+OG0003252	KAF6253033.1 hypothetical protein COO60DRAFT_1704021 [Scenedesmus sp. NREL 46B-D3]	QAXK01000655.1_17305-22319
+OG0003253	KAF6253762.1 PsaB RNA binding protein [Scenedesmus sp. NREL 46B-D3], KAF6253836.1 hypothetical protein COO60DRAFT_1544441 [Scenedesmus sp. NREL 46B-D3]	QAXK01000965.1_18464-16425
+OG0003254	KAF6265469.1 hypothetical protein COO60DRAFT_1697762 [Scenedesmus sp. NREL 46B-D3]	QAXK01000983.1_27514-29192
+OG0003255	KAF6253006.1 glutathione S-transferase [Scenedesmus sp. NREL 46B-D3]	QAXK01010066.1_5264-7166
+OG0003256	KAF6252284.1 HD repeat domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01014762.1_15208-13635
+OG0003257	KAF6266043.1 NUDIX hydrolase domain-like protein [Scenedesmus sp. NREL 46B-D3], KAF6266020.1 hypothetical protein COO60DRAFT_1475178 [Scenedesmus sp. NREL 46B-D3]	QAXK01001567.1_22308-20679
+OG0003258	KAF6264166.1 peptidase C12_ ubiquitin carboxyl-terminal hydrolase 1 [Scenedesmus sp. NREL 46B-D3]	QAXK01005019.1_6054-4921
+OG0003259	KAF6261464.1 ribosomal protein L23a component of cytosolic 80S ribosome and 60S large subunit [Scenedesmus sp. NREL 46B-D3], KAF6261463.1 hypothetical protein COO60DRAFT_1636758 [Scenedesmus sp. NREL 46B-D3]	QAXK01003400.1_3813-5064
+OG0003357	KAF6252871.1 cytochrome b5-like heme/steroid binding domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001354.1_4891-5217
+OG0003361	KAF6255736.1 Prefoldin subunit-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008796.1_1534-1839
+OG0003363	KAF6254440.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009044.1_6855-8605
+OG0003365	KAF6257013.1 acetyl-coenzyme A transporter 1-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01013436.1_3075-257
+OG0003376	KAF6256438.1 parvulin-type peptidyl-prolyl cis-trans isomerase [Scenedesmus sp. NREL 46B-D3]	QAXK01015973.1_3186-2635
+OG0003378	KAF6264236.1 hypothetical protein COO60DRAFT_225581 [Scenedesmus sp. NREL 46B-D3]	QAXK01007832.1_7613-8663
+OG0003389	KAF6262982.1 rab-GTPase-TBC domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000807.1_2417-1282
+OG0003390	KAF6258838.1 tRNA/rRNA methyltransferase family protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002975.1_1945-3061
+OG0003400	KAF6255720.1 terpenoid cyclases/protein prenyltransferase alpha-alpha toroid [Scenedesmus sp. NREL 46B-D3]	QAXK01011269.1_6226-3244
+OG0003418	KAF6254039.1 hypothetical protein COO60DRAFT_1703541 [Scenedesmus sp. NREL 46B-D3]	QAXK01004430.1_3720-2428
+OG0003427	KAF6256542.1 guanine-1-methyltransferase-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01017428.1_6517-5288
+OG0003452	KAF6257441.1 hypothetical protein COO60DRAFT_1227867 [Scenedesmus sp. NREL 46B-D3]	QAXK01012596.1_9132-5856
+OG0003460	KAF6251673.1 hypothetical protein COO60DRAFT_1704668 [Scenedesmus sp. NREL 46B-D3]	QAXK01010334.1_16568-22208
+OG0003462	KAF6266125.1 hypothetical protein COO60DRAFT_1470084 [Scenedesmus sp. NREL 46B-D3]	QAXK01004703.1_12039-13879
+OG0003474	KAF6265123.1 50S ribosomal protein L30e-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01010270.1_2969-2237
+OG0003481	KAF6250597.1 hypothetical protein COO60DRAFT_796004 [Scenedesmus sp. NREL 46B-D3]	QAXK01002106.1_10876-11265
+OG0003502	KAF6262440.1 DNA-directed RNA polymerase II_ 19 kDa polypeptide [Scenedesmus sp. NREL 46B-D3]	QAXK01000365.1_3565-4942
+OG0003509	KAF6257023.1 component of TRAPP complex [Scenedesmus sp. NREL 46B-D3]	QAXK01011852.1_1562-2354
+OG0003538	KAF6257939.1 hypothetical protein COO60DRAFT_1701574 [Scenedesmus sp. NREL 46B-D3]	QAXK01008337.1_3990-5243
+OG0003540	KAF6258266.1 ribosomal protein L14 component of cytosolic 80S ribosome and 60S large subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01001088.1_16015-14943
+OG0003579	KAF6265721.1 hypothetical protein COO60DRAFT_1697694 [Scenedesmus sp. NREL 46B-D3]	QAXK01005668.1_9092-7561
+OG0003597	KAF6260652.1 hypothetical protein COO60DRAFT_1700245 [Scenedesmus sp. NREL 46B-D3]	QAXK01004574.1_6183-8163
+OG0003598	KAF6264387.1 DnaJ-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01002968.1_5239-542
+OG0003601	KAF6256660.1 transport protein particle component-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01016048.1_1933-545
+OG0003643	KAF6254216.1 terpenoid cyclases/Protein prenyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01000249.1_16165-13537
+OG0003644	KAF6252837.1 XPC-binding domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008360.1_3542-5458
+OG0003666	KAF6252749.1 Alpha/beta knot methyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01003616.1_6090-7285
+OG0003671	KAF6262775.1 hypothetical protein COO60DRAFT_1267906 [Scenedesmus sp. NREL 46B-D3]	QAXK01000459.1_9787-9028
+OG0003672	KAF6265237.1 peptidyl-tRNA hydrolase 2/Bcl-2 inhibitor of transcription 1 [Scenedesmus sp. NREL 46B-D3]	QAXK01004402.1_2407-3301
+OG0003677	KAF6266017.1 hypothetical protein COO60DRAFT_1281067 [Scenedesmus sp. NREL 46B-D3]	QAXK01010442.1_6499-5620
+OG0003687	KAF6262717.1 hypothetical protein COO60DRAFT_1267980_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01006494.1_1594-1032
+OG0003693	KAF6259695.1 hypothetical protein COO60DRAFT_1700667 [Scenedesmus sp. NREL 46B-D3]	QAXK01003706.1_3896-8573
+OG0003697	KAF6254436.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01004373.1_28195-25392
+OG0003713	KAF6258929.1 hypothetical protein COO60DRAFT_1270426 [Scenedesmus sp. NREL 46B-D3]	QAXK01002432.1_4248-4930
+OG0003731	KAF6251994.1 p21-C-terminal region-binding protein-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01017356.1_2411-500
+OG0003744	KAF6255289.1 hypothetical protein COO60DRAFT_1641630 [Scenedesmus sp. NREL 46B-D3]	QAXK01009613.1_9396-10310
+OG0003746	KAF6249057.1 hypothetical protein COO60DRAFT_1299912 [Scenedesmus sp. NREL 46B-D3]	QAXK01004123.1_13625-15399
+OG0003755	KAF6257311.1 hypothetical protein COO60DRAFT_1524460 [Scenedesmus sp. NREL 46B-D3]	QAXK01002565.1_12559-10828
+OG0003771	KAF6261379.1 hypothetical protein COO60DRAFT_1283089 [Scenedesmus sp. NREL 46B-D3]	QAXK01010052.1_3190-4640
+OG0003773	KAF6264215.1 signal recognition particle_ SRP19 subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01014932.1_4139-2485
+OG0003784	KAF6258527.1 translation protein SH3-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01007229.1_11545-10178
+OG0003794	KAF6260077.1 pyridoxal phosphate-dependent transferase [Scenedesmus sp. NREL 46B-D3]	QAXK01000557.1_206-3811
+OG0003801	KAF6252088.1 hypothetical protein COO60DRAFT_559991 [Scenedesmus sp. NREL 46B-D3]	QAXK01000515.1_19189-19853
+OG0003813	KAF6264536.1 surface antigen-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000036.1_13891-8955
+OG0003824	KAF6261907.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001158.1_26014-28604
+OG0003826	KAF6261329.1 ribonuclease H-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01015643.1_1434-3404
+OG0003838	KAF6263234.1 Pre-mRNA-splicing factor Cwf15/Cwc15 [Scenedesmus sp. NREL 46B-D3]	QAXK01001081.1_3765-5510
+OG0003841	KAF6266582.1 activator of Hsp90 ATPase [Scenedesmus sp. NREL 46B-D3]	QAXK01006012.1_2971-2223
+OG0003847	KAF6252230.1 hypothetical protein COO60DRAFT_1704397 [Scenedesmus sp. NREL 46B-D3]	QAXK01000325.1_43378-42220
+OG0003849	KAF6254126.1 Isoprenylcysteine carboxyl methyltransferase family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01010227.1_9762-8151
+OG0003850	KAF6265160.1 hypothetical protein COO60DRAFT_1697987 [Scenedesmus sp. NREL 46B-D3]	QAXK01003563.1_5026-2636
+OG0003861	KAF6258410.1 fatty acid hydroxylase superfamily-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001160.1_34552-35942
+OG0003904	KAF6261997.1 20S proteasome alpha subunit C [Scenedesmus sp. NREL 46B-D3]	QAXK01003852.1_2138-563
+OG0003944	KAF6261508.1 galactose-binding domain-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005846.1_7514-8614
+OG0003947	KAF6256450.1 hypothetical protein COO60DRAFT_1657786 [Scenedesmus sp. NREL 46B-D3]	QAXK01000042.1_9232-7900
+OG0003954	KAF6252838.1 hypothetical protein COO60DRAFT_1671299 [Scenedesmus sp. NREL 46B-D3]	QAXK01004732.1_20335-21271
+OG0003958	KAF6251220.1 eukaryotic rRNA processing [Scenedesmus sp. NREL 46B-D3]	QAXK01001698.1_16624-15571
+OG0003964	KAF6260744.1 chaperonin 10 [Scenedesmus sp. NREL 46B-D3]	QAXK01001551.1_63875-64499
+OG0003973	KAF6257060.1 component of TRAPP complex [Scenedesmus sp. NREL 46B-D3]	QAXK01005150.1_10239-11440
+OG0003976	KAF6264163.1 FLU chloroplast precursor_ alternative spliced version s-FLP [Scenedesmus sp. NREL 46B-D3]	QAXK01008391.1_3155-4981
+OG0003980	KAF6255028.1 thioredoxin-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001710.1_16426-15281
+OG0003985	KAF6251194.1 magnesium transporter [Scenedesmus sp. NREL 46B-D3]	QAXK01006679.1_5844-7981
+OG0003999	KAF6250985.1 Endoribonuclease L-PSP/chorismate mutase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01017848.1_6990-5867
+OG0004036	KAF6265162.1 NUDIX hydrolase domain-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001182.1_6681-8037
+OG0004052	KAF6263562.1 cytochrome b-c1 complex subunit 7 [Scenedesmus sp. NREL 46B-D3]	QAXK01018827.1_2147-2783
+OG0004119	KAF6264488.1 Dom34 protein [Scenedesmus sp. NREL 46B-D3]	QAXK01011975.1_26427-25164
+OG0004127	KAF6254289.1 hypothetical protein COO60DRAFT_1703387 [Scenedesmus sp. NREL 46B-D3]	QAXK01002477.1_12495-11499
+OG0004131	KAF6256859.1 AAA domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008931.1_8768-10630
+OG0004161	KAF6262159.1 DUF1365-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003741.1_3586-2152
+OG0004173	KAF6265916.1 hypothetical protein COO60DRAFT_769299 [Scenedesmus sp. NREL 46B-D3]	QAXK01003131.1_14822-17632
+OG0004184	KAF6265951.1 putative carboxypeptidase [Scenedesmus sp. NREL 46B-D3]	QAXK01001360.1_2587-7675
+OG0004188	KAF6258204.1 26S proteasome regulatory subunit [Scenedesmus sp. NREL 46B-D3]	QAXK01000965.1_13792-15638
+OG0004195	KAF6262302.1 hypothetical protein COO60DRAFT_1699417 [Scenedesmus sp. NREL 46B-D3]	QAXK01002159.1_9033-7570
+OG0004222	KAF6265461.1 replication factor A protein 3 [Scenedesmus sp. NREL 46B-D3]	QAXK01017090.1_773-1260
+OG0004223	KAF6264494.1 hypothetical protein COO60DRAFT_127959 [Scenedesmus sp. NREL 46B-D3]	QAXK01019447.1_2073-2396
+OG0004224	KAF6260871.1 dihydrofolate reductase-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003931.1_8204-3520
+OG0004225	KAF6256016.1 isoprenoid synthase domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001471.1_7507-5855
+OG0004226	KAF6265177.1 hypothetical protein COO60DRAFT_1119106 [Scenedesmus sp. NREL 46B-D3]	QAXK01014810.1_5618-8818
+OG0004227	KAF6251322.1 MutL C terminal dimerization domain-containing protein [Scenedesmus sp. NREL 46B-D3], KAF6251323.1 histidine kinase-like ATPase [Scenedesmus sp. NREL 46B-D3]	QAXK01000804.1_324-1387
+OG0004228	KAF6248797.1 WD40-repeat-containing domain protein [Scenedesmus sp. NREL 46B-D3], KAF6259966.1 ribosome biogenesis protein WDR12 [Scenedesmus sp. NREL 46B-D3]	QAXK01010701.1_10887-7922
+OG0004229	KAF6265645.1 P-loop containing nucleoside triphosphate hydrolase protein [Scenedesmus sp. NREL 46B-D3]	QAXK01014803.1_67-2405
+OG0004230	KAF6259495.1 trypsin-like serine protease [Scenedesmus sp. NREL 46B-D3]	QAXK01004000.1_7642-5232
+OG0004231	KAF6250359.1 FAD-dependent oxidoreductase [Scenedesmus sp. NREL 46B-D3]	QAXK01004677.1_1252-4060
+OG0004232	KAF6257183.1 mitochondrial substrate carrier protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001218.1_22461-19740
+OG0004233	KAF6263568.1 ribosomal protein S5 domain 2-type protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001871.1_3231-1985
+OG0004234	KAF6252326.1 SBDS protein C-terminal domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003347.1_1758-3582
+OG0004236	KAF6254541.1 thiolase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01008198.1_2951-5520
+OG0004237	KAF6257826.1 hypothetical protein COO60DRAFT_1622204 [Scenedesmus sp. NREL 46B-D3]	QAXK01011268.1_2959-4791
+OG0004238	KAF6251492.1 hypothetical protein COO60DRAFT_1675455 [Scenedesmus sp. NREL 46B-D3]	QAXK01018044.1_1256-217
+OG0004239	KAF6263647.1 putative diphthamide synthesis protein-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009544.1_7380-9706
+OG0004240	KAF6253608.1 anaphase-promoting complex_ subunit 10 [Scenedesmus sp. NREL 46B-D3]	QAXK01003572.1_4178-5128
+OG0004241	KAF6251300.1 hypothetical protein COO60DRAFT_1561459 [Scenedesmus sp. NREL 46B-D3]	QAXK01011839.1_9-1697
+OG0004242	KAF6266743.1 small-subunit processome [Scenedesmus sp. NREL 46B-D3]	QAXK01001749.1_8132-6905
+OG0004243	KAF6254125.1 ribonuclease H-like domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01010227.1_10470-11308
+OG0004244	KAF6260714.1 PHF5-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01015529.1_1845-2785
+OG0004245	KAF6250167.1 hypothetical protein COO60DRAFT_1706220 [Scenedesmus sp. NREL 46B-D3], KAF6265308.1 hypothetical protein COO60DRAFT_1039184 [Scenedesmus sp. NREL 46B-D3]	QAXK01011116.1_4220-2967
+OG0004246	KAF6264275.1 ChaC-like protein-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01001784.1_27630-25510
+OG0004247	KAF6263833.1 hypothetical protein COO60DRAFT_1267336 [Scenedesmus sp. NREL 46B-D3]	QAXK01003581.1_1217-562
+OG0004248	KAF6259771.1 hypothetical protein COO60DRAFT_1700641 [Scenedesmus sp. NREL 46B-D3]	QAXK01004599.1_5331-3218
+OG0004249	KAF6261392.1 Staygreen protein-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01000848.1_19191-20023
+OG0004476	KAF6257964.1 Dcp1-like decapping family-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01005761.1_5110-4061
+OG0004571	KAF6249277.1 transcription initiation factor TAFII31 [Scenedesmus sp. NREL 46B-D3]	QAXK01000171.1_2716-3341
+OG0004622	KAF6260508.1 hypothetical protein COO60DRAFT_1470707 [Scenedesmus sp. NREL 46B-D3]	QAXK01002638.1_6633-6327
+OG0004656	KAF6258564.1 origin recognition complex subunit 2-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01006388.1_12359-10899
+OG0004681	KAF6259949.1 hypothetical protein COO60DRAFT_1294635 [Scenedesmus sp. NREL 46B-D3]	QAXK01001495.1_31486-30283
+OG0004765	KAF6260392.1 cwf18 pre-mRNA splicing factor-domain-containing protein_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01013662.1_15761-16601
+OG0004825	KAF6263692.1 hypothetical protein COO60DRAFT_382053 [Scenedesmus sp. NREL 46B-D3]	QAXK01012785.1_94-624
+OG0004901	KAF6266078.1 multi protein bridging factor 1-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003939.1_11405-12434
+OG0004922	KAF6264398.1 eukaryotic translation initiation factor eIF2A-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01009836.1_3189-307
+OG0004939	KAF6266480.1 adenylyltransferase [Scenedesmus sp. NREL 46B-D3]	QAXK01014925.1_5002-6648
+OG0004940	KAF6266363.1 chlorophyll a/b-binding protein [Scenedesmus sp. NREL 46B-D3]	QAXK01003992.1_14682-12697
+OG0004941	KAF6262177.1 hypothetical protein COO60DRAFT_1293600 [Scenedesmus sp. NREL 46B-D3]	QAXK01007127.1_5270-7296
+OG0004942	KAF6261028.1 eukaryotic phosphomannomutase [Scenedesmus sp. NREL 46B-D3]	QAXK01005538.1_10163-11912
+OG0004943	KAF6264654.1 hypothetical protein COO60DRAFT_1483819 [Scenedesmus sp. NREL 46B-D3]	QAXK01000526.1_11161-10180
+OG0004944	KAF6250785.1 hypothetical protein COO60DRAFT_1705427 [Scenedesmus sp. NREL 46B-D3]	QAXK01000032.1_16347-17734
+OG0004945	KAF6265133.1 hypothetical protein COO60DRAFT_1480718 [Scenedesmus sp. NREL 46B-D3]	QAXK01002261.1_13670-14278
+OG0004946	KAF6265295.1 beta-lactamase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01011417.1_18759-16577
+OG0005372	KAF6264345.1 inosine triphosphate pyrophosphatase-like protein [Scenedesmus sp. NREL 46B-D3]	QAXK01012603.1_2052-3066
+OG0005613	KAF6263160.1 hypothetical protein COO60DRAFT_1256373_ partial [Scenedesmus sp. NREL 46B-D3]	QAXK01006058.1_8137-6433
+OG0005614	KAF6250532.1 Nicastrin-domain-containing protein [Scenedesmus sp. NREL 46B-D3]	QAXK01012020.1_2254-4849
+OG0005615	KAF6254568.1 hypothetical protein COO60DRAFT_1273046 [Scenedesmus sp. NREL 46B-D3]	QAXK01002408.1_3172-1756

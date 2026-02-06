@@ -1,0 +1,10 @@
+0: Auxenochlorella_protothecoides.faa
+1: Chlorella_A99.faa
+2: Chlorella_KRBP.faa
+3: Chlorella_Sorokiniana1602.faa
+4: Chlorella_VariabilisNC64A.faa
+5: Chlorella_Vulgaris2111P.faa
+6: Coccomyxa_SubellipsoideaC169.faa
+7: Micractinium_SAG24180.faa
+8: Scenedesmus_NREL.faa
+9: Scenedesmus_PABB004.faa

@@ -1,0 +1,1 @@
+(Chlorella_Vulgaris2111P_KAI3428584.1 hypothetical protein D9Q98_007406 _Chlorella vulgaris_:0.236925,(Chlorella_Sorokiniana1602_PRW44295.1 flagellar associated _Chlorella sorokiniana_:0.629262,(Micractinium_SAG24180_PSC70980.1 Sho1p isoform A _Micractinium conductrix_:0,Micractinium_SAG24180_PSC70978.1 Sho1p isoform B _Micractinium conductrix_:0):0.640528):0.236925);

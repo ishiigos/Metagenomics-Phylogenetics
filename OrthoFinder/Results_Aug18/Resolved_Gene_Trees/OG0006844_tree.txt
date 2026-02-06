@@ -1,0 +1,1 @@
+(Chlorella_A99_PCFQ01000007.1 g1211 _Chlorella sp. A99_:0.651502,((Chlorella_Sorokiniana1602_PRW57477.1 dedicator of cytokinesis 4 _Chlorella sorokiniana_:0.613076,Chlorella_Vulgaris2111P_KAI3437809.1 hypothetical protein D9Q98_000256 _Chlorella vulgaris_:0.558236)n2:0.101339,Micractinium_SAG24180_PSC69549.1 P450 reductase _Micractinium conductrix_:0.461077)n1:0.651502)n0;

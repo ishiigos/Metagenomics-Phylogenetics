@@ -1,0 +1,1 @@
+(Chlorella_A99_PCFQ01000008.1 g1156 _Chlorella sp. A99_:0.0297405,(Chlorella_A99_PCFQ01000079.1 g1298 _Chlorella sp. A99_:1.04165,(Chlorella_A99_PCFQ01000011.1 g2758 _Chlorella sp. A99_:0.957095,Chlorella_A99_PCFQ01000008.1 g1157 _Chlorella sp. A99_:2.17047e-06):0.355898):0.0297405);

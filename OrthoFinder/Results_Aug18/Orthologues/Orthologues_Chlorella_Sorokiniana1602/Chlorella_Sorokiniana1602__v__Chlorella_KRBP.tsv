@@ -1,0 +1,918 @@
+Orthogroup	Chlorella_Sorokiniana1602	Chlorella_KRBP
+OG0000005	PRW60758.1 putative histone H2A variant 3 [Chlorella sorokiniana], PRW32926.1 Histone H2A [Chlorella sorokiniana], PRW56969.1 Histone H2A [Chlorella sorokiniana], PRW57065.1 Histone H2A [Chlorella sorokiniana], PRW57122.1 Histone H2A [Chlorella sorokiniana], PRW32953.1 Histone H2A [Chlorella sorokiniana], PRW20373.1 Histone H2A [Chlorella sorokiniana], PRW33066.1 Histone H2A [Chlorella sorokiniana], PRW57339.1 Histone H2A [Chlorella sorokiniana], PRW57021.1 Histone H2A [Chlorella sorokiniana], PRW56948.1 Histone H2A [Chlorella sorokiniana], PRW20423.1 Histone H2A [Chlorella sorokiniana], PRW32875.1 Histone H2A [Chlorella sorokiniana], PRW50900.1 Histone H2A [Chlorella sorokiniana]	QAXK01016321.1_1655-2667
+OG0000013	PRW20807.1 sulfur stress regulator [Chlorella sorokiniana], PRW33203.1 Serine threonine- kinase SAPK1 [Chlorella sorokiniana], PRW44937.1 sulfur stress regulator [Chlorella sorokiniana], PRW58909.1 sulfur stress regulator [Chlorella sorokiniana], PRW59234.1 sulfur stress regulator [Chlorella sorokiniana], PRW59170.1 sulfur stress regulator isoform A [Chlorella sorokiniana], PRW59171.1 sulfur stress regulator isoform B [Chlorella sorokiniana], PRW60419.1 serine threonine- kinase [Chlorella sorokiniana], PRW58940.1 serine threonine- kinase Nek1 isoform X5 [Chlorella sorokiniana]	QAXK01004822.1_8132-10307
+OG0000049	PRW59120.1 hypothetical protein C2E21_2482 [Chlorella sorokiniana], PRW58828.1 putative ubiquitin-like-specific protease 2B isoform X1 [Chlorella sorokiniana], PRW55925.1 translation initiation factor fusion with methylthioribose kinase [Chlorella sorokiniana]	QAXK01004561.1_5673-2644
+OG0000059	PRW21133.1 putative GTP-binding -like isoform B [Chlorella sorokiniana], PRW21134.1 putative GTP-binding -like isoform A [Chlorella sorokiniana], PRW59349.1 cobalamin biosynthesis [Chlorella sorokiniana], PRW58648.1 cobalamin biosynthesis [Chlorella sorokiniana], PRW32945.1 zinc metalloprotease [Chlorella sorokiniana]	QAXK01009817.1_2794-231
+OG0000060	PRW58431.1 LOV domain-containing [Chlorella sorokiniana], PRW20982.1 LOV domain-containing isoform B [Chlorella sorokiniana], PRW20983.1 LOV domain-containing isoform A [Chlorella sorokiniana]	QAXK01006650.1_4897-1380
+OG0000095	PRW59313.1 U3 small nucleolar RNA-associated 25 [Chlorella sorokiniana], PRW44628.1 carotene isomerase [Chlorella sorokiniana], PRW44291.1 ABC transporter A family member 7-like isoform B [Chlorella sorokiniana], PRW44290.1 ABC transporter A family member 7-like isoform C [Chlorella sorokiniana]	QAXK01000980.1_6477-3589
+OG0000100	PRW61091.1 TOC75- chloroplastic [Chlorella sorokiniana], PRW61294.1 ru large subunit-binding subunit alpha [Chlorella sorokiniana], PRW61354.1 ru large subunit-binding subunit chloroplastic isoform A [Chlorella sorokiniana], PRW61355.1 ru large subunit-binding subunit chloroplastic isoform B [Chlorella sorokiniana]	QAXK01004495.1_1525-5952
+OG0000102	PRW56489.1 ferredoxin-dependent glutamate synthase isoform A [Chlorella sorokiniana], PRW56490.1 ferredoxin-dependent glutamate synthase isoform B [Chlorella sorokiniana], PRW60858.1 glutamate synthase 1 [NADH] chloroplastic isoform X1 [Chlorella sorokiniana]	QAXK01002229.1_29280-27595
+OG0000106	PRW60803.1 Squalene synthase isoform A [Chlorella sorokiniana], PRW60802.1 Squalene synthase isoform B [Chlorella sorokiniana], PRW57248.1 galactose mutarotase [Chlorella sorokiniana], PRW56102.1 Aldose 1-epimerase [Chlorella sorokiniana]	QAXK01000521.1_8215-4849
+OG0000116	PRW57228.1 chloroplast precursor [Chlorella sorokiniana], PRW20534.1 chloroplast ferredoxin [Chlorella sorokiniana], PRW58415.1 leaf L-A-like [Chlorella sorokiniana], PRW33753.1 Ferredoxin [Chlorella sorokiniana]	QAXK01010643.1_4647-4102
+OG0000126	PRW56265.1 Thioredoxin chloroplastic [Chlorella sorokiniana], PRW55935.1 hypothetical protein C2E21_4946 [Chlorella sorokiniana], PRW61558.1 sulfoquinovosyl transferase SQD2-like [Chlorella sorokiniana]	QAXK01000372.1_2577-4525
+OG0000128	PRW44516.1 obg-like ATPase 1 isoform B [Chlorella sorokiniana], PRW44517.1 obg-like ATPase 1 isoform A [Chlorella sorokiniana], PRW33830.1 Golgi-localized GRIP domain-containing [Chlorella sorokiniana], PRW58916.1 ribonuclease [Chlorella sorokiniana]	QAXK01009125.1_10140-8059
+OG0000137	PRW60485.1 E3 ubiquitin- ligase RNF185 isoform X1 [Chlorella sorokiniana], PRW20581.1 MMS19 nucleotide excision repair [Chlorella sorokiniana], PRW60259.1 variable flagella 1 [Chlorella sorokiniana]	QAXK01002137.1_9267-10854
+OG0000152	PRW33012.1 Ubiquinone biosynthesis COQ4 mitochondrial [Chlorella sorokiniana], PRW32999.1 mitogen activated kinase [Chlorella sorokiniana], PRW56562.1 serine threonine- kinase CTR1-like isoform X1 [Chlorella sorokiniana]	QAXK01008299.1_4185-5535
+OG0000163	PRW56576.1 ADP-ribosylation factor 1 [Chlorella sorokiniana], PRW44304.1 Arf6 -family small GTPase [Chlorella sorokiniana], PRW56446.1 ADP-ribosylation factor [Chlorella sorokiniana]	QAXK01013733.1_9353-8061
+OG0000165	PRW56006.1 3-hydroxyisobutyryl- mitochondrial [Chlorella sorokiniana], PRW55988.1 E3 ubiquitin- ligase listerin [Chlorella sorokiniana]	QAXK01004609.1_12369-13533
+OG0000175	PRW58897.1 60S ribosomal L9 [Chlorella sorokiniana], PRW58872.1 Mechanosensitive ion channel 10 [Chlorella sorokiniana], PRW44384.1 Mechanosensitive ion channel 10 [Chlorella sorokiniana]	QAXK01006319.1_3560-2355
+OG0000177	PRW39185.1 2-C-methyl-D-erythritol 2_4-cyclodiphosphate synthase [Chlorella sorokiniana], PRW56764.1 Golgi apparatus [Chlorella sorokiniana], PRW33289.1 golgi apparatus 1 [Chlorella sorokiniana]	QAXK01000575.1_15675-16655
+OG0000187	PRW33716.1 DNA ligase 1 isoform X1 [Chlorella sorokiniana], PRW32907.1 DNA ligase 1-like isoform A [Chlorella sorokiniana], PRW32906.1 DNA ligase 1-like isoform B [Chlorella sorokiniana]	QAXK01014854.1_51-3845
+OG0000189	PRW56914.1 V-type proton ATPase 16 kDa proteolipid subunit [Chlorella sorokiniana], PRW57393.1 phosphatidylinositol_ceramide inositolphosphotransferase 1 isoform B [Chlorella sorokiniana], PRW57392.1 phosphatidylinositol_ceramide inositolphosphotransferase 1 isoform A [Chlorella sorokiniana]	QAXK01000217.1_14674-15859
+OG0000192	PRW20727.1 cell division control 2-like protein A isoform X1 [Chlorella sorokiniana], PRW61001.1 plant specific cyclin dependent kinase [Chlorella sorokiniana], PRW20833.1 cell division control 2-like protein [Chlorella sorokiniana]	QAXK01001504.1_2221-4972
+OG0000199	PRW33008.1 Bifunctional arginine demethylase and lysyl-hydroxylase JMJD6 [Chlorella sorokiniana]	QAXK01013035.1_1945-4404
+OG0000199	PRW58470.1 Clavaminate synthase [Chlorella sorokiniana]	QAXK01010173.1_3319-5256
+OG0000201	PRW56130.1 U5 small nuclear ribonucleo 200 kDa helicase-like [Chlorella sorokiniana], PRW32955.1 activating signal cointegrator 1 complex subunit 3 isoform A [Chlorella sorokiniana], PRW32956.1 activating signal cointegrator 1 complex subunit 3 isoform B [Chlorella sorokiniana], PRW32957.1 activating signal cointegrator 1 complex subunit 3 isoform C [Chlorella sorokiniana], PRW33009.1 leucine-rich alpha-2-glyco -like [Chlorella sorokiniana]	QAXK01000736.1_9467-8726
+OG0000207	PRW56807.1 Exosome complex component CSL4 isoform B [Chlorella sorokiniana], PRW56806.1 Exosome complex component CSL4 isoform A [Chlorella sorokiniana]	QAXK01004998.1_5108-4093
+OG0000215	PRW32925.1 farnesyltransferase geranylgeranyltransferase type-1 subunit alpha [Chlorella sorokiniana], PRW59428.1 serine threonine [Chlorella sorokiniana], PRW59245.1 von Willebrand factor type EGF andpentraxin domain-containing 1 Flags_ Precursor [Chlorella sorokiniana], PRW59345.1 serine threonine [Chlorella sorokiniana]	QAXK01013809.1_3869-6090
+OG0000217	PRW59002.1 NAD_P_-binding [Chlorella sorokiniana]	QAXK01003927.1_26651-24094
+OG0000222	PRW33959.1 naphthoate synthase [Chlorella sorokiniana]	QAXK01005046.1_1470-3041
+OG0000225	PRW61541.1 glutamine--fructose-6-phosphate aminotransferase [isomerizing] 2 isoform A [Chlorella sorokiniana], PRW61200.1 glutamine--fructose-6-phosphate aminotransferase [isomerizing] 2 [Chlorella sorokiniana], PRW58946.1 E3 UFM1- ligase 1-like protein [Chlorella sorokiniana]	QAXK01000132.1_14211-8944
+OG0000226	PRW57217.1 RNA polymerase II C-terminal domain phosphatase-like 4 [Chlorella sorokiniana], PRW58514.1 phosphatase 2C 6 [Chlorella sorokiniana], PRW58680.1 phosphatase [Chlorella sorokiniana], PRW58215.1 RNA polymerase II C-terminal domain phosphatase-like 3 [Chlorella sorokiniana]	QAXK01001147.1_264-2985
+OG0000234	PRW45618.1 eukaryotic initiation factor 4A-1-like isoform B [Chlorella sorokiniana], PRW45619.1 eukaryotic initiation factor 4A-1-like isoform A [Chlorella sorokiniana]	QAXK01001703.1_3693-800
+OG0000234	PRW60850.1 eukaryotic initiation factor 4A-3 [Chlorella sorokiniana]	QAXK01001715.1_46567-44103
+OG0000243	PRW61565.1 cobalamin-dependent methionine synthase [Chlorella sorokiniana], PRW44368.1 KRI1-like protein [Chlorella sorokiniana]	QAXK01017572.1_4284-1659
+OG0000255	PRW56852.1 Mitochondrial inner membrane protease subunit 2 [Chlorella sorokiniana], PRW56850.1 hypothetical protein C2E21_4857 [Chlorella sorokiniana], PRW45470.1 mitochondrial inner membrane protease subunit 1-like [Chlorella sorokiniana]	QAXK01003493.1_20875-19869
+OG0000256	PRW57760.1 DEAD DEAH box [Chlorella sorokiniana], PRW60806.1 putative phosphoinositide phosphatase SAC9 isoform X1 [Chlorella sorokiniana]	QAXK01000928.1_4721-1230
+OG0000260	PRW34029.1 homogentisate phytyltransferase chloroplastic isoform B [Chlorella sorokiniana], PRW34028.1 homogentisate phytyltransferase chloroplastic isoform A [Chlorella sorokiniana], PRW57528.1 homogentisate chloroplastic [Chlorella sorokiniana]	QAXK01007811.1_6343-7669
+OG0000262	PRW57187.1 formate--tetrahydrofolate ligase [Chlorella sorokiniana]	QAXK01001305.1_3092-9737
+OG0000268	PRW39197.1 transport SEC13-like protein B isoform B [Chlorella sorokiniana], PRW39198.1 transport SEC13-like protein B isoform A [Chlorella sorokiniana], PRW58969.1 kinase and PP2C-like domain-containing [Chlorella sorokiniana]	QAXK01007959.1_4344-7510
+OG0000269	PRW56783.1 Secretory carrier-associated membrane 1 [Chlorella sorokiniana], PRW56439.1 floral homeotic [Chlorella sorokiniana]	QAXK01000159.1_2526-4128
+OG0000276	PRW20734.1 UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [Chlorella sorokiniana], PRW20613.1 mitochondrial import receptor subunit TOM9-2-like [Chlorella sorokiniana]	QAXK01013106.1_2869-3857
+OG0000290	PRW60861.1 Leucyl-cystinyl aminopeptidase [Chlorella sorokiniana], PRW60384.1 WD repeat-containing 55-like protein [Chlorella sorokiniana]	QAXK01007708.1_8045-6769
+OG0000293	PRW20925.1 calcium-dependent kinase 26-like [Chlorella sorokiniana], PRW57858.1 calcium-dependent kinase 29-like [Chlorella sorokiniana], PRW57740.1 keratin-associated 5-1-like [Chlorella sorokiniana], PRW57981.1 Calcium-dependent kinase [Chlorella sorokiniana]	QAXK01000427.1_18710-23853
+OG0000297	PRW58863.1 putative anion transporter chloroplastic [Chlorella sorokiniana], PRW58838.1 putative anion transporter chloroplastic [Chlorella sorokiniana]	QAXK01003382.1_7730-10683
+OG0000298	PRW59169.1 cytosolic Fe-S cluster assembly factor narfl [Chlorella sorokiniana]	QAXK01006215.1_8306-11634
+OG0000299	PRW58194.1 COP9 signalosome complex subunit 5b-like [Chlorella sorokiniana]	QAXK01000488.1_8485-5165
+OG0000300	PRW33953.1 inorganic pyrophosphatase isoform A [Chlorella sorokiniana], PRW33952.1 inorganic pyrophosphatase isoform B [Chlorella sorokiniana], PRW20574.1 LOW PSII ACCUMULATION chloroplastic [Chlorella sorokiniana]	QAXK01000495.1_4618-6885
+OG0000301	PRW56106.1 peptidylglycine alpha-amidating monooxygenase [Chlorella sorokiniana], PRW59617.1 peptidase M3 [Chlorella sorokiniana]	QAXK01005324.1_4296-8149
+OG0000302	PRW20261.1 Spermatogenesis-associated [Chlorella sorokiniana], PRW56325.1 cell division cycle 48-like protein [Chlorella sorokiniana]	QAXK01009146.1_0-3841
+OG0000304	PRW60098.1 dynamin-related 3B-like isoform B [Chlorella sorokiniana], PRW60097.1 dynamin-related 3B-like isoform A [Chlorella sorokiniana]	QAXK01014492.1_877-182
+OG0000315	PRW39159.1 Eukaryotic translation initiation factor 3 subunit B [Chlorella sorokiniana], PRW33076.1 alpha-glucan water chloroplastic [Chlorella sorokiniana]	QAXK01002353.1_19232-23410
+OG0000316	PRW59363.1 6-phosphogluconate decarboxylating [Chlorella sorokiniana], PRW59001.1 5 -3 exoribonuclease 1 [Chlorella sorokiniana]	QAXK01003905.1_19782-15375
+OG0000317	PRW50984.1 26S protease regulatory subunit 6B-like protein [Chlorella sorokiniana], PRW57564.1 26S proteasome regulatory subunit 4-like protein B [Chlorella sorokiniana]	QAXK01008437.1_3645-238
+OG0000320	PRW39347.1 histone deacetylase isoform A [Chlorella sorokiniana], PRW39346.1 histone deacetylase isoform B [Chlorella sorokiniana], PRW60354.1 riboflavin kinase isoform B [Chlorella sorokiniana], PRW60355.1 riboflavin kinase isoform A [Chlorella sorokiniana]	QAXK01008510.1_15994-20405
+OG0000321	PRW44838.1 AP-2 complex subunit sigma [Chlorella sorokiniana], PRW58003.1 AP-1 complex subunit sigma-1 [Chlorella sorokiniana]	QAXK01000378.1_25585-26545
+OG0000340	PRW45647.1 ferrochelatase- chloroplastic [Chlorella sorokiniana], PRW56139.1 chaperone 1 [Chlorella sorokiniana]	QAXK01005276.1_5688-3058
+OG0000352	PRW58854.1 thioredoxin domain-containing 9-like protein [Chlorella sorokiniana], PRW56455.1 amine oxidase [Chlorella sorokiniana]	QAXK01000899.1_7462-5804
+OG0000353	PRW56898.1 U5 small nuclear ribonucleo 40 kDa [Chlorella sorokiniana]	QAXK01000970.1_11060-12297
+OG0000355	PRW05929.1 Serine threonine- kinase chloroplastic [Chlorella sorokiniana], PRW05883.1 putative ubiquitin conjugation factor E4 [Chlorella sorokiniana]	QAXK01000575.1_38061-33279
+OG0000356	PRW56671.1 DEAD-box ATP-dependent RNA helicase 10 [Chlorella sorokiniana], PRW56033.1 RNA helicase [Chlorella sorokiniana]	QAXK01001458.1_25468-28021
+OG0000362	PRW59736.1 serine threonine- kinase tricorner-like [Chlorella sorokiniana], PRW57390.1 serine threonine kinase [Chlorella sorokiniana]	QAXK01002504.1_1584-235
+OG0000372	PRW18290.1 GDP-mannose 3_5-epimerase 2 [Chlorella sorokiniana], PRW18309.1 pescadillo-family BRCT domain-containing [Chlorella sorokiniana]	QAXK01000007.1_3483-1851
+OG0000374	PRW59214.1 NADH_ubiquinone oxidoreductase 76 kDa subunit [Chlorella sorokiniana]	QAXK01001576.1_25385-29462
+OG0000375	PRW32534.1 4-aminobutyrate aminotransferase [Chlorella sorokiniana], PRW32482.1 CCAAT enhancer-binding zeta [Chlorella sorokiniana]	QAXK01008707.1_239-2925
+OG0000383	PRW58416.1 mitochondrial uncoupling 1-like [Chlorella sorokiniana], PRW60786.1 mitochondrial uncoupling 1-like [Chlorella sorokiniana]	QAXK01011194.1_5918-9002
+OG0000390	PRW33035.1 Testosterone 17-beta-dehydrogenase 3 [Chlorella sorokiniana]	QAXK01005078.1_1174-132
+OG0000394	PRW60676.1 telomerase Cajal body 1 [Chlorella sorokiniana], PRW44502.1 GDA1 CD39 nucleoside phosphatase family [Chlorella sorokiniana], PRW60811.1 apyrase 2-like [Chlorella sorokiniana]	QAXK01008702.1_3083-212
+OG0000408	PRW45481.1 arginine--tRNA chloroplastic mitochondrial-like isoform X2 isoform B [Chlorella sorokiniana], PRW45480.1 arginine--tRNA chloroplastic mitochondrial-like isoform X2 isoform A [Chlorella sorokiniana]	QAXK01003094.1_1529-6518
+OG0000412	PRW58841.1 ABC transporter I family member 19-like [Chlorella sorokiniana], PRW20596.1 ABC transporter I family member 20 [Chlorella sorokiniana]	QAXK01007672.1_3589-1228
+OG0000417	PRW05894.1 putative retrotransposon protein [Chlorella sorokiniana], PRW56319.1 putative retrotransposon protein [Chlorella sorokiniana], PRW33979.1 putative retrotransposon protein [Chlorella sorokiniana], PRW20263.1 putative retrotransposon protein [Chlorella sorokiniana], PRW58283.1 hypothetical protein C2E21_3113 [Chlorella sorokiniana], PRW34022.1 hypothetical protein C2E21_7249 [Chlorella sorokiniana], PRW32529.1 hypothetical protein C2E21_8305 [Chlorella sorokiniana], PRW20742.1 multiple myeloma tumor-associated 2-like protein [Chlorella sorokiniana]	QAXK01003046.1_10052-9637
+OG0000418	PRW58928.1 Cell division protease ftsH isoform 1 [Chlorella sorokiniana], PRW56441.1 hypothetical protein C2E21_4760 [Chlorella sorokiniana]	QAXK01005097.1_6985-2749
+OG0000431	PRW20738.1 urea carboxylase [Chlorella sorokiniana], PRW57134.1 Peptidyl-prolyl cis-trans isomerase PASTICCINO1 [Chlorella sorokiniana]	QAXK01001330.1_10692-5073
+OG0000443	PRW32941.1 chorismate mutase [Chlorella sorokiniana], PRW20213.1 glycosyltransferase family 64 C5-like [Chlorella sorokiniana], PRW57205.1 glycosyltransferase family 64 C5 [Chlorella sorokiniana]	QAXK01002390.1_2379-454
+OG0000446	PRW58966.1 DNA excision repair ERCC-8-like isoform A [Chlorella sorokiniana], PRW58967.1 DNA excision repair ERCC-8-like isoform B [Chlorella sorokiniana]	QAXK01006391.1_1754-3793
+OG0000449	PRW32533.1 DNA excision repair ERCC-1 [Chlorella sorokiniana], PRW58436.1 anaphase-promoting complex subunit 2 [Chlorella sorokiniana]	QAXK01017753.1_1728-436
+OG0000452	PRW56186.1 putative 18S rRNA _guanine-N_7__-methyltransferase [Chlorella sorokiniana]	QAXK01003135.1_2479-16
+OG0000455	PRW20614.1 magnesium-protoporphyrin IX methyltransferase chloroplast precursor [Chlorella sorokiniana], PRW20654.1 armadillo repeat-containing 6 [Chlorella sorokiniana]	QAXK01015054.1_2845-4309
+OG0000468	PRW60039.1 Rab family GTPase [Chlorella sorokiniana], PRW58406.1 Rab8 -family small GTPase [Chlorella sorokiniana]	QAXK01006097.1_2371-905
+OG0000470	PRW45063.1 multisubstrate pseudouridine synthase 7-like [Chlorella sorokiniana], PRW20658.1 leucine--tRNA cytoplasmic [Chlorella sorokiniana]	QAXK01000050.1_24428-29981
+OG0000471	PRW57595.1 histone chaperone asf1 [Chlorella sorokiniana]	QAXK01001670.1_7180-6388
+OG0000474	PRW45659.1 Chaperone dnaJ 10 [Chlorella sorokiniana], PRW45693.1 Structure-specific endonuclease subunit SLX1 [Chlorella sorokiniana]	QAXK01000042.1_28045-28765
+OG0000479	PRW45617.1 ER membrane complex subunit 7-like protein [Chlorella sorokiniana], PRW45519.1 sister chromatid cohesion DCC1 [Chlorella sorokiniana]	QAXK01004028.1_58546-56431
+OG0000499	PRW05873.1 twinkle-like protein chloroplastic mitochondrial isoform X2 [Chlorella sorokiniana]	QAXK01009964.1_53-2582
+OG0000501	PRW57544.1 putative S-acyltransferase 7 [Chlorella sorokiniana]	QAXK01015180.1_1811-4048, QAXK01019765.1_356-165
+OG0000506	PRW59248.1 Nicotinamide N-methyltransferase-like [Chlorella sorokiniana], PRW59317.1 DDT domain-containing protein [Chlorella sorokiniana]	QAXK01002250.1_1739-4040
+OG0000512	PRW21065.1 glutamate--cysteine chloroplastic isoform B [Chlorella sorokiniana], PRW21064.1 glutamate--cysteine chloroplastic isoform A [Chlorella sorokiniana]	QAXK01000565.1_7520-10250
+OG0000517	PRW57028.1 hypothetical protein C2E21_4128 [Chlorella sorokiniana], PRW57029.1 hypothetical protein C2E21_4128 [Chlorella sorokiniana]	QAXK01001595.1_3107-7081
+OG0000519	PRW57514.1 putative UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase SEC [Chlorella sorokiniana], PRW57286.1 glycylpeptide N-tetradecanoyltransferase 1-like [Chlorella sorokiniana]	QAXK01004538.1_836-4145
+OG0000520	PRW60705.1 3-oxo-5-alpha-steroid 4-dehydrogenase 1 [Chlorella sorokiniana], PRW60289.1 ubiquitin-40S ribosomal S27a [Chlorella sorokiniana]	QAXK01002274.1_7306-5678
+OG0000521	PRW61285.1 Sorting and assembly machinery component 50 [Chlorella sorokiniana]	QAXK01000876.1_25410-28882
+OG0000522	PRW61303.1 succinate dehydrogenase subunit b560 [Chlorella sorokiniana]	QAXK01010222.1_2855-4006
+OG0000528	PRW60765.1 random slug 5-like [Chlorella sorokiniana], PRW60466.1 Thylakoid lumenal 19 kDa chloroplastic [Chlorella sorokiniana]	QAXK01011871.1_1755-3976
+OG0000535	PRW60177.1 kinesinlike KIF6 [Chlorella sorokiniana], PRW60045.1 6-phosphogluconolactonase 1 [Chlorella sorokiniana]	QAXK01008326.1_3715-2230
+OG0000542	PRW20959.1 vacuolar sorting-associated 45-like protein [Chlorella sorokiniana], PRW20928.1 mitochondrial substrate carrier family P-like [Chlorella sorokiniana]	QAXK01007731.1_21245-25168
+OG0000546	PRW20496.1 putative phosphatase 2C 12 [Chlorella sorokiniana], PRW20471.1 Qa- SYP4 Tlg2p Syntaxin 16-type [Chlorella sorokiniana]	QAXK01003383.1_11610-10089
+OG0000552	PRW44859.1 Serine carboxypeptidase 24 isoform B [Chlorella sorokiniana], PRW44858.1 Serine carboxypeptidase 24 isoform A [Chlorella sorokiniana], PRW56461.1 hypothetical protein C2E21_4630 [Chlorella sorokiniana], PRW56649.1 serine carboxypeptidase-like 25 [Chlorella sorokiniana]	QAXK01001452.1_4877-8338
+OG0000565	PRW34003.1 3-dehydroquinate synthase-like protein isoform X1 isoform A [Chlorella sorokiniana], PRW34004.1 3-dehydroquinate synthase-like protein isoform X1 isoform B [Chlorella sorokiniana]	QAXK01012018.1_21-2846
+OG0000572	PRW33897.1 pyrophosphate-energized membrane proton pump 2 isoform B [Chlorella sorokiniana], PRW33896.1 pyrophosphate-energized membrane proton pump 2 isoform A [Chlorella sorokiniana]	QAXK01002353.1_6519-15187
+OG0000573	PRW21017.1 Serine threonine- kinase TOUSLED [Chlorella sorokiniana]	QAXK01003348.1_1486-6
+OG0000577	PRW44496.1 ADP_ATP carrier 1 [Chlorella sorokiniana]	QAXK01003132.1_5372-2862
+OG0000585	PRW33594.1 DNA RNA polymerase [Chlorella sorokiniana]	QAXK01002652.1_31218-33264
+OG0000586	PRW56616.1 ABC-type nitrate sulfonate bicarbonate transport periplasmic component [Chlorella sorokiniana], PRW59704.1 mitochondrial-processing peptidase subunit alpha-like [Chlorella sorokiniana]	QAXK01001200.1_17606-19818
+OG0000594	PRW56906.1 Transaldolase [Chlorella sorokiniana]	QAXK01013585.1_2213-468
+OG0000595	PRW57533.1 Ras-related RABA1f [Chlorella sorokiniana], PRW59514.1 Rab family GTPase [Chlorella sorokiniana]	QAXK01010664.1_1473-417
+OG0000611	PRW57668.1 Ubiquitin domain-containing 2 [Chlorella sorokiniana], PRW57718.1 ubiquitin domain-containing 1-like [Chlorella sorokiniana]	QAXK01011586.1_4054-3461
+OG0000616	PRW60128.1 small nuclear ribonucleo -associated B [Chlorella sorokiniana], PRW61371.1 leucine-rich repeat containing [Chlorella sorokiniana], PRW50975.1 hypothetical protein C2E21_5537 [Chlorella sorokiniana]	QAXK01001265.1_8774-9883
+OG0000618	PRW58777.1 40S ribosomal S15a-1 [Chlorella sorokiniana], PRW59199.1 40S ribosomal S15a-4 [Chlorella sorokiniana]	QAXK01000835.1_1-309
+OG0000626	PRW60112.1 lon protease-like protein peroxisomal [Chlorella sorokiniana], PRW32895.1 SDA1 [Chlorella sorokiniana]	QAXK01003230.1_4778-8012
+OG0000635	PRW56800.1 Ribulose-phosphate 3- chloroplastic [Chlorella sorokiniana], PRW60648.1 Ribulose-phosphate 3- cytoplasmic isoform [Chlorella sorokiniana]	QAXK01004870.1_4878-5513
+OG0000637	PRW45665.1 N-alpha-acetyltransferase 20 [Chlorella sorokiniana]	QAXK01001575.1_13855-13334
+OG0000638	PRW61620.1 MON2-like protein isoform X1 isoform B [Chlorella sorokiniana], PRW61621.1 MON2-like protein isoform X1 isoform A [Chlorella sorokiniana]	QAXK01010124.1_10448-8669
+OG0000649	PRW59873.1 Diaminopimelate decarboxylase chloroplastic [Chlorella sorokiniana]	QAXK01000254.1_6101-3555
+OG0000653	PRW44268.1 aspartate-semialdehyde dehydrogenase-like [Chlorella sorokiniana], PRW59105.1 iodothyronine deiodinase [Chlorella sorokiniana]	QAXK01000123.1_7289-10291
+OG0000654	PRW58479.1 ligase [Chlorella sorokiniana], PRW58378.1 splicing RNP complex component [Chlorella sorokiniana]	QAXK01000799.1_92299-89512
+OG0000660	PRW05815.1 plant intracellular Ras-group-related LRR 7 isoform A [Chlorella sorokiniana], PRW05814.1 plant intracellular Ras-group-related LRR 7 isoform B [Chlorella sorokiniana]	QAXK01014960.1_11495-10348
+OG0000661	PRW20978.1 guanine nucleotide-binding -like NSN1 [Chlorella sorokiniana], PRW21071.1 glycerophosphodiesterase GDE1 isoform A [Chlorella sorokiniana], PRW21072.1 glycerophosphodiesterase GDE1 isoform B [Chlorella sorokiniana]	QAXK01004242.1_3727-7707
+OG0000662	PRW60336.1 glycerol transporter [Chlorella sorokiniana], PRW32674.1 plant MCA23-20 [Chlorella sorokiniana]	QAXK01000452.1_6301-4533
+OG0000664	PRW55916.1 CBL-interacting serine threonine- kinase 3-like [Chlorella sorokiniana]	QAXK01015723.1_3192-4172
+OG0000671	PRW58033.1 peptidyl-prolyl cis-trans FKBP-type [Chlorella sorokiniana], PRW59184.1 DNA-directed RNA polymerase III subunit RPC6 [Chlorella sorokiniana]	QAXK01001535.1_15806-14316
+OG0000676	PRW60160.1 zinc finger CCCH domain-containing 56-like [Chlorella sorokiniana], PRW59319.1 U6 snRNA-associated Sm LSm1 [Chlorella sorokiniana]	QAXK01015338.1_519-166
+OG0000678	PRW39323.1 SKP1 1B [Chlorella sorokiniana]	QAXK01001500.1_1992-2978
+OG0000679	PRW39147.1 50S ribosomal chloroplastic-like [Chlorella sorokiniana]	QAXK01006881.1_8512-9541
+OG0000688	PRW56676.1 60S ribosomal export NMD3 [Chlorella sorokiniana], PRW56421.1 isoamylase chloroplastic [Chlorella sorokiniana]	QAXK01003305.1_27047-24211
+OG0000689	PRW60860.1 2-isopropylmalate synthase isoform B [Chlorella sorokiniana], PRW60859.1 2-isopropylmalate synthase isoform A [Chlorella sorokiniana], PRW33127.1 histidine kinase [Chlorella sorokiniana], PRW60838.1 2-isopropylmalate synthase [Chlorella sorokiniana]	QAXK01001638.1_16082-13313
+OG0000691	PRW56400.1 divinyl chlorophyllide a 8-vinyl- chloroplastic [Chlorella sorokiniana]	QAXK01001186.1_10565-8532
+OG0000693	PRW56826.1 tRNA-dihydrouridine_16 17_ synthase [NAD_P__+_]-like [Chlorella sorokiniana]	QAXK01008377.1_3630-1851
+OG0000694	PRW56098.1 HD domain-containing 2-like [Chlorella sorokiniana], PRW56091.1 coiled-coil domain-containing 61-like isoform X1 [Chlorella sorokiniana]	QAXK01012986.1_3546-2582
+OG0000697	PRW58866.1 peptide deformylase [Chlorella sorokiniana]	QAXK01000899.1_15443-14285
+OG0000704	PRW60822.1 Transmembrane 18 [Chlorella sorokiniana]	QAXK01006701.1_1896-1296
+OG0000730	PRW59059.1 U4 U6 small nuclear ribonucleo Prp31-like [Chlorella sorokiniana], PRW58893.1 magnesium transporter MRS2-7 [Chlorella sorokiniana]	QAXK01001551.1_59690-63747
+OG0000732	PRW50840.1 transcription elongation factor A 2-like [Chlorella sorokiniana]	QAXK01003652.1_16558-15646
+OG0000734	PRW39247.1 type A von Willebrand factor domain-containing [Chlorella sorokiniana]	QAXK01007307.1_6962-7960
+OG0000735	PRW58975.1 TATA-box-binding 2 [Chlorella sorokiniana]	QAXK01011105.1_8336-6488
+OG0000747	PRW60333.1 Syntaxin-61 [Chlorella sorokiniana], PRW60512.1 ankyrin repeat [Chlorella sorokiniana]	QAXK01006607.1_16309-17535
+OG0000753	PRW59385.1 Succinyl- ligase [ADP-forming] subunit mitochondrial isoform B [Chlorella sorokiniana], PRW59384.1 Succinyl- ligase [ADP-forming] subunit mitochondrial isoform A [Chlorella sorokiniana]	QAXK01001647.1_3154-482
+OG0000764	PRW45549.1 hypothetical protein C2E21_6053 [Chlorella sorokiniana], PRW45621.1 gamma-tocopherol methyltransferase [Chlorella sorokiniana]	QAXK01005724.1_7661-4858
+OG0000770	PRW32573.1 glucose-6-phosphate 1-epimerase [Chlorella sorokiniana], PRW60993.1 glucose-6-phosphate 1-epimerase [Chlorella sorokiniana]	QAXK01003607.1_11324-13747
+OG0000774	PRW51009.1 Meiotically up-regulated 66 [Chlorella sorokiniana]	QAXK01004825.1_8965-10753
+OG0000777	PRW20269.1 glyoxylase family [Chlorella sorokiniana]	QAXK01002948.1_4354-3157
+OG0000778	PRW60186.1 pentatricopeptide repeat-containing [Chlorella sorokiniana]	QAXK01014006.1_1593-3302
+OG0000782	PRW58173.1 phosphatidic acid phosphatase-related [Chlorella sorokiniana], PRW18362.1 vanadium-dependent haloperoxidase [Chlorella sorokiniana]	QAXK01009651.1_2303-1712
+OG0000784	PRW33931.1 putative dolichol-phosphate mannosyltransferase [Chlorella sorokiniana], PRW33829.1 putative tetraacyldisaccharide 4 - mitochondrial isoform X1 [Chlorella sorokiniana]	QAXK01014689.1_5406-4708
+OG0000786	PRW59711.1 hypothetical protein C2E21_1337 [Chlorella sorokiniana]	QAXK01006828.1_9411-7696
+OG0000788	PRW20359.1 centrin [Chlorella sorokiniana]	QAXK01010339.1_3422-4517
+OG0000793	PRW56567.1 ROOT HAIR DEFECTIVE 3 [Chlorella sorokiniana]	QAXK01000249.1_22218-16975
+OG0000799	PRW44603.1 mitochondrial nuclease [Chlorella sorokiniana]	QAXK01005565.1_18254-19052
+OG0000818	PRW33924.1 mitochondrial carrier isoform B [Chlorella sorokiniana], PRW33923.1 mitochondrial carrier isoform A [Chlorella sorokiniana]	QAXK01008587.1_153-1989
+OG0000819	PRW56691.1 Tbc2 translation chloroplastic [Chlorella sorokiniana]	QAXK01003572.1_15443-13865
+OG0000827	PRW44622.1 acetohydroxy acid isomeroreductase isoform A [Chlorella sorokiniana], PRW44623.1 acetohydroxy acid isomeroreductase isoform B [Chlorella sorokiniana]	QAXK01003364.1_14418-18303
+OG0000828	PRW61279.1 required for cyt b6 assembly [Chlorella sorokiniana], PRW61400.1 Ribosomal L21 [Chlorella sorokiniana]	QAXK01000782.1_20679-19905
+OG0000830	PRW45730.1 SRSF kinase 1 [Chlorella sorokiniana]	QAXK01013271.1_12309-15183
+OG0000838	PRW61363.1 domain-containing 2 [Chlorella sorokiniana]	QAXK01003718.1_1305-2104
+OG0000856	PRW61536.1 putative tRNA N6-adenosine threonylcarbamoyltransferase [Chlorella sorokiniana], PRW61227.1 coiled-coil domain-containing 124 [Chlorella sorokiniana]	QAXK01018212.1_1235-2568
+OG0000857	PRW20397.1 boron transporter 1-like isoform X1 [Chlorella sorokiniana], PRW45525.1 dnaJ-like protein subfamily C member 17 [Chlorella sorokiniana]	QAXK01003829.1_4453-4800
+OG0000858	PRW50896.1 mitochondrial inner membrane protease ATP23-like [Chlorella sorokiniana]	QAXK01000114.1_14115-13091
+OG0000882	PRW61218.1 Flap endonuclease 1 [Chlorella sorokiniana]	QAXK01006249.1_4939-7634
+OG0000890	PRW57398.1 5-oxoprolinase [Chlorella sorokiniana]	QAXK01001134.1_10091-19430
+OG0000898	PRW57974.1 N-acetyltransferase 10 [Chlorella sorokiniana]	QAXK01003876.1_5991-120
+OG0000899	PRW20730.1 Eukaryotic translation initiation factor 3 subunit C [Chlorella sorokiniana], PRW44244.1 F-box WD-40 repeat-containing protein [Chlorella sorokiniana]	QAXK01013989.1_346-4178
+OG0000908	PRW21128.1 Iron-sulfur assembly -like mitochondrial [Chlorella sorokiniana]	QAXK01003972.1_3812-4471
+OG0000925	PRW18409.1 hypothetical protein C2E21_9356 [Chlorella sorokiniana]	QAXK01005294.1_1798-325
+OG0000926	PRW20522.1 microtubule associated isoform A [Chlorella sorokiniana], PRW20523.1 microtubule associated isoform B [Chlorella sorokiniana]	QAXK01006171.1_11343-179
+OG0000932	PRW59060.1 Histidine biosynthesis bifunctional chloroplastic [Chlorella sorokiniana]	QAXK01003666.1_997-2479
+OG0000934	PRW20282.1 glycosyltransferase family 2 [Chlorella sorokiniana]	QAXK01002301.1_12772-10269
+OG0000936	PRW20884.1 Nitric oxide synthase-interacting [Chlorella sorokiniana], PRW33832.1 TRPM8 channel-associated factor 2 [Chlorella sorokiniana], PRW61617.1 TRPM8 channel-associated factor 2 [Chlorella sorokiniana]	QAXK01016824.1_8642-5783
+OG0000942	PRW58469.1 kinesin light chain 3-like isoform X1 [Chlorella sorokiniana], PRW58247.1 S-acyltransferase 24 [Chlorella sorokiniana]	QAXK01000587.1_67122-65127
+OG0000950	PRW56287.1 Beta-galactosidase isoform B [Chlorella sorokiniana], PRW56286.1 Beta-galactosidase isoform A [Chlorella sorokiniana]	QAXK01002497.1_4221-184
+OG0000953	PRW18415.1 COP9 signalosome complex subunit 2 [Chlorella sorokiniana]	QAXK01003575.1_2283-197
+OG0000971	PRW61538.1 MAP3K epsilon kinase 1-like isoform X2 [Chlorella sorokiniana], PRW58018.1 vacuolar sorting-associated 13B [Chlorella sorokiniana]	QAXK01002117.1_8261-6549
+OG0000972	PRW56243.1 NADH dehydrogenase [ubiquinone] flavo mitochondrial [Chlorella sorokiniana], PRW39281.1 NADH dehydrogenase [ubiquinone] flavo mitochondrial [Chlorella sorokiniana]	QAXK01000705.1_20067-23668
+OG0000974	PRW39068.1 DEAD-box ATP-dependent RNA helicase 37-like isoform A [Chlorella sorokiniana], PRW39067.1 DEAD-box ATP-dependent RNA helicase 37-like isoform B [Chlorella sorokiniana]	QAXK01004234.1_3012-6646
+OG0000975	PRW32976.1 Long chain acyl- synthetase peroxisomal [Chlorella sorokiniana]	QAXK01000204.1_17480-21863
+OG0000993	PRW58065.1 Argininosuccinate synthase isoform A [Chlorella sorokiniana], PRW58066.1 Argininosuccinate synthase isoform B [Chlorella sorokiniana]	QAXK01000283.1_5726-3204
+OG0001052	PRW56079.1 NUDIX hydrolase domain-like [Chlorella sorokiniana]	QAXK01004375.1_5952-7899
+OG0001054	PRW20695.1 mitochondrial substrate carrier [Chlorella sorokiniana]	QAXK01011306.1_4473-2613
+OG0001058	PRW61344.1 PUB domain [Chlorella sorokiniana], PRW20553.1 hypothetical protein C2E21_8918 [Chlorella sorokiniana], PRW60996.1 hypothetical protein C2E21_0371 [Chlorella sorokiniana]	QAXK01006232.1_3779-3289
+OG0001060	PRW61181.1 DEAD-box ATP-dependent RNA helicase 15-like isoform X1 [Chlorella sorokiniana]	QAXK01001037.1_5070-1976
+OG0001061	PRW39385.1 40S ribosomal S3a-2 isoform A [Chlorella sorokiniana], PRW39386.1 40S ribosomal S3a-2 isoform B [Chlorella sorokiniana]	QAXK01005753.1_2076-3799
+OG0001062	PRW61604.1 Serine threonine- phosphatase 4 regulatory subunit 3 [Chlorella sorokiniana]	QAXK01000341.1_1318-5933
+OG0001063	PRW20718.1 hypothetical protein C2E21_8749 [Chlorella sorokiniana], PRW20680.1 water dikinase [Chlorella sorokiniana]	QAXK01005942.1_10013-5629
+OG0001064	PRW61442.1 signal peptide peptidase-like [Chlorella sorokiniana]	QAXK01004812.1_12403-13506
+OG0001072	PRW58959.1 ribosome biogenesis BMS1-like protein [Chlorella sorokiniana]	QAXK01000429.1_50912-41458
+OG0001074	PRW57411.1 S-adenosylmethionine synthetase [Chlorella sorokiniana]	QAXK01000217.1_8076-10531
+OG0001079	PRW59429.1 Pantothenate kinase 2 [Chlorella sorokiniana]	QAXK01000446.1_57156-52957
+OG0001082	PRW60568.1 ATP synthase subunit delta mitochondrial-like [Chlorella sorokiniana]	QAXK01005854.1_4720-5401
+OG0001088	PRW57226.1 60S ribosomal L18a-2 [Chlorella sorokiniana], PRW57005.1 Serine threonine- kinase CTR1 [Chlorella sorokiniana]	QAXK01002175.1_7346-5749
+OG0001094	PRW59155.1 Galactokinase [Chlorella sorokiniana]	QAXK01001089.1_6956-8023
+OG0001095	PRW20878.1 eukaryotic translation initiation factor 5 [Chlorella sorokiniana]	QAXK01000217.1_13973-11099
+OG0001096	PRW60566.1 meiotic nuclear division 1-like protein [Chlorella sorokiniana]	QAXK01005613.1_12658-11106
+OG0001099	PRW51041.1 DNA-directed RNA polymerases IV and V subunit 3 [Chlorella sorokiniana]	QAXK01001823.1_3618-2631
+OG0001101	PRW33071.1 eukaryotic translation initiation factor 3 subunit D-like [Chlorella sorokiniana]	QAXK01003836.1_8909-3187
+OG0001103	PRW59585.1 transmembrane 9 superfamily member 7 [Chlorella sorokiniana]	QAXK01003163.1_8178-11099
+OG0001105	PRW61209.1 OPI10-like protein [Chlorella sorokiniana]	QAXK01006902.1_4861-6562
+OG0001120	PRW61130.1 DNA-directed RNA polymerases IV and V subunit 11 [Chlorella sorokiniana]	QAXK01002607.1_494-808
+OG0001122	PRW20826.1 hypothetical protein C2E21_8537 [Chlorella sorokiniana], PRW57003.1 regulator of nonsense transcripts UPF2 [Chlorella sorokiniana]	QAXK01010311.1_2932-555
+OG0001123	PRW60454.1 cell division cycle 5 isoform B [Chlorella sorokiniana], PRW60453.1 cell division cycle 5 isoform A [Chlorella sorokiniana]	QAXK01007750.1_2281-4745
+OG0001133	PRW56031.1 elongation factor mitochondrial [Chlorella sorokiniana]	QAXK01006196.1_4390-1589
+OG0001143	PRW60586.1 DEFECTIVE IN EXINE FORMATION 1 [Chlorella sorokiniana]	QAXK01003700.1_2979-9653
+OG0001144	PRW39093.1 Autophagy-related 3 [Chlorella sorokiniana]	QAXK01003900.1_2413-4929
+OG0001154	PRW58922.1 transferase mitochondrial [Chlorella sorokiniana], PRW58166.1 transferase mitochondrial [Chlorella sorokiniana]	QAXK01011150.1_3959-2216
+OG0001156	PRW33254.1 D-2-hydroxyglutarate mitochondrial [Chlorella sorokiniana]	QAXK01018601.1_3296-410
+OG0001158	PRW32492.1 sulfite reductase isoform B [Chlorella sorokiniana], PRW32491.1 sulfite reductase isoform A [Chlorella sorokiniana]	QAXK01006945.1_6596-10279
+OG0001161	PRW20953.1 thylakoid lumenal kDa chloroplastic [Chlorella sorokiniana]	QAXK01004407.1_7887-8977
+OG0001166	PRW58245.1 NAD_P_-binding domain [Chlorella sorokiniana]	QAXK01009825.1_846-2644
+OG0001171	PRW20513.1 translation initiation factor eIF-2B subunit delta isoform A [Chlorella sorokiniana], PRW20512.1 translation initiation factor eIF-2B subunit delta isoform B [Chlorella sorokiniana]	QAXK01006983.1_10356-12388
+OG0001176	PRW33803.1 hypothetical protein C2E21_7295 [Chlorella sorokiniana], PRW33764.1 mitochondrial [Chlorella sorokiniana]	QAXK01004323.1_8147-5874
+OG0001180	PRW21132.1 V-type proton ATPase subunit D-like isoform B [Chlorella sorokiniana], PRW21131.1 V-type proton ATPase subunit D-like isoform A [Chlorella sorokiniana]	QAXK01019295.1_3574-2070
+OG0001194	PRW57058.1 succinate dehydrogenase [ubiquinone] flavo mitochondrial [Chlorella sorokiniana]	QAXK01001649.1_8862-4505
+OG0001201	PRW05899.1 acetolactate synthase isoform B [Chlorella sorokiniana], PRW05900.1 acetolactate synthase isoform A [Chlorella sorokiniana]	QAXK01000596.1_10252-6748
+OG0001208	PRW56881.1 hypothetical protein C2E21_4544 isoform B [Chlorella sorokiniana], PRW56880.1 hypothetical protein C2E21_4544 isoform A [Chlorella sorokiniana]	QAXK01012769.1_10100-9091
+OG0001214	PRW51062.1 125 kDa kinesin-related -like [Chlorella sorokiniana]	QAXK01012739.1_10679-8642
+OG0001216	PRW61479.1 CRAL TRIO domain-containing [Chlorella sorokiniana], PRW61520.1 motile sperm domain-containing 2 isoform X1 [Chlorella sorokiniana]	QAXK01001490.1_17280-15927
+OG0001219	PRW20610.1 Kinesin KIF2A [Chlorella sorokiniana]	QAXK01008035.1_3747-6912
+OG0001221	PRW55959.1 Qa- SYP3 Sed5p Syntaxin 5-type [Chlorella sorokiniana]	QAXK01001061.1_17190-18239
+OG0001223	PRW57575.1 pre-mRNA-splicing factor CWC22-like protein isoform B [Chlorella sorokiniana], PRW57574.1 pre-mRNA-splicing factor CWC22-like protein isoform A [Chlorella sorokiniana]	QAXK01005846.1_3896-588
+OG0001225	PRW57926.1 60S ribosomal L35a-3 [Chlorella sorokiniana]	QAXK01000732.1_2978-2655
+OG0001229	PRW57951.1 WD repeat-containing LWD1 [Chlorella sorokiniana]	QAXK01016063.1_5569-3270
+OG0001231	PRW44240.1 Ras-related Rab7 [Chlorella sorokiniana]	QAXK01000362.1_21408-20438
+OG0001236	PRW20622.1 Dihydrolipoyl dehydrogenase mitochondrial [Chlorella sorokiniana]	QAXK01000513.1_15183-11736
+OG0001242	PRW58236.1 subtilisin-like protease isoform B [Chlorella sorokiniana], PRW58235.1 subtilisin-like protease isoform A [Chlorella sorokiniana]	QAXK01004645.1_1487-5075
+OG0001246	PRW44282.1 hypothetical protein C2E21_6666 [Chlorella sorokiniana], PRW45405.1 glutamyl-tRNA synthetase isoform A [Chlorella sorokiniana], PRW45404.1 glutamyl-tRNA synthetase isoform B [Chlorella sorokiniana]	QAXK01010639.1_8900-15142
+OG0001248	PRW34081.1 E3 ubiquitin- ligase UPL3-like [Chlorella sorokiniana]	QAXK01010718.1_75-1989
+OG0001264	PRW57353.1 Tropinone reductase [Chlorella sorokiniana]	QAXK01001653.1_329-2259
+OG0001279	PRW57777.1 N-methyltryptophan oxidase [Chlorella sorokiniana], PRW57842.1 Cyclic nucleotide-gated ion channel 1 [Chlorella sorokiniana]	QAXK01000624.1_32528-30577
+OG0001307	PRW57649.1 magnesium chelatase subunit H [Chlorella sorokiniana]	QAXK01005917.1_319-7230
+OG0001308	PRW57492.1 prolyl-tRNA synthetase [Chlorella sorokiniana]	QAXK01006084.1_8922-13556
+OG0001309	PRW57504.1 putative splicing factor 3A subunit 1 isoform B [Chlorella sorokiniana], PRW57503.1 putative splicing factor 3A subunit 1 isoform A [Chlorella sorokiniana]	QAXK01004533.1_5070-10667
+OG0001310	PRW57699.1 serine-threonine kinase receptor-associated -like [Chlorella sorokiniana]	QAXK01002895.1_5020-6663
+OG0001311	PRW57320.1 AP-4 complex subunit epsilon [Chlorella sorokiniana]	QAXK01001613.1_2521-6885
+OG0001312	PRW20693.1 DNA-directed RNA polymerases I and III subunit RPAC1 [Chlorella sorokiniana], PRW20687.1 DNA-directed RNA polymerases I and III subunit RPAC1 [Chlorella sorokiniana]	QAXK01003510.1_1900-3653
+OG0001313	PRW57198.1 phosphoacetylglucosamine mutase [Chlorella sorokiniana]	QAXK01001184.1_9548-5781
+OG0001314	PRW57474.1 tetratricopeptide repeat 4-like protein [Chlorella sorokiniana]	QAXK01001944.1_3765-1753
+OG0001316	PRW61078.1 Chaperone dnaJ 13 [Chlorella sorokiniana]	QAXK01006921.1_16832-14836
+OG0001317	PRW39311.1 ERBB-3 BINDING PROTEIN 1 [Chlorella sorokiniana]	QAXK01010058.1_4279-1636
+OG0001318	PRW44958.1 tyrosine--tRNA ligase cytoplasmic [Chlorella sorokiniana]	QAXK01001801.1_7866-9916
+OG0001320	PRW60925.1 putative DNA primase large subunit [Chlorella sorokiniana]	QAXK01000167.1_14384-11911
+OG0001328	PRW33003.1 tryptophan synthase beta chain 1 isoform A [Chlorella sorokiniana], PRW33004.1 tryptophan synthase beta chain 1 isoform B [Chlorella sorokiniana]	QAXK01006882.1_17133-19836
+OG0001331	PRW51034.1 glycosyltransferase family 32 [Chlorella sorokiniana]	QAXK01009171.1_15170-12352
+OG0001332	PRW58820.1 eukaryotic translation initiation factor 3 subunit L-like [Chlorella sorokiniana]	QAXK01004338.1_10706-15436
+OG0001334	PRW59445.1 DEAD-box ATP-dependent RNA helicase 13 isoform B [Chlorella sorokiniana], PRW59446.1 DEAD-box ATP-dependent RNA helicase 13 isoform A [Chlorella sorokiniana]	QAXK01003133.1_258-4577
+OG0001338	PRW51120.1 carbon catabolite repressor 4-like protein 1 [Chlorella sorokiniana]	QAXK01002293.1_4021-8056
+OG0001340	PRW21029.1 Diaminopimelate chloroplastic [Chlorella sorokiniana]	QAXK01004523.1_6228-4685
+OG0001342	PRW57867.1 NPL4 1 [Chlorella sorokiniana]	QAXK01003268.1_11937-16935
+OG0001343	PRW59035.1 Gamma-tubulin complex component 2 [Chlorella sorokiniana]	QAXK01000799.1_6873-2057
+OG0001353	PRW45650.1 D-amino-acid chloroplastic-like isoform B [Chlorella sorokiniana], PRW45649.1 D-amino-acid chloroplastic-like isoform A [Chlorella sorokiniana]	QAXK01011632.1_4873-7912
+OG0001356	PRW60577.1 Fanconi anemia group M isoform X3 [Chlorella sorokiniana]	QAXK01003307.1_27135-26267
+OG0001360	PRW59017.1 dehydroquinate dehydratase [Chlorella sorokiniana]	QAXK01001741.1_6153-8648
+OG0001363	PRW57586.1 proline--tRNA cytoplasmic isoform B [Chlorella sorokiniana], PRW57585.1 proline--tRNA cytoplasmic isoform A [Chlorella sorokiniana]	QAXK01003747.1_13973-10331
+OG0001365	PRW57227.1 ARM REPEAT PROTEIN INTERACTING WITH ABF2-like [Chlorella sorokiniana]	QAXK01000515.1_20837-25236
+OG0001366	PRW56314.1 IMPACT [Chlorella sorokiniana]	QAXK01004846.1_20461-19235
+OG0001370	PRW61016.1 3-dehydroquinate chloroplastic [Chlorella sorokiniana]	QAXK01000381.1_4423-6771
+OG0001374	PRW60970.1 ADP-ribosylation factor 8A [Chlorella sorokiniana]	QAXK01013224.1_5335-6988
+OG0001375	PRW57254.1 rae1 [Chlorella sorokiniana]	QAXK01005120.1_8361-10056
+OG0001376	PRW60394.1 ubiquitin-conjugating enzyme E2 32 [Chlorella sorokiniana]	QAXK01019935.1_413-1820
+OG0001381	PRW61120.1 argininosuccinate lyase [Chlorella sorokiniana]	QAXK01000172.1_6135-2748
+OG0001382	PRW61563.1 structural maintenance of chromosomes 2-1 isoform A [Chlorella sorokiniana], PRW61562.1 structural maintenance of chromosomes 2-1 isoform B [Chlorella sorokiniana]	QAXK01001066.1_8917-1138
+OG0001383	PRW61571.1 DNA gyrase subunit A [Chlorella sorokiniana]	QAXK01003326.1_3639-1243
+OG0001385	PRW61315.1 DNA topoisomerase 6 subunit B [Chlorella sorokiniana]	QAXK01005279.1_10173-5871
+OG0001388	PRW33124.1 DEAD-box ATP-dependent RNA helicase 29 isoform X1 isoform C [Chlorella sorokiniana], PRW33125.1 DEAD-box ATP-dependent RNA helicase 29 isoform X1 isoform B [Chlorella sorokiniana], PRW33126.1 DEAD-box ATP-dependent RNA helicase 29 isoform X1 isoform A [Chlorella sorokiniana]	QAXK01001208.1_10635-13964
+OG0001393	PRW45556.1 cyclin-dependent kinase C-2-like [Chlorella sorokiniana]	QAXK01005917.1_17047-13738
+OG0001397	PRW59690.1 suppressor of mec-8 and unc-52-like protein 1 [Chlorella sorokiniana]	QAXK01000502.1_39339-43298
+OG0001398	PRW57297.1 cysteine desulfurase [Chlorella sorokiniana], PRW60081.1 cysteine desulfurase [Chlorella sorokiniana]	QAXK01003277.1_3770-8
+OG0001400	PRW58920.1 Coiled-coil domain-containing 25 isoform B [Chlorella sorokiniana], PRW58921.1 Coiled-coil domain-containing 25 isoform A [Chlorella sorokiniana]	QAXK01001993.1_28544-29840
+OG0001401	PRW56238.1 hypothetical protein C2E21_5212 [Chlorella sorokiniana], PRW44962.1 permease urea carboxylase system [Chlorella sorokiniana], PRW51110.1 PITH domain-containing protein [Chlorella sorokiniana]	QAXK01010276.1_2943-1867
+OG0001406	PRW56251.1 20S proteasome beta subunit type beta 5 isoform B [Chlorella sorokiniana], PRW56250.1 20S proteasome beta subunit type beta 5 isoform A [Chlorella sorokiniana]	QAXK01000595.1_2983-1676
+OG0001408	PRW21042.1 exportin 1 [Chlorella sorokiniana]	QAXK01000367.1_8675-18356
+OG0001409	PRW59968.1 S-adenosyl-L-methionine-dependent [Chlorella sorokiniana]	QAXK01004930.1_4250-5628
+OG0001417	PRW45089.1 Threonine chloroplastic [Chlorella sorokiniana]	QAXK01005381.1_315-2273
+OG0001420	PRW60504.1 14 kDa zinc-binding [Chlorella sorokiniana]	QAXK01000297.1_21777-22493
+OG0001424	PRW45081.1 homoserine kinase [Chlorella sorokiniana]	QAXK01001628.1_9434-11057
+OG0001425	PRW45147.1 anthranilate synthase beta subunit [Chlorella sorokiniana]	QAXK01003581.1_2363-4183
+OG0001426	PRW60964.1 pre-mRNA-processing-splicing factor 8 isoform A [Chlorella sorokiniana], PRW60965.1 pre-mRNA-processing-splicing factor 8 isoform B [Chlorella sorokiniana]	QAXK01005880.1_1-9276
+OG0001428	PRW59964.1 putative transmembrane GTPase FZO- chloroplastic isoform B [Chlorella sorokiniana], PRW59965.1 putative transmembrane GTPase FZO- chloroplastic isoform A [Chlorella sorokiniana]	QAXK01000837.1_14096-17956
+OG0001431	PRW44970.1 RAB6A-GEF complex partner 1-like isoform A [Chlorella sorokiniana], PRW44969.1 RAB6A-GEF complex partner 1-like isoform B [Chlorella sorokiniana]	QAXK01013424.1_6153-1945
+OG0001432	PRW20283.1 adrenodoxin mitochondrial isoform X3 isoform B [Chlorella sorokiniana], PRW20284.1 adrenodoxin mitochondrial isoform X3 isoform A [Chlorella sorokiniana]	QAXK01000224.1_16848-15439
+OG0001445	PRW33236.1 nucleolar GTP-binding isoform A [Chlorella sorokiniana], PRW33235.1 nucleolar GTP-binding isoform B [Chlorella sorokiniana]	QAXK01000732.1_11950-7418
+OG0001455	PRW34039.1 carotene epsilon- chloroplastic isoform A [Chlorella sorokiniana], PRW34040.1 carotene epsilon- chloroplastic isoform B [Chlorella sorokiniana]	QAXK01001576.1_5934-8651
+OG0001456	PRW33661.1 pre-mRNA-processing 40A isoform B [Chlorella sorokiniana], PRW33660.1 pre-mRNA-processing 40A isoform A [Chlorella sorokiniana]	QAXK01006785.1_1906-1226
+OG0001460	PRW33874.1 50S ribosomal chloroplastic [Chlorella sorokiniana]	QAXK01015424.1_3358-1233
+OG0001462	PRW34057.1 transport SEC31-like protein B isoform A [Chlorella sorokiniana], PRW34058.1 transport SEC31-like protein B isoform B [Chlorella sorokiniana]	QAXK01002112.1_6014-14709
+OG0001465	PRW51184.1 Dihydroorotate dehydrogenase _quinone_ mitochondrial [Chlorella sorokiniana]	QAXK01006322.1_7890-11183
+OG0001469	PRW05841.1 peroxisome biogenesis factor 10-like isoform X1 [Chlorella sorokiniana]	QAXK01007783.1_10721-12010
+OG0001473	PRW61319.1 DNA-binding HORMA domain-containing [Chlorella sorokiniana]	QAXK01003650.1_4575-2929
+OG0001476	PRW32512.1 Conserved oligomeric Golgi complex subunit 6 isoform B [Chlorella sorokiniana], PRW32513.1 Conserved oligomeric Golgi complex subunit 6 isoform A [Chlorella sorokiniana]	QAXK01001134.1_7136-9582
+OG0001477	PRW21120.1 A G-specific adenine DNA glycosylase [Chlorella sorokiniana]	QAXK01003160.1_17527-15091
+OG0001480	PRW32540.1 putative mitochondrial intermediate mitochondrial [Chlorella sorokiniana]	QAXK01000632.1_24086-22557
+OG0001482	PRW57040.1 non-discriminatory gln-glu-trna synthetase [Chlorella sorokiniana]	QAXK01000159.1_14204-11398
+OG0001488	PRW61008.1 ubiquitin carboxyl-terminal hydrolase 5 isoform X2 [Chlorella sorokiniana]	QAXK01004286.1_7784-2904
+OG0001492	PRW57076.1 NAD_P_-binding Rossmann-fold superfamily [Chlorella sorokiniana]	QAXK01003809.1_2040-4733
+OG0001493	PRW20647.1 Ribonucleoside-diphosphate reductase large subunit [Chlorella sorokiniana]	QAXK01001201.1_5367-10319
+OG0001506	PRW20835.1 50S ribosomal chloroplastic [Chlorella sorokiniana]	QAXK01000137.1_3425-4331
+OG0001508	PRW57304.1 Nucleolar 14 [Chlorella sorokiniana], PRW05747.1 Nucleolar 14 [Chlorella sorokiniana]	QAXK01001982.1_904-3015
+OG0001514	PRW39146.1 Cytochrome c1- heme mitochondrial [Chlorella sorokiniana]	QAXK01003231.1_16625-14068
+OG0001526	PRW57769.1 aspartate--tRNA ligase [Chlorella sorokiniana]	QAXK01019948.1_5388-2969
+OG0001527	PRW61404.1 pre-mRNA-splicing factor 38B isoform X1 [Chlorella sorokiniana]	QAXK01013863.1_4654-1867
+OG0001528	PRW56518.1 Nucleolar 10 isoform A [Chlorella sorokiniana], PRW56517.1 Nucleolar 10 isoform B [Chlorella sorokiniana]	QAXK01000325.1_37384-41123
+OG0001529	PRW61056.1 60S ribosome subunit biogenesis NIP7-like protein [Chlorella sorokiniana]	QAXK01004092.1_4427-5291
+OG0001532	PRW58465.1 hypothetical protein C2E21_2983 [Chlorella sorokiniana]	QAXK01000782.1_11007-12134
+OG0001533	PRW61113.1 splicing factor 3A subunit 3 [Chlorella sorokiniana]	QAXK01000265.1_17007-12444
+OG0001534	PRW45384.1 ATP-dependent RNA helicase dhx8 isoform B [Chlorella sorokiniana], PRW45383.1 ATP-dependent RNA helicase dhx8 isoform A [Chlorella sorokiniana]	QAXK01000695.1_5671-2183
+OG0001538	PRW44245.1 COP9 signalosome complex subunit 1 [Chlorella sorokiniana]	QAXK01009353.1_4260-348
+OG0001542	PRW50939.1 ALA-interacting subunit 3 isoform A [Chlorella sorokiniana], PRW50940.1 ALA-interacting subunit 3 isoform B [Chlorella sorokiniana]	QAXK01011884.1_2510-4036
+OG0001545	PRW56786.1 arginine N-methyltransferase [Chlorella sorokiniana]	QAXK01000350.1_22889-27018
+OG0001546	PRW59981.1 putative tRNA N6-adenosine mitochondrial isoform X1 [Chlorella sorokiniana]	QAXK01011857.1_1226-3209
+OG0001548	PRW60856.1 DUF3531 domain-containing [Chlorella sorokiniana]	QAXK01001795.1_1688-3314
+OG0001549	PRW20765.1 H ACA ribonucleo complex subunit 4 [Chlorella sorokiniana]	QAXK01005406.1_4717-2509
+OG0001550	PRW60662.1 ABC transporter E family member 2 [Chlorella sorokiniana]	QAXK01004537.1_7009-1449
+OG0001551	PRW50886.1 regulation of nuclear pre-mRNA domain-containing 1A-like [Chlorella sorokiniana]	QAXK01006072.1_19473-19787
+OG0001554	PRW59596.1 phosphoglucomutase [Chlorella sorokiniana]	QAXK01001638.1_7681-11612
+OG0001561	PRW57645.1 U4 U6 small nuclear ribonucleo Prp3 [Chlorella sorokiniana]	QAXK01003228.1_3995-6597
+OG0001562	PRW59588.1 WD40 repeat [Chlorella sorokiniana]	QAXK01000869.1_5647-9196
+OG0001571	PRW57995.1 Kinesin-II 95 kDa subunit [Chlorella sorokiniana]	QAXK01005898.1_15715-20620
+OG0001573	PRW20885.1 Monothiol glutaredoxin- chloroplastic [Chlorella sorokiniana], PRW60745.1 prolyl 4-hydroxylase alpha subunit [Chlorella sorokiniana]	QAXK01001714.1_23807-22483
+OG0001575	PRW59032.1 Methionine aminopeptidase chloroplastic mitochondrial [Chlorella sorokiniana]	QAXK01006456.1_5116-6698
+OG0001576	PRW60885.1 peroxisomal fatty acid beta-oxidation multifunctional MFP2 [Chlorella sorokiniana]	QAXK01003511.1_8584-2188
+OG0001579	PRW60371.1 tubulin gamma-2 chain [Chlorella sorokiniana]	QAXK01000149.1_3007-205
+OG0001581	PRW60999.1 cysteine desulfurase [Chlorella sorokiniana]	QAXK01003468.1_8146-4525
+OG0001582	PRW58496.1 SNF1-related kinase regulatory subunit beta-2 [Chlorella sorokiniana]	QAXK01003110.1_3669-4960
+OG0001592	PRW58427.1 AMP deaminase [Chlorella sorokiniana]	QAXK01004995.1_4321-153
+OG0001595	PRW58810.1 DEAD-box ATP-dependent RNA helicase 38 [Chlorella sorokiniana]	QAXK01003821.1_4511-8191
+OG0001599	PRW45722.1 CPLD51 required for cyt b6 assembly [Chlorella sorokiniana]	QAXK01001163.1_31234-32344
+OG0001602	PRW18339.1 translation factor-like [Chlorella sorokiniana], PRW58529.1 GTPase [Chlorella sorokiniana]	QAXK01009112.1_2932-1649
+OG0001606	PRW33977.1 Cysteinyl-tRNA synthetase isoform C [Chlorella sorokiniana], PRW33976.1 Cysteinyl-tRNA synthetase isoform B [Chlorella sorokiniana], PRW33975.1 Cysteinyl-tRNA synthetase isoform A [Chlorella sorokiniana]	QAXK01001551.1_37852-43451
+OG0001618	PRW57104.1 beta-hydroxyacyl-ACP dehydratase [Chlorella sorokiniana]	QAXK01003579.1_4454-5700
+OG0001620	PRW56104.1 kinase [Chlorella sorokiniana]	QAXK01004906.1_4885-7564
+OG0001624	PRW58987.1 peroxisomal membrane 13 [Chlorella sorokiniana]	QAXK01001935.1_7191-6190
+OG0001625	PRW20520.1 pyridoxamine 5 -phosphate oxidase [Chlorella sorokiniana]	QAXK01008598.1_11627-10467
+OG0001666	PRW57509.1 transketolase 7 [Chlorella sorokiniana]	QAXK01000648.1_7716-3949
+OG0001670	PRW57872.1 glutamate-1-semialdehyde aminotransferase [Chlorella sorokiniana]	QAXK01001801.1_20671-18627
+OG0001676	PRW61530.1 transportin-1-like isoform X1 [Chlorella sorokiniana]	QAXK01000084.1_15952-9180
+OG0001677	PRW59793.1 Cyclic pyranopterin monophosphate mitochondrial [Chlorella sorokiniana]	QAXK01006154.1_7199-4782
+OG0001679	PRW61625.1 mitochondrial acidic [Chlorella sorokiniana]	QAXK01005586.1_4660-3715
+OG0001681	PRW61378.1 putative phosphoribosylformylglycinamidine chloroplastic mitochondrial [Chlorella sorokiniana]	QAXK01003694.1_10054-1111
+OG0001683	PRW61408.1 nifU chloroplastic isoform B [Chlorella sorokiniana], PRW61409.1 nifU chloroplastic isoform A [Chlorella sorokiniana]	QAXK01005873.1_4902-1877
+OG0001684	PRW61441.1 Eukaryotic translation initiation factor 4G [Chlorella sorokiniana]	QAXK01001160.1_46203-44172
+OG0001686	PRW61204.1 clathrin heavy chain [Chlorella sorokiniana]	QAXK01001518.1_29154-38461
+OG0001687	PRW39378.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6 [Chlorella sorokiniana]	QAXK01011350.1_4968-4302
+OG0001689	PRW57945.1 Proteasome subunit beta type-7-A [Chlorella sorokiniana]	QAXK01000325.1_49285-50693
+OG0001691	PRW33160.1 D-lactate dehydrogenase [Chlorella sorokiniana]	QAXK01009543.1_7053-9512
+OG0001694	PRW39130.1 MAK16-like protein [Chlorella sorokiniana]	QAXK01004860.1_550-2257
+OG0001698	PRW61225.1 putative transaldolase [Chlorella sorokiniana]	QAXK01011739.1_15998-17366
+OG0001700	PRW57263.1 heat shock 70 kDa 14-like [Chlorella sorokiniana]	QAXK01001944.1_5351-7976
+OG0001702	PRW20843.1 biotin synthase [Chlorella sorokiniana]	QAXK01000864.1_61145-62900
+OG0001703	PRW18370.1 DNA polymerase alpha subunit B [Chlorella sorokiniana]	QAXK01003602.1_34329-32576
+OG0001704	PRW58972.1 transmembrane CLPTM1 family [Chlorella sorokiniana]	QAXK01008991.1_236-2513
+OG0001705	PRW60798.1 aspartyl-tRNA synthetase [Chlorella sorokiniana]	QAXK01002478.1_7313-12188
+OG0001708	PRW59158.1 PHD finger ING1-like [Chlorella sorokiniana]	QAXK01014303.1_4896-6584
+OG0001709	PRW20824.1 Ankyrin repeat [Chlorella sorokiniana]	QAXK01018148.1_4196-2780
+OG0001712	PRW58824.1 60S ribosomal L13a-4 [Chlorella sorokiniana]	QAXK01008136.1_3960-6111
+OG0001713	PRW57128.1 putative lysine--tRNA cytoplasmic [Chlorella sorokiniana]	QAXK01001137.1_1588-5821
+OG0001714	PRW50806.1 hypothetical protein C2E21_5481 [Chlorella sorokiniana]	QAXK01014632.1_3916-2466
+OG0001715	PRW44987.1 bifunctional dihydrofolate reductase-thymidylate synthase [Chlorella sorokiniana]	QAXK01004338.1_24179-21163
+OG0001716	PRW59262.1 NADH_ubiquinone oxidoreductase 24 kDa subunit [Chlorella sorokiniana]	QAXK01000646.1_3437-2178
+OG0001718	PRW59087.1 U3 small nucleolar ribonucleo MPP10-like isoform X1 [Chlorella sorokiniana]	QAXK01002273.1_1901-3023
+OG0001719	PRW50899.1 TCP-1 cpn60 chaperonin family [Chlorella sorokiniana]	QAXK01013811.1_5298-9155
+OG0001724	PRW21089.1 methyltransferase 5 isoform X1 [Chlorella sorokiniana]	QAXK01006565.1_2429-269
+OG0001728	PRW59438.1 40S ribosomal S19-1 [Chlorella sorokiniana]	QAXK01001807.1_1026-15
+OG0001729	PRW20890.1 heat shock 40 kDa [Chlorella sorokiniana]	QAXK01006338.1_1051-28
+OG0001737	PRW57092.1 splicing factor U2af small subunit B-like [Chlorella sorokiniana]	QAXK01014793.1_2710-905
+OG0001738	PRW59012.1 peroxisome biogenesis 12 [Chlorella sorokiniana]	QAXK01000446.1_74898-73132
+OG0001743	PRW45593.1 26S protease regulatory subunit 8-like protein A [Chlorella sorokiniana]	QAXK01001289.1_5327-2954
+OG0001744	PRW57032.1 microtubule-associated RP EB family member 1C [Chlorella sorokiniana]	QAXK01016939.1_17085-19159
+OG0001748	PRW59933.1 sterol 14 desaturase [Chlorella sorokiniana]	QAXK01007592.1_13848-10196
+OG0001750	PRW60049.1 tubulin-folding cofactor C-like [Chlorella sorokiniana]	QAXK01018869.1_1324-446
+OG0001751	PRW20892.1 DNA ligase 1-like [Chlorella sorokiniana]	QAXK01000276.1_2022-2543
+OG0001756	PRW60325.1 elongation factor G- chloroplastic [Chlorella sorokiniana]	QAXK01004906.1_9592-13569
+OG0001760	PRW59094.1 putative S-acyltransferase 14 [Chlorella sorokiniana]	QAXK01008046.1_15224-18152
+OG0001763	PRW60279.1 CLP1-like protein [Chlorella sorokiniana]	QAXK01006402.1_6220-3948
+OG0001770	PRW57448.1 ATP synthase gamma chloroplastic [Chlorella sorokiniana]	QAXK01001922.1_7027-5313
+OG0001772	PRW51155.1 D-aspartate oxidase [Chlorella sorokiniana]	QAXK01010435.1_780-2170
+OG0001778	PRW33277.1 IMP dehydrogenase [Chlorella sorokiniana]	QAXK01006312.1_5841-2543
+OG0001780	PRW61211.1 putative inactive serine threonine- kinase scy1 isoform X1 [Chlorella sorokiniana]	QAXK01003072.1_7601-12066
+OG0001782	PRW61586.1 HGH1-like protein [Chlorella sorokiniana]	QAXK01000627.1_25854-27382
+OG0001783	PRW59520.1 phosphoribosylaminoimidazole chloroplastic [Chlorella sorokiniana]	QAXK01004723.1_8556-4882
+OG0001788	PRW44555.1 J domain-containing spf31 [Chlorella sorokiniana]	QAXK01008099.1_16922-14889
+OG0001790	PRW57449.1 coatomer subunit gamma [Chlorella sorokiniana]	QAXK01000362.1_13682-19843
+OG0001792	PRW60958.1 50S ribosomal L1 [Chlorella sorokiniana]	QAXK01002348.1_22026-23431
+OG0001794	PRW56974.1 Eukaryotic translation initiation factor 3 subunit G [Chlorella sorokiniana]	QAXK01000643.1_10651-8242
+OG0001801	PRW57303.1 tobamovirus multiplication 1-like [Chlorella sorokiniana]	QAXK01000208.1_37779-38874
+OG0001806	PRW61534.1 ATP-binding cassette superfamily [Chlorella sorokiniana]	QAXK01005447.1_6594-9151
+OG0001810	PRW59206.1 embryonic stem cell-specific 5-hydroxymethylcytosine-binding -like [Chlorella sorokiniana]	QAXK01011106.1_2568-3152
+OG0001812	PRW57265.1 coatomer subunit beta-1 [Chlorella sorokiniana]	QAXK01006399.1_9428-14604
+OG0001813	PRW57266.1 phenylalanine--tRNA chloroplastic mitochondrial [Chlorella sorokiniana]	QAXK01000513.1_11487-8211
+OG0001818	PRW56663.1 60S acidic ribosomal P0 [Chlorella sorokiniana]	QAXK01004132.1_4579-6060
+OG0001821	PRW59996.1 serine threonine- phosphatase BSL3 [Chlorella sorokiniana]	QAXK01004177.1_17288-11319
+OG0001824	PRW56403.1 methionine aminopeptidase 2B-like [Chlorella sorokiniana]	QAXK01003744.1_2800-6411
+OG0001826	PRW56475.1 T-complex 1 subunit theta [Chlorella sorokiniana]	QAXK01000105.1_5499-2693
+OG0001832	PRW20907.1 bifunctional dethiobiotin synthetase 7_8-diamino-pelargonic acid mitochondrial [Chlorella sorokiniana]	QAXK01005654.1_7220-1642
+OG0001837	PRW32576.1 AICARFT IMPCHase bienzyme family [Chlorella sorokiniana]	QAXK01000842.1_51041-53429
+OG0001838	PRW61435.1 pre-rRNA-processing TSR1-like protein [Chlorella sorokiniana]	QAXK01003976.1_8556-3734
+OG0001841	PRW33209.1 ABC transporter F family member 5 [Chlorella sorokiniana]	QAXK01000976.1_10766-5866
+OG0001842	PRW56938.1 acyl-ACP thioesterase [Chlorella sorokiniana]	QAXK01006275.1_27485-25822
+OG0001843	PRW57397.1 eukaryotic translation initiation factor 2 subunit gamma-like [Chlorella sorokiniana]	QAXK01004149.1_22375-24958
+OG0001845	PRW55917.1 N6-adenosine-methyltransferase 70 kDa subunit [Chlorella sorokiniana]	QAXK01001702.1_1666-273
+OG0001847	PRW61345.1 transport Sec61 subunit alpha-like [Chlorella sorokiniana]	QAXK01009311.1_428-2889
+OG0001849	PRW20710.1 Protochlorophyllide chloroplastic [Chlorella sorokiniana]	QAXK01007671.1_6596-4238
+OG0001855	PRW56016.1 Splicing factor 3B subunit 4 [Chlorella sorokiniana]	QAXK01000335.1_27254-25603
+OG0001856	PRW20763.1 uracil phosphoribosyltransferase [Chlorella sorokiniana]	QAXK01003506.1_17890-19170
+OG0001857	PRW60009.1 GTP-binding nuclear Ran [Chlorella sorokiniana]	QAXK01002176.1_5254-6169
+OG0001858	PRW45027.1 60S ribosomal L8 [Chlorella sorokiniana]	QAXK01017983.1_2022-269
+OG0001860	PRW44926.1 putative phenylalanine--tRNA ligase alpha subunit [Chlorella sorokiniana]	QAXK01000036.1_15496-18071
+OG0001861	PRW44911.1 GMP synthase [glutamine-hydrolyzing] [Chlorella sorokiniana]	QAXK01001933.1_13708-11461
+OG0001862	PRW45216.1 transport yif1 [Chlorella sorokiniana]	QAXK01002439.1_1431-31
+OG0001863	PRW45270.1 SEC1 family transport SLY1 [Chlorella sorokiniana]	QAXK01000006.1_11270-7049
+OG0001864	PRW45066.1 tRNA wybutosine-synthesizing 4 [Chlorella sorokiniana]	QAXK01001807.1_30588-28596
+OG0001866	PRW57927.1 importin beta-like SAD2 [Chlorella sorokiniana]	QAXK01004671.1_3332-9990
+OG0001867	PRW44841.1 putative complex I intermediate-associated 30 [Chlorella sorokiniana]	QAXK01006658.1_2089-1110
+OG0001868	PRW61271.1 vacuolar sorting-associated 18-like protein [Chlorella sorokiniana]	QAXK01018034.1_4900-2264
+OG0001870	PRW50849.1 CAS1 domain-containing 1 [Chlorella sorokiniana]	QAXK01007444.1_11468-13953
+OG0001871	PRW60447.1 transmembrane 120-like protein [Chlorella sorokiniana]	QAXK01000027.1_14275-12645
+OG0001873	PRW60219.1 hypothetical protein C2E21_1074 [Chlorella sorokiniana]	QAXK01003671.1_1285-5252
+OG0001874	PRW60671.1 Alcohol dehydrogenase class-3 [Chlorella sorokiniana]	QAXK01002443.1_10680-7074
+OG0001879	PRW45074.1 4-hydroxy-3-methylbut-2-enyl diphosphate reductase [Chlorella sorokiniana]	QAXK01014786.1_3020-29
+OG0001880	PRW59805.1 ubiquitin carboxyl-terminal hydrolase 6 [Chlorella sorokiniana]	QAXK01014616.1_960-3765
+OG0001882	PRW60817.1 pyridoxine biosynthesis isoform A [Chlorella sorokiniana], PRW60818.1 pyridoxine biosynthesis isoform B [Chlorella sorokiniana]	QAXK01001694.1_21339-20476
+OG0001883	PRW45076.1 Eukaryotic translation initiation factor 3 subunit I [Chlorella sorokiniana]	QAXK01000225.1_2559-365
+OG0001887	PRW39352.1 vacuolar sorting-associated 22-like protein 1 [Chlorella sorokiniana]	QAXK01004187.1_1760-33
+OG0001888	PRW50858.1 26S proteasome non-ATPase regulatory subunit 12 [Chlorella sorokiniana]	QAXK01016711.1_4152-7100
+OG0001890	PRW60955.1 phosphatase methylesterase 1 [Chlorella sorokiniana]	QAXK01010406.1_2162-130
+OG0001893	PRW20210.1 Phosducin 3 [Chlorella sorokiniana]	QAXK01002579.1_17292-15497
+OG0001895	PRW59909.1 N-acetyl-gamma-glutamyl-phosphate reductase [Chlorella sorokiniana]	QAXK01016971.1_2990-681
+OG0001898	PRW59743.1 non-canonical poly_A_ RNA polymerase PAPD5 [Chlorella sorokiniana]	QAXK01001156.1_3180-1500
+OG0001900	PRW59790.1 ubiquitin fusion degradation 1-like protein isoform X1 [Chlorella sorokiniana]	QAXK01009399.1_423-2536
+OG0001902	PRW59947.1 tRNA-splicing ligase-like protein [Chlorella sorokiniana]	QAXK01008314.1_4813-7042
+OG0001907	PRW60054.1 Histone acetyltransferase GCN5 [Chlorella sorokiniana]	QAXK01003345.1_36704-34696
+OG0001911	PRW59871.1 GDP-Man_Man_3_ c_2_-PP-Dol alpha-1_2-mannosyltransferase [Chlorella sorokiniana]	QAXK01003378.1_5209-366
+OG0001915	PRW44422.1 E3 ubiquitin- ligase HERC2 [Chlorella sorokiniana]	QAXK01004688.1_3441-5908
+OG0001916	PRW50848.1 DNA repair [Chlorella sorokiniana]	QAXK01001344.1_15728-16873
+OG0001917	PRW20828.1 hypothetical protein C2E21_8674 [Chlorella sorokiniana]	QAXK01010657.1_2437-238
+OG0001918	PRW32585.1 acetylornithine mitochondrial-like [Chlorella sorokiniana]	QAXK01003671.1_14459-17304
+OG0001919	PRW58508.1 acetolactate synthase small subunit chloroplastic-like [Chlorella sorokiniana]	QAXK01001468.1_4935-8852
+OG0001920	PRW58227.1 peptidyl-prolyl cis-trans isomerase CYP57 [Chlorella sorokiniana]	QAXK01000770.1_6276-4831
+OG0001921	PRW33172.1 V-type proton ATPase subunit d2 [Chlorella sorokiniana]	QAXK01004635.1_12023-13891
+OG0001922	PRW20787.1 kinesin-like calmodulin-binding [Chlorella sorokiniana]	QAXK01011133.1_12839-6837
+OG0001928	PRW58502.1 arogenate prephenate dehydrogenase [Chlorella sorokiniana]	QAXK01003150.1_16472-17917
+OG0001930	PRW33222.1 coatomer subunit delta-like isoform A [Chlorella sorokiniana], PRW33221.1 coatomer subunit delta-like isoform B [Chlorella sorokiniana]	QAXK01003163.1_7337-4796
+OG0001931	PRW33309.1 60S ribosomal L4 isoform B [Chlorella sorokiniana], PRW33308.1 60S ribosomal L4 isoform A [Chlorella sorokiniana]	QAXK01002575.1_2869-493
+OG0001934	PRW20195.1 RCC2-like protein [Chlorella sorokiniana]	QAXK01001681.1_35798-38541
+OG0001935	PRW56586.1 NADH dehydrogenase [ubiquinone] iron-sulfur mitochondrial [Chlorella sorokiniana]	QAXK01001208.1_4428-3497
+OG0001936	PRW20552.1 mitochondrial phosphate carrier mitochondrial-like [Chlorella sorokiniana]	QAXK01000947.1_9658-8064
+OG0001937	PRW58527.1 serine threonine- kinase RIO1-like [Chlorella sorokiniana]	QAXK01002895.1_11877-8991
+OG0001938	PRW20484.1 exosome complex component RRP41-like protein isoform B [Chlorella sorokiniana], PRW20485.1 exosome complex component RRP41-like protein isoform A [Chlorella sorokiniana]	QAXK01006045.1_3548-5265
+OG0001943	PRW58267.1 Eukaryotic peptide chain release factor subunit 1-3 [Chlorella sorokiniana]	QAXK01001495.1_35130-32135
+OG0001945	PRW58109.1 pachytene checkpoint 2-like protein [Chlorella sorokiniana]	QAXK01006788.1_3504-1107
+OG0001946	PRW58190.1 coatomer subunit epsilon-1-like [Chlorella sorokiniana]	QAXK01006196.1_6560-8156
+OG0001947	PRW58550.1 leucine--tRNA mitochondrial [Chlorella sorokiniana]	QAXK01001881.1_90892-88031
+OG0001951	PRW56629.1 40S ribosomal S18 [Chlorella sorokiniana]	QAXK01010684.1_1460-556
+OG0001952	PRW56886.1 putative 26S proteasome non-ATPase regulatory subunit 3 [Chlorella sorokiniana]	QAXK01001616.1_0-2161
+OG0001953	PRW57938.1 hypothetical protein C2E21_3733 [Chlorella sorokiniana]	QAXK01001871.1_8489-9868
+OG0001954	PRW58059.1 Methyltransferase 6 [Chlorella sorokiniana]	QAXK01014389.1_130-668
+OG0001956	PRW56256.1 glycyl-tRNA synthetase [Chlorella sorokiniana]	QAXK01004150.1_9770-14859
+OG0001958	PRW20193.1 L-ascorbate peroxidase 6 [Chlorella sorokiniana]	QAXK01007010.1_8318-9471
+OG0001960	PRW20323.1 spliceosome nuclear pre-mRNA splicing factor [Chlorella sorokiniana]	QAXK01005538.1_9255-7797
+OG0001961	PRW56476.1 Glycine-tRNA ligase chloroplastic mitochondrial [Chlorella sorokiniana]	QAXK01009093.1_4766-1793
+OG0001966	PRW58346.1 ataxin-3-like protein [Chlorella sorokiniana]	QAXK01016188.1_2666-4256
+OG0001967	PRW33918.1 40S ribosomal S15 [Chlorella sorokiniana]	QAXK01000446.1_47170-46172
+OG0001969	PRW58057.1 Cytosolic Fe-S cluster assembly factor NBP35 [Chlorella sorokiniana]	QAXK01002063.1_20394-18703
+OG0001970	PRW59814.1 Ribosome-associated GTPase [Chlorella sorokiniana]	QAXK01001186.1_3380-493
+OG0001973	PRW55993.1 4-hydroxyphenylpyruvate dioxygenase [Chlorella sorokiniana]	QAXK01000335.1_27471-29404
+OG0001979	PRW56410.1 putative nucleolar 5-2 [Chlorella sorokiniana]	QAXK01001265.1_1827-4399
+OG0001980	PRW59579.1 V-type proton ATPase subunit H-like [Chlorella sorokiniana]	QAXK01003309.1_3370-103
+OG0001986	PRW21022.1 Mitogen-activated kinase 17 [Chlorella sorokiniana]	QAXK01000295.1_10054-5194
+OG0001991	PRW32502.1 heptahelical transmembrane 4-like isoform A [Chlorella sorokiniana], PRW32503.1 heptahelical transmembrane 4-like isoform B [Chlorella sorokiniana]	QAXK01002862.1_2144-4831
+OG0001993	PRW58919.1 bifunctional riboflavin kinase FMN phosphatase-like [Chlorella sorokiniana]	QAXK01002212.1_3400-1645
+OG0001995	PRW61305.1 Serine threonine- kinase 36 [Chlorella sorokiniana]	QAXK01014184.1_2136-4076
+OG0001996	PRW18292.1 1-deoxy-D-xylulose 5-phosphate reductoisomerase [Chlorella sorokiniana]	QAXK01001275.1_1545-3783
+OG0001998	PRW32580.1 Cycloeucalenol cycloisomerase isoform B [Chlorella sorokiniana], PRW32579.1 Cycloeucalenol cycloisomerase isoform A [Chlorella sorokiniana]	QAXK01000407.1_9246-10753
+OG0001999	PRW18319.1 NADPH-dependent diflavin oxidoreductase 1 isoform X1 [Chlorella sorokiniana]	QAXK01001060.1_158-4769
+OG0002000	PRW58480.1 imidazole glycerol phosphate synthase chloroplastic [Chlorella sorokiniana]	QAXK01003280.1_21069-16498
+OG0002001	PRW18402.1 LIMR family protein [Chlorella sorokiniana]	QAXK01007038.1_3322-7876
+OG0002003	PRW18417.1 XAP5 CIRCADIAN TIMEKEEPER [Chlorella sorokiniana]	QAXK01002652.1_3797-1393
+OG0002004	PRW18360.1 Qb-SNARE Bos1 Membrin family [Chlorella sorokiniana]	QAXK01012829.1_4377-6139
+OG0002005	PRW57467.1 zinc finger CCCH domain-containing 1 [Chlorella sorokiniana]	QAXK01004007.1_7633-6740
+OG0002006	PRW57333.1 chlorophyll a b-binding apo CP26 precursor [Chlorella sorokiniana]	QAXK01000137.1_21575-22932
+OG0002007	PRW57409.1 Exportin-2 [Chlorella sorokiniana]	QAXK01009439.1_10946-16439
+OG0002008	PRW57170.1 chaperone dnaJ 6 [Chlorella sorokiniana]	QAXK01000685.1_2507-3830
+OG0002010	PRW57251.1 Nuclear transcription factor Y subunit B-3 [Chlorella sorokiniana]	QAXK01004465.1_1413-1889
+OG0002011	PRW57305.1 vacuolar ATP synthase subunit B [Chlorella sorokiniana]	QAXK01008697.1_3621-1
+OG0002012	PRW56972.1 Diacylglycerol O-acyltransferase 1 [Chlorella sorokiniana]	QAXK01008479.1_22-1572
+OG0002013	PRW57111.1 SCO1-like protein mitochondrial [Chlorella sorokiniana]	QAXK01000704.1_865-2353
+OG0002014	PRW57348.1 RNA-binding 28 isoform B [Chlorella sorokiniana], PRW57349.1 RNA-binding 28 isoform A [Chlorella sorokiniana]	QAXK01001731.1_8237-12954
+OG0002015	PRW58951.1 delta-1-pyrroline-5-carboxylate synthase B-like isoform X1 [Chlorella sorokiniana]	QAXK01001095.1_1607-5427
+OG0002018	PRW60005.1 peroxisomal acyl-coenzyme A oxidase 1 isoform X1 [Chlorella sorokiniana]	QAXK01000579.1_6879-2831
+OG0002023	PRW20750.1 40S ribosomal S5 [Chlorella sorokiniana]	QAXK01004467.1_4446-2978
+OG0002024	PRW56851.1 MATH domain-containing protein [Chlorella sorokiniana]	QAXK01007476.1_6843-3464
+OG0002026	PRW56706.1 septin and tuftelin-interacting 1-like protein 1 [Chlorella sorokiniana]	QAXK01000116.1_15959-12419
+OG0002027	PRW20623.1 adenine phosphoribosyltransferase chloroplastic-like [Chlorella sorokiniana]	QAXK01000153.1_10025-9224
+OG0002028	PRW33713.1 26S proteasome regulatory subunit [Chlorella sorokiniana]	QAXK01001007.1_9576-3460
+OG0002029	PRW59601.1 actin [Chlorella sorokiniana]	QAXK01001726.1_9416-10685
+OG0002032	PRW32964.1 Dynamin ARC5 [Chlorella sorokiniana]	QAXK01018007.1_11683-5307
+OG0002035	PRW58281.1 DNA topoisomerase 2 [Chlorella sorokiniana]	QAXK01001162.1_4704-11654
+OG0002036	PRW59339.1 Nucleolar complex 2 [Chlorella sorokiniana]	QAXK01003552.1_4945-952
+OG0002040	PRW61595.1 dihydroxy-acid dehydratase [Chlorella sorokiniana]	QAXK01004862.1_20323-24029
+OG0002043	PRW32881.1 DNA polymerase epsilon subunit 2 [Chlorella sorokiniana]	QAXK01000495.1_11359-8819
+OG0002046	PRW33794.1 40S ribosomal SA-like [Chlorella sorokiniana]	QAXK01003370.1_5253-2449
+OG0002049	PRW32924.1 Double-strand break repair MRE11 [Chlorella sorokiniana]	QAXK01004800.1_3523-170
+OG0002051	PRW20780.1 Nucleolar 56 [Chlorella sorokiniana]	QAXK01005999.1_9988-12832
+OG0002063	PRW39174.1 geranylgeranyl diphosphate synthase [Chlorella sorokiniana]	QAXK01001387.1_26607-27895
+OG0002070	PRW59107.1 DEAD-box ATP-dependent RNA helicase 7 [Chlorella sorokiniana]	QAXK01003882.1_7725-3343
+OG0002072	PRW60963.1 porphobilinogen deaminase [Chlorella sorokiniana]	QAXK01000401.1_8251-6577
+OG0002073	PRW57188.1 40S ribosomal S16 [Chlorella sorokiniana]	QAXK01011684.1_2005-861
+OG0002074	PRW58481.1 putative ribosome biogenesis RLP24 [Chlorella sorokiniana]	QAXK01005165.1_9870-10888
+OG0002075	PRW58088.1 myo-inositol-1-phosphate synthase [Chlorella sorokiniana]	QAXK01000112.1_21457-19158
+OG0002080	PRW58128.1 aspartate aminotransferase [Chlorella sorokiniana]	QAXK01005319.1_1852-5123
+OG0002081	PRW57597.1 Diphthamide biosynthesis 1 [Chlorella sorokiniana]	QAXK01000024.1_6845-4701
+OG0002082	PRW57180.1 Proteasome subunit alpha type-7 [Chlorella sorokiniana]	QAXK01003767.1_15037-16578
+OG0002086	PRW58343.1 Bis_5 -adenosyl_-triphosphatase [Chlorella sorokiniana]	QAXK01000416.1_236-1468
+OG0002088	PRW59332.1 Crooked neck 1 [Chlorella sorokiniana]	QAXK01004430.1_4845-10525
+OG0002090	PRW59304.1 20S proteasome alpha subunit G [Chlorella sorokiniana]	QAXK01000004.1_10133-7859
+OG0002092	PRW56316.1 adoMet-dependent rRNA methyltransferase spb1 [Chlorella sorokiniana]	QAXK01001415.1_8205-13561
+OG0002095	PRW61433.1 Proteasome subunit alpha type-5 [Chlorella sorokiniana]	QAXK01000224.1_15148-12485
+OG0002103	PRW20454.1 acyl- dehydrogenase family member 10 [Chlorella sorokiniana]	QAXK01000770.1_6581-10685
+OG0002105	PRW44393.1 60S ribosomal L11 [Chlorella sorokiniana]	QAXK01018040.1_3609-5929
+OG0002110	PRW57767.1 DNA repair helicase XPB1 [Chlorella sorokiniana]	QAXK01007447.1_7916-1145
+OG0002111	PRW61539.1 AATF isoform X1 [Chlorella sorokiniana]	QAXK01013514.1_9351-7632
+OG0002112	PRW05844.1 60S ribosomal L27-3-like [Chlorella sorokiniana]	QAXK01015359.1_10390-8068
+OG0002120	PRW59582.1 conserved oligomeric Golgi complex subunit 5 [Chlorella sorokiniana]	QAXK01005023.1_11393-17094
+OG0002122	PRW59546.1 ER lumen -retaining receptor [Chlorella sorokiniana]	QAXK01010373.1_8651-6830
+OG0002123	PRW59468.1 hydroxyacylglutathione hydrolase [Chlorella sorokiniana]	QAXK01000700.1_5491-3572
+OG0002124	PRW56652.1 GTP-binding Obg [Chlorella sorokiniana]	QAXK01004007.1_8647-10727
+OG0002127	PRW57395.1 V-type proton ATPase subunit C [Chlorella sorokiniana]	QAXK01001495.1_27698-29888
+OG0002128	PRW60344.1 DEAD-box ATP-dependent RNA helicase 21 [Chlorella sorokiniana]	QAXK01002518.1_56-2855
+OG0002131	PRW60672.1 splicing factor 3B subunit 6 [Chlorella sorokiniana]	QAXK01001894.1_15083-15978
+OG0002132	PRW51045.1 mitochondrial carrier [Chlorella sorokiniana]	QAXK01009974.1_15390-17483
+OG0002134	PRW60273.1 glyoxylate succinic semialdehyde reductase chloroplastic [Chlorella sorokiniana]	QAXK01000252.1_16687-14824
+OG0002138	PRW56329.1 Calcineurin subunit B [Chlorella sorokiniana]	QAXK01015692.1_7967-6370
+OG0002139	PRW56513.1 60S ribosomal L10a-1 [Chlorella sorokiniana]	QAXK01003183.1_18810-17365
+OG0002141	PRW57743.1 60S ribosomal L6 [Chlorella sorokiniana]	QAXK01004474.1_7154-5648
+OG0002142	PRW56426.1 Qc-snare Syn8 Syntaxin8-family [Chlorella sorokiniana]	QAXK01011512.1_2962-4685
+OG0002144	PRW60507.1 Metal tolerance C4 [Chlorella sorokiniana]	QAXK01000452.1_14665-16837
+OG0002145	PRW61527.1 ATP-dependent Clp protease proteolytic subunit chloroplastic [Chlorella sorokiniana]	QAXK01000208.1_15729-14120
+OG0002146	PRW59487.1 NAD_P_-dependent oxidoreductase [Chlorella sorokiniana]	QAXK01014393.1_10002-7696
+OG0002147	PRW55977.1 50S ribosomal L13 [Chlorella sorokiniana]	QAXK01000383.1_6224-8512
+OG0002149	PRW59003.1 thymidylate kinase-like isoform X2 [Chlorella sorokiniana]	QAXK01007800.1_664-2473
+OG0002153	PRW58749.1 vacuolar sorting-associated 2-like protein 1-like [Chlorella sorokiniana]	QAXK01004231.1_9560-10863
+OG0002154	PRW56557.1 GDP-L-galactose phosphorylase 1 [Chlorella sorokiniana]	QAXK01001673.1_7134-5531
+OG0002158	PRW56239.1 STABILIZED1 [Chlorella sorokiniana]	QAXK01000427.1_69010-61523
+OG0002159	PRW59562.1 Phosphatidylinositol 3- root isoform [Chlorella sorokiniana]	QAXK01001947.1_6933-16171
+OG0002161	PRW33628.1 anthranilate synthase alpha subunit chloroplastic-like [Chlorella sorokiniana]	QAXK01000667.1_5631-9231
+OG0002162	PRW20400.1 60S ribosomal L5 [Chlorella sorokiniana]	QAXK01001956.1_6721-5102
+OG0002163	PRW59862.1 conserved oligomeric Golgi complex subunit 8-like [Chlorella sorokiniana]	QAXK01000249.1_23024-26432
+OG0002165	PRW57799.1 4-alpha-glucanotransferase chloroplastic amyloplastic [Chlorella sorokiniana]	QAXK01004616.1_9420-16745
+OG0002167	PRW57848.1 transcription initiation factor IIA subunit 2-like [Chlorella sorokiniana]	QAXK01011260.1_4573-3532
+OG0002169	PRW59149.1 eukaryotic translation initiation factor 3 subunit A-like [Chlorella sorokiniana]	QAXK01012387.1_1585-757
+OG0002171	PRW33984.1 carbamoyl-phosphate synthase large chloroplastic [Chlorella sorokiniana]	QAXK01000446.1_58269-64323
+OG0002172	PRW44541.1 60S ribosomal L32-1 [Chlorella sorokiniana]	QAXK01012305.1_2510-4620
+OG0002173	PRW44343.1 vacuolar sorting-associated 4-like [Chlorella sorokiniana]	QAXK01000596.1_14630-16935
+OG0002175	PRW33773.1 Diphthine synthase [Chlorella sorokiniana]	QAXK01001681.1_26607-28630
+OG0002176	PRW44545.1 Protoheme IX mitochondrial [Chlorella sorokiniana]	QAXK01006378.1_6447-7421
+OG0002177	PRW44609.1 importin subunit beta-1-like [Chlorella sorokiniana]	QAXK01001458.1_24314-19030
+OG0002179	PRW44378.1 pre-mRNA-splicing factor SPF27-like protein isoform A [Chlorella sorokiniana], PRW44377.1 pre-mRNA-splicing factor SPF27-like protein isoform B [Chlorella sorokiniana]	QAXK01000816.1_3651-1777
+OG0002180	PRW33865.1 Trafficking particle complex subunit 5 [Chlorella sorokiniana]	QAXK01013408.1_2179-3352
+OG0002181	PRW44402.1 putative transcriptional regulatory protein [Chlorella sorokiniana]	QAXK01001085.1_14460-16185
+OG0002182	PRW55886.1 Golgi apparatus membrane ECHIDNA [Chlorella sorokiniana]	QAXK01011403.1_8648-10184
+OG0002185	PRW45732.1 50S ribosomal L4 [Chlorella sorokiniana]	QAXK01004305.1_1287-2625
+OG0002187	PRW45742.1 ADP-ribosylation factor 2 [Chlorella sorokiniana]	QAXK01008561.1_1927-3583
+OG0002194	PRW56915.1 tubulin folding cofactor B [Chlorella sorokiniana]	QAXK01000283.1_35828-37170
+OG0002195	PRW59308.1 succinyl- -ligase alpha subunit [Chlorella sorokiniana]	QAXK01004230.1_16730-15188
+OG0002201	PRW20303.1 DDB1- and CUL4-associated factor 13 [Chlorella sorokiniana]	QAXK01010560.1_4646-7806
+OG0002202	PRW51124.1 vacuolar sorting-associated 26A-like isoform B [Chlorella sorokiniana], PRW51123.1 vacuolar sorting-associated 26A-like isoform A [Chlorella sorokiniana]	QAXK01015485.1_1487-4220
+OG0002203	PRW56878.1 putative manganese-transporting ATPase PDR2 isoform B [Chlorella sorokiniana], PRW56879.1 putative manganese-transporting ATPase PDR2 isoform A [Chlorella sorokiniana]	QAXK01002836.1_26336-33102
+OG0002205	PRW61491.1 CCR4-associated factor [Chlorella sorokiniana]	QAXK01006533.1_2359-4576
+OG0002206	PRW33646.1 TRIGALACTOSYLDIACYLGLYCEROL chloroplastic [Chlorella sorokiniana]	QAXK01001756.1_16985-18889
+OG0002211	PRW59591.1 SNW SKI-interacting -like [Chlorella sorokiniana]	QAXK01002337.1_17192-14208
+OG0002212	PRW61385.1 lipoate- ligase A isoform X1 [Chlorella sorokiniana]	QAXK01004985.1_1921-3702
+OG0002214	PRW60021.1 Bystin [Chlorella sorokiniana]	QAXK01004099.1_10602-7616
+OG0002216	PRW32977.1 Eukaryotic translation initiation factor 2D [Chlorella sorokiniana]	QAXK01008333.1_5211-755
+OG0002218	PRW60362.1 DEAD-box ATP-dependent RNA helicase 17 [Chlorella sorokiniana]	QAXK01008568.1_4370-1172
+OG0002219	PRW45510.1 LL-diaminopimelate chloroplastic [Chlorella sorokiniana]	QAXK01000926.1_8546-11734
+OG0002221	PRW32974.1 SEC12 2 [Chlorella sorokiniana]	QAXK01000669.1_13732-11344
+OG0002223	PRW61524.1 HSP20-like chaperone [Chlorella sorokiniana]	QAXK01002445.1_7314-8396
+OG0002227	PRW58650.1 Amidophosphoribosyltransferase [Chlorella sorokiniana]	QAXK01002658.1_19503-16448
+OG0002228	PRW58087.1 rRNA-processing FCF1-like protein [Chlorella sorokiniana]	QAXK01005657.1_4133-2964
+OG0002229	PRW58148.1 Multiple RNA-binding domain-containing 1 [Chlorella sorokiniana]	QAXK01012523.1_554-5993
+OG0002231	PRW45568.1 thioredoxin domain-containing PLP3B-like [Chlorella sorokiniana]	QAXK01000465.1_13752-12830
+OG0002232	PRW44465.1 lariat debranching enzyme [Chlorella sorokiniana]	QAXK01003345.1_4291-6594
+OG0002233	PRW45148.1 UDP-sugar pyrophosphorylase 1 [Chlorella sorokiniana]	QAXK01000437.1_11961-16259
+OG0002235	PRW44924.1 U3 small nucleolar ribonucleo IMP4 [Chlorella sorokiniana]	QAXK01001803.1_9702-7639
+OG0002238	PRW60726.1 26S proteasome non-ATPase regulatory subunit 6-like protein [Chlorella sorokiniana]	QAXK01001182.1_10605-8247
+OG0002241	PRW45484.1 40S ribosomal S14-2 [Chlorella sorokiniana]	QAXK01018825.1_5368-4150
+OG0002243	PRW34103.1 CTP synthase [Chlorella sorokiniana]	QAXK01000459.1_16579-20716
+OG0002246	PRW33755.1 RNA binding [Chlorella sorokiniana]	QAXK01004963.1_17662-16561
+OG0002250	PRW45437.1 G patch domain-containing TGH-like isoform X1 [Chlorella sorokiniana]	QAXK01009768.1_6744-3068
+OG0002257	PRW60321.1 18S rRNA biogenesis RCL1 [Chlorella sorokiniana]	QAXK01003840.1_2463-275
+OG0002262	PRW50824.1 RAN GTPase-activating 1 [Chlorella sorokiniana]	QAXK01009985.1_8201-11435
+OG0002280	PRW56310.1 UDP-galactose UDP-glucose transporter 3 [Chlorella sorokiniana]	QAXK01000180.1_9982-8131
+OG0002282	PRW59735.1 thylakoid lumenal chloroplastic [Chlorella sorokiniana]	QAXK01000502.1_36980-37941
+OG0002289	PRW20893.1 8-amino-7-oxononanoate synthase [Chlorella sorokiniana]	QAXK01009887.1_2599-389
+OG0002367	PRW57423.1 U3 small nucleolar RNA-associated 6-like protein [Chlorella sorokiniana]	QAXK01000828.1_1794-5888
+OG0002368	PRW57447.1 Sulfhydryl oxidase 1 [Chlorella sorokiniana], PRW44318.1 protease Do-like 9 [Chlorella sorokiniana]	QAXK01012125.1_2420-651
+OG0002374	PRW20764.1 UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [Chlorella sorokiniana]	QAXK01003443.1_1888-4145
+OG0002375	PRW57174.1 ubiquinone menaquinone biosynthesis methyltransferase [Chlorella sorokiniana]	QAXK01000611.1_344-2643
+OG0002377	PRW20621.1 1-acyl-sn-glycerol-3-phosphate acyltransferase chloroplastic [Chlorella sorokiniana]	QAXK01000070.1_5006-2926
+OG0002391	PRW61099.1 UPF0160 -like [Chlorella sorokiniana]	QAXK01001032.1_529-3021
+OG0002392	PRW57894.1 zeta- subunit of COP-I complex [Chlorella sorokiniana]	QAXK01004092.1_39419-40407
+OG0002393	PRW61084.1 thioredoxin YLS8 [Chlorella sorokiniana]	QAXK01004425.1_5700-7015
+OG0002398	PRW58000.1 THYLAKOID chloroplastic [Chlorella sorokiniana]	QAXK01007630.1_3354-1779
+OG0002400	PRW57876.1 zinc finger CCCH domain-containing 13-like [Chlorella sorokiniana]	QAXK01009758.1_1852-165
+OG0002402	PRW60953.1 DEAD-box ATP-dependent RNA helicase 5 [Chlorella sorokiniana]	QAXK01006527.1_8708-6017
+OG0002404	PRW61006.1 20S proteasome beta type 4 [Chlorella sorokiniana]	QAXK01000840.1_31502-30180
+OG0002407	PRW21034.1 SAND-like isoform X1 [Chlorella sorokiniana]	QAXK01002424.1_5771-2597
+OG0002409	PRW61450.1 iron-sulfur cluster biosynthesis family [Chlorella sorokiniana]	QAXK01003096.1_14696-17609
+OG0002410	PRW61430.1 Acetylglutamate kinase [Chlorella sorokiniana]	QAXK01000328.1_7305-8962
+OG0002415	PRW60347.1 Pantoate--beta-alanine ligase [Chlorella sorokiniana]	QAXK01018530.1_1173-3834
+OG0002417	PRW60324.1 Mitochondrial thiamine pyrophosphate carrier [Chlorella sorokiniana]	QAXK01014946.1_5937-4091
+OG0002421	PRW18348.1 DNA polymerase delta catalytic subunit [Chlorella sorokiniana]	QAXK01000019.1_127-3831
+OG0002424	PRW32899.1 L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase-like [Chlorella sorokiniana]	QAXK01004230.1_13015-11861
+OG0002429	PRW57070.1 putative U6 snRNA-associated Sm LSm4 [Chlorella sorokiniana]	QAXK01018188.1_2713-2029
+OG0002433	PRW56928.1 mitochondrial iron import [Chlorella sorokiniana]	QAXK01010016.1_2591-4898
+OG0002435	PRW59081.1 DEAD-box ATP-dependent RNA helicase 20-like [Chlorella sorokiniana]	QAXK01006642.1_4903-8475
+OG0002439	PRW58988.1 UPF0586 C9orf41 [Chlorella sorokiniana]	QAXK01006012.1_4611-6378
+OG0002441	PRW59335.1 Phosphoribosylaminoimidazole-succinocarboxam ide chloroplastic [Chlorella sorokiniana]	QAXK01000523.1_8909-7053
+OG0002447	PRW59004.1 Peroxisome biogenesis 5 [Chlorella sorokiniana]	QAXK01011649.1_6227-2645
+OG0002451	PRW45238.1 nifU mitochondrial [Chlorella sorokiniana]	QAXK01000979.1_11011-9108
+OG0002454	PRW59583.1 ankyrin repeat [Chlorella sorokiniana]	QAXK01017228.1_872-211
+OG0002461	PRW58994.1 peroxisome biogenesis 2 isoform X1 [Chlorella sorokiniana]	QAXK01008372.1_4504-1777
+OG0002470	PRW44322.1 Surfeit locus 1 [Chlorella sorokiniana]	QAXK01004760.1_349-2010
+OG0002473	PRW34096.1 RNA polymerase I-specific transcription initiation factor RRN3-like [Chlorella sorokiniana]	QAXK01005580.1_145-5612
+OG0002481	PRW59048.1 60S ribosomal L38 [Chlorella sorokiniana]	QAXK01019295.1_5920-5732
+OG0002489	PRW20336.1 UDP-N-acetylglucosamine transferase subunit ALG14-like protein [Chlorella sorokiniana]	QAXK01011332.1_7730-6306
+OG0002490	PRW20642.1 U3 small nucleolar RNA-associated 15 [Chlorella sorokiniana]	QAXK01005493.1_5709-8739
+OG0002491	PRW56036.1 AP-4 complex subunit mu [Chlorella sorokiniana]	QAXK01001982.1_13111-9273
+OG0002493	PRW32984.1 ubiquinone biosynthesis [Chlorella sorokiniana]	QAXK01003356.1_3976-6343
+OG0002501	PRW20751.1 survival of motor neuron-related-splicing factor 30 [Chlorella sorokiniana]	QAXK01015333.1_8887-6386
+OG0002502	PRW57084.1 N-alpha-acetyltransferase auxiliary subunit [Chlorella sorokiniana]	QAXK01004701.1_7826-2022
+OG0002509	PRW45723.1 la 1 [Chlorella sorokiniana]	QAXK01002072.1_7784-4601
+OG0002520	PRW44450.1 ankyrin repeat [Chlorella sorokiniana]	QAXK01004095.1_2354-706
+OG0002524	PRW57355.1 60S ribosomal L44 [Chlorella sorokiniana]	QAXK01000577.1_7847-8807
+OG0002525	PRW44303.1 dimethyladenosine transferase [Chlorella sorokiniana]	QAXK01004000.1_12088-10081
+OG0002540	PRW59453.1 hypothetical protein C2E21_1555 [Chlorella sorokiniana]	QAXK01000802.1_2542-6601
+OG0002550	PRW61158.1 GTPase Der [Chlorella sorokiniana]	QAXK01001082.1_16962-21149
+OG0002551	PRW61003.1 Peptidyl-prolyl cis-trans isomerase-like 4 [Chlorella sorokiniana]	QAXK01000484.1_4718-2307
+OG0002552	PRW60895.1 ion channel [Chlorella sorokiniana]	QAXK01001169.1_7647-4609
+OG0002561	PRW61086.1 mitochondrial import receptor subunit TOM40-1-like [Chlorella sorokiniana]	QAXK01000325.1_52702-51360
+OG0002563	PRW61337.1 zinc finger CCCH domain-containing 69-like [Chlorella sorokiniana]	QAXK01010777.1_196-929
+OG0002569	PRW56451.1 GTP-binding 1 [Chlorella sorokiniana]	QAXK01008095.1_6073-1465
+OG0002570	PRW59920.1 Nucleolar 16 [Chlorella sorokiniana]	QAXK01004879.1_5868-4307
+OG0002572	PRW33295.1 metaxin 1 [Chlorella sorokiniana]	QAXK01003017.1_10269-9177
+OG0002575	PRW60230.1 60S ribosomal L27a-3 [Chlorella sorokiniana]	QAXK01018811.1_5082-3547
+OG0002578	PRW61612.1 tRNA _guanine-N_7_-_-methyltransferase non-catalytic subunit wdr4 [Chlorella sorokiniana]	QAXK01006849.1_22455-23625
+OG0002581	PRW05881.1 Mitochondrial import inner membrane translocase subunit TIM10 [Chlorella sorokiniana]	QAXK01000799.1_52275-51787
+OG0002587	PRW61501.1 Arogenate dehydratase prephenate dehydratase chloroplastic [Chlorella sorokiniana], PRW61427.1 arogenate prephenate dehydratase [Chlorella sorokiniana]	QAXK01003879.1_1866-205
+OG0002596	PRW21109.1 malate dehydrogenase [Chlorella sorokiniana]	QAXK01013827.1_4630-1867
+OG0002601	PRW55982.1 Inositol monophosphatase 3 [Chlorella sorokiniana]	QAXK01013188.1_5354-2685
+OG0002608	PRW44889.1 OTU domain-containing 3 isoform X1 [Chlorella sorokiniana]	QAXK01001306.1_3606-5501
+OG0002610	PRW33671.1 UPF0553 -like [Chlorella sorokiniana]	QAXK01006881.1_2636-4947
+OG0002611	PRW59895.1 N-terminal acetyltransferase complex C component MAK3 [Chlorella sorokiniana]	QAXK01008206.1_13328-14330
+OG0002613	PRW59628.1 UPF0603 chloroplastic [Chlorella sorokiniana]	QAXK01001336.1_4314-5769
+OG0002615	PRW20579.1 biotin-- ligase 2-like [Chlorella sorokiniana]	QAXK01018285.1_3833-2399
+OG0002620	PRW60240.1 Serine threonine- kinase ATG1 [Chlorella sorokiniana]	QAXK01005400.1_31209-29659
+OG0002627	PRW45053.1 Aspartate carbamoyltransferase chloroplastic [Chlorella sorokiniana]	QAXK01000679.1_20862-23970
+OG0002632	PRW45146.1 3-methyl-2-oxobutanoate hydroxymethyltransferase mitochondrial [Chlorella sorokiniana]	QAXK01000208.1_858-3327
+OG0002633	PRW59110.1 nucleolar GTP-binding 1 [Chlorella sorokiniana]	QAXK01015735.1_789-3208
+OG0002634	PRW51138.1 Ribosomal RNA small subunit methyltransferase H [Chlorella sorokiniana]	QAXK01005319.1_15043-16886
+OG0002641	PRW39251.1 SWR1 complex subunit 6 [Chlorella sorokiniana]	QAXK01001768.1_11195-11945
+OG0002654	PRW44878.1 putative sugar phosphate phosphate translocator [Chlorella sorokiniana]	QAXK01008540.1_14282-12509
+OG0002656	PRW39267.1 60S ribosomal L22-2 [Chlorella sorokiniana]	QAXK01008693.1_1704-2778
+OG0002657	PRW45202.1 ATPase of the AAA+ superfamily _ISS_ [Chlorella sorokiniana]	QAXK01001396.1_8898-9977
+OG0002663	PRW20203.1 60S ribosomal L7a [Chlorella sorokiniana]	QAXK01005614.1_2666-5868
+OG0002665	PRW20199.1 formamidopyrimidine-DNA glycosylase isoform X2 [Chlorella sorokiniana]	QAXK01013120.1_9967-12816
+OG0002670	PRW20367.1 WD repeat-containing 44 [Chlorella sorokiniana]	QAXK01006673.1_15764-13631
+OG0002674	PRW60102.1 Proline iminopeptidase [Chlorella sorokiniana]	QAXK01009777.1_8817-6577
+OG0002680	PRW59542.1 ras GTPase-activating -binding 2-like [Chlorella sorokiniana]	QAXK01002348.1_28743-27471
+OG0002684	PRW50990.1 rRNA-processing UTP23-like protein [Chlorella sorokiniana]	QAXK01009099.1_14211-12777
+OG0002690	PRW33197.1 Ribosome production factor 1 [Chlorella sorokiniana]	QAXK01002281.1_18158-20087
+OG0002691	PRW44984.1 5 -nucleotidase domain-containing 4 isoform X2 [Chlorella sorokiniana]	QAXK01017025.1_286-4417
+OG0002692	PRW33178.1 chloroplast precursor [Chlorella sorokiniana]	QAXK01018733.1_2749-2003
+OG0002693	PRW58528.1 serine threonine- phosphatase 2A activator [Chlorella sorokiniana]	QAXK01001086.1_9229-7556
+OG0002695	PRW60258.1 WD repeat-containing 20-like [Chlorella sorokiniana]	QAXK01007477.1_3698-5226
+OG0002710	PRW32515.1 regulatory-associated of TOR 1 [Chlorella sorokiniana]	QAXK01005359.1_3667-6796
+OG0002714	PRW59344.1 casein kinase II subunit beta [Chlorella sorokiniana]	QAXK01008206.1_4068-2028
+OG0002716	PRW33283.1 malignant T-cell-amplified sequence 1-like protein [Chlorella sorokiniana]	QAXK01002299.1_25676-26628
+OG0002723	PRW32901.1 DNA-directed RNA polymerase chloroplastic mitochondrial [Chlorella sorokiniana]	QAXK01001735.1_19259-17991
+OG0002725	PRW32898.1 ATP-dependent RNA helicase isoform X1 [Chlorella sorokiniana]	QAXK01014870.1_4125-17
+OG0002728	PRW20584.1 DNA topoisomerase 1-like [Chlorella sorokiniana]	QAXK01001551.1_13518-17077
+OG0002729	PRW20218.1 putative glucan 1_3-alpha-glucosidase [Chlorella sorokiniana]	QAXK01006977.1_27647-33279
+OG0002737	PRW58425.1 1-_5-phosphoribosyl_-5-[_5-phosphoribosylami no_methylideneamino] imidazole-4-carboxamide chloroplastic [Chlorella sorokiniana]	QAXK01003565.1_11016-9575
+OG0002740	PRW56198.1 N-alpha-acetyltransferase 50 [Chlorella sorokiniana]	QAXK01008073.1_769-1809
+OG0002747	PRW57918.1 DEAD-box ATP-dependent RNA helicase 16 [Chlorella sorokiniana]	QAXK01003905.1_20331-25213
+OG0002748	PRW56269.1 putative CDP-diacylglycerol--inositol 3-phosphatidyltransferase 2 [Chlorella sorokiniana]	QAXK01006264.1_6024-5189
+OG0002758	PRW56712.1 hypothetical protein C2E21_4424 [Chlorella sorokiniana]	QAXK01000240.1_34950-34312
+OG0002759	PRW59503.1 U4 tri-snRNP-associated 2-like [Chlorella sorokiniana]	QAXK01007099.1_3453-8857
+OG0002761	PRW59767.1 uridine 5 - monophosphate synthase [Chlorella sorokiniana]	QAXK01001947.1_20720-25947
+OG0002768	PRW58017.1 hypothetical protein C2E21_3709 [Chlorella sorokiniana]	QAXK01003475.1_1733-1302
+OG0002771	PRW55957.1 PAT1 1 [Chlorella sorokiniana]	QAXK01011921.1_1066-3701
+OG0002772	PRW56156.1 RTF2-like protein [Chlorella sorokiniana]	QAXK01003475.1_2682-4175
+OG0002773	PRW33934.1 chlorophyll synthetase [Chlorella sorokiniana]	QAXK01017743.1_4283-978
+OG0002777	PRW34018.1 trans-2-enoyl- reductase [Chlorella sorokiniana]	QAXK01014000.1_19150-23189
+OG0002781	PRW56344.1 nucleotide-diphospho-sugar transferase [Chlorella sorokiniana]	QAXK01008309.1_4393-845
+OG0002791	PRW05813.1 tRNA threonylcarbamoyladenosine biosynthesis [Chlorella sorokiniana]	QAXK01006910.1_4587-4039
+OG0002793	PRW59010.1 chloroplast inner envelope translocon [Chlorella sorokiniana]	QAXK01003026.1_6033-13877
+OG0002799	PRW21135.1 Transmembrane Tmp21 [Chlorella sorokiniana]	QAXK01000454.1_923-1568
+OG0002810	PRW18289.1 lysosomal amino acid transporter 1-like protein [Chlorella sorokiniana]	QAXK01009911.1_30762-28414
+OG0002812	PRW56992.1 hypothetical protein C2E21_4196 [Chlorella sorokiniana]	QAXK01008556.1_5708-3352
+OG0002818	PRW18300.1 DNA-directed RNA polymerase I subunit RPA12 [Chlorella sorokiniana]	QAXK01001221.1_1240-326
+OG0002819	PRW18397.1 tocopherol cyclase [Chlorella sorokiniana]	QAXK01001402.1_3021-777
+OG0002820	PRW18354.1 ubiquinone biosynthesis O- mitochondrial [Chlorella sorokiniana]	QAXK01007101.1_2486-3500
+OG0002821	PRW58351.1 AP-1 complex subunit gamma-2-like isoform X1 [Chlorella sorokiniana]	QAXK01001240.1_4320-118
+OG0002827	PRW57513.1 Ubiquitin-like domain-containing CTD phosphatase [Chlorella sorokiniana]	QAXK01001575.1_9213-11802
+OG0002829	PRW57461.1 mRNA-capping enzyme-like [Chlorella sorokiniana]	QAXK01008464.1_4921-314
+OG0002831	PRW56900.1 Eukaryotic translation initiation factor 2 subunit alpha [Chlorella sorokiniana]	QAXK01009471.1_2975-111
+OG0002842	PRW56617.1 60S ribosomal L36-3-like [Chlorella sorokiniana]	QAXK01002063.1_17610-18209
+OG0002852	PRW61169.1 histidine methyltransferase 1-like protein isoform X7 [Chlorella sorokiniana]	QAXK01002795.1_1894-3499
+OG0002853	PRW56414.1 Nudix hydrolase 8 [Chlorella sorokiniana]	QAXK01006222.1_6005-7514
+OG0002854	PRW56874.1 WAT1-related chloroplastic isoform X1 [Chlorella sorokiniana]	QAXK01000274.1_4441-2040
+OG0002861	PRW33811.1 Glycerol-3-phosphate chloroplastic [Chlorella sorokiniana]	QAXK01000336.1_29701-28621
+OG0002871	PRW33316.1 Tetratricopeptide repeat 1 [Chlorella sorokiniana]	QAXK01001665.1_2326-3883
+OG0002877	PRW33018.1 Monothiol glutaredoxin- chloroplastic [Chlorella sorokiniana]	QAXK01001383.1_16600-17459
+OG0002889	PRW33855.1 Tetratricopeptide-like helical domain containing [Chlorella sorokiniana]	QAXK01014533.1_1995-3733
+OG0002890	PRW20958.1 sufE chloroplastic [Chlorella sorokiniana]	QAXK01012468.1_6191-5064
+OG0002892	PRW33798.1 phosphoribulokinase [Chlorella sorokiniana]	QAXK01004675.1_1944-4753
+OG0002895	PRW57914.1 tRNA pseudouridine_38 39_ synthase isoform X1 [Chlorella sorokiniana]	QAXK01006273.1_11056-8644
+OG0002898	PRW18365.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit mitochondrial [Chlorella sorokiniana]	QAXK01013787.1_6935-10103
+OG0002900	PRW39255.1 Rossmann-like alpha beta alpha sandwich fold [Chlorella sorokiniana]	QAXK01000573.1_11483-12681
+OG0002903	PRW59052.1 cytochrome c-type biogenesis ccda-like chloroplastic 1 [Chlorella sorokiniana]	QAXK01008701.1_3697-2030
+OG0002915	PRW57113.1 RFT1-like protein [Chlorella sorokiniana]	QAXK01000080.1_1794-5623
+OG0002916	PRW58197.1 hypothetical protein C2E21_2952 [Chlorella sorokiniana]	QAXK01010627.1_8219-6389
+OG0002918	PRW56195.1 squamous cell carcinoma antigen recognized by T-cells 3 [Chlorella sorokiniana]	QAXK01005102.1_8833-5901
+OG0002927	PRW57736.1 hypothetical protein C2E21_3641 [Chlorella sorokiniana]	QAXK01012487.1_1571-2566
+OG0002931	PRW59226.1 NADPH_adrenodoxin mitochondrial [Chlorella sorokiniana]	QAXK01009697.1_3987-6949
+OG0002940	PRW57307.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8-B-like [Chlorella sorokiniana]	QAXK01000147.1_17903-18595
+OG0002946	PRW58237.1 U3 small nucleolar RNA-associated 21-like protein [Chlorella sorokiniana]	QAXK01002261.1_40148-34742
+OG0002948	PRW58319.1 FAM63A-like isoform X2 [Chlorella sorokiniana]	QAXK01005661.1_3614-5576
+OG0002955	PRW57437.1 U2 small nuclear ribonucleo A [Chlorella sorokiniana]	QAXK01003496.1_4117-1328
+OG0002962	PRW44504.1 Rab GDP dissociation inhibitor [Chlorella sorokiniana]	QAXK01002423.1_4870-1549
+OG0002965	PRW20458.1 putative ATP-dependent RNA helicase DDX11 [Chlorella sorokiniana]	QAXK01009311.1_5086-9550
+OG0002969	PRW44588.1 coiled-coil domain-containing 94-like protein [Chlorella sorokiniana]	QAXK01007111.1_9724-10631
+OG0002971	PRW57895.1 cornichon-like protein 1 [Chlorella sorokiniana]	QAXK01004485.1_1816-3388
+OG0002974	PRW61402.1 glycerol-3-phosphate acyltransferase 3-like [Chlorella sorokiniana]	QAXK01000635.1_9875-7571
+OG0002988	PRW20298.1 NADH dehydrogenase _ubiquinone_ complex assembly factor 6 [Chlorella sorokiniana]	QAXK01005019.1_7837-6195
+OG0002994	PRW59816.1 DNA replication complex GINS PSF2 [Chlorella sorokiniana]	QAXK01008641.1_5826-4936
+OG0002996	PRW60458.1 hypothetical protein C2E21_1190 [Chlorella sorokiniana]	QAXK01008356.1_1994-1323
+OG0003000	PRW60916.1 Thioredoxin-like chloroplastic [Chlorella sorokiniana]	QAXK01018219.1_153-1479
+OG0003006	PRW60529.1 Peroxisome biogenesis 7 [Chlorella sorokiniana]	QAXK01009127.1_2830-5632
+OG0003009	PRW60702.1 p21-activated kinase-interacting 1-like [Chlorella sorokiniana]	QAXK01001726.1_8268-6818
+OG0003015	PRW39263.1 cell division cycle 16-like protein isoform X1 [Chlorella sorokiniana]	QAXK01017394.1_3188-4
+OG0003017	PRW20652.1 low molecular mass early light-induced [Chlorella sorokiniana]	QAXK01001070.1_5974-4798
+OG0003026	PRW57748.1 nuclear receptor coactivator 7-like isoform X2 [Chlorella sorokiniana]	QAXK01001672.1_6564-5317
+OG0003036	PRW56485.1 Autophagy-related 18 [Chlorella sorokiniana]	QAXK01000724.1_14653-15848
+OG0003041	PRW20490.1 hypothetical protein C2E21_9003 [Chlorella sorokiniana]	QAXK01001704.1_7113-6556
+OG0003042	PRW59755.1 ER membrane complex subunit 1 [Chlorella sorokiniana]	QAXK01014526.1_3534-6424
+OG0003049	PRW33940.1 Phosphatidate cytidylyltransferase [Chlorella sorokiniana]	QAXK01005731.1_3330-6743
+OG0003059	PRW56326.1 AP-4 complex subunit sigma [Chlorella sorokiniana]	QAXK01007133.1_7499-8797
+OG0003064	PRW44444.1 pyridoxine pyridoxamine 5 -phosphate oxidase chloroplastic-like [Chlorella sorokiniana]	QAXK01005457.1_8974-4681
+OG0003068	PRW44507.1 cytochrome c oxidase assembly COX15 [Chlorella sorokiniana]	QAXK01015536.1_9170-6903
+OG0003075	PRW58193.1 Haloacid dehalogenase-like hydrolase family isoform 2 [Chlorella sorokiniana]	QAXK01016351.1_22-2386
+OG0003087	PRW58063.1 nuclear poly_A_ polymerase 1 [Chlorella sorokiniana]	QAXK01003513.1_13194-9646
+OG0003091	PRW39342.1 geranyl diphosphate synthase [Chlorella sorokiniana]	QAXK01014943.1_5708-4249
+OG0003097	PRW20184.1 prostaglandin E synthase 2-like [Chlorella sorokiniana]	QAXK01008899.1_16518-18484
+OG0003105	PRW33737.1 U3 small nucleolar RNA-associated 18-like protein [Chlorella sorokiniana]	QAXK01001158.1_6748-4261
+OG0003107	PRW61418.1 diphthine methyltransferase-like protein [Chlorella sorokiniana]	QAXK01014862.1_4087-1458
+OG0003111	PRW60819.1 vacuolar sorting-associated 41-like protein isoform X1 [Chlorella sorokiniana]	QAXK01008798.1_739-2238
+OG0003123	PRW60363.1 Phosphoribosylglycinamide chloroplastic [Chlorella sorokiniana]	QAXK01008567.1_4740-6650
+OG0003125	PRW45608.1 2-methoxy-6-polyprenyl-1_4-benzoquinol mitochondrial [Chlorella sorokiniana]	QAXK01001243.1_11567-10056
+OG0003126	PRW61162.1 iron-sulfur cluster assembly [Chlorella sorokiniana]	QAXK01016483.1_12203-9679
+OG0003127	PRW59253.1 tRNA dimethylallyltransferase 9 [Chlorella sorokiniana]	QAXK01017290.1_11269-8021
+OG0003129	PRW59434.1 DUF866 domain-containing [Chlorella sorokiniana]	QAXK01002314.1_19744-18688
+OG0003133	PRW58133.1 NEDD8-activating enzyme E1 regulatory subunit [Chlorella sorokiniana]	QAXK01000525.1_12654-17162
+OG0003137	PRW45432.1 translation initiation factor eIF-2B subunit beta [Chlorella sorokiniana]	QAXK01001082.1_3989-724
+OG0003142	PRW58243.1 RETICULATA-RELATED 1-like [Chlorella sorokiniana]	QAXK01011367.1_1094-2688
+OG0003148	PRW44932.1 ribosome biogenesis TSR3-like protein [Chlorella sorokiniana]	QAXK01012193.1_12536-14034
+OG0003149	PRW45323.1 photosystem II S4 domain [Chlorella sorokiniana]	QAXK01012663.1_1560-2913
+OG0003151	PRW44867.1 psbP chloroplastic [Chlorella sorokiniana]	QAXK01010249.1_1617-3048
+OG0003152	PRW59011.1 ribosome biogenesis BOP1-like protein [Chlorella sorokiniana]	QAXK01003852.1_5090-8561
+OG0003160	PRW33824.1 Actin-related 6 [Chlorella sorokiniana]	QAXK01000595.1_5567-8159
+OG0003164	PRW45504.1 tRNA _adenine_58_-N_1__-methyltransferase catalytic subunit trmt61a isoform B [Chlorella sorokiniana], PRW45503.1 tRNA _adenine_58_-N_1__-methyltransferase catalytic subunit trmt61a isoform A [Chlorella sorokiniana]	QAXK01009877.1_4970-2684
+OG0003167	PRW44873.1 Sphingosine-1-phosphate lyase [Chlorella sorokiniana]	QAXK01014051.1_13887-12133
+OG0003172	PRW45048.1 V-type proton ATPase subunit F [Chlorella sorokiniana]	QAXK01000415.1_5823-6484
+OG0003191	PRW60195.1 WD repeat domain-containing 83 [Chlorella sorokiniana]	QAXK01004389.1_4946-6334
+OG0003196	PRW44903.1 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase _ferredoxin_ chloroplastic [Chlorella sorokiniana]	QAXK01000596.1_17342-21595
+OG0003197	PRW45205.1 conserved oligomeric Golgi complex subunit 3 [Chlorella sorokiniana]	QAXK01003298.1_5048-551
+OG0003198	PRW45196.1 26S proteasome non-ATPase regulatory subunit 1-like protein A-like [Chlorella sorokiniana]	QAXK01002898.1_4695-10345
+OG0003204	PRW05865.1 Cleavage and polyadenylation specificity factor subunit 3 [Chlorella sorokiniana]	QAXK01006378.1_2719-127
+OG0003209	PRW45145.1 putative DNA helicase MCM8 isoform X1 [Chlorella sorokiniana]	QAXK01011390.1_6757-10508
+OG0003212	PRW45412.1 violaxanthin de- chloroplastic [Chlorella sorokiniana]	QAXK01003629.1_5946-3703
+OG0003217	PRW59758.1 ferrous iron transporter A [Chlorella sorokiniana]	QAXK01017651.1_111-3535
+OG0003218	PRW59803.1 26S proteasome non-ATPase regulatory subunit 7 [Chlorella sorokiniana]	QAXK01003131.1_36278-34367
+OG0003219	PRW59801.1 UBA and UBX domain-containing protein [Chlorella sorokiniana]	QAXK01002499.1_5466-6313
+OG0003220	PRW60165.1 Pre-rRNA-processing PNO1 [Chlorella sorokiniana]	QAXK01004108.1_13829-15654
+OG0003226	PRW57087.1 Pre-mRNA-splicing factor SYF1 [Chlorella sorokiniana]	QAXK01003220.1_8522-13953
+OG0003227	PRW44564.1 putative Xaa-Pro aminopeptidase P [Chlorella sorokiniana]	QAXK01003375.1_5219-43
+OG0003230	PRW61594.1 F1F0 ATP synthase gamma subunit [Chlorella sorokiniana]	QAXK01000382.1_1570-3458
+OG0003235	PRW56327.1 nicotinate-nucleotide pyrophosphorylase [carboxylating] chloroplastic [Chlorella sorokiniana]	QAXK01014478.1_11654-8522
+OG0003239	PRW57624.1 family membrane [Chlorella sorokiniana]	QAXK01009911.1_3900-1880
+OG0003243	PRW56270.1 Deoxyhypusine synthase [Chlorella sorokiniana]	QAXK01012462.1_308-2720
+OG0003245	PRW60459.1 ribosome production factor 2-like protein [Chlorella sorokiniana]	QAXK01014831.1_1377-156
+OG0003248	PRW18407.1 glucosamine 6-phosphate N-acetyltransferase [Chlorella sorokiniana]	QAXK01003339.1_1231-2678
+OG0003249	PRW57085.1 hypothetical protein C2E21_3921 [Chlorella sorokiniana]	QAXK01001710.1_3704-3307
+OG0003250	PRW59037.1 splicing factor 3B subunit 3-like [Chlorella sorokiniana]	QAXK01003319.1_3618-13354
+OG0003251	PRW58875.1 UVR3 3-like 6-4 DNA photolyase [Chlorella sorokiniana]	QAXK01015706.1_7236-11105
+OG0003252	PRW61222.1 Origin recognition complex subunit 1 [Chlorella sorokiniana]	QAXK01000655.1_17305-22319
+OG0003253	PRW45127.1 RNA binding [Chlorella sorokiniana]	QAXK01000965.1_18464-16425
+OG0003254	PRW56218.1 hypothetical protein C2E21_5015 [Chlorella sorokiniana]	QAXK01000983.1_27514-29192
+OG0003255	PRW39201.1 glutathione S-transferase [Chlorella sorokiniana]	QAXK01010066.1_5264-7166
+OG0003256	PRW59926.1 HD repeat domain-containing isoform B [Chlorella sorokiniana], PRW59927.1 HD repeat domain-containing isoform A [Chlorella sorokiniana]	QAXK01014762.1_15208-13635
+OG0003257	PRW58515.1 nudix hydrolase 4 [Chlorella sorokiniana]	QAXK01001567.1_22308-20679
+OG0003258	PRW44287.1 ubiquitin carboxyl-terminal hydrolase isozyme L3 isoform X2 [Chlorella sorokiniana]	QAXK01005019.1_6054-4921
+OG0003259	PRW34016.1 60S ribosomal L23A [Chlorella sorokiniana]	QAXK01003400.1_3813-5064
+OG0003357	PRW57707.1 Cytochrome b5 [Chlorella sorokiniana]	QAXK01001354.1_4891-5217
+OG0003361	PRW57220.1 Prefoldin subunit 2 [Chlorella sorokiniana]	QAXK01008796.1_1534-1839
+OG0003363	PRW61516.1 ABC transporter I family member chloroplastic [Chlorella sorokiniana]	QAXK01009044.1_6855-8605
+OG0003378	PRW61173.1 40S ribosomal S11 [Chlorella sorokiniana]	QAXK01007832.1_7613-8663
+OG0003389	PRW56252.1 TBC1 domain family member 20 [Chlorella sorokiniana]	QAXK01000807.1_2417-1282
+OG0003390	PRW61461.1 rRNA methyltransferase mitochondrial [Chlorella sorokiniana]	QAXK01002975.1_1945-3061
+OG0003400	PRW60492.1 geranylgeranyl transferase type-2 subunit beta-like isoform X1 [Chlorella sorokiniana]	QAXK01011269.1_6226-3244
+OG0003418	PRW58892.1 hypothetical protein C2E21_2084 [Chlorella sorokiniana]	QAXK01004430.1_3720-2428
+OG0003427	PRW56099.1 TRNA--methyltransferase isoform 1 [Chlorella sorokiniana]	QAXK01017428.1_6517-5288
+OG0003460	PRW50955.1 exportin-4 isoform X1 [Chlorella sorokiniana]	QAXK01010334.1_16568-22208
+OG0003465	PRW59166.1 ribosomal L17 [Chlorella sorokiniana]	QAXK01007075.1_15495-16375
+OG0003474	PRW20877.1 NHP2 1 [Chlorella sorokiniana]	QAXK01010270.1_2969-2237
+OG0003481	PRW60274.1 sm LSM8 [Chlorella sorokiniana]	QAXK01002106.1_10876-11265
+OG0003502	PRW59692.1 DNA-directed RNA polymerase II subunit RPB7 [Chlorella sorokiniana]	QAXK01000365.1_3565-4942
+OG0003509	PRW59464.1 trafficking particle complex subunit 2-like [Chlorella sorokiniana]	QAXK01011852.1_1562-2354
+OG0003538	PRW61129.1 CGLD23 required for cyt b6 assembly [Chlorella sorokiniana]	QAXK01008337.1_3990-5243
+OG0003540	PRW60503.1 60S ribosomal L14 [Chlorella sorokiniana]	QAXK01001088.1_16015-14943
+OG0003568	PRW55908.1 cytochrome b561 domain-containing 2 [Chlorella sorokiniana]	QAXK01002228.1_1968-3201
+OG0003579	PRW56018.1 hypothetical protein C2E21_5013 [Chlorella sorokiniana]	QAXK01005668.1_9092-7561
+OG0003597	PRW61199.1 Poly_A_ RNA polymerase [Chlorella sorokiniana]	QAXK01004574.1_6183-8163
+OG0003598	PRW60561.1 dnaJ-like protein subfamily C member 2-like [Chlorella sorokiniana]	QAXK01002968.1_5239-542
+OG0003625	PRW39057.1 indole-3-glycerol phosphate synthase [Chlorella sorokiniana]	QAXK01001997.1_7467-5438
+OG0003643	PRW59450.1 farnesyltransferase subunit beta [Chlorella sorokiniana]	QAXK01000249.1_16165-13537
+OG0003644	PRW59616.1 ubiquitin receptor RAD23b-like [Chlorella sorokiniana]	QAXK01008360.1_3542-5458
+OG0003666	PRW32518.1 family tRNA rRNA methyltransferase [Chlorella sorokiniana]	QAXK01003616.1_6090-7285
+OG0003671	PRW32623.1 hypothetical protein C2E21_8205 [Chlorella sorokiniana]	QAXK01000459.1_9787-9028
+OG0003672	PRW56549.1 Peptidyl-tRNA hydrolase mitochondrial [Chlorella sorokiniana]	QAXK01004402.1_2407-3301
+OG0003677	PRW32558.1 transcription factor S [Chlorella sorokiniana]	QAXK01010442.1_6499-5620
+OG0003687	PRW58007.1 DUF1279-domain-containing [Chlorella sorokiniana]	QAXK01006494.1_1594-1032
+OG0003693	PRW58683.1 Suf-domain-containing [Chlorella sorokiniana]	QAXK01003706.1_3896-8573
+OG0003697	PRW20256.1 DEAD-box ATP-dependent RNA helicase 22 [Chlorella sorokiniana]	QAXK01004373.1_28195-25392
+OG0003713	PRW33595.1 multifunctional methyltransferase subunit TRM112 At1g22270 [Chlorella sorokiniana]	QAXK01002432.1_4248-4930
+OG0003731	PRW58681.1 p21-carboxy-terminal region-binding [Chlorella sorokiniana]	QAXK01017356.1_2411-500
+OG0003744	PRW59177.1 hypothetical protein C2E21_2638 [Chlorella sorokiniana]	QAXK01009613.1_9396-10310
+OG0003746	PRW59680.1 TPR [Chlorella sorokiniana]	QAXK01004123.1_13625-15399
+OG0003755	PRW61076.1 short-chain dehydrogenase reductase SDR [Chlorella sorokiniana]	QAXK01002565.1_12559-10828
+OG0003771	PRW33095.1 hypothetical protein C2E21_7871 [Chlorella sorokiniana]	QAXK01010052.1_3190-4640
+OG0003773	PRW57351.1 signal recognition particle 19 kDa -like [Chlorella sorokiniana]	QAXK01014932.1_4139-2485
+OG0003784	PRW20692.1 50S ribosomal chloroplastic [Chlorella sorokiniana]	QAXK01007229.1_11545-10178
+OG0003794	PRW58734.1 phosphoserine aminotransferase [Chlorella sorokiniana]	QAXK01000557.1_206-3811
+OG0003801	PRW60701.1 coenzyme Q-binding COQ10 mitochondrial-like [Chlorella sorokiniana]	QAXK01000515.1_19189-19853
+OG0003813	PRW60585.1 Outer envelope of 80 kDa isoform 2 [Chlorella sorokiniana]	QAXK01000036.1_13891-8955
+OG0003824	PRW20874.1 U3 small nucleolar RNA-interacting 2 [Chlorella sorokiniana]	QAXK01001158.1_26014-28604
+OG0003826	PRW34053.1 Ribonuclease HII [Chlorella sorokiniana]	QAXK01015643.1_1434-3404
+OG0003841	PRW33793.1 hypothetical protein C2E21_7400 [Chlorella sorokiniana]	QAXK01006012.1_2971-2223
+OG0003847	PRW39233.1 YIPF6-like protein [Chlorella sorokiniana]	QAXK01000325.1_43378-42220
+OG0003849	PRW56178.1 hypothetical protein C2E21_5053 [Chlorella sorokiniana]	QAXK01010227.1_9762-8151
+OG0003850	PRW05767.1 S-adenosyl-L-methionine-dependent methyltransferase [Chlorella sorokiniana]	QAXK01003563.1_5026-2636
+OG0003861	PRW61264.1 C-5 sterol desaturase [Chlorella sorokiniana]	QAXK01001160.1_34552-35942
+OG0003904	PRW45558.1 Proteasome subunit alpha type-4 [Chlorella sorokiniana]	QAXK01003852.1_2138-563
+OG0003944	PRW57430.1 PITH domain-containing 1 [Chlorella sorokiniana]	QAXK01005846.1_7514-8614
+OG0003947	PRW20667.1 basic proline-rich -like [Chlorella sorokiniana]	QAXK01000042.1_9232-7900
+OG0003954	PRW57160.1 phosphopantetheine adenylyltransferase-like isoform X1 [Chlorella sorokiniana]	QAXK01004732.1_20335-21271
+OG0003958	PRW33635.1 putative rRNA-processing EBP2-like protein [Chlorella sorokiniana]	QAXK01001698.1_16624-15571
+OG0003964	PRW33810.1 10 kDa chaperonin-like [Chlorella sorokiniana]	QAXK01001551.1_63875-64499
+OG0003973	PRW45237.1 trafficking particle complex subunit 4 [Chlorella sorokiniana]	QAXK01005150.1_10239-11440
+OG0003976	PRW56470.1 FLU chloroplast alternative spliced version l-FLP [Chlorella sorokiniana]	QAXK01008391.1_3155-4981
+OG0003980	PRW60095.1 thioredoxin chloroplastic [Chlorella sorokiniana]	QAXK01001710.1_16426-15281
+OG0003985	PRW56147.1 putative magnesium transporter NIPA4 [Chlorella sorokiniana]	QAXK01006679.1_5844-7981
+OG0003999	PRW44406.1 translational inhibitor [Chlorella sorokiniana]	QAXK01017848.1_6990-5867
+OG0004036	PRW61448.1 nudix hydrolase chloroplastic-like [Chlorella sorokiniana]	QAXK01001182.1_6681-8037
+OG0004052	PRW58608.1 cytochrome b-c1 complex subunit 7-2 [Chlorella sorokiniana]	QAXK01018827.1_2147-2783
+OG0004119	PRW60647.1 PELOTA 1 isoform X1 [Chlorella sorokiniana]	QAXK01011975.1_26427-25164
+OG0004127	PRW32864.1 U3 small nucleolar ribonucleo IMP3_ partial [Chlorella sorokiniana]	QAXK01002477.1_12495-11499
+OG0004131	PRW45059.1 Adenylate kinase isoenzyme 6 [Chlorella sorokiniana]	QAXK01008931.1_8768-10630
+OG0004161	PRW33082.1 Plasmid partition [Chlorella sorokiniana]	QAXK01003741.1_3586-2152
+OG0004173	PRW59870.1 outer envelope 61 [Chlorella sorokiniana]	QAXK01003131.1_14822-17632
+OG0004184	PRW44339.1 Carboxypeptidase Taq [Chlorella sorokiniana]	QAXK01001360.1_2587-7675
+OG0004188	PRW59293.1 26S proteasome non-ATPase regulatory subunit 8-like protein A [Chlorella sorokiniana]	QAXK01000965.1_13792-15638
+OG0004195	PRW55987.1 proline synthase co-transcribed bacterial-like protein -like [Chlorella sorokiniana]	QAXK01002159.1_9033-7570
+OG0004221	PRW05823.1 Proteasome maturation isoform B [Chlorella sorokiniana], PRW05822.1 Proteasome maturation isoform A [Chlorella sorokiniana]	QAXK01006710.1_2565-2167
+OG0004222	PRW56128.1 replication A 14 kDa subunit B [Chlorella sorokiniana]	QAXK01017090.1_773-1260
+OG0004223	PRW34036.1 ataxin-10-like [Chlorella sorokiniana]	QAXK01019447.1_2073-2396
+OG0004224	PRW57243.1 riboflavin biosynthesis chloroplastic [Chlorella sorokiniana]	QAXK01003931.1_8204-3520
+OG0004225	PRW60267.1 farnesyl diphosphate synthase [Chlorella sorokiniana]	QAXK01001471.1_7507-5855
+OG0004227	PRW39172.1 mismatch repair endonuclease PMS2 [Chlorella sorokiniana]	QAXK01000804.1_324-1387
+OG0004228	PRW33193.1 ribosome biogenesis WDR12-like protein [Chlorella sorokiniana]	QAXK01010701.1_10887-7922
+OG0004229	PRW56064.1 putative tRNA modification GTPase [Chlorella sorokiniana]	QAXK01014803.1_67-2405
+OG0004230	PRW59774.1 protease Do-like chloroplastic isoform X1 [Chlorella sorokiniana]	QAXK01004000.1_7642-5232
+OG0004231	PRW56176.1 oxidoreductase TDA3 [Chlorella sorokiniana]	QAXK01004677.1_1252-4060
+OG0004232	PRW56944.1 mitochondrial substrate carrier [Chlorella sorokiniana]	QAXK01001218.1_22461-19740
+OG0004233	PRW45550.1 exosome complex component RRP43 isoform B [Chlorella sorokiniana], PRW45551.1 exosome complex component RRP43 isoform A [Chlorella sorokiniana]	QAXK01001871.1_3231-1985
+OG0004234	PRW61221.1 ribosome maturation SBDS [Chlorella sorokiniana]	QAXK01003347.1_1758-3582
+OG0004235	PRW20666.1 transcription initiation factor TFIID subunit 6-like isoform X1 [Chlorella sorokiniana]	QAXK01003902.1_8341-5830
+OG0004236	PRW60116.1 3-oxoacyl-[acyl-carrier] mitochondrial [Chlorella sorokiniana]	QAXK01008198.1_2951-5520
+OG0004237	PRW50850.1 arginine N-methyltransferase 2 [Chlorella sorokiniana]	QAXK01011268.1_2959-4791
+OG0004238	PRW34002.1 tilB-like protein [Chlorella sorokiniana]	QAXK01018044.1_1256-217
+OG0004239	PRW20179.1 diphthamide biosynthesis 2 [Chlorella sorokiniana]	QAXK01009544.1_7380-9706
+OG0004240	PRW59299.1 Anaphase-promoting complex subunit 10 [Chlorella sorokiniana]	QAXK01003572.1_4178-5128
+OG0004241	PRW44592.1 hypothetical protein C2E21_6681 [Chlorella sorokiniana]	QAXK01011839.1_9-1697
+OG0004242	PRW61182.1 U3 small nucleolar RNA-associated 11 [Chlorella sorokiniana]	QAXK01001749.1_8132-6905
+OG0004243	PRW05824.1 Small RNA degrading nuclease [Chlorella sorokiniana]	QAXK01010227.1_10470-11308
+OG0004244	PRW20272.1 PHD finger-like domain-containing 5B [Chlorella sorokiniana]	QAXK01015529.1_1845-2785
+OG0004245	PRW61333.1 N-_5 -phosphoribosyl_anthranilate isomerase chloroplastic-like [Chlorella sorokiniana]	QAXK01011116.1_4220-2967
+OG0004246	PRW58191.1 Cation transport regulator 2 isoform A [Chlorella sorokiniana], PRW58192.1 Cation transport regulator 2 isoform B [Chlorella sorokiniana]	QAXK01001784.1_27630-25510
+OG0004247	PRW61286.1 hypothetical protein C2E21_0224 [Chlorella sorokiniana]	QAXK01003581.1_1217-562
+OG0004248	PRW57487.1 peptidoglycan binding [Chlorella sorokiniana]	QAXK01004599.1_5331-3218
+OG0004249	PRW56547.1 Histone-lysine N-methyltransferase ASHR1 [Chlorella sorokiniana]	QAXK01000848.1_19191-20023
+OG0004423	PRW32608.1 rRNA methyltransferase mitochondrial [Chlorella sorokiniana]	QAXK01000899.1_12678-10778
+OG0004476	PRW20768.1 mRNA-decapping enzyme [Chlorella sorokiniana]	QAXK01005761.1_5110-4061
+OG0004571	PRW20377.1 transcription initiation factor TFIID subunit 9 [Chlorella sorokiniana]	QAXK01000171.1_2716-3341
+OG0004581	PRW45035.1 Homeodomain [Chlorella sorokiniana]	QAXK01003359.1_6916-7635
+OG0004622	PRW50882.1 H ACA ribonucleo complex subunit 3 [Chlorella sorokiniana]	QAXK01002638.1_6633-6327
+OG0004710	PRW59421.1 Histone-lysine N-methyltransferase setd3 [Chlorella sorokiniana]	QAXK01006037.1_46307-44794
+OG0004743	PRW39241.1 tRNA pseudouridine synthase Pus10 [Chlorella sorokiniana]	QAXK01002841.1_2718-1158
+OG0004765	PRW20717.1 coiled-coil domain-containing 12-like [Chlorella sorokiniana]	QAXK01013662.1_15761-16601
+OG0004825	PRW39113.1 subfamily B member 14 [Chlorella sorokiniana]	QAXK01012785.1_94-624
+OG0004901	PRW05944.1 multi -bridging factor 1b-like [Chlorella sorokiniana]	QAXK01003939.1_11405-12434
+OG0004922	PRW44612.1 eukaryotic translation initiation factor eIF2A family [Chlorella sorokiniana]	QAXK01009836.1_3189-307
+OG0004939	PRW57410.1 Adenylyltransferase and sulfurtransferase MOCS3 [Chlorella sorokiniana]	QAXK01014925.1_5002-6648
+OG0004942	PRW60215.1 phosphomannomutase [Chlorella sorokiniana]	QAXK01005538.1_10163-11912
+OG0004943	PRW60415.1 peptidyl-prolyl cis-trans isomerase CYP26- chloroplastic [Chlorella sorokiniana]	QAXK01000526.1_11161-10180
+OG0004944	PRW57807.1 Exosome component 10 [Chlorella sorokiniana]	QAXK01000032.1_16347-17734
+OG0004945	PRW44615.1 peptidyl-prolyl cis-trans isomerase chloroplastic [Chlorella sorokiniana]	QAXK01002261.1_13670-14278
+OG0004946	PRW39326.1 Metallo-hydrolase oxidoreductase [Chlorella sorokiniana]	QAXK01011417.1_18759-16577
+OG0005364	PRW32601.1 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 2-like [Chlorella sorokiniana]	QAXK01008706.1_11935-11020
+OG0005372	PRW61253.1 septum formation MAF [Chlorella sorokiniana]	QAXK01012603.1_2052-3066
+OG0005404	PRW33310.1 adhesion molecule [Chlorella sorokiniana]	QAXK01000570.1_1207-4057
+OG0005613	PRW58446.1 ubiquitin domain-containing DSK2b-like isoform X1 [Chlorella sorokiniana]	QAXK01006058.1_8137-6433
+OG0005614	PRW57704.1 nicastrin isoform X2 isoform A [Chlorella sorokiniana], PRW57703.1 nicastrin isoform X2 isoform B [Chlorella sorokiniana]	QAXK01012020.1_2254-4849

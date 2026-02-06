@@ -1,0 +1,1 @@
+(Chlorella_A99_PCFQ01000058.1 g162 _Chlorella sp. A99_:0.137539,((Micractinium_SAG24180_PSC76036.1 TP53-regulating kinase isoform D _Micractinium conductrix_:0,Micractinium_SAG24180_PSC76039.1 TP53-regulating kinase isoform C _Micractinium conductrix_:0)n2:0.459268,Chlorella_Sorokiniana1602_PRW39114.1 carboxymethylenebutenolidase _Chlorella sorokiniana_:0.255573)n1:0.137539)n0;

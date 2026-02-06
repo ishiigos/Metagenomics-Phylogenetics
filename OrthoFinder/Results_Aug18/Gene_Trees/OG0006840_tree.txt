@@ -1,0 +1,1 @@
+((Chlorella_A99_PCFQ01000013.1 g3343 _Chlorella sp. A99_:0.055225,Chlorella_A99_PCFQ01000001.1 g957 _Chlorella sp. A99_:0.126272):0.155792,(Chlorella_VariabilisNC64A_XP_005852112.1 hypothetical protein CHLNCDRAFT_33524 _Chlorella variabilis_:0.239769,Chlorella_Sorokiniana1602_PRW44464.1 sugar transport 10-like _Chlorella sorokiniana_:0.334483):0.155792);

@@ -1,0 +1,1 @@
+(Chlorella_A99_PCFQ01000004.1 g2582 _Chlorella sp. A99_:0.242683,(Chlorella_Sorokiniana1602_PRW56237.1 cytochrome c biogenesis _Chlorella sorokiniana_:0.841261,(Chlorella_VariabilisNC64A_XP_005849177.1 expressed protein _Chlorella variabilis_:0.318217,Chlorella_Vulgaris2111P_KAI3434715.1 hypothetical protein D9Q98_002776 _Chlorella vulgaris_:0.330035)n2:0.366776)n1:0.242683)n0;

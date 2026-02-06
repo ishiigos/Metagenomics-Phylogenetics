@@ -1,0 +1,1 @@
+(Micractinium_SAG24180_PSC76266.1 NHL repeat containing _Micractinium conductrix_:0.757981,((Chlorella_A99_PCFQ01000010.1 g353 _Chlorella sp. A99_:0.301251,(Chlorella_A99_PCFQ01000082.1 g551 _Chlorella sp. A99_:1.07658,Chlorella_A99_PCFQ01000013.1 g3366 _Chlorella sp. A99_:0.846295):0.021517):0.31878,Chlorella_A99_PCFQ01000010.1 g319 _Chlorella sp. A99_:1.05944):0.757981);

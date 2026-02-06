@@ -1,0 +1,935 @@
+Orthogroup	Chlorella_Vulgaris2111P	Chlorella_KRBP
+OG0000005	KAI3429680.1 hypothetical protein D9Q98_005765 [Chlorella vulgaris], KAI3424375.1 hypothetical protein D9Q98_009928 [Chlorella vulgaris], KAI3424432.1 hypothetical protein D9Q98_009984 [Chlorella vulgaris], KAI3424402.1 hypothetical protein D9Q98_009955 [Chlorella vulgaris], KAI3428571.1 hypothetical protein D9Q98_007393 [Chlorella vulgaris], KAI3424353.1 hypothetical protein D9Q98_009906 [Chlorella vulgaris], KAI3424410.1 hypothetical protein D9Q98_009962 [Chlorella vulgaris], KAI3424383.1 hypothetical protein D9Q98_009936 [Chlorella vulgaris], KAI3428592.1 hypothetical protein D9Q98_007415 [Chlorella vulgaris], KAI3427071.1 hypothetical protein D9Q98_007011 [Chlorella vulgaris], KAI3429597.1 hypothetical protein D9Q98_005683 [Chlorella vulgaris]	QAXK01016321.1_1655-2667
+OG0000013	KAI3426414.1 hypothetical protein D9Q98_008783 [Chlorella vulgaris], KAI3438615.1 hypothetical protein D9Q98_001038 [Chlorella vulgaris], KAI3438890.1 hypothetical protein D9Q98_001305 [Chlorella vulgaris], KAI3438617.1 hypothetical protein D9Q98_001040 [Chlorella vulgaris], KAI3438616.1 hypothetical protein D9Q98_001039 [Chlorella vulgaris], KAI3429786.1 hypothetical protein D9Q98_010099 [Chlorella vulgaris], KAI3438614.1 hypothetical protein D9Q98_001037 [Chlorella vulgaris]	QAXK01004822.1_8132-10307
+OG0000049	KAI3438841.1 hypothetical protein D9Q98_001258 [Chlorella vulgaris], KAI3436640.1 hypothetical protein D9Q98_006056 [Chlorella vulgaris]	QAXK01004561.1_5673-2644
+OG0000059	KAI3430825.1 hypothetical protein D9Q98_009236 [Chlorella vulgaris], KAI3439001.1 hypothetical protein D9Q98_001413 [Chlorella vulgaris], KAI3428122.1 hypothetical protein D9Q98_006505 [Chlorella vulgaris], KAI3430446.1 hypothetical protein D9Q98_005041 [Chlorella vulgaris]	QAXK01009817.1_2794-231
+OG0000060	KAI3430814.1 hypothetical protein D9Q98_009225 [Chlorella vulgaris], KAI3433447.1 hypothetical protein D9Q98_003261 [Chlorella vulgaris], KAI3430812.1 hypothetical protein D9Q98_009223 [Chlorella vulgaris]	QAXK01006650.1_4897-1380
+OG0000095	KAI3438528.1 hypothetical protein D9Q98_000956 [Chlorella vulgaris], KAI3428704.1 hypothetical protein D9Q98_007528 [Chlorella vulgaris], KAI3428469.1 hypothetical protein D9Q98_007294 [Chlorella vulgaris]	QAXK01000980.1_6477-3589
+OG0000100	KAI3432619.1 hypothetical protein D9Q98_004165 [Chlorella vulgaris], KAI3432569.1 hypothetical protein D9Q98_004118 [Chlorella vulgaris], KAI3432618.1 hypothetical protein D9Q98_004164 [Chlorella vulgaris]	QAXK01004495.1_1525-5952
+OG0000102	KAI3428153.1 hypothetical protein D9Q98_006537 [Chlorella vulgaris], KAI3429699.1 hypothetical protein D9Q98_005784 [Chlorella vulgaris]	QAXK01002229.1_29280-27595
+OG0000106	KAI3429252.1 hypothetical protein D9Q98_005349 [Chlorella vulgaris], KAI3429253.1 hypothetical protein D9Q98_005350 [Chlorella vulgaris]	QAXK01000521.1_8215-4849
+OG0000116	KAI3437889.1 hypothetical protein D9Q98_000334 [Chlorella vulgaris], KAI3430347.1 hypothetical protein D9Q98_004942 [Chlorella vulgaris]	QAXK01010643.1_4647-4102
+OG0000126	KAI3436801.1 hypothetical protein D9Q98_006211 [Chlorella vulgaris], KAI3436798.1 hypothetical protein D9Q98_006208 [Chlorella vulgaris], KAI3432596.1 hypothetical protein D9Q98_004144 [Chlorella vulgaris]	QAXK01000372.1_2577-4525
+OG0000128	KAI3428500.1 hypothetical protein D9Q98_007324 [Chlorella vulgaris], KAI3434857.1 hypothetical protein D9Q98_002911 [Chlorella vulgaris], KAI3438663.1 hypothetical protein D9Q98_001084 [Chlorella vulgaris]	QAXK01009125.1_10140-8059
+OG0000137	KAI3429801.1 hypothetical protein D9Q98_010114 [Chlorella vulgaris], KAI3430245.1 hypothetical protein D9Q98_004841 [Chlorella vulgaris], KAI3429816.1 hypothetical protein D9Q98_010129 [Chlorella vulgaris], KAI3429817.1 hypothetical protein D9Q98_010130 [Chlorella vulgaris]	QAXK01002137.1_9267-10854
+OG0000152	KAI3430434.1 hypothetical protein D9Q98_005029 [Chlorella vulgaris], KAI3428099.1 hypothetical protein D9Q98_006482 [Chlorella vulgaris]	QAXK01008299.1_4185-5535
+OG0000163	KAI3427949.1 hypothetical protein D9Q98_006339 [Chlorella vulgaris], KAI3428664.1 hypothetical protein D9Q98_007487 [Chlorella vulgaris], KAI3424065.1 hypothetical protein D9Q98_009428 [Chlorella vulgaris]	QAXK01013733.1_9353-8061
+OG0000165	KAI3436495.1 hypothetical protein D9Q98_005912 [Chlorella vulgaris], KAI3437708.1 hypothetical protein D9Q98_000156 [Chlorella vulgaris], KAI3436494.1 hypothetical protein D9Q98_005911 [Chlorella vulgaris]	QAXK01004609.1_12369-13533
+OG0000175	KAI3438436.1 hypothetical protein D9Q98_000867 [Chlorella vulgaris], KAI3438435.1 hypothetical protein D9Q98_000866 [Chlorella vulgaris], KAI3428453.1 hypothetical protein D9Q98_007280 [Chlorella vulgaris]	QAXK01006319.1_3560-2355
+OG0000177	KAI3431472.1 hypothetical protein D9Q98_004524 [Chlorella vulgaris], KAI3428234.1 hypothetical protein D9Q98_006614 [Chlorella vulgaris], KAI3431781.1 hypothetical protein D9Q98_010536 [Chlorella vulgaris]	QAXK01000575.1_15675-16655
+OG0000187	KAI3425177.1 hypothetical protein D9Q98_008947 [Chlorella vulgaris], KAI3430447.1 hypothetical protein D9Q98_005042 [Chlorella vulgaris]	QAXK01014854.1_51-3845
+OG0000189	KAI3437762.1 hypothetical protein D9Q98_000209 [Chlorella vulgaris], KAI3437764.1 hypothetical protein D9Q98_000211 [Chlorella vulgaris], KAI3437763.1 hypothetical protein D9Q98_000210 [Chlorella vulgaris]	QAXK01000217.1_14674-15859
+OG0000192	KAI3434482.1 hypothetical protein D9Q98_002558 [Chlorella vulgaris], KAI3432591.1 hypothetical protein D9Q98_004139 [Chlorella vulgaris], KAI3437619.1 hypothetical protein D9Q98_000071 [Chlorella vulgaris]	QAXK01001504.1_2221-4972
+OG0000199	KAI3430489.1 hypothetical protein D9Q98_005084 [Chlorella vulgaris]	QAXK01013035.1_1945-4404
+OG0000199	KAI3433775.1 hypothetical protein D9Q98_003581 [Chlorella vulgaris], KAI3433776.1 hypothetical protein D9Q98_003581 [Chlorella vulgaris]	QAXK01010173.1_3319-5256
+OG0000201	KAI3436387.1 hypothetical protein D9Q98_005804_ partial [Chlorella vulgaris], KAI3430408.1 hypothetical protein D9Q98_005003 [Chlorella vulgaris]	QAXK01000736.1_9467-8726
+OG0000207	KAI3428349.1 hypothetical protein D9Q98_006729 [Chlorella vulgaris]	QAXK01004998.1_5108-4093
+OG0000207	KAI3428348.1 hypothetical protein D9Q98_006728 [Chlorella vulgaris]	QAXK01001786.1_12609-11430
+OG0000215	KAI3425348.1 hypothetical protein D9Q98_009112 [Chlorella vulgaris], KAI3430567.1 hypothetical protein D9Q98_005160 [Chlorella vulgaris]	QAXK01013809.1_3869-6090
+OG0000217	KAI3438921.1 hypothetical protein D9Q98_001335 [Chlorella vulgaris], KAI3429243.1 hypothetical protein D9Q98_005342 [Chlorella vulgaris]	QAXK01003927.1_26651-24094
+OG0000222	KAI3426047.1 hypothetical protein D9Q98_008015 [Chlorella vulgaris], KAI3426046.1 hypothetical protein D9Q98_008014 [Chlorella vulgaris]	QAXK01005046.1_1470-3041
+OG0000225	KAI3424144.1 hypothetical protein D9Q98_009504 [Chlorella vulgaris], KAI3438673.1 hypothetical protein D9Q98_001094 [Chlorella vulgaris]	QAXK01000132.1_14211-8944
+OG0000226	KAI3438233.1 hypothetical protein D9Q98_000670 [Chlorella vulgaris], KAI3433319.1 hypothetical protein D9Q98_003137 [Chlorella vulgaris], KAI3433318.1 hypothetical protein D9Q98_003136 [Chlorella vulgaris]	QAXK01001147.1_264-2985
+OG0000234	KAI3429374.1 hypothetical protein D9Q98_005469 [Chlorella vulgaris]	QAXK01001715.1_46567-44103
+OG0000243	KAI3432427.1 hypothetical protein D9Q98_003981 [Chlorella vulgaris], KAI3428727.1 hypothetical protein D9Q98_007551 [Chlorella vulgaris]	QAXK01017572.1_4284-1659
+OG0000255	KAI3428378.1 hypothetical protein D9Q98_006758 [Chlorella vulgaris], KAI3424770.1 hypothetical protein D9Q98_008158 [Chlorella vulgaris]	QAXK01003493.1_20875-19869
+OG0000256	KAI3423807.1 hypothetical protein D9Q98_009644 [Chlorella vulgaris], KAI3429612.1 hypothetical protein D9Q98_005698 [Chlorella vulgaris]	QAXK01000928.1_4721-1230
+OG0000260	KAI3425958.1 hypothetical protein D9Q98_007928 [Chlorella vulgaris], KAI3437802.1 hypothetical protein D9Q98_000249 [Chlorella vulgaris]	QAXK01007811.1_6343-7669
+OG0000262	KAI3438087.1 hypothetical protein D9Q98_000529 [Chlorella vulgaris], KAI3438086.1 hypothetical protein D9Q98_000528 [Chlorella vulgaris]	QAXK01001305.1_3092-9737
+OG0000268	KAI3431366.1 hypothetical protein D9Q98_004423 [Chlorella vulgaris], KAI3439126.1 hypothetical protein D9Q98_001534 [Chlorella vulgaris]	QAXK01007959.1_4344-7510
+OG0000269	KAI3434638.1 hypothetical protein D9Q98_002705 [Chlorella vulgaris], KAI3428111.1 hypothetical protein D9Q98_006494 [Chlorella vulgaris]	QAXK01000159.1_2526-4128
+OG0000276	KAI3434519.1 hypothetical protein D9Q98_002592 [Chlorella vulgaris], KAI3434403.1 hypothetical protein D9Q98_002481 [Chlorella vulgaris]	QAXK01013106.1_2869-3857
+OG0000290	KAI3429433.1 hypothetical protein D9Q98_005527 [Chlorella vulgaris], KAI3429432.1 hypothetical protein D9Q98_005526 [Chlorella vulgaris]	QAXK01007708.1_8045-6769
+OG0000293	KAI3437728.1 hypothetical protein D9Q98_000176 [Chlorella vulgaris], KAI3434966.1 hypothetical protein D9Q98_003018 [Chlorella vulgaris], KAI3434802.1 hypothetical protein D9Q98_002859 [Chlorella vulgaris], KAI3434801.1 hypothetical protein D9Q98_002859 [Chlorella vulgaris]	QAXK01000427.1_18710-23853
+OG0000297	KAI3438932.1 hypothetical protein D9Q98_001346 [Chlorella vulgaris], KAI3438704.1 hypothetical protein D9Q98_001124 [Chlorella vulgaris]	QAXK01003382.1_7730-10683
+OG0000298	KAI3438965.1 hypothetical protein D9Q98_001379 [Chlorella vulgaris], KAI3438967.1 hypothetical protein D9Q98_001381 [Chlorella vulgaris], KAI3438966.1 hypothetical protein D9Q98_001380 [Chlorella vulgaris]	QAXK01006215.1_8306-11634
+OG0000299	KAI3433342.1 hypothetical protein D9Q98_003160 [Chlorella vulgaris], KAI3433343.1 hypothetical protein D9Q98_003161 [Chlorella vulgaris]	QAXK01000488.1_8485-5165
+OG0000300	KAI3434910.1 hypothetical protein D9Q98_002964 [Chlorella vulgaris], KAI3430247.1 hypothetical protein D9Q98_004843 [Chlorella vulgaris]	QAXK01000495.1_4618-6885
+OG0000301	KAI3436698.1 hypothetical protein D9Q98_006113 [Chlorella vulgaris], KAI3435664.1 hypothetical protein D9Q98_001722 [Chlorella vulgaris]	QAXK01005324.1_4296-8149
+OG0000302	KAI3430970.1 hypothetical protein D9Q98_009375 [Chlorella vulgaris], KAI3430971.1 hypothetical protein D9Q98_009375 [Chlorella vulgaris], KAI3436727.1 hypothetical protein D9Q98_006142 [Chlorella vulgaris]	QAXK01009146.1_0-3841
+OG0000304	KAI3436285.1 hypothetical protein D9Q98_002338 [Chlorella vulgaris], KAI3436286.1 hypothetical protein D9Q98_002339 [Chlorella vulgaris]	QAXK01014492.1_877-182
+OG0000315	KAI3431450.1 hypothetical protein D9Q98_004502 [Chlorella vulgaris], KAI3430517.1 hypothetical protein D9Q98_005110 [Chlorella vulgaris]	QAXK01002353.1_19232-23410
+OG0000316	KAI3438724.1 hypothetical protein D9Q98_001144 [Chlorella vulgaris], KAI3438723.1 hypothetical protein D9Q98_001143 [Chlorella vulgaris]	QAXK01003905.1_19782-15375
+OG0000317	KAI3427210.1 hypothetical protein D9Q98_007145 [Chlorella vulgaris], KAI3425881.1 hypothetical protein D9Q98_007854 [Chlorella vulgaris]	QAXK01008437.1_3645-238
+OG0000320	KAI3431427.1 hypothetical protein D9Q98_004480 [Chlorella vulgaris], KAI3429362.1 hypothetical protein D9Q98_005457 [Chlorella vulgaris]	QAXK01008510.1_15994-20405
+OG0000321	KAI3425862.1 hypothetical protein D9Q98_007835 [Chlorella vulgaris], KAI3426361.1 hypothetical protein D9Q98_008733 [Chlorella vulgaris]	QAXK01000378.1_25585-26545
+OG0000340	KAI3425091.1 hypothetical protein D9Q98_008469 [Chlorella vulgaris], KAI3436547.1 hypothetical protein D9Q98_005963 [Chlorella vulgaris]	QAXK01005276.1_5688-3058
+OG0000352	KAI3438986.1 hypothetical protein D9Q98_001399 [Chlorella vulgaris], KAI3425186.1 hypothetical protein D9Q98_008955 [Chlorella vulgaris]	QAXK01000899.1_7462-5804
+OG0000353	KAI3438329.1 hypothetical protein D9Q98_000763 [Chlorella vulgaris], KAI3438328.1 hypothetical protein D9Q98_000762 [Chlorella vulgaris]	QAXK01000970.1_11060-12297
+OG0000355	KAI3427321.1 hypothetical protein D9Q98_010238 [Chlorella vulgaris], KAI3427340.1 hypothetical protein D9Q98_010257 [Chlorella vulgaris], KAI3427337.1 hypothetical protein D9Q98_010254 [Chlorella vulgaris]	QAXK01000575.1_38061-33279
+OG0000356	KAI3428318.1 hypothetical protein D9Q98_006698 [Chlorella vulgaris], KAI3436614.1 hypothetical protein D9Q98_006031 [Chlorella vulgaris]	QAXK01001458.1_25468-28021
+OG0000362	KAI3435734.1 hypothetical protein D9Q98_001792 [Chlorella vulgaris], KAI3438061.1 hypothetical protein D9Q98_000504 [Chlorella vulgaris]	QAXK01002504.1_1584-235
+OG0000372	KAI3435517.1 hypothetical protein D9Q98_001583 [Chlorella vulgaris], KAI3435516.1 hypothetical protein D9Q98_001582 [Chlorella vulgaris]	QAXK01000007.1_3483-1851
+OG0000374	KAI3438459.1 hypothetical protein D9Q98_000888 [Chlorella vulgaris], KAI3438458.1 hypothetical protein D9Q98_000887 [Chlorella vulgaris]	QAXK01001576.1_25385-29462
+OG0000375	KAI3423896.1 hypothetical protein D9Q98_009730 [Chlorella vulgaris], KAI3423892.1 hypothetical protein D9Q98_009726 [Chlorella vulgaris]	QAXK01008707.1_239-2925
+OG0000383	KAI3433585.1 hypothetical protein D9Q98_003396 [Chlorella vulgaris], KAI3429755.1 hypothetical protein D9Q98_010068 [Chlorella vulgaris]	QAXK01011194.1_5918-9002
+OG0000390	KAI3430407.1 hypothetical protein D9Q98_005002 [Chlorella vulgaris]	QAXK01005078.1_1174-132
+OG0000390	KAI3430406.1 hypothetical protein D9Q98_005001 [Chlorella vulgaris]	QAXK01003294.1_6337-3495
+OG0000394	KAI3429583.1 hypothetical protein D9Q98_005669 [Chlorella vulgaris], KAI3429731.1 hypothetical protein D9Q98_010046 [Chlorella vulgaris]	QAXK01008702.1_3083-212
+OG0000408	KAI3424703.1 hypothetical protein D9Q98_008093 [Chlorella vulgaris], KAI3424702.1 hypothetical protein D9Q98_008092 [Chlorella vulgaris]	QAXK01003094.1_1529-6518
+OG0000412	KAI3439044.1 hypothetical protein D9Q98_001454 [Chlorella vulgaris], KAI3430388.1 hypothetical protein D9Q98_004983 [Chlorella vulgaris]	QAXK01007672.1_3589-1228
+OG0000417	KAI3434435.1 hypothetical protein D9Q98_002512 [Chlorella vulgaris], KAI3434437.1 hypothetical protein D9Q98_002514 [Chlorella vulgaris], KAI3429904.1 hypothetical protein D9Q98_010215 [Chlorella vulgaris]	QAXK01003046.1_10052-9637
+OG0000418	KAI3438821.1 hypothetical protein D9Q98_001238 [Chlorella vulgaris], KAI3428267.1 hypothetical protein D9Q98_006646 [Chlorella vulgaris]	QAXK01005097.1_6985-2749
+OG0000431	KAI3425770.1 hypothetical protein D9Q98_007745 [Chlorella vulgaris], KAI3438384.1 hypothetical protein D9Q98_000816 [Chlorella vulgaris], KAI3438383.1 hypothetical protein D9Q98_000815 [Chlorella vulgaris]	QAXK01001330.1_10692-5073
+OG0000443	KAI3430606.1 hypothetical protein D9Q98_005199 [Chlorella vulgaris], KAI3430612.1 hypothetical protein D9Q98_005204 [Chlorella vulgaris]	QAXK01002390.1_2379-454
+OG0000446	KAI3436065.1 hypothetical protein D9Q98_002123 [Chlorella vulgaris], KAI3438903.1 hypothetical protein D9Q98_001318 [Chlorella vulgaris]	QAXK01006391.1_1754-3793
+OG0000449	KAI3423794.1 hypothetical protein D9Q98_009632 [Chlorella vulgaris], KAI3433290.1 hypothetical protein D9Q98_003109 [Chlorella vulgaris]	QAXK01017753.1_1728-436
+OG0000452	KAI3436763.1 hypothetical protein D9Q98_006175 [Chlorella vulgaris], KAI3436762.1 hypothetical protein D9Q98_006174 [Chlorella vulgaris], KAI3426483.1 hypothetical protein D9Q98_008849 [Chlorella vulgaris]	QAXK01003135.1_2479-16
+OG0000455	KAI3434451.1 hypothetical protein D9Q98_002528 [Chlorella vulgaris], KAI3434446.1 hypothetical protein D9Q98_002523 [Chlorella vulgaris]	QAXK01015054.1_2845-4309
+OG0000468	KAI3435810.1 hypothetical protein D9Q98_001868 [Chlorella vulgaris], KAI3433359.1 hypothetical protein D9Q98_003177 [Chlorella vulgaris]	QAXK01006097.1_2371-905
+OG0000470	KAI3426508.1 hypothetical protein D9Q98_008873 [Chlorella vulgaris], KAI3434498.1 hypothetical protein D9Q98_002573 [Chlorella vulgaris]	QAXK01000050.1_24428-29981
+OG0000471	KAI3434778.1 hypothetical protein D9Q98_002838 [Chlorella vulgaris], KAI3434777.1 hypothetical protein D9Q98_002837 [Chlorella vulgaris]	QAXK01001670.1_7180-6388
+OG0000474	KAI3424846.1 hypothetical protein D9Q98_008232 [Chlorella vulgaris], KAI3424847.1 hypothetical protein D9Q98_008232 [Chlorella vulgaris]	QAXK01000042.1_28045-28765
+OG0000479	KAI3424894.1 hypothetical protein D9Q98_008278 [Chlorella vulgaris], KAI3424893.1 hypothetical protein D9Q98_008277 [Chlorella vulgaris]	QAXK01004028.1_58546-56431
+OG0000499	KAI3428774.1 hypothetical protein D9Q98_007595 [Chlorella vulgaris]	QAXK01009964.1_53-2582
+OG0000501	KAI3434677.1 hypothetical protein D9Q98_002741 [Chlorella vulgaris]	QAXK01015180.1_1811-4048
+OG0000501	KAI3434680.1 hypothetical protein D9Q98_002744 [Chlorella vulgaris]	QAXK01019765.1_356-165
+OG0000506	KAI3438557.1 hypothetical protein D9Q98_000985 [Chlorella vulgaris]	QAXK01002250.1_1739-4040
+OG0000512	KAI3430867.1 hypothetical protein D9Q98_009276 [Chlorella vulgaris], KAI3430868.1 hypothetical protein D9Q98_009277 [Chlorella vulgaris]	QAXK01000565.1_7520-10250
+OG0000517	KAI3438018.1 hypothetical protein D9Q98_000461 [Chlorella vulgaris], KAI3438019.1 hypothetical protein D9Q98_000462 [Chlorella vulgaris]	QAXK01001595.1_3107-7081
+OG0000519	KAI3437986.1 hypothetical protein D9Q98_000429 [Chlorella vulgaris], KAI3437841.1 hypothetical protein D9Q98_000287 [Chlorella vulgaris]	QAXK01004538.1_836-4145
+OG0000520	KAI3429478.1 hypothetical protein D9Q98_005569 [Chlorella vulgaris], KAI3429479.1 hypothetical protein D9Q98_005570 [Chlorella vulgaris]	QAXK01002274.1_7306-5678
+OG0000521	KAI3432894.1 hypothetical protein D9Q98_010476 [Chlorella vulgaris], KAI3432893.1 hypothetical protein D9Q98_010475 [Chlorella vulgaris]	QAXK01000876.1_25410-28882
+OG0000522	KAI3432852.1 hypothetical protein D9Q98_010435 [Chlorella vulgaris], KAI3432814.1 hypothetical protein D9Q98_010397 [Chlorella vulgaris]	QAXK01010222.1_2855-4006
+OG0000528	KAI3429542.1 hypothetical protein D9Q98_005630 [Chlorella vulgaris]	QAXK01011871.1_1755-3976
+OG0000535	KAI3435944.1 hypothetical protein D9Q98_002002 [Chlorella vulgaris], KAI3436209.1 hypothetical protein D9Q98_002263 [Chlorella vulgaris]	QAXK01008326.1_3715-2230
+OG0000542	KAI3437729.1 hypothetical protein D9Q98_000177 [Chlorella vulgaris]	QAXK01007731.1_21245-25168
+OG0000546	KAI3438264.1 hypothetical protein D9Q98_000700 [Chlorella vulgaris], KAI3430380.1 hypothetical protein D9Q98_004975 [Chlorella vulgaris], KAI3430379.1 hypothetical protein D9Q98_004974 [Chlorella vulgaris]	QAXK01003383.1_11610-10089
+OG0000552	KAI3426409.1 hypothetical protein D9Q98_008779 [Chlorella vulgaris], KAI3426410.1 hypothetical protein D9Q98_008779 [Chlorella vulgaris]	QAXK01001452.1_4877-8338
+OG0000565	KAI3425981.1 hypothetical protein D9Q98_007949 [Chlorella vulgaris], KAI3425980.1 hypothetical protein D9Q98_007948 [Chlorella vulgaris]	QAXK01012018.1_21-2846
+OG0000572	KAI3434899.1 hypothetical protein D9Q98_002953 [Chlorella vulgaris], KAI3434894.1 hypothetical protein D9Q98_002948 [Chlorella vulgaris]	QAXK01002353.1_6519-15187
+OG0000573	KAI3430859.1 hypothetical protein D9Q98_009268 [Chlorella vulgaris], KAI3430849.1 hypothetical protein D9Q98_009259 [Chlorella vulgaris]	QAXK01003348.1_1486-6
+OG0000577	KAI3428754.1 hypothetical protein D9Q98_007576 [Chlorella vulgaris], KAI3428755.1 hypothetical protein D9Q98_007577 [Chlorella vulgaris]	QAXK01003132.1_5372-2862
+OG0000585	KAI3425261.1 hypothetical protein D9Q98_009029 [Chlorella vulgaris], KAI3425268.1 hypothetical protein D9Q98_009035 [Chlorella vulgaris]	QAXK01002652.1_31218-33264
+OG0000586	KAI3427930.1 hypothetical protein D9Q98_006322 [Chlorella vulgaris], KAI3435961.1 hypothetical protein D9Q98_002019 [Chlorella vulgaris]	QAXK01001200.1_17606-19818
+OG0000594	KAI3438027.1 hypothetical protein D9Q98_000470 [Chlorella vulgaris], KAI3438024.1 hypothetical protein D9Q98_000467 [Chlorella vulgaris]	QAXK01013585.1_2213-468
+OG0000595	KAI3437877.1 hypothetical protein D9Q98_000323 [Chlorella vulgaris], KAI3436354.1 hypothetical protein D9Q98_002407 [Chlorella vulgaris]	QAXK01010664.1_1473-417
+OG0000611	KAI3434679.1 hypothetical protein D9Q98_002743 [Chlorella vulgaris], KAI3434670.1 hypothetical protein D9Q98_002734 [Chlorella vulgaris]	QAXK01011586.1_4054-3461
+OG0000616	KAI3435946.1 hypothetical protein D9Q98_002004 [Chlorella vulgaris], KAI3432435.1 hypothetical protein D9Q98_003988 [Chlorella vulgaris], KAI3432436.1 hypothetical protein D9Q98_003989 [Chlorella vulgaris]	QAXK01001265.1_8774-9883
+OG0000618	KAI3438568.1 hypothetical protein D9Q98_000995 [Chlorella vulgaris], KAI3438569.1 hypothetical protein D9Q98_000996 [Chlorella vulgaris]	QAXK01000835.1_1-309
+OG0000626	KAI3436093.1 hypothetical protein D9Q98_002151 [Chlorella vulgaris], KAI3430569.1 hypothetical protein D9Q98_005162 [Chlorella vulgaris]	QAXK01003230.1_4778-8012
+OG0000635	KAI3428114.1 hypothetical protein D9Q98_006497 [Chlorella vulgaris]	QAXK01004870.1_4878-5513
+OG0000637	KAI3425086.1 hypothetical protein D9Q98_008464 [Chlorella vulgaris], KAI3432760.1 hypothetical protein D9Q98_004300 [Chlorella vulgaris]	QAXK01001575.1_13855-13334
+OG0000638	KAI3432606.1 hypothetical protein D9Q98_004153 [Chlorella vulgaris]	QAXK01010124.1_10448-8669
+OG0000649	KAI3436300.1 hypothetical protein D9Q98_002353 [Chlorella vulgaris], KAI3436301.1 hypothetical protein D9Q98_002354 [Chlorella vulgaris]	QAXK01000254.1_6101-3555
+OG0000653	KAI3428422.1 hypothetical protein D9Q98_007249 [Chlorella vulgaris], KAI3428423.1 hypothetical protein D9Q98_007250 [Chlorella vulgaris]	QAXK01000123.1_7289-10291
+OG0000654	KAI3433576.1 hypothetical protein D9Q98_003387 [Chlorella vulgaris], KAI3433577.1 hypothetical protein D9Q98_003388 [Chlorella vulgaris]	QAXK01000799.1_92299-89512
+OG0000660	KAI3428772.1 hypothetical protein D9Q98_007593 [Chlorella vulgaris], KAI3428771.1 hypothetical protein D9Q98_007592 [Chlorella vulgaris]	QAXK01014960.1_11495-10348
+OG0000661	KAI3430851.1 hypothetical protein D9Q98_009261 [Chlorella vulgaris], KAI3430852.1 hypothetical protein D9Q98_009262 [Chlorella vulgaris]	QAXK01004242.1_3727-7707
+OG0000662	KAI3429858.1 hypothetical protein D9Q98_010169 [Chlorella vulgaris], KAI3423953.1 hypothetical protein D9Q98_009787 [Chlorella vulgaris]	QAXK01000452.1_6301-4533
+OG0000664	KAI3436681.1 hypothetical protein D9Q98_006097 [Chlorella vulgaris], KAI3436682.1 hypothetical protein D9Q98_006098 [Chlorella vulgaris]	QAXK01015723.1_3192-4172
+OG0000671	KAI3438602.1 hypothetical protein D9Q98_001025 [Chlorella vulgaris]	QAXK01001535.1_15806-14316
+OG0000676	KAI3438591.1 hypothetical protein D9Q98_001015 [Chlorella vulgaris], KAI3435824.1 hypothetical protein D9Q98_001882 [Chlorella vulgaris]	QAXK01015338.1_519-166
+OG0000678	KAI3431398.1 hypothetical protein D9Q98_004451 [Chlorella vulgaris], KAI3431397.1 hypothetical protein D9Q98_004450 [Chlorella vulgaris]	QAXK01001500.1_1992-2978
+OG0000679	KAI3431464.1 hypothetical protein D9Q98_004516 [Chlorella vulgaris], KAI3431463.1 hypothetical protein D9Q98_004515 [Chlorella vulgaris]	QAXK01006881.1_8512-9541
+OG0000688	KAI3428208.1 hypothetical protein D9Q98_006588 [Chlorella vulgaris], KAI3428209.1 hypothetical protein D9Q98_006589 [Chlorella vulgaris]	QAXK01003305.1_27047-24211
+OG0000689	KAI3429866.1 hypothetical protein D9Q98_010177 [Chlorella vulgaris]	QAXK01001638.1_16082-13313
+OG0000691	KAI3428322.1 hypothetical protein D9Q98_006702 [Chlorella vulgaris], KAI3428321.1 hypothetical protein D9Q98_006701 [Chlorella vulgaris]	QAXK01001186.1_10565-8532
+OG0000693	KAI3428380.1 hypothetical protein D9Q98_006760 [Chlorella vulgaris], KAI3428361.1 hypothetical protein D9Q98_006741 [Chlorella vulgaris]	QAXK01008377.1_3630-1851
+OG0000694	KAI3436883.1 hypothetical protein D9Q98_006291 [Chlorella vulgaris], KAI3436885.1 hypothetical protein D9Q98_006293 [Chlorella vulgaris]	QAXK01012986.1_3546-2582
+OG0000697	KAI3438535.1 hypothetical protein D9Q98_000963 [Chlorella vulgaris], KAI3438534.1 hypothetical protein D9Q98_000962 [Chlorella vulgaris]	QAXK01000899.1_15443-14285
+OG0000704	KAI3429349.1 hypothetical protein D9Q98_005444 [Chlorella vulgaris], KAI3429350.1 hypothetical protein D9Q98_005445 [Chlorella vulgaris]	QAXK01006701.1_1896-1296
+OG0000730	KAI3438510.1 hypothetical protein D9Q98_000938 [Chlorella vulgaris], KAI3438509.1 hypothetical protein D9Q98_000937 [Chlorella vulgaris]	QAXK01001551.1_59690-63747
+OG0000732	KAI3426990.1 hypothetical protein D9Q98_006934 [Chlorella vulgaris], KAI3426986.1 hypothetical protein D9Q98_006930 [Chlorella vulgaris], KAI3426989.1 hypothetical protein D9Q98_006933 [Chlorella vulgaris]	QAXK01003652.1_16558-15646
+OG0000734	KAI3431603.1 hypothetical protein D9Q98_004653 [Chlorella vulgaris]	QAXK01007307.1_6962-7960
+OG0000735	KAI3438882.1 hypothetical protein D9Q98_001297 [Chlorella vulgaris], KAI3438880.1 hypothetical protein D9Q98_001295 [Chlorella vulgaris]	QAXK01011105.1_8336-6488
+OG0000747	KAI3429409.1 hypothetical protein D9Q98_005504 [Chlorella vulgaris]	QAXK01006607.1_16309-17535
+OG0000753	KAI3439015.1 hypothetical protein D9Q98_001427 [Chlorella vulgaris]	QAXK01001647.1_3154-482
+OG0000764	KAI3424734.1 hypothetical protein D9Q98_008123 [Chlorella vulgaris], KAI3424733.1 hypothetical protein D9Q98_008122 [Chlorella vulgaris]	QAXK01005724.1_7661-4858
+OG0000770	KAI3431861.1 hypothetical protein D9Q98_010612 [Chlorella vulgaris], KAI3432413.1 hypothetical protein D9Q98_003967 [Chlorella vulgaris]	QAXK01003607.1_11324-13747
+OG0000774	KAI3426853.1 hypothetical protein D9Q98_006799 [Chlorella vulgaris], KAI3426852.1 hypothetical protein D9Q98_006798 [Chlorella vulgaris]	QAXK01004825.1_8965-10753
+OG0000777	KAI3430997.1 hypothetical protein D9Q98_009399 [Chlorella vulgaris], KAI3430999.1 hypothetical protein D9Q98_009401 [Chlorella vulgaris]	QAXK01002948.1_4354-3157
+OG0000778	KAI3436374.1 hypothetical protein D9Q98_002427 [Chlorella vulgaris], KAI3436369.1 hypothetical protein D9Q98_002422 [Chlorella vulgaris]	QAXK01014006.1_1593-3302
+OG0000782	KAI3433751.1 hypothetical protein D9Q98_003558 [Chlorella vulgaris], KAI3435567.1 hypothetical protein D9Q98_001632 [Chlorella vulgaris]	QAXK01009651.1_2303-1712
+OG0000784	KAI3434975.1 hypothetical protein D9Q98_003027 [Chlorella vulgaris], KAI3434976.1 hypothetical protein D9Q98_003028 [Chlorella vulgaris]	QAXK01014689.1_5406-4708
+OG0000786	KAI3435672.1 hypothetical protein D9Q98_001730 [Chlorella vulgaris], KAI3435673.1 hypothetical protein D9Q98_001731 [Chlorella vulgaris], KAI3435671.1 hypothetical protein D9Q98_001729 [Chlorella vulgaris]	QAXK01006828.1_9411-7696
+OG0000788	KAI3424297.1 hypothetical protein D9Q98_009852 [Chlorella vulgaris]	QAXK01010339.1_3422-4517
+OG0000793	KAI3428305.1 hypothetical protein D9Q98_006684 [Chlorella vulgaris]	QAXK01000249.1_22218-16975
+OG0000799	KAI3437551.1 hypothetical protein D9Q98_000004 [Chlorella vulgaris], KAI3428702.1 hypothetical protein D9Q98_007526 [Chlorella vulgaris]	QAXK01005565.1_18254-19052
+OG0000818	KAI3434995.1 hypothetical protein D9Q98_003047 [Chlorella vulgaris]	QAXK01008587.1_153-1989
+OG0000819	KAI3428384.1 hypothetical protein D9Q98_006764 [Chlorella vulgaris], KAI3428834.1 hypothetical protein D9Q98_007651 [Chlorella vulgaris]	QAXK01003572.1_15443-13865
+OG0000827	KAI3428456.1 hypothetical protein D9Q98_007282 [Chlorella vulgaris], KAI3428455.1 hypothetical protein D9Q98_007282 [Chlorella vulgaris]	QAXK01003364.1_14418-18303
+OG0000828	KAI3432648.1 hypothetical protein D9Q98_004194 [Chlorella vulgaris]	QAXK01000782.1_20679-19905
+OG0000830	KAI3428335.1 hypothetical protein D9Q98_006715 [Chlorella vulgaris], KAI3424978.1 hypothetical protein D9Q98_008359 [Chlorella vulgaris]	QAXK01013271.1_12309-15183
+OG0000838	KAI3428546.1 hypothetical protein D9Q98_007368 [Chlorella vulgaris], KAI3428545.1 hypothetical protein D9Q98_007367 [Chlorella vulgaris]	QAXK01003718.1_1305-2104
+OG0000856	KAI3432304.1 hypothetical protein D9Q98_003864 [Chlorella vulgaris], KAI3432305.1 hypothetical protein D9Q98_003865 [Chlorella vulgaris]	QAXK01018212.1_1235-2568
+OG0000857	KAI3437881.1 hypothetical protein D9Q98_000326 [Chlorella vulgaris], KAI3425018.1 hypothetical protein D9Q98_008400 [Chlorella vulgaris]	QAXK01003829.1_4453-4800
+OG0000858	KAI3427253.1 hypothetical protein D9Q98_007187 [Chlorella vulgaris], KAI3427252.1 hypothetical protein D9Q98_007186 [Chlorella vulgaris]	QAXK01000114.1_14115-13091
+OG0000882	KAI3424268.1 hypothetical protein D9Q98_009622 [Chlorella vulgaris]	QAXK01006249.1_4939-7634
+OG0000890	KAI3437806.1 hypothetical protein D9Q98_000253 [Chlorella vulgaris]	QAXK01001134.1_10091-19430
+OG0000898	KAI3434806.1 hypothetical protein D9Q98_002863 [Chlorella vulgaris]	QAXK01003876.1_5991-120
+OG0000899	KAI3434561.1 hypothetical protein D9Q98_002634 [Chlorella vulgaris]	QAXK01013989.1_346-4178
+OG0000908	KAI3430751.1 hypothetical protein D9Q98_009163 [Chlorella vulgaris]	QAXK01003972.1_3812-4471
+OG0000925	KAI3435625.1 hypothetical protein D9Q98_001685 [Chlorella vulgaris]	QAXK01005294.1_1798-325
+OG0000926	KAI3430287.1 hypothetical protein D9Q98_004883 [Chlorella vulgaris]	QAXK01006171.1_11343-179
+OG0000932	KAI3438578.1 hypothetical protein D9Q98_001003 [Chlorella vulgaris], KAI3438577.1 hypothetical protein D9Q98_001002 [Chlorella vulgaris]	QAXK01003666.1_997-2479
+OG0000934	KAI3430676.1 hypothetical protein D9Q98_005265 [Chlorella vulgaris], KAI3430675.1 hypothetical protein D9Q98_005265 [Chlorella vulgaris]	QAXK01002301.1_12772-10269
+OG0000936	KAI3437726.1 hypothetical protein D9Q98_000174 [Chlorella vulgaris]	QAXK01016824.1_8642-5783
+OG0000942	KAI3433762.1 hypothetical protein D9Q98_003569 [Chlorella vulgaris], KAI3433763.1 hypothetical protein D9Q98_003570 [Chlorella vulgaris]	QAXK01000587.1_67122-65127
+OG0000950	KAI3436434.1 hypothetical protein D9Q98_005851 [Chlorella vulgaris]	QAXK01002497.1_4221-184
+OG0000953	KAI3435494.1 hypothetical protein D9Q98_001560 [Chlorella vulgaris]	QAXK01003575.1_2283-197
+OG0000971	KAI3432753.1 hypothetical protein D9Q98_004294 [Chlorella vulgaris], KAI3425898.1 hypothetical protein D9Q98_007871 [Chlorella vulgaris]	QAXK01002117.1_8261-6549
+OG0000972	KAI3431381.1 hypothetical protein D9Q98_004435 [Chlorella vulgaris]	QAXK01000705.1_20067-23668
+OG0000974	KAI3431332.1 hypothetical protein D9Q98_004390 [Chlorella vulgaris]	QAXK01004234.1_3012-6646
+OG0000975	KAI3430396.1 hypothetical protein D9Q98_004991 [Chlorella vulgaris]	QAXK01000204.1_17480-21863
+OG0000993	KAI3425731.1 hypothetical protein D9Q98_007707 [Chlorella vulgaris]	QAXK01000283.1_5726-3204
+OG0001052	KAI3436829.1 hypothetical protein D9Q98_006239 [Chlorella vulgaris]	QAXK01004375.1_5952-7899
+OG0001054	KAI3434506.1 hypothetical protein D9Q98_002580 [Chlorella vulgaris]	QAXK01011306.1_4473-2613
+OG0001058	KAI3432290.1 hypothetical protein D9Q98_003850 [Chlorella vulgaris]	QAXK01006232.1_3779-3289
+OG0001060	KAI3424054.1 hypothetical protein D9Q98_009417 [Chlorella vulgaris]	QAXK01001037.1_5070-1976
+OG0001061	KAI3431544.1 hypothetical protein D9Q98_004593 [Chlorella vulgaris]	QAXK01005753.1_2076-3799
+OG0001062	KAI3423413.1 hypothetical protein D9Q98_010630 [Chlorella vulgaris], KAI3423414.1 hypothetical protein D9Q98_010630 [Chlorella vulgaris]	QAXK01000341.1_1318-5933
+OG0001063	KAI3433874.1 hypothetical protein D9Q98_003676 [Chlorella vulgaris], KAI3434527.1 hypothetical protein D9Q98_002600 [Chlorella vulgaris]	QAXK01005942.1_10013-5629
+OG0001064	KAI3424073.1 hypothetical protein D9Q98_009436 [Chlorella vulgaris]	QAXK01004812.1_12403-13506
+OG0001072	KAI3438527.1 hypothetical protein D9Q98_000955 [Chlorella vulgaris]	QAXK01000429.1_50912-41458
+OG0001074	KAI3437883.1 hypothetical protein D9Q98_000328 [Chlorella vulgaris]	QAXK01000217.1_8076-10531
+OG0001079	KAI3438596.1 hypothetical protein D9Q98_001020 [Chlorella vulgaris]	QAXK01000446.1_57156-52957
+OG0001082	KAI3429525.1 hypothetical protein D9Q98_005613 [Chlorella vulgaris]	QAXK01005854.1_4720-5401
+OG0001088	KAI3437797.1 hypothetical protein D9Q98_000244 [Chlorella vulgaris], KAI3437798.1 hypothetical protein D9Q98_000245 [Chlorella vulgaris]	QAXK01002175.1_7346-5749
+OG0001094	KAI3438850.1 hypothetical protein D9Q98_001267 [Chlorella vulgaris]	QAXK01001089.1_6956-8023
+OG0001095	KAI3437615.1 hypothetical protein D9Q98_000067 [Chlorella vulgaris]	QAXK01000217.1_13973-11099
+OG0001096	KAI3429236.1 hypothetical protein D9Q98_005335 [Chlorella vulgaris], KAI3429264.1 hypothetical protein D9Q98_005361 [Chlorella vulgaris]	QAXK01005613.1_12658-11106
+OG0001099	KAI3427149.1 hypothetical protein D9Q98_007086 [Chlorella vulgaris], KAI3427150.1 hypothetical protein D9Q98_007087 [Chlorella vulgaris]	QAXK01001823.1_3618-2631
+OG0001101	KAI3430397.1 hypothetical protein D9Q98_004992 [Chlorella vulgaris]	QAXK01003836.1_8909-3187
+OG0001103	KAI3435778.1 hypothetical protein D9Q98_001836 [Chlorella vulgaris]	QAXK01003163.1_8178-11099
+OG0001105	KAI3428790.1 hypothetical protein D9Q98_007609 [Chlorella vulgaris]	QAXK01006902.1_4861-6562
+OG0001120	KAI3432892.1 hypothetical protein D9Q98_010474 [Chlorella vulgaris]	QAXK01002607.1_494-808
+OG0001122	KAI3438041.1 hypothetical protein D9Q98_000484 [Chlorella vulgaris]	QAXK01010311.1_2932-555
+OG0001123	KAI3429454.1 hypothetical protein D9Q98_005547 [Chlorella vulgaris]	QAXK01007750.1_2281-4745
+OG0001133	KAI3436543.1 hypothetical protein D9Q98_005959 [Chlorella vulgaris], KAI3423607.1 hypothetical protein D9Q98_010841 _chloroplast_ [Chlorella vulgaris]	QAXK01006196.1_4390-1589
+OG0001143	KAI3429586.1 hypothetical protein D9Q98_005672 [Chlorella vulgaris]	QAXK01003700.1_2979-9653
+OG0001144	KAI3431543.1 hypothetical protein D9Q98_004592 [Chlorella vulgaris], KAI3431542.1 hypothetical protein D9Q98_004591 [Chlorella vulgaris]	QAXK01003900.1_2413-4929
+OG0001154	KAI3433424.1 hypothetical protein D9Q98_003239 [Chlorella vulgaris]	QAXK01011150.1_3959-2216
+OG0001156	KAI3431689.1 hypothetical protein D9Q98_004735 [Chlorella vulgaris]	QAXK01018601.1_3296-410
+OG0001158	KAI3423845.1 hypothetical protein D9Q98_009681 [Chlorella vulgaris], KAI3423846.1 hypothetical protein D9Q98_009681 [Chlorella vulgaris]	QAXK01006945.1_6596-10279
+OG0001161	KAI3437659.1 hypothetical protein D9Q98_000109 [Chlorella vulgaris]	QAXK01004407.1_7887-8977
+OG0001166	KAI3433574.1 hypothetical protein D9Q98_003385 [Chlorella vulgaris]	QAXK01009825.1_846-2644
+OG0001171	KAI3430232.1 hypothetical protein D9Q98_004829 [Chlorella vulgaris], KAI3430233.1 hypothetical protein D9Q98_004830 [Chlorella vulgaris]	QAXK01006983.1_10356-12388
+OG0001176	KAI3434880.1 hypothetical protein D9Q98_002934 [Chlorella vulgaris]	QAXK01004323.1_8147-5874
+OG0001180	KAI3430836.1 hypothetical protein D9Q98_009247 [Chlorella vulgaris]	QAXK01019295.1_3574-2070
+OG0001194	KAI3438056.1 hypothetical protein D9Q98_000499 [Chlorella vulgaris]	QAXK01001649.1_8862-4505
+OG0001201	KAI3427431.1 hypothetical protein D9Q98_010346 [Chlorella vulgaris]	QAXK01000596.1_10252-6748
+OG0001208	KAI3428069.1 hypothetical protein D9Q98_006453 [Chlorella vulgaris]	QAXK01012769.1_10100-9091
+OG0001212	KAI3427115.1 hypothetical protein D9Q98_007052 [Chlorella vulgaris]	QAXK01005236.1_15612-13478
+OG0001214	KAI3435881.1 hypothetical protein D9Q98_001939 [Chlorella vulgaris], KAI3427166.1 hypothetical protein D9Q98_007103 [Chlorella vulgaris]	QAXK01012739.1_10679-8642
+OG0001216	KAI3432274.1 hypothetical protein D9Q98_003834 [Chlorella vulgaris]	QAXK01001490.1_17280-15927
+OG0001219	KAI3434568.1 hypothetical protein D9Q98_002640 [Chlorella vulgaris], KAI3434487.1 hypothetical protein D9Q98_002563 [Chlorella vulgaris], KAI3434569.1 hypothetical protein D9Q98_002641 [Chlorella vulgaris]	QAXK01008035.1_3747-6912
+OG0001221	KAI3436879.1 hypothetical protein D9Q98_006287 [Chlorella vulgaris], KAI3436878.1 hypothetical protein D9Q98_006286 [Chlorella vulgaris]	QAXK01001061.1_17190-18239
+OG0001223	KAI3425740.1 hypothetical protein D9Q98_007716 [Chlorella vulgaris]	QAXK01005846.1_3896-588
+OG0001225	KAI3434773.1 hypothetical protein D9Q98_002833 [Chlorella vulgaris]	QAXK01000732.1_2978-2655
+OG0001229	KAI3425781.1 hypothetical protein D9Q98_007756 [Chlorella vulgaris], KAI3425779.1 hypothetical protein D9Q98_007754 [Chlorella vulgaris]	QAXK01016063.1_5569-3270
+OG0001231	KAI3428669.1 hypothetical protein D9Q98_007492 [Chlorella vulgaris]	QAXK01000362.1_21408-20438
+OG0001236	KAI3434485.1 hypothetical protein D9Q98_002561 [Chlorella vulgaris]	QAXK01000513.1_15183-11736
+OG0001242	KAI3433796.1 hypothetical protein D9Q98_003601 [Chlorella vulgaris], KAI3433797.1 hypothetical protein D9Q98_003601 [Chlorella vulgaris]	QAXK01004645.1_1487-5075
+OG0001246	KAI3424876.1 hypothetical protein D9Q98_008260 [Chlorella vulgaris]	QAXK01010639.1_8900-15142
+OG0001248	KAI3426037.1 hypothetical protein D9Q98_008005 [Chlorella vulgaris]	QAXK01010718.1_75-1989
+OG0001264	KAI3438099.1 hypothetical protein D9Q98_000541 [Chlorella vulgaris]	QAXK01001653.1_329-2259
+OG0001279	KAI3434829.1 hypothetical protein D9Q98_002884 [Chlorella vulgaris], KAI3434828.1 hypothetical protein D9Q98_002883 [Chlorella vulgaris]	QAXK01000624.1_32528-30577
+OG0001307	KAI3434652.1 hypothetical protein D9Q98_002717 [Chlorella vulgaris]	QAXK01005917.1_319-7230
+OG0001308	KAI3423011.1 hypothetical protein D9Q98_010854_ partial _mitochondrion_ [Chlorella vulgaris], KAI3438185.1 hypothetical protein D9Q98_000622 [Chlorella vulgaris]	QAXK01006084.1_8922-13556
+OG0001309	KAI3438168.1 hypothetical protein D9Q98_000605 [Chlorella vulgaris]	QAXK01004533.1_5070-10667
+OG0001310	KAI3434650.1 hypothetical protein D9Q98_002715 [Chlorella vulgaris]	QAXK01002895.1_5020-6663
+OG0001311	KAI3438156.1 hypothetical protein D9Q98_000594 [Chlorella vulgaris], KAI3438155.1 hypothetical protein D9Q98_000593 [Chlorella vulgaris]	QAXK01001613.1_2521-6885
+OG0001312	KAI3434531.1 hypothetical protein D9Q98_002604 [Chlorella vulgaris]	QAXK01003510.1_1900-3653
+OG0001313	KAI3438187.1 hypothetical protein D9Q98_000624 [Chlorella vulgaris]	QAXK01001184.1_9548-5781
+OG0001314	KAI3438195.1 hypothetical protein D9Q98_000632 [Chlorella vulgaris]	QAXK01001944.1_3765-1753
+OG0001316	KAI3424219.1 hypothetical protein D9Q98_009575 [Chlorella vulgaris]	QAXK01006921.1_16832-14836
+OG0001317	KAI3431509.1 hypothetical protein D9Q98_004559 [Chlorella vulgaris]	QAXK01010058.1_4279-1636
+OG0001318	KAI3426357.1 hypothetical protein D9Q98_008729 [Chlorella vulgaris]	QAXK01001801.1_7866-9916
+OG0001320	KAI3424068.1 hypothetical protein D9Q98_009431 [Chlorella vulgaris]	QAXK01000167.1_14384-11911
+OG0001328	KAI3430580.1 hypothetical protein D9Q98_005173 [Chlorella vulgaris]	QAXK01006882.1_17133-19836
+OG0001331	KAI3427029.1 hypothetical protein D9Q98_006971 [Chlorella vulgaris]	QAXK01009171.1_15170-12352
+OG0001332	KAI3438561.1 hypothetical protein D9Q98_000988 [Chlorella vulgaris]	QAXK01004338.1_10706-15436
+OG0001334	KAI3436237.1 hypothetical protein D9Q98_002291 [Chlorella vulgaris]	QAXK01003133.1_258-4577
+OG0001338	KAI3426985.1 hypothetical protein D9Q98_006929 [Chlorella vulgaris], KAI3426988.1 hypothetical protein D9Q98_006932 [Chlorella vulgaris]	QAXK01002293.1_4021-8056
+OG0001340	KAI3430881.1 hypothetical protein D9Q98_009289 [Chlorella vulgaris]	QAXK01004523.1_6228-4685
+OG0001342	KAI3434797.1 hypothetical protein D9Q98_002855 [Chlorella vulgaris]	QAXK01003268.1_11937-16935
+OG0001343	KAI3438820.1 hypothetical protein D9Q98_001237 [Chlorella vulgaris]	QAXK01000799.1_6873-2057
+OG0001353	KAI3425070.1 hypothetical protein D9Q98_008447 [Chlorella vulgaris]	QAXK01011632.1_4873-7912
+OG0001356	KAI3429818.1 hypothetical protein D9Q98_010131 [Chlorella vulgaris]	QAXK01003307.1_27135-26267
+OG0001360	KAI3438702.1 hypothetical protein D9Q98_001122 [Chlorella vulgaris]	QAXK01001741.1_6153-8648
+OG0001363	KAI3434662.1 hypothetical protein D9Q98_002726 [Chlorella vulgaris]	QAXK01003747.1_13973-10331
+OG0001365	KAI3437969.1 hypothetical protein D9Q98_000413 [Chlorella vulgaris]	QAXK01000515.1_20837-25236
+OG0001366	KAI3436652.1 hypothetical protein D9Q98_006068 [Chlorella vulgaris]	QAXK01004846.1_20461-19235
+OG0001370	KAI3432608.1 hypothetical protein D9Q98_004155 [Chlorella vulgaris]	QAXK01000381.1_4423-6771
+OG0001374	KAI3432597.1 hypothetical protein D9Q98_004145 [Chlorella vulgaris]	QAXK01013224.1_5335-6988
+OG0001375	KAI3438022.1 hypothetical protein D9Q98_000465 [Chlorella vulgaris], KAI3438021.1 hypothetical protein D9Q98_000464 [Chlorella vulgaris]	QAXK01005120.1_8361-10056
+OG0001376	KAI3429414.1 hypothetical protein D9Q98_005509 [Chlorella vulgaris]	QAXK01019935.1_413-1820
+OG0001381	KAI3432886.1 hypothetical protein D9Q98_010468 [Chlorella vulgaris]	QAXK01000172.1_6135-2748
+OG0001382	KAI3432584.1 hypothetical protein D9Q98_004133 [Chlorella vulgaris]	QAXK01001066.1_8917-1138
+OG0001383	KAI3432568.1 hypothetical protein D9Q98_004117 [Chlorella vulgaris]	QAXK01003326.1_3639-1243
+OG0001385	KAI3432870.1 hypothetical protein D9Q98_010453 [Chlorella vulgaris]	QAXK01005279.1_10173-5871
+OG0001388	KAI3431711.1 hypothetical protein D9Q98_004756 [Chlorella vulgaris]	QAXK01001208.1_10635-13964
+OG0001393	KAI3425085.1 hypothetical protein D9Q98_008463 [Chlorella vulgaris]	QAXK01005917.1_17047-13738
+OG0001397	KAI3435657.1 hypothetical protein D9Q98_001715 [Chlorella vulgaris]	QAXK01000502.1_39339-43298
+OG0001398	KAI3438385.1 hypothetical protein D9Q98_000817 [Chlorella vulgaris]	QAXK01003277.1_3770-8
+OG0001400	KAI3438974.1 hypothetical protein D9Q98_001388 [Chlorella vulgaris]	QAXK01001993.1_28544-29840
+OG0001401	KAI3426924.1 hypothetical protein D9Q98_006868 [Chlorella vulgaris]	QAXK01010276.1_2943-1867
+OG0001406	KAI3436461.1 hypothetical protein D9Q98_005878 [Chlorella vulgaris]	QAXK01000595.1_2983-1676
+OG0001408	KAI3430740.1 hypothetical protein D9Q98_009153 [Chlorella vulgaris], KAI3430741.1 hypothetical protein D9Q98_009153 [Chlorella vulgaris]	QAXK01000367.1_8675-18356
+OG0001409	KAI3435686.1 hypothetical protein D9Q98_001744 [Chlorella vulgaris]	QAXK01004930.1_4250-5628
+OG0001417	KAI3426441.1 hypothetical protein D9Q98_008809 [Chlorella vulgaris]	QAXK01005381.1_315-2273
+OG0001420	KAI3429618.1 hypothetical protein D9Q98_005704 [Chlorella vulgaris]	QAXK01000297.1_21777-22493
+OG0001424	KAI3426437.1 hypothetical protein D9Q98_008805 [Chlorella vulgaris]	QAXK01001628.1_9434-11057
+OG0001425	KAI3426121.1 hypothetical protein D9Q98_008500 [Chlorella vulgaris], KAI3426122.1 hypothetical protein D9Q98_008500 [Chlorella vulgaris]	QAXK01003581.1_2363-4183
+OG0001426	KAI3432839.1 hypothetical protein D9Q98_010423 [Chlorella vulgaris]	QAXK01005880.1_1-9276
+OG0001428	KAI3436182.1 hypothetical protein D9Q98_002237 [Chlorella vulgaris]	QAXK01000837.1_14096-17956
+OG0001431	KAI3426206.1 hypothetical protein D9Q98_008583 [Chlorella vulgaris]	QAXK01013424.1_6153-1945
+OG0001432	KAI3430669.1 hypothetical protein D9Q98_005261 [Chlorella vulgaris], KAI3430670.1 hypothetical protein D9Q98_005261 [Chlorella vulgaris]	QAXK01000224.1_16848-15439
+OG0001445	KAI3431856.1 hypothetical protein D9Q98_010608 [Chlorella vulgaris]	QAXK01000732.1_11950-7418
+OG0001455	KAI3434915.1 hypothetical protein D9Q98_002969 [Chlorella vulgaris]	QAXK01001576.1_5934-8651
+OG0001456	KAI3425337.1 hypothetical protein D9Q98_009101 [Chlorella vulgaris]	QAXK01006785.1_1906-1226
+OG0001460	KAI3434922.1 hypothetical protein D9Q98_002976 [Chlorella vulgaris]	QAXK01015424.1_3358-1233
+OG0001462	KAI3434974.1 hypothetical protein D9Q98_003026 [Chlorella vulgaris]	QAXK01002112.1_6014-14709
+OG0001465	KAI3426943.1 hypothetical protein D9Q98_006887 [Chlorella vulgaris]	QAXK01006322.1_7890-11183
+OG0001469	KAI3428792.1 hypothetical protein D9Q98_007611 [Chlorella vulgaris]	QAXK01007783.1_10721-12010
+OG0001473	KAI3432455.1 hypothetical protein D9Q98_004005 [Chlorella vulgaris]	QAXK01003650.1_4575-2929
+OG0001476	KAI3423947.1 hypothetical protein D9Q98_009781 [Chlorella vulgaris]	QAXK01001134.1_7136-9582
+OG0001477	KAI3428522.1 hypothetical protein D9Q98_007345 [Chlorella vulgaris], KAI3434741.1 hypothetical protein D9Q98_002801 [Chlorella vulgaris]	QAXK01003160.1_17527-15091
+OG0001480	KAI3423943.1 hypothetical protein D9Q98_009777 [Chlorella vulgaris]	QAXK01000632.1_24086-22557
+OG0001482	KAI3438090.1 hypothetical protein D9Q98_000532 [Chlorella vulgaris]	QAXK01000159.1_14204-11398
+OG0001488	KAI3432474.1 hypothetical protein D9Q98_004023 [Chlorella vulgaris]	QAXK01004286.1_7784-2904
+OG0001492	KAI3438202.1 hypothetical protein D9Q98_000639 [Chlorella vulgaris]	QAXK01003809.1_2040-4733
+OG0001493	KAI3434460.1 hypothetical protein D9Q98_002537 [Chlorella vulgaris]	QAXK01001201.1_5367-10319
+OG0001503	KAI3430553.1 hypothetical protein D9Q98_005146 [Chlorella vulgaris], KAI3430552.1 hypothetical protein D9Q98_005145 [Chlorella vulgaris]	QAXK01001163.1_27767-28960
+OG0001506	KAI3437627.1 hypothetical protein D9Q98_000079 [Chlorella vulgaris]	QAXK01000137.1_3425-4331
+OG0001508	KAI3437781.1 hypothetical protein D9Q98_000228 [Chlorella vulgaris]	QAXK01001982.1_904-3015
+OG0001514	KAI3423187.1 hypothetical protein D9Q98_010723 [Chlorella vulgaris], KAI3431380.1 hypothetical protein D9Q98_004434 [Chlorella vulgaris]	QAXK01003231.1_16625-14068
+OG0001526	KAI3425845.1 hypothetical protein D9Q98_007819 [Chlorella vulgaris]	QAXK01019948.1_5388-2969
+OG0001527	KAI3432834.1 hypothetical protein D9Q98_010418 [Chlorella vulgaris], KAI3432827.1 hypothetical protein D9Q98_010411 [Chlorella vulgaris]	QAXK01013863.1_4654-1867
+OG0001528	KAI3428115.1 hypothetical protein D9Q98_006498 [Chlorella vulgaris]	QAXK01000325.1_37384-41123
+OG0001529	KAI3432378.1 hypothetical protein D9Q98_003935 [Chlorella vulgaris]	QAXK01004092.1_4427-5291
+OG0001532	KAI3433614.1 hypothetical protein D9Q98_003423 [Chlorella vulgaris]	QAXK01000782.1_11007-12134
+OG0001533	KAI3432859.1 hypothetical protein D9Q98_010442 [Chlorella vulgaris]	QAXK01000265.1_17007-12444
+OG0001534	KAI3425060.1 hypothetical protein D9Q98_008437 [Chlorella vulgaris]	QAXK01000695.1_5671-2183
+OG0001538	KAI3428534.1 hypothetical protein D9Q98_007357 [Chlorella vulgaris]	QAXK01009353.1_4260-348
+OG0001542	KAI3427167.1 hypothetical protein D9Q98_007104 [Chlorella vulgaris]	QAXK01011884.1_2510-4036
+OG0001544	KAI3436160.1 hypothetical protein D9Q98_002217 [Chlorella vulgaris]	QAXK01002332.1_5291-4007
+OG0001545	KAI3428237.1 hypothetical protein D9Q98_006617 [Chlorella vulgaris]	QAXK01000350.1_22889-27018
+OG0001546	KAI3436054.1 hypothetical protein D9Q98_002113 [Chlorella vulgaris]	QAXK01011857.1_1226-3209
+OG0001548	KAI3429832.1 hypothetical protein D9Q98_010145 [Chlorella vulgaris], KAI3429831.1 hypothetical protein D9Q98_010144 [Chlorella vulgaris]	QAXK01001795.1_1688-3314
+OG0001549	KAI3434514.1 hypothetical protein D9Q98_002587 [Chlorella vulgaris]	QAXK01005406.1_4717-2509
+OG0001550	KAI3429835.1 hypothetical protein D9Q98_010148 [Chlorella vulgaris]	QAXK01004537.1_7009-1449
+OG0001551	KAI3427042.1 hypothetical protein D9Q98_006983 [Chlorella vulgaris]	QAXK01006072.1_19473-19787
+OG0001554	KAI3435925.1 hypothetical protein D9Q98_001983 [Chlorella vulgaris]	QAXK01001638.1_7681-11612
+OG0001561	KAI3425803.1 hypothetical protein D9Q98_007778 [Chlorella vulgaris]	QAXK01003228.1_3995-6597
+OG0001562	KAI3435911.1 hypothetical protein D9Q98_001969 [Chlorella vulgaris]	QAXK01000869.1_5647-9196
+OG0001571	KAI3425840.1 hypothetical protein D9Q98_007814 [Chlorella vulgaris]	QAXK01005898.1_15715-20620
+OG0001573	KAI3437591.1 hypothetical protein D9Q98_000044 [Chlorella vulgaris]	QAXK01001714.1_23807-22483
+OG0001575	KAI3438666.1 hypothetical protein D9Q98_001087 [Chlorella vulgaris]	QAXK01006456.1_5116-6698
+OG0001576	KAI3432440.1 hypothetical protein D9Q98_003993 [Chlorella vulgaris]	QAXK01003511.1_8584-2188
+OG0001579	KAI3429359.1 hypothetical protein D9Q98_005454 [Chlorella vulgaris]	QAXK01000149.1_3007-205
+OG0001581	KAI3432649.1 hypothetical protein D9Q98_004195 [Chlorella vulgaris]	QAXK01003468.1_8146-4525
+OG0001582	KAI3433686.1 hypothetical protein D9Q98_003495 [Chlorella vulgaris]	QAXK01003110.1_3669-4960
+OG0001592	KAI3433791.1 hypothetical protein D9Q98_003596 [Chlorella vulgaris]	QAXK01004995.1_4321-153
+OG0001595	KAI3439125.1 hypothetical protein D9Q98_001533 [Chlorella vulgaris]	QAXK01003821.1_4511-8191
+OG0001599	KAI3424720.1 hypothetical protein D9Q98_008109 [Chlorella vulgaris]	QAXK01001163.1_31234-32344
+OG0001602	KAI3435536.1 hypothetical protein D9Q98_001601 [Chlorella vulgaris]	QAXK01009112.1_2932-1649
+OG0001606	KAI3425944.1 hypothetical protein D9Q98_007914 [Chlorella vulgaris]	QAXK01001551.1_37852-43451
+OG0001618	KAI3438391.1 hypothetical protein D9Q98_000823 [Chlorella vulgaris]	QAXK01003579.1_4454-5700
+OG0001620	KAI3436668.1 hypothetical protein D9Q98_006084 [Chlorella vulgaris]	QAXK01004906.1_4885-7564
+OG0001624	KAI3438597.1 hypothetical protein D9Q98_001021 [Chlorella vulgaris], KAI3438598.1 hypothetical protein D9Q98_001021 [Chlorella vulgaris]	QAXK01001935.1_7191-6190
+OG0001625	KAI3430273.1 hypothetical protein D9Q98_004869 [Chlorella vulgaris]	QAXK01008598.1_11627-10467
+OG0001666	KAI3438184.1 hypothetical protein D9Q98_000621 [Chlorella vulgaris]	QAXK01000648.1_7716-3949
+OG0001670	KAI3434577.1 hypothetical protein D9Q98_002647 [Chlorella vulgaris]	QAXK01001801.1_20671-18627
+OG0001676	KAI3424477.1 hypothetical protein D9Q98_010027 [Chlorella vulgaris]	QAXK01000084.1_15952-9180
+OG0001677	KAI3436185.1 hypothetical protein D9Q98_002240 [Chlorella vulgaris]	QAXK01006154.1_7199-4782
+OG0001679	KAI3424056.1 hypothetical protein D9Q98_009419 [Chlorella vulgaris]	QAXK01005586.1_4660-3715
+OG0001681	KAI3432423.1 hypothetical protein D9Q98_003977 [Chlorella vulgaris]	QAXK01003694.1_10054-1111
+OG0001683	KAI3423194.1 hypothetical protein D9Q98_010716_ partial [Chlorella vulgaris]	QAXK01005873.1_4902-1877
+OG0001684	KAI3424276.1 hypothetical protein D9Q98_009630 [Chlorella vulgaris]	QAXK01001160.1_46203-44172
+OG0001686	KAI3432267.1 hypothetical protein D9Q98_003827 [Chlorella vulgaris]	QAXK01001518.1_29154-38461
+OG0001687	KAI3431570.1 hypothetical protein D9Q98_004620 [Chlorella vulgaris]	QAXK01011350.1_4968-4302
+OG0001689	KAI3434835.1 hypothetical protein D9Q98_002890 [Chlorella vulgaris]	QAXK01000325.1_49285-50693
+OG0001691	KAI3429402.1 hypothetical protein D9Q98_005497 [Chlorella vulgaris], KAI3429413.1 hypothetical protein D9Q98_005508 [Chlorella vulgaris]	QAXK01009543.1_7053-9512
+OG0001694	KAI3431552.1 hypothetical protein D9Q98_004601 [Chlorella vulgaris]	QAXK01004860.1_550-2257
+OG0001698	KAI3432361.1 hypothetical protein D9Q98_003918 [Chlorella vulgaris]	QAXK01011739.1_15998-17366
+OG0001700	KAI3438271.1 hypothetical protein D9Q98_000706 [Chlorella vulgaris]	QAXK01001944.1_5351-7976
+OG0001702	KAI3437746.1 hypothetical protein D9Q98_000194 [Chlorella vulgaris]	QAXK01000864.1_61145-62900
+OG0001703	KAI3435591.1 hypothetical protein D9Q98_001656 [Chlorella vulgaris]	QAXK01003602.1_34329-32576
+OG0001704	KAI3438531.1 hypothetical protein D9Q98_000959 [Chlorella vulgaris]	QAXK01008991.1_236-2513
+OG0001705	KAI3429721.1 hypothetical protein D9Q98_010037 [Chlorella vulgaris]	QAXK01002478.1_7313-12188
+OG0001708	KAI3438529.1 hypothetical protein D9Q98_000957 [Chlorella vulgaris]	QAXK01014303.1_4896-6584
+OG0001709	KAI3437743.1 hypothetical protein D9Q98_000191 [Chlorella vulgaris]	QAXK01018148.1_4196-2780
+OG0001712	KAI3438908.1 hypothetical protein D9Q98_001322 [Chlorella vulgaris]	QAXK01008136.1_3960-6111
+OG0001713	KAI3437864.1 hypothetical protein D9Q98_000310 [Chlorella vulgaris]	QAXK01001137.1_1588-5821
+OG0001714	KAI3427085.1 hypothetical protein D9Q98_007024 [Chlorella vulgaris]	QAXK01014632.1_3916-2466
+OG0001715	KAI3426424.1 hypothetical protein D9Q98_008792 [Chlorella vulgaris]	QAXK01004338.1_24179-21163
+OG0001716	KAI3438495.1 hypothetical protein D9Q98_000923 [Chlorella vulgaris]	QAXK01000646.1_3437-2178
+OG0001718	KAI3438581.1 hypothetical protein D9Q98_001006 [Chlorella vulgaris]	QAXK01002273.1_1901-3023
+OG0001719	KAI3427025.1 hypothetical protein D9Q98_006967 [Chlorella vulgaris]	QAXK01013811.1_5298-9155
+OG0001724	KAI3430752.1 hypothetical protein D9Q98_009164 [Chlorella vulgaris]	QAXK01006565.1_2429-269
+OG0001728	KAI3438853.1 hypothetical protein D9Q98_001270 [Chlorella vulgaris]	QAXK01001807.1_1026-15
+OG0001729	KAI3437681.1 hypothetical protein D9Q98_000130 [Chlorella vulgaris]	QAXK01006338.1_1051-28
+OG0001737	KAI3437796.1 hypothetical protein D9Q98_000243 [Chlorella vulgaris]	QAXK01014793.1_2710-905
+OG0001738	KAI3438698.1 hypothetical protein D9Q98_001118 [Chlorella vulgaris]	QAXK01000446.1_74898-73132
+OG0001743	KAI3425044.1 hypothetical protein D9Q98_008422 [Chlorella vulgaris]	QAXK01001289.1_5327-2954
+OG0001744	KAI3437789.1 hypothetical protein D9Q98_000236 [Chlorella vulgaris]	QAXK01016939.1_17085-19159
+OG0001748	KAI3435801.1 hypothetical protein D9Q98_001859 [Chlorella vulgaris]	QAXK01007592.1_13848-10196
+OG0001750	KAI3436278.1 hypothetical protein D9Q98_002331 [Chlorella vulgaris]	QAXK01018869.1_1324-446
+OG0001751	KAI3437559.1 hypothetical protein D9Q98_000012 [Chlorella vulgaris]	QAXK01000276.1_2022-2543
+OG0001756	KAI3429314.1 hypothetical protein D9Q98_005409 [Chlorella vulgaris]	QAXK01004906.1_9592-13569
+OG0001760	KAI3438498.1 hypothetical protein D9Q98_000926 [Chlorella vulgaris]	QAXK01008046.1_15224-18152
+OG0001763	KAI3429530.1 hypothetical protein D9Q98_005618 [Chlorella vulgaris]	QAXK01006402.1_6220-3948
+OG0001770	KAI3437775.1 hypothetical protein D9Q98_000222 [Chlorella vulgaris]	QAXK01001922.1_7027-5313
+OG0001772	KAI3427267.1 hypothetical protein D9Q98_007199 [Chlorella vulgaris]	QAXK01010435.1_780-2170
+OG0001778	KAI3431760.1 hypothetical protein D9Q98_004802 [Chlorella vulgaris]	QAXK01006312.1_5841-2543
+OG0001780	KAI3432607.1 hypothetical protein D9Q98_004154 [Chlorella vulgaris]	QAXK01003072.1_7601-12066
+OG0001782	KAI3433812.1 hypothetical protein D9Q98_003616 [Chlorella vulgaris]	QAXK01000627.1_25854-27382
+OG0001783	KAI3435750.1 hypothetical protein D9Q98_001808 [Chlorella vulgaris]	QAXK01004723.1_8556-4882
+OG0001788	KAI3428741.1 hypothetical protein D9Q98_007564 [Chlorella vulgaris]	QAXK01008099.1_16922-14889
+OG0001790	KAI3438003.1 hypothetical protein D9Q98_000446 [Chlorella vulgaris]	QAXK01000362.1_13682-19843
+OG0001792	KAI3432629.1 hypothetical protein D9Q98_004175 [Chlorella vulgaris]	QAXK01002348.1_22026-23431
+OG0001794	KAI3437982.1 hypothetical protein D9Q98_000426 [Chlorella vulgaris]	QAXK01000643.1_10651-8242
+OG0001801	KAI3438225.1 hypothetical protein D9Q98_000662 [Chlorella vulgaris]	QAXK01000208.1_37779-38874
+OG0001806	KAI3429593.1 hypothetical protein D9Q98_005679 [Chlorella vulgaris]	QAXK01005447.1_6594-9151
+OG0001810	KAI3439013.1 hypothetical protein D9Q98_001425 [Chlorella vulgaris]	QAXK01011106.1_2568-3152
+OG0001812	KAI3438237.1 hypothetical protein D9Q98_000674 [Chlorella vulgaris]	QAXK01006399.1_9428-14604
+OG0001813	KAI3438380.1 hypothetical protein D9Q98_000812 [Chlorella vulgaris]	QAXK01000513.1_11487-8211
+OG0001818	KAI3428262.1 hypothetical protein D9Q98_006641 [Chlorella vulgaris]	QAXK01004132.1_4579-6060
+OG0001821	KAI3435939.1 hypothetical protein D9Q98_001997 [Chlorella vulgaris]	QAXK01004177.1_17288-11319
+OG0001824	KAI3428315.1 hypothetical protein D9Q98_006695 [Chlorella vulgaris]	QAXK01003744.1_2800-6411
+OG0001826	KAI3428249.1 hypothetical protein D9Q98_006628 [Chlorella vulgaris]	QAXK01000105.1_5499-2693
+OG0001832	KAI3437749.1 hypothetical protein D9Q98_000197 [Chlorella vulgaris]	QAXK01005654.1_7220-1642
+OG0001837	KAI3423824.1 hypothetical protein D9Q98_009660 [Chlorella vulgaris]	QAXK01000842.1_51041-53429
+OG0001838	KAI3432659.1 hypothetical protein D9Q98_004203 [Chlorella vulgaris]	QAXK01003976.1_8556-3734
+OG0001841	KAI3431868.1 hypothetical protein D9Q98_010619 [Chlorella vulgaris]	QAXK01000976.1_10766-5866
+OG0001842	KAI3437803.1 hypothetical protein D9Q98_000250 [Chlorella vulgaris]	QAXK01006275.1_27485-25822
+OG0001843	KAI3438260.1 hypothetical protein D9Q98_000696 [Chlorella vulgaris]	QAXK01004149.1_22375-24958
+OG0001845	KAI3436598.1 hypothetical protein D9Q98_006015 [Chlorella vulgaris]	QAXK01001702.1_1666-273
+OG0001847	KAI3432668.1 hypothetical protein D9Q98_004212 [Chlorella vulgaris]	QAXK01009311.1_428-2889
+OG0001849	KAI3434471.1 hypothetical protein D9Q98_002548 [Chlorella vulgaris]	QAXK01007671.1_6596-4238
+OG0001855	KAI3436545.1 hypothetical protein D9Q98_005961 [Chlorella vulgaris]	QAXK01000335.1_27254-25603
+OG0001856	KAI3434443.1 hypothetical protein D9Q98_002520 [Chlorella vulgaris]	QAXK01003506.1_17890-19170
+OG0001857	KAI3435685.1 hypothetical protein D9Q98_001743 [Chlorella vulgaris]	QAXK01002176.1_5254-6169
+OG0001858	KAI3426268.1 hypothetical protein D9Q98_008643 [Chlorella vulgaris]	QAXK01017983.1_2022-269
+OG0001860	KAI3426253.1 hypothetical protein D9Q98_008628 [Chlorella vulgaris]	QAXK01000036.1_15496-18071
+OG0001861	KAI3426251.1 hypothetical protein D9Q98_008626 [Chlorella vulgaris]	QAXK01001933.1_13708-11461
+OG0001862	KAI3426106.1 hypothetical protein D9Q98_008485 [Chlorella vulgaris]	QAXK01002439.1_1431-31
+OG0001863	KAI3426451.1 hypothetical protein D9Q98_008818 [Chlorella vulgaris]	QAXK01000006.1_11270-7049
+OG0001864	KAI3426176.1 hypothetical protein D9Q98_008553 [Chlorella vulgaris]	QAXK01001807.1_30588-28596
+OG0001866	KAI3434674.1 hypothetical protein D9Q98_002738 [Chlorella vulgaris]	QAXK01004671.1_3332-9990
+OG0001867	KAI3426304.1 hypothetical protein D9Q98_008677 [Chlorella vulgaris]	QAXK01006658.1_2089-1110
+OG0001868	KAI3432414.1 hypothetical protein D9Q98_003968 [Chlorella vulgaris]	QAXK01018034.1_4900-2264
+OG0001869	KAI3426163.1 hypothetical protein D9Q98_008540 [Chlorella vulgaris]	QAXK01002273.1_12619-10163
+OG0001870	KAI3426965.1 hypothetical protein D9Q98_006909 [Chlorella vulgaris]	QAXK01007444.1_11468-13953
+OG0001871	KAI3429588.1 hypothetical protein D9Q98_005674 [Chlorella vulgaris]	QAXK01000027.1_14275-12645
+OG0001873	KAI3429616.1 hypothetical protein D9Q98_005702 [Chlorella vulgaris]	QAXK01003671.1_1285-5252
+OG0001874	KAI3429683.1 hypothetical protein D9Q98_005768 [Chlorella vulgaris]	QAXK01002443.1_10680-7074
+OG0001879	KAI3426415.1 hypothetical protein D9Q98_008784 [Chlorella vulgaris]	QAXK01014786.1_3020-29
+OG0001880	KAI3436202.1 hypothetical protein D9Q98_002256 [Chlorella vulgaris]	QAXK01014616.1_960-3765
+OG0001882	KAI3429674.1 hypothetical protein D9Q98_005759 [Chlorella vulgaris]	QAXK01001694.1_21339-20476
+OG0001883	KAI3426446.1 hypothetical protein D9Q98_008813 [Chlorella vulgaris]	QAXK01000225.1_2559-365
+OG0001887	KAI3431521.1 hypothetical protein D9Q98_004571 [Chlorella vulgaris]	QAXK01004187.1_1760-33
+OG0001888	KAI3426883.1 hypothetical protein D9Q98_006829 [Chlorella vulgaris]	QAXK01016711.1_4152-7100
+OG0001890	KAI3424160.1 hypothetical protein D9Q98_009519 [Chlorella vulgaris]	QAXK01010406.1_2162-130
+OG0001893	KAI3430703.1 hypothetical protein D9Q98_005292 [Chlorella vulgaris]	QAXK01002579.1_17292-15497
+OG0001895	KAI3436328.1 hypothetical protein D9Q98_002381 [Chlorella vulgaris]	QAXK01016971.1_2990-681
+OG0001898	KAI3436347.1 hypothetical protein D9Q98_002400 [Chlorella vulgaris]	QAXK01001156.1_3180-1500
+OG0001900	KAI3436309.1 hypothetical protein D9Q98_002362 [Chlorella vulgaris]	QAXK01009399.1_423-2536
+OG0001902	KAI3436290.1 hypothetical protein D9Q98_002343 [Chlorella vulgaris]	QAXK01008314.1_4813-7042
+OG0001907	KAI3436320.1 hypothetical protein D9Q98_002373 [Chlorella vulgaris]	QAXK01003345.1_36704-34696
+OG0001911	KAI3435747.1 hypothetical protein D9Q98_001805 [Chlorella vulgaris]	QAXK01003378.1_5209-366
+OG0001915	KAI3428492.1 hypothetical protein D9Q98_007317 [Chlorella vulgaris]	QAXK01004688.1_3441-5908
+OG0001916	KAI3427273.1 hypothetical protein D9Q98_007205 [Chlorella vulgaris]	QAXK01001344.1_15728-16873
+OG0001917	KAI3437717.1 hypothetical protein D9Q98_000165 [Chlorella vulgaris]	QAXK01010657.1_2437-238
+OG0001918	KAI3423888.1 hypothetical protein D9Q98_009722 [Chlorella vulgaris]	QAXK01003671.1_14459-17304
+OG0001919	KAI3433438.1 hypothetical protein D9Q98_003253 [Chlorella vulgaris]	QAXK01001468.1_4935-8852
+OG0001920	KAI3433422.1 hypothetical protein D9Q98_003237 [Chlorella vulgaris]	QAXK01000770.1_6276-4831
+OG0001921	KAI3431669.1 hypothetical protein D9Q98_004716 [Chlorella vulgaris]	QAXK01004635.1_12023-13891
+OG0001922	KAI3437601.1 hypothetical protein D9Q98_000054 [Chlorella vulgaris]	QAXK01011133.1_12839-6837
+OG0001928	KAI3433403.1 hypothetical protein D9Q98_003219 [Chlorella vulgaris]	QAXK01003150.1_16472-17917
+OG0001930	KAI3431813.1 hypothetical protein D9Q98_010566 [Chlorella vulgaris]	QAXK01003163.1_7337-4796
+OG0001931	KAI3431832.1 hypothetical protein D9Q98_010585 [Chlorella vulgaris]	QAXK01002575.1_2869-493
+OG0001934	KAI3430646.1 hypothetical protein D9Q98_005239 [Chlorella vulgaris]	QAXK01001681.1_35798-38541
+OG0001935	KAI3428245.1 hypothetical protein D9Q98_006625 [Chlorella vulgaris]	QAXK01001208.1_4428-3497
+OG0001936	KAI3430268.1 hypothetical protein D9Q98_004864 [Chlorella vulgaris]	QAXK01000947.1_9658-8064
+OG0001937	KAI3433745.1 hypothetical protein D9Q98_003552 [Chlorella vulgaris]	QAXK01002895.1_11877-8991
+OG0001938	KAI3430260.1 hypothetical protein D9Q98_004856 [Chlorella vulgaris]	QAXK01006045.1_3548-5265
+OG0001943	KAI3433744.1 hypothetical protein D9Q98_003551 [Chlorella vulgaris]	QAXK01001495.1_35130-32135
+OG0001945	KAI3433726.1 hypothetical protein D9Q98_003534 [Chlorella vulgaris]	QAXK01006788.1_3504-1107
+OG0001946	KAI3433747.1 hypothetical protein D9Q98_003554 [Chlorella vulgaris]	QAXK01006196.1_6560-8156
+OG0001947	KAI3433717.1 hypothetical protein D9Q98_003525 [Chlorella vulgaris]	QAXK01001881.1_90892-88031
+OG0001951	KAI3428219.1 hypothetical protein D9Q98_006599 [Chlorella vulgaris]	QAXK01010684.1_1460-556
+OG0001952	KAI3428226.1 hypothetical protein D9Q98_006606 [Chlorella vulgaris]	QAXK01001616.1_0-2161
+OG0001953	KAI3425757.1 hypothetical protein D9Q98_007732 [Chlorella vulgaris]	QAXK01001871.1_8489-9868
+OG0001954	KAI3425917.1 hypothetical protein D9Q98_007889 [Chlorella vulgaris]	QAXK01014389.1_130-668
+OG0001956	KAI3436835.1 hypothetical protein D9Q98_006245 [Chlorella vulgaris]	QAXK01004150.1_9770-14859
+OG0001958	KAI3430990.1 hypothetical protein D9Q98_009393 [Chlorella vulgaris]	QAXK01007010.1_8318-9471
+OG0001960	KAI3424349.1 hypothetical protein D9Q98_009902 [Chlorella vulgaris]	QAXK01005538.1_9255-7797
+OG0001961	KAI3427953.1 hypothetical protein D9Q98_006343 [Chlorella vulgaris]	QAXK01009093.1_4766-1793
+OG0001966	KAI3433658.1 hypothetical protein D9Q98_003467 [Chlorella vulgaris]	QAXK01016188.1_2666-4256
+OG0001967	KAI3434971.1 hypothetical protein D9Q98_003023 [Chlorella vulgaris]	QAXK01000446.1_47170-46172
+OG0001969	KAI3425791.1 hypothetical protein D9Q98_007766 [Chlorella vulgaris]	QAXK01002063.1_20394-18703
+OG0001970	KAI3436015.1 hypothetical protein D9Q98_002072 [Chlorella vulgaris]	QAXK01001186.1_3380-493
+OG0001973	KAI3436403.1 hypothetical protein D9Q98_005820 [Chlorella vulgaris]	QAXK01000335.1_27471-29404
+OG0001979	KAI3428306.1 hypothetical protein D9Q98_006685 [Chlorella vulgaris]	QAXK01001265.1_1827-4399
+OG0001980	KAI3436112.1 hypothetical protein D9Q98_002170 [Chlorella vulgaris]	QAXK01003309.1_3370-103
+OG0001986	KAI3430832.1 hypothetical protein D9Q98_009243 [Chlorella vulgaris]	QAXK01000295.1_10054-5194
+OG0001991	KAI3423893.1 hypothetical protein D9Q98_009727 [Chlorella vulgaris]	QAXK01002862.1_2144-4831
+OG0001993	KAI3438503.1 hypothetical protein D9Q98_000931 [Chlorella vulgaris]	QAXK01002212.1_3400-1645
+OG0001995	KAI3432453.1 hypothetical protein D9Q98_004003 [Chlorella vulgaris]	QAXK01014184.1_2136-4076
+OG0001996	KAI3435505.1 hypothetical protein D9Q98_001571 [Chlorella vulgaris]	QAXK01001275.1_1545-3783
+OG0001998	KAI3423819.1 hypothetical protein D9Q98_009655 [Chlorella vulgaris]	QAXK01000407.1_9246-10753
+OG0001999	KAI3435520.1 hypothetical protein D9Q98_001586 [Chlorella vulgaris]	QAXK01001060.1_158-4769
+OG0002000	KAI3433306.1 hypothetical protein D9Q98_003124 [Chlorella vulgaris]	QAXK01003280.1_21069-16498
+OG0002001	KAI3435533.1 hypothetical protein D9Q98_001598 [Chlorella vulgaris]	QAXK01007038.1_3322-7876
+OG0002003	KAI3435616.1 hypothetical protein D9Q98_001677 [Chlorella vulgaris]	QAXK01002652.1_3797-1393
+OG0002004	KAI3435619.1 hypothetical protein D9Q98_001679 [Chlorella vulgaris]	QAXK01012829.1_4377-6139
+OG0002005	KAI3438125.1 hypothetical protein D9Q98_000566 [Chlorella vulgaris]	QAXK01004007.1_7633-6740
+OG0002006	KAI3438063.1 hypothetical protein D9Q98_000506 [Chlorella vulgaris]	QAXK01000137.1_21575-22932
+OG0002007	KAI3438113.1 hypothetical protein D9Q98_000554 [Chlorella vulgaris]	QAXK01009439.1_10946-16439
+OG0002008	KAI3438127.1 hypothetical protein D9Q98_000568 [Chlorella vulgaris]	QAXK01000685.1_2507-3830
+OG0002010	KAI3438143.1 hypothetical protein D9Q98_000584 [Chlorella vulgaris]	QAXK01004465.1_1413-1889
+OG0002011	KAI3438085.1 hypothetical protein D9Q98_000527 [Chlorella vulgaris]	QAXK01008697.1_3621-1
+OG0002012	KAI3438120.1 hypothetical protein D9Q98_000561 [Chlorella vulgaris]	QAXK01008479.1_22-1572
+OG0002013	KAI3438126.1 hypothetical protein D9Q98_000567 [Chlorella vulgaris]	QAXK01000704.1_865-2353
+OG0002014	KAI3438130.1 hypothetical protein D9Q98_000571 [Chlorella vulgaris]	QAXK01001731.1_8237-12954
+OG0002015	KAI3438423.1 hypothetical protein D9Q98_000854 [Chlorella vulgaris]	QAXK01001095.1_1607-5427
+OG0002018	KAI3435666.1 hypothetical protein D9Q98_001724 [Chlorella vulgaris]	QAXK01000579.1_6879-2831
+OG0002023	KAI3434452.1 hypothetical protein D9Q98_002529 [Chlorella vulgaris]	QAXK01004467.1_4446-2978
+OG0002024	KAI3427966.1 hypothetical protein D9Q98_006356 [Chlorella vulgaris]	QAXK01007476.1_6843-3464
+OG0002026	KAI3428001.1 hypothetical protein D9Q98_006387 [Chlorella vulgaris]	QAXK01000116.1_15959-12419
+OG0002027	KAI3434464.1 hypothetical protein D9Q98_002541 [Chlorella vulgaris]	QAXK01000153.1_10025-9224
+OG0002028	KAI3425164.1 hypothetical protein D9Q98_008935 [Chlorella vulgaris]	QAXK01001007.1_9576-3460
+OG0002029	KAI3436231.1 hypothetical protein D9Q98_002285 [Chlorella vulgaris]	QAXK01001726.1_9416-10685
+OG0002032	KAI3430573.1 hypothetical protein D9Q98_005166 [Chlorella vulgaris]	QAXK01018007.1_11683-5307
+OG0002035	KAI3433704.1 hypothetical protein D9Q98_003513 [Chlorella vulgaris]	QAXK01001162.1_4704-11654
+OG0002036	KAI3438608.1 hypothetical protein D9Q98_001031 [Chlorella vulgaris]	QAXK01003552.1_4945-952
+OG0002040	KAI3432213.1 hypothetical protein D9Q98_003775 [Chlorella vulgaris]	QAXK01004862.1_20323-24029
+OG0002043	KAI3430534.1 hypothetical protein D9Q98_005127 [Chlorella vulgaris]	QAXK01000495.1_11359-8819
+OG0002046	KAI3425978.1 hypothetical protein D9Q98_007946 [Chlorella vulgaris]	QAXK01003370.1_5253-2449
+OG0002049	KAI3430588.1 hypothetical protein D9Q98_005181 [Chlorella vulgaris]	QAXK01004800.1_3523-170
+OG0002051	KAI3437621.1 hypothetical protein D9Q98_000073 [Chlorella vulgaris]	QAXK01005999.1_9988-12832
+OG0002063	KAI3431326.1 hypothetical protein D9Q98_004384 [Chlorella vulgaris]	QAXK01001387.1_26607-27895
+OG0002070	KAI3438420.1 hypothetical protein D9Q98_000851 [Chlorella vulgaris]	QAXK01003882.1_7725-3343
+OG0002072	KAI3432617.1 hypothetical protein D9Q98_004163 [Chlorella vulgaris]	QAXK01000401.1_8251-6577
+OG0002073	KAI3438306.1 hypothetical protein D9Q98_000740 [Chlorella vulgaris], KAI3438307.1 hypothetical protein D9Q98_000741 [Chlorella vulgaris]	QAXK01011684.1_2005-861
+OG0002074	KAI3433642.1 hypothetical protein D9Q98_003451 [Chlorella vulgaris]	QAXK01005165.1_9870-10888
+OG0002075	KAI3433540.1 hypothetical protein D9Q98_003350 [Chlorella vulgaris]	QAXK01000112.1_21457-19158
+OG0002080	KAI3433551.1 hypothetical protein D9Q98_003362 [Chlorella vulgaris]	QAXK01005319.1_1852-5123
+OG0002081	KAI3425814.1 hypothetical protein D9Q98_007789 [Chlorella vulgaris]	QAXK01000024.1_6845-4701
+OG0002082	KAI3438232.1 hypothetical protein D9Q98_000669 [Chlorella vulgaris]	QAXK01003767.1_15037-16578
+OG0002086	KAI3433513.1 hypothetical protein D9Q98_003324 [Chlorella vulgaris]	QAXK01000416.1_236-1468
+OG0002088	KAI3438894.1 hypothetical protein D9Q98_001309 [Chlorella vulgaris]	QAXK01004430.1_4845-10525
+OG0002090	KAI3438888.1 hypothetical protein D9Q98_001303 [Chlorella vulgaris]	QAXK01000004.1_10133-7859
+OG0002092	KAI3436789.1 hypothetical protein D9Q98_006200 [Chlorella vulgaris]	QAXK01001415.1_8205-13561
+OG0002095	KAI3431557.1 hypothetical protein D9Q98_004606 [Chlorella vulgaris]	QAXK01000224.1_15148-12485
+OG0002103	KAI3430366.1 hypothetical protein D9Q98_004961 [Chlorella vulgaris]	QAXK01000770.1_6581-10685
+OG0002105	KAI3428516.1 hypothetical protein D9Q98_007339 [Chlorella vulgaris]	QAXK01018040.1_3609-5929
+OG0002110	KAI3434686.1 hypothetical protein D9Q98_002749 [Chlorella vulgaris]	QAXK01007447.1_7916-1145
+OG0002111	KAI3432718.1 hypothetical protein D9Q98_004261 [Chlorella vulgaris]	QAXK01013514.1_9351-7632
+OG0002112	KAI3428808.1 hypothetical protein D9Q98_007625 [Chlorella vulgaris]	QAXK01015359.1_10390-8068
+OG0002120	KAI3436080.1 hypothetical protein D9Q98_002138 [Chlorella vulgaris]	QAXK01005023.1_11393-17094
+OG0002122	KAI3436063.1 hypothetical protein D9Q98_002121 [Chlorella vulgaris]	QAXK01010373.1_8651-6830
+OG0002123	KAI3436150.1 hypothetical protein D9Q98_002207 [Chlorella vulgaris]	QAXK01000700.1_5491-3572
+OG0002124	KAI3428233.1 hypothetical protein D9Q98_006613 [Chlorella vulgaris]	QAXK01004007.1_8647-10727
+OG0002127	KAI3437938.1 hypothetical protein D9Q98_000382 [Chlorella vulgaris]	QAXK01001495.1_27698-29888
+OG0002128	KAI3429738.1 hypothetical protein D9Q98_010053 [Chlorella vulgaris]	QAXK01002518.1_56-2855
+OG0002131	KAI3429867.1 hypothetical protein D9Q98_010178 [Chlorella vulgaris]	QAXK01001894.1_15083-15978
+OG0002132	KAI3427269.1 hypothetical protein D9Q98_007201 [Chlorella vulgaris]	QAXK01009974.1_15390-17483
+OG0002134	KAI3429888.1 hypothetical protein D9Q98_010199 [Chlorella vulgaris]	QAXK01000252.1_16687-14824
+OG0002138	KAI3436824.1 hypothetical protein D9Q98_006234 [Chlorella vulgaris]	QAXK01015692.1_7967-6370
+OG0002139	KAI3428350.1 hypothetical protein D9Q98_006730 [Chlorella vulgaris]	QAXK01003183.1_18810-17365
+OG0002141	KAI3434789.1 hypothetical protein D9Q98_002847 [Chlorella vulgaris]	QAXK01004474.1_7154-5648
+OG0002142	KAI3428835.1 hypothetical protein D9Q98_007652 [Chlorella vulgaris]	QAXK01011512.1_2962-4685
+OG0002144	KAI3429711.1 hypothetical protein D9Q98_005796 [Chlorella vulgaris]	QAXK01000452.1_14665-16837
+OG0002145	KAI3424470.1 hypothetical protein D9Q98_010021 [Chlorella vulgaris]	QAXK01000208.1_15729-14120
+OG0002146	KAI3435927.1 hypothetical protein D9Q98_001985 [Chlorella vulgaris]	QAXK01014393.1_10002-7696
+OG0002147	KAI3436881.1 hypothetical protein D9Q98_006289 [Chlorella vulgaris]	QAXK01000383.1_6224-8512
+OG0002149	KAI3438555.1 hypothetical protein D9Q98_000983 [Chlorella vulgaris]	QAXK01007800.1_664-2473
+OG0002153	KAI3438831.1 hypothetical protein D9Q98_001248 [Chlorella vulgaris]	QAXK01004231.1_9560-10863
+OG0002154	KAI3428367.1 hypothetical protein D9Q98_006747 [Chlorella vulgaris]	QAXK01001673.1_7134-5531
+OG0002158	KAI3436782.1 hypothetical protein D9Q98_006193 [Chlorella vulgaris]	QAXK01000427.1_69010-61523
+OG0002159	KAI3435838.1 hypothetical protein D9Q98_001896 [Chlorella vulgaris]	QAXK01001947.1_6933-16171
+OG0002161	KAI3425297.1 hypothetical protein D9Q98_009063 [Chlorella vulgaris]	QAXK01000667.1_5631-9231
+OG0002162	KAI3424428.1 hypothetical protein D9Q98_009980 [Chlorella vulgaris]	QAXK01001956.1_6721-5102
+OG0002163	KAI3435879.1 hypothetical protein D9Q98_001937 [Chlorella vulgaris]	QAXK01000249.1_23024-26432
+OG0002165	KAI3434788.1 hypothetical protein D9Q98_002846 [Chlorella vulgaris]	QAXK01004616.1_9420-16745
+OG0002167	KAI3434792.1 hypothetical protein D9Q98_002850 [Chlorella vulgaris]	QAXK01011260.1_4573-3532
+OG0002169	KAI3438410.1 hypothetical protein D9Q98_000841 [Chlorella vulgaris]	QAXK01012387.1_1585-757
+OG0002171	KAI3426103.1 hypothetical protein D9Q98_008071 [Chlorella vulgaris]	QAXK01000446.1_58269-64323
+OG0002172	KAI3428683.1 hypothetical protein D9Q98_007506 [Chlorella vulgaris]	QAXK01012305.1_2510-4620
+OG0002173	KAI3428690.1 hypothetical protein D9Q98_007513 [Chlorella vulgaris]	QAXK01000596.1_14630-16935
+OG0002175	KAI3426102.1 hypothetical protein D9Q98_008070 [Chlorella vulgaris]	QAXK01001681.1_26607-28630
+OG0002176	KAI3428753.1 hypothetical protein D9Q98_007575 [Chlorella vulgaris]	QAXK01006378.1_6447-7421
+OG0002177	KAI3428693.1 hypothetical protein D9Q98_007516 [Chlorella vulgaris]	QAXK01001458.1_24314-19030
+OG0002179	KAI3428653.1 hypothetical protein D9Q98_007476 [Chlorella vulgaris]	QAXK01000816.1_3651-1777
+OG0002180	KAI3426076.1 hypothetical protein D9Q98_008044 [Chlorella vulgaris]	QAXK01013408.1_2179-3352
+OG0002181	KAI3428658.1 hypothetical protein D9Q98_007481 [Chlorella vulgaris]	QAXK01001085.1_14460-16185
+OG0002182	KAI3436708.1 hypothetical protein D9Q98_006123 [Chlorella vulgaris]	QAXK01011403.1_8648-10184
+OG0002185	KAI3424856.1 hypothetical protein D9Q98_008240 [Chlorella vulgaris]	QAXK01004305.1_1287-2625
+OG0002194	KAI3438069.1 hypothetical protein D9Q98_000511 [Chlorella vulgaris], KAI3438068.1 hypothetical protein D9Q98_000511 [Chlorella vulgaris]	QAXK01000283.1_35828-37170
+OG0002195	KAI3439114.1 hypothetical protein D9Q98_001523 [Chlorella vulgaris]	QAXK01004230.1_16730-15188
+OG0002201	KAI3430661.1 hypothetical protein D9Q98_005253 [Chlorella vulgaris]	QAXK01010560.1_4646-7806
+OG0002202	KAI3427198.1 hypothetical protein D9Q98_007134 [Chlorella vulgaris]	QAXK01015485.1_1487-4220
+OG0002203	KAI3428077.1 hypothetical protein D9Q98_006461 [Chlorella vulgaris]	QAXK01002836.1_26336-33102
+OG0002205	KAI3432625.1 hypothetical protein D9Q98_004171 [Chlorella vulgaris]	QAXK01006533.1_2359-4576
+OG0002206	KAI3425205.1 hypothetical protein D9Q98_008973 [Chlorella vulgaris]	QAXK01001756.1_16985-18889
+OG0002211	KAI3435958.1 hypothetical protein D9Q98_002016 [Chlorella vulgaris]	QAXK01002337.1_17192-14208
+OG0002212	KAI3427057.1 hypothetical protein D9Q98_006997 [Chlorella vulgaris]	QAXK01004985.1_1921-3702
+OG0002214	KAI3435957.1 hypothetical protein D9Q98_002015 [Chlorella vulgaris]	QAXK01004099.1_10602-7616
+OG0002216	KAI3430409.1 hypothetical protein D9Q98_005004 [Chlorella vulgaris]	QAXK01008333.1_5211-755
+OG0002218	KAI3429249.1 hypothetical protein D9Q98_005346 [Chlorella vulgaris]	QAXK01008568.1_4370-1172
+OG0002219	KAI3424991.1 hypothetical protein D9Q98_008372 [Chlorella vulgaris]	QAXK01000926.1_8546-11734
+OG0002221	KAI3430410.1 hypothetical protein D9Q98_005005 [Chlorella vulgaris]	QAXK01000669.1_13732-11344
+OG0002223	KAI3432351.1 hypothetical protein D9Q98_003908 [Chlorella vulgaris]	QAXK01002445.1_7314-8396
+OG0002227	KAI3433830.1 hypothetical protein D9Q98_003634 [Chlorella vulgaris]	QAXK01002658.1_19503-16448
+OG0002228	KAI3433827.1 hypothetical protein D9Q98_003631 [Chlorella vulgaris]	QAXK01005657.1_4133-2964
+OG0002229	KAI3433828.1 hypothetical protein D9Q98_003632 [Chlorella vulgaris]	QAXK01012523.1_554-5993
+OG0002231	KAI3424886.1 hypothetical protein D9Q98_008270 [Chlorella vulgaris]	QAXK01000465.1_13752-12830
+OG0002232	KAI3428714.1 hypothetical protein D9Q98_007538 [Chlorella vulgaris]	QAXK01003345.1_4291-6594
+OG0002233	KAI3426393.1 hypothetical protein D9Q98_008764 [Chlorella vulgaris]	QAXK01000437.1_11961-16259
+OG0002235	KAI3426378.1 hypothetical protein D9Q98_008749 [Chlorella vulgaris]	QAXK01001803.1_9702-7639
+OG0002238	KAI3429495.1 hypothetical protein D9Q98_005584 [Chlorella vulgaris]	QAXK01001182.1_10605-8247
+OG0002241	KAI3424970.1 hypothetical protein D9Q98_008351 [Chlorella vulgaris]	QAXK01018825.1_5368-4150
+OG0002243	KAI3426099.1 hypothetical protein D9Q98_008067 [Chlorella vulgaris]	QAXK01000459.1_16579-20716
+OG0002246	KAI3434960.1 hypothetical protein D9Q98_003014 [Chlorella vulgaris]	QAXK01004963.1_17662-16561
+OG0002250	KAI3424986.1 hypothetical protein D9Q98_008367 [Chlorella vulgaris]	QAXK01009768.1_6744-3068
+OG0002257	KAI3429824.1 hypothetical protein D9Q98_010137 [Chlorella vulgaris]	QAXK01003840.1_2463-275
+OG0002262	KAI3427130.1 hypothetical protein D9Q98_007067 [Chlorella vulgaris]	QAXK01009985.1_8201-11435
+OG0002280	KAI3436633.1 hypothetical protein D9Q98_006049 [Chlorella vulgaris]	QAXK01000180.1_9982-8131
+OG0002282	KAI3435966.1 hypothetical protein D9Q98_002024 [Chlorella vulgaris]	QAXK01000502.1_36980-37941
+OG0002289	KAI3437748.1 hypothetical protein D9Q98_000196 [Chlorella vulgaris]	QAXK01009887.1_2599-389
+OG0002367	KAI3438077.1 hypothetical protein D9Q98_000519 [Chlorella vulgaris]	QAXK01000828.1_1794-5888
+OG0002368	KAI3438172.1 hypothetical protein D9Q98_000609 [Chlorella vulgaris]	QAXK01012125.1_2420-651
+OG0002374	KAI3434542.1 hypothetical protein D9Q98_002615 [Chlorella vulgaris]	QAXK01003443.1_1888-4145
+OG0002375	KAI3438079.1 hypothetical protein D9Q98_000521 [Chlorella vulgaris]	QAXK01000611.1_344-2643
+OG0002377	KAI3434567.1 hypothetical protein D9Q98_002639 [Chlorella vulgaris]	QAXK01000070.1_5006-2926
+OG0002391	KAI3424083.1 hypothetical protein D9Q98_009445 [Chlorella vulgaris]	QAXK01001032.1_529-3021
+OG0002392	KAI3434836.1 hypothetical protein D9Q98_002891 [Chlorella vulgaris]	QAXK01004092.1_39419-40407
+OG0002393	KAI3424463.1 hypothetical protein D9Q98_010014 [Chlorella vulgaris]	QAXK01004425.1_5700-7015
+OG0002398	KAI3434833.1 hypothetical protein D9Q98_002888 [Chlorella vulgaris]	QAXK01007630.1_3354-1779
+OG0002400	KAI3434832.1 hypothetical protein D9Q98_002887 [Chlorella vulgaris]	QAXK01009758.1_1852-165
+OG0002402	KAI3424136.1 hypothetical protein D9Q98_009496 [Chlorella vulgaris]	QAXK01006527.1_8708-6017
+OG0002404	KAI3424077.1 hypothetical protein D9Q98_009440 [Chlorella vulgaris]	QAXK01000840.1_31502-30180
+OG0002407	KAI3430901.1 hypothetical protein D9Q98_009310 [Chlorella vulgaris]	QAXK01002424.1_5771-2597
+OG0002409	KAI3430860.1 hypothetical protein D9Q98_009269 [Chlorella vulgaris]	QAXK01003096.1_14696-17609
+OG0002410	KAI3432355.1 hypothetical protein D9Q98_003912 [Chlorella vulgaris]	QAXK01000328.1_7305-8962
+OG0002415	KAI3429730.1 hypothetical protein D9Q98_010045 [Chlorella vulgaris]	QAXK01018530.1_1173-3834
+OG0002417	KAI3429728.1 hypothetical protein D9Q98_010043 [Chlorella vulgaris]	QAXK01014946.1_5937-4091
+OG0002421	KAI3435597.1 hypothetical protein D9Q98_001662 [Chlorella vulgaris]	QAXK01000019.1_127-3831
+OG0002424	KAI3430442.1 hypothetical protein D9Q98_005037 [Chlorella vulgaris]	QAXK01004230.1_13015-11861
+OG0002429	KAI3437878.1 hypothetical protein D9Q98_000324 [Chlorella vulgaris]	QAXK01018188.1_2713-2029
+OG0002433	KAI3437851.1 hypothetical protein D9Q98_000297 [Chlorella vulgaris]	QAXK01010016.1_2591-4898
+OG0002435	KAI3438571.1 hypothetical protein D9Q98_000998 [Chlorella vulgaris]	QAXK01006642.1_4903-8475
+OG0002439	KAI3438426.1 hypothetical protein D9Q98_000857 [Chlorella vulgaris]	QAXK01006012.1_4611-6378
+OG0002441	KAI3438443.1 hypothetical protein D9Q98_000873 [Chlorella vulgaris]	QAXK01000523.1_8909-7053
+OG0002447	KAI3438553.1 hypothetical protein D9Q98_000981 [Chlorella vulgaris]	QAXK01011649.1_6227-2645
+OG0002451	KAI3426399.1 hypothetical protein D9Q98_008769 [Chlorella vulgaris]	QAXK01000979.1_11011-9108
+OG0002454	KAI3436267.1 hypothetical protein D9Q98_002320 [Chlorella vulgaris]	QAXK01017228.1_872-211
+OG0002461	KAI3438817.1 hypothetical protein D9Q98_001234 [Chlorella vulgaris]	QAXK01008372.1_4504-1777
+OG0002470	KAI3428420.1 hypothetical protein D9Q98_007247 [Chlorella vulgaris]	QAXK01004760.1_349-2010
+OG0002473	KAI3426053.1 hypothetical protein D9Q98_008021 [Chlorella vulgaris]	QAXK01005580.1_145-5612
+OG0002481	KAI3438662.1 hypothetical protein D9Q98_001083 [Chlorella vulgaris]	QAXK01019295.1_5920-5732
+OG0002489	KAI3424295.1 hypothetical protein D9Q98_009850 [Chlorella vulgaris]	QAXK01011332.1_7730-6306
+OG0002490	KAI3434481.1 hypothetical protein D9Q98_002557 [Chlorella vulgaris]	QAXK01005493.1_5709-8739
+OG0002491	KAI3436629.1 hypothetical protein D9Q98_006046 [Chlorella vulgaris]	QAXK01001982.1_13111-9273
+OG0002493	KAI3430480.1 hypothetical protein D9Q98_005075 [Chlorella vulgaris]	QAXK01003356.1_3976-6343
+OG0002501	KAI3434533.1 hypothetical protein D9Q98_002606 [Chlorella vulgaris]	QAXK01015333.1_8887-6386
+OG0002502	KAI3437820.1 hypothetical protein D9Q98_000267 [Chlorella vulgaris]	QAXK01004701.1_7826-2022
+OG0002509	KAI3425047.1 hypothetical protein D9Q98_008425 [Chlorella vulgaris]	QAXK01002072.1_7784-4601
+OG0002520	KAI3428739.1 hypothetical protein D9Q98_007562 [Chlorella vulgaris]	QAXK01004095.1_2354-706
+OG0002524	KAI3438140.1 hypothetical protein D9Q98_000581 [Chlorella vulgaris]	QAXK01000577.1_7847-8807
+OG0002525	KAI3428743.1 hypothetical protein D9Q98_007566 [Chlorella vulgaris]	QAXK01004000.1_12088-10081
+OG0002540	KAI3435887.1 hypothetical protein D9Q98_001945 [Chlorella vulgaris]	QAXK01000802.1_2542-6601
+OG0002550	KAI3432686.1 hypothetical protein D9Q98_004229 [Chlorella vulgaris]	QAXK01001082.1_16962-21149
+OG0002551	KAI3432364.1 hypothetical protein D9Q98_003921 [Chlorella vulgaris]	QAXK01000484.1_4718-2307
+OG0002552	KAI3427056.1 hypothetical protein D9Q98_006996 [Chlorella vulgaris]	QAXK01001169.1_7647-4609
+OG0002561	KAI3432799.1 hypothetical protein D9Q98_010383 [Chlorella vulgaris]	QAXK01000325.1_52702-51360
+OG0002563	KAI3429637.1 hypothetical protein D9Q98_005723 [Chlorella vulgaris]	QAXK01010777.1_196-929
+OG0002569	KAI3428319.1 hypothetical protein D9Q98_006699 [Chlorella vulgaris]	QAXK01008095.1_6073-1465
+OG0002570	KAI3435856.1 hypothetical protein D9Q98_001914 [Chlorella vulgaris]	QAXK01004879.1_5868-4307
+OG0002572	KAI3431636.1 hypothetical protein D9Q98_004683 [Chlorella vulgaris]	QAXK01003017.1_10269-9177
+OG0002575	KAI3429449.1 hypothetical protein D9Q98_005542 [Chlorella vulgaris]	QAXK01018811.1_5082-3547
+OG0002578	KAI3432660.1 hypothetical protein D9Q98_004204 [Chlorella vulgaris]	QAXK01006849.1_22455-23625
+OG0002581	KAI3427331.1 hypothetical protein D9Q98_010248 [Chlorella vulgaris]	QAXK01000799.1_52275-51787
+OG0002587	KAI3432211.1 hypothetical protein D9Q98_003773 [Chlorella vulgaris]	QAXK01003879.1_1866-205
+OG0002588	KAI3432683.1 hypothetical protein D9Q98_004226 [Chlorella vulgaris]	QAXK01006532.1_11118-4758
+OG0002596	KAI3430749.1 hypothetical protein D9Q98_009161 [Chlorella vulgaris]	QAXK01013827.1_4630-1867
+OG0002601	KAI3436471.1 hypothetical protein D9Q98_005888 [Chlorella vulgaris]	QAXK01013188.1_5354-2685
+OG0002604	KAI3427439.1 hypothetical protein D9Q98_010354 [Chlorella vulgaris]	QAXK01003755.1_5170-9460
+OG0002608	KAI3426257.1 hypothetical protein D9Q98_008632 [Chlorella vulgaris]	QAXK01001306.1_3606-5501
+OG0002610	KAI3435683.1 hypothetical protein D9Q98_001741 [Chlorella vulgaris]	QAXK01006881.1_2636-4947
+OG0002611	KAI3435679.1 hypothetical protein D9Q98_001736 [Chlorella vulgaris]	QAXK01008206.1_13328-14330
+OG0002613	KAI3435689.1 hypothetical protein D9Q98_001747 [Chlorella vulgaris]	QAXK01001336.1_4314-5769
+OG0002615	KAI3430292.1 hypothetical protein D9Q98_004888 [Chlorella vulgaris]	QAXK01018285.1_3833-2399
+OG0002620	KAI3429516.1 hypothetical protein D9Q98_005605 [Chlorella vulgaris]	QAXK01005400.1_31209-29659
+OG0002627	KAI3426426.1 hypothetical protein D9Q98_008794 [Chlorella vulgaris]	QAXK01000679.1_20862-23970
+OG0002632	KAI3426433.1 hypothetical protein D9Q98_008801 [Chlorella vulgaris]	QAXK01000208.1_858-3327
+OG0002633	KAI3438579.1 hypothetical protein D9Q98_001004 [Chlorella vulgaris]	QAXK01015735.1_789-3208
+OG0002634	KAI3426954.1 hypothetical protein D9Q98_006898 [Chlorella vulgaris]	QAXK01005319.1_15043-16886
+OG0002641	KAI3431569.1 hypothetical protein D9Q98_004619 [Chlorella vulgaris]	QAXK01001768.1_11195-11945
+OG0002642	KAI3429589.1 hypothetical protein D9Q98_005675 [Chlorella vulgaris]	QAXK01002348.1_6292-8730
+OG0002654	KAI3426231.1 hypothetical protein D9Q98_008607 [Chlorella vulgaris]	QAXK01008540.1_14282-12509
+OG0002656	KAI3431516.1 hypothetical protein D9Q98_004566 [Chlorella vulgaris]	QAXK01008693.1_1704-2778
+OG0002657	KAI3426218.1 hypothetical protein D9Q98_008594 [Chlorella vulgaris]	QAXK01001396.1_8898-9977
+OG0002663	KAI3430727.1 hypothetical protein D9Q98_005313 [Chlorella vulgaris]	QAXK01005614.1_2666-5868
+OG0002665	KAI3430672.1 hypothetical protein D9Q98_005263 [Chlorella vulgaris]	QAXK01013120.1_9967-12816
+OG0002670	KAI3424363.1 hypothetical protein D9Q98_009916 [Chlorella vulgaris]	QAXK01006673.1_15764-13631
+OG0002674	KAI3436340.1 hypothetical protein D9Q98_002393 [Chlorella vulgaris]	QAXK01009777.1_8817-6577
+OG0002680	KAI3436312.1 hypothetical protein D9Q98_002365 [Chlorella vulgaris]	QAXK01002348.1_28743-27471
+OG0002684	KAI3427138.1 hypothetical protein D9Q98_007075 [Chlorella vulgaris]	QAXK01009099.1_14211-12777
+OG0002690	KAI3431661.1 hypothetical protein D9Q98_004708 [Chlorella vulgaris]	QAXK01002281.1_18158-20087
+OG0002691	KAI3426291.1 hypothetical protein D9Q98_008664 [Chlorella vulgaris]	QAXK01017025.1_286-4417
+OG0002692	KAI3431670.1 hypothetical protein D9Q98_004717 [Chlorella vulgaris]	QAXK01018733.1_2749-2003
+OG0002693	KAI3433441.1 hypothetical protein D9Q98_003255 [Chlorella vulgaris]	QAXK01001086.1_9229-7556
+OG0002695	KAI3429553.1 hypothetical protein D9Q98_005641 [Chlorella vulgaris]	QAXK01007477.1_3698-5226
+OG0002710	KAI3423826.1 hypothetical protein D9Q98_009662 [Chlorella vulgaris]	QAXK01005359.1_3667-6796
+OG0002711	KAI3433593.1 hypothetical protein D9Q98_003404 [Chlorella vulgaris]	QAXK01000142.1_2803-4675
+OG0002714	KAI3438753.1 hypothetical protein D9Q98_001172 [Chlorella vulgaris]	QAXK01008206.1_4068-2028
+OG0002716	KAI3431803.1 hypothetical protein D9Q98_010556 [Chlorella vulgaris]	QAXK01002299.1_25676-26628
+OG0002723	KAI3430598.1 hypothetical protein D9Q98_005191 [Chlorella vulgaris]	QAXK01001735.1_19259-17991
+OG0002725	KAI3430619.1 hypothetical protein D9Q98_005211 [Chlorella vulgaris]	QAXK01014870.1_4125-17
+OG0002728	KAI3430266.1 hypothetical protein D9Q98_004862 [Chlorella vulgaris]	QAXK01001551.1_13518-17077
+OG0002737	KAI3433712.1 hypothetical protein D9Q98_003521 [Chlorella vulgaris]	QAXK01003565.1_11016-9575
+OG0002740	KAI3436413.1 hypothetical protein D9Q98_005830 [Chlorella vulgaris]	QAXK01008073.1_769-1809
+OG0002747	KAI3425821.1 hypothetical protein D9Q98_007796 [Chlorella vulgaris]	QAXK01003905.1_20331-25213
+OG0002748	KAI3436390.1 hypothetical protein D9Q98_005807 [Chlorella vulgaris]	QAXK01006264.1_6024-5189
+OG0002758	KAI3427950.1 hypothetical protein D9Q98_006340 [Chlorella vulgaris]	QAXK01000240.1_34950-34312
+OG0002759	KAI3435999.1 hypothetical protein D9Q98_002056 [Chlorella vulgaris]	QAXK01007099.1_3453-8857
+OG0002761	KAI3435980.1 hypothetical protein D9Q98_002038 [Chlorella vulgaris]	QAXK01001947.1_20720-25947
+OG0002768	KAI3425758.1 hypothetical protein D9Q98_007733 [Chlorella vulgaris]	QAXK01003475.1_1733-1302
+OG0002771	KAI3436776.1 hypothetical protein D9Q98_006188 [Chlorella vulgaris]	QAXK01011921.1_1066-3701
+OG0002772	KAI3436485.1 hypothetical protein D9Q98_005902 [Chlorella vulgaris]	QAXK01003475.1_2682-4175
+OG0002773	KAI3434883.1 hypothetical protein D9Q98_002937 [Chlorella vulgaris]	QAXK01017743.1_4283-978
+OG0002777	KAI3426067.1 hypothetical protein D9Q98_008035 [Chlorella vulgaris]	QAXK01014000.1_19150-23189
+OG0002778	KAI3430293.1 hypothetical protein D9Q98_004889 [Chlorella vulgaris]	QAXK01002678.1_2058-278
+OG0002781	KAI3436854.1 hypothetical protein D9Q98_006264 [Chlorella vulgaris]	QAXK01008309.1_4393-845
+OG0002791	KAI3428791.1 hypothetical protein D9Q98_007610 [Chlorella vulgaris]	QAXK01006910.1_4587-4039
+OG0002793	KAI3439092.1 hypothetical protein D9Q98_001502 [Chlorella vulgaris]	QAXK01003026.1_6033-13877
+OG0002799	KAI3430855.1 hypothetical protein D9Q98_009264 [Chlorella vulgaris]	QAXK01000454.1_923-1568
+OG0002810	KAI3435496.1 hypothetical protein D9Q98_001562 [Chlorella vulgaris]	QAXK01009911.1_30762-28414
+OG0002812	KAI3437958.1 hypothetical protein D9Q98_000402 [Chlorella vulgaris]	QAXK01008556.1_5708-3352
+OG0002818	KAI3435507.1 hypothetical protein D9Q98_001573 [Chlorella vulgaris]	QAXK01001221.1_1240-326
+OG0002819	KAI3435497.1 hypothetical protein D9Q98_001563 [Chlorella vulgaris]	QAXK01001402.1_3021-777
+OG0002820	KAI3435509.1 hypothetical protein D9Q98_001575 [Chlorella vulgaris]	QAXK01007101.1_2486-3500
+OG0002821	KAI3433299.1 hypothetical protein D9Q98_003118 [Chlorella vulgaris]	QAXK01001240.1_4320-118
+OG0002827	KAI3438101.1 hypothetical protein D9Q98_000543 [Chlorella vulgaris]	QAXK01001575.1_9213-11802
+OG0002829	KAI3438129.1 hypothetical protein D9Q98_000570 [Chlorella vulgaris]	QAXK01008464.1_4921-314
+OG0002831	KAI3438146.1 hypothetical protein D9Q98_000587 [Chlorella vulgaris]	QAXK01009471.1_2975-111
+OG0002842	KAI3427967.1 hypothetical protein D9Q98_006357 [Chlorella vulgaris]	QAXK01002063.1_17610-18209
+OG0002848	KAI3434477.1 hypothetical protein D9Q98_002553 [Chlorella vulgaris]	QAXK01011190.1_3792-5177
+OG0002852	KAI3425785.1 hypothetical protein D9Q98_007760 [Chlorella vulgaris]	QAXK01002795.1_1894-3499
+OG0002853	KAI3428013.1 hypothetical protein D9Q98_006399 [Chlorella vulgaris]	QAXK01006222.1_6005-7514
+OG0002854	KAI3428028.1 hypothetical protein D9Q98_006414 [Chlorella vulgaris]	QAXK01000274.1_4441-2040
+OG0002861	KAI3435020.1 hypothetical protein D9Q98_003072 [Chlorella vulgaris]	QAXK01000336.1_29701-28621
+OG0002871	KAI3431671.1 hypothetical protein D9Q98_004718 [Chlorella vulgaris]	QAXK01001665.1_2326-3883
+OG0002877	KAI3430558.1 hypothetical protein D9Q98_005151 [Chlorella vulgaris]	QAXK01001383.1_16600-17459
+OG0002889	KAI3425968.1 hypothetical protein D9Q98_007936 [Chlorella vulgaris]	QAXK01014533.1_1995-3733
+OG0002890	KAI3437570.1 hypothetical protein D9Q98_000023 [Chlorella vulgaris]	QAXK01012468.1_6191-5064
+OG0002892	KAI3426031.1 hypothetical protein D9Q98_007999 [Chlorella vulgaris]	QAXK01004675.1_1944-4753
+OG0002895	KAI3425910.1 hypothetical protein D9Q98_007882 [Chlorella vulgaris]	QAXK01006273.1_11056-8644
+OG0002898	KAI3435492.1 hypothetical protein D9Q98_001558 [Chlorella vulgaris]	QAXK01013787.1_6935-10103
+OG0002900	KAI3431405.1 hypothetical protein D9Q98_004458 [Chlorella vulgaris]	QAXK01000573.1_11483-12681
+OG0002903	KAI3438848.1 hypothetical protein D9Q98_001265 [Chlorella vulgaris]	QAXK01008701.1_3697-2030
+OG0002915	KAI3438298.1 hypothetical protein D9Q98_000732 [Chlorella vulgaris]	QAXK01000080.1_1794-5623
+OG0002916	KAI3433640.1 hypothetical protein D9Q98_003449 [Chlorella vulgaris]	QAXK01010627.1_8219-6389
+OG0002918	KAI3436793.1 hypothetical protein D9Q98_006204 [Chlorella vulgaris]	QAXK01005102.1_8833-5901
+OG0002927	KAI3425858.1 hypothetical protein D9Q98_007832 [Chlorella vulgaris]	QAXK01012487.1_1571-2566
+OG0002931	KAI3438904.1 hypothetical protein D9Q98_001319 [Chlorella vulgaris]	QAXK01009697.1_3987-6949
+OG0002938	KAI3438325.1 hypothetical protein D9Q98_000759 [Chlorella vulgaris]	QAXK01014057.1_8141-7852
+OG0002940	KAI3438308.1 hypothetical protein D9Q98_000742 [Chlorella vulgaris]	QAXK01000147.1_17903-18595
+OG0002946	KAI3433400.1 hypothetical protein D9Q98_003216 [Chlorella vulgaris]	QAXK01002261.1_40148-34742
+OG0002948	KAI3433619.1 hypothetical protein D9Q98_003428 [Chlorella vulgaris]	QAXK01005661.1_3614-5576
+OG0002955	KAI3438301.1 hypothetical protein D9Q98_000735 [Chlorella vulgaris]	QAXK01003496.1_4117-1328
+OG0002962	KAI3428540.1 hypothetical protein D9Q98_007362 [Chlorella vulgaris]	QAXK01002423.1_4870-1549
+OG0002965	KAI3430344.1 hypothetical protein D9Q98_004939 [Chlorella vulgaris]	QAXK01009311.1_5086-9550
+OG0002969	KAI3428530.1 hypothetical protein D9Q98_007353 [Chlorella vulgaris]	QAXK01007111.1_9724-10631
+OG0002971	KAI3434716.1 hypothetical protein D9Q98_002777 [Chlorella vulgaris]	QAXK01004485.1_1816-3388
+OG0002974	KAI3432730.1 hypothetical protein D9Q98_004271 [Chlorella vulgaris]	QAXK01000635.1_9875-7571
+OG0002988	KAI3430645.1 hypothetical protein D9Q98_005238 [Chlorella vulgaris]	QAXK01005019.1_7837-6195
+OG0002994	KAI3435894.1 hypothetical protein D9Q98_001952 [Chlorella vulgaris]	QAXK01008641.1_5826-4936
+OG0002996	KAI3429741.1 hypothetical protein D9Q98_010056 [Chlorella vulgaris]	QAXK01008356.1_1994-1323
+OG0003000	KAI3429789.1 hypothetical protein D9Q98_010102 [Chlorella vulgaris]	QAXK01018219.1_153-1479
+OG0003006	KAI3429865.1 hypothetical protein D9Q98_010176 [Chlorella vulgaris]	QAXK01009127.1_2830-5632
+OG0003009	KAI3429783.1 hypothetical protein D9Q98_010096 [Chlorella vulgaris]	QAXK01001726.1_8268-6818
+OG0003011	KAI3437941.1 hypothetical protein D9Q98_000385 [Chlorella vulgaris]	QAXK01014149.1_4580-2650
+OG0003015	KAI3431589.1 hypothetical protein D9Q98_004639 [Chlorella vulgaris]	QAXK01017394.1_3188-4
+OG0003017	KAI3434492.1 hypothetical protein D9Q98_002567 [Chlorella vulgaris]	QAXK01001070.1_5974-4798
+OG0003026	KAI3425789.1 hypothetical protein D9Q98_007764 [Chlorella vulgaris]	QAXK01001672.1_6564-5317
+OG0003036	KAI3428373.1 hypothetical protein D9Q98_006753 [Chlorella vulgaris]	QAXK01000724.1_14653-15848
+OG0003041	KAI3430373.1 hypothetical protein D9Q98_004968 [Chlorella vulgaris]	QAXK01001704.1_7113-6556
+OG0003042	KAI3435883.1 hypothetical protein D9Q98_001941 [Chlorella vulgaris]	QAXK01014526.1_3534-6424
+OG0003049	KAI3434991.1 hypothetical protein D9Q98_003043 [Chlorella vulgaris]	QAXK01005731.1_3330-6743
+OG0003059	KAI3436886.1 hypothetical protein D9Q98_006294 [Chlorella vulgaris]	QAXK01007133.1_7499-8797
+OG0003064	KAI3428662.1 hypothetical protein D9Q98_007485 [Chlorella vulgaris]	QAXK01005457.1_8974-4681
+OG0003068	KAI3428676.1 hypothetical protein D9Q98_007499 [Chlorella vulgaris]	QAXK01015536.1_9170-6903
+OG0003075	KAI3433671.1 hypothetical protein D9Q98_003480 [Chlorella vulgaris]	QAXK01016351.1_22-2386
+OG0003087	KAI3425876.1 hypothetical protein D9Q98_007849 [Chlorella vulgaris]	QAXK01003513.1_13194-9646
+OG0003091	KAI3431341.1 hypothetical protein D9Q98_004398 [Chlorella vulgaris]	QAXK01014943.1_5708-4249
+OG0003097	KAI3430682.1 hypothetical protein D9Q98_005271 [Chlorella vulgaris]	QAXK01008899.1_16518-18484
+OG0003105	KAI3425118.1 hypothetical protein D9Q98_008890 [Chlorella vulgaris]	QAXK01001158.1_6748-4261
+OG0003107	KAI3432740.1 hypothetical protein D9Q98_004281 [Chlorella vulgaris]	QAXK01014862.1_4087-1458
+OG0003111	KAI3429426.1 hypothetical protein D9Q98_005520 [Chlorella vulgaris]	QAXK01008798.1_739-2238
+OG0003123	KAI3429267.1 hypothetical protein D9Q98_005364 [Chlorella vulgaris]	QAXK01008567.1_4740-6650
+OG0003125	KAI3424965.1 hypothetical protein D9Q98_008346 [Chlorella vulgaris]	QAXK01001243.1_11567-10056
+OG0003126	KAI3432656.1 hypothetical protein D9Q98_004200 [Chlorella vulgaris]	QAXK01016483.1_12203-9679
+OG0003127	KAI3439117.1 hypothetical protein D9Q98_001526 [Chlorella vulgaris]	QAXK01017290.1_11269-8021
+OG0003129	KAI3438806.1 hypothetical protein D9Q98_001223 [Chlorella vulgaris]	QAXK01002314.1_19744-18688
+OG0003133	KAI3433666.1 hypothetical protein D9Q98_003475 [Chlorella vulgaris]	QAXK01000525.1_12654-17162
+OG0003142	KAI3433810.1 hypothetical protein D9Q98_003614 [Chlorella vulgaris]	QAXK01011367.1_1094-2688
+OG0003148	KAI3426346.1 hypothetical protein D9Q98_008719 [Chlorella vulgaris]	QAXK01012193.1_12536-14034
+OG0003149	KAI3424968.1 hypothetical protein D9Q98_008349 [Chlorella vulgaris]	QAXK01012663.1_1560-2913
+OG0003151	KAI3426366.1 hypothetical protein D9Q98_008738 [Chlorella vulgaris]	QAXK01010249.1_1617-3048
+OG0003152	KAI3438768.1 hypothetical protein D9Q98_001186 [Chlorella vulgaris]	QAXK01003852.1_5090-8561
+OG0003157	KAI3424884.1 hypothetical protein D9Q98_008268 [Chlorella vulgaris]	QAXK01018936.1_2-1001
+OG0003160	KAI3426082.1 hypothetical protein D9Q98_008050 [Chlorella vulgaris]	QAXK01000595.1_5567-8159
+OG0003164	KAI3424875.1 hypothetical protein D9Q98_008259 [Chlorella vulgaris]	QAXK01009877.1_4970-2684
+OG0003167	KAI3426347.1 hypothetical protein D9Q98_008720 [Chlorella vulgaris]	QAXK01014051.1_13887-12133
+OG0003172	KAI3426392.1 hypothetical protein D9Q98_008763 [Chlorella vulgaris]	QAXK01000415.1_5823-6484
+OG0003191	KAI3429735.1 hypothetical protein D9Q98_010050 [Chlorella vulgaris]	QAXK01004389.1_4946-6334
+OG0003196	KAI3426108.1 hypothetical protein D9Q98_008487 [Chlorella vulgaris]	QAXK01000596.1_17342-21595
+OG0003197	KAI3426341.1 hypothetical protein D9Q98_008714 [Chlorella vulgaris]	QAXK01003298.1_5048-551
+OG0003198	KAI3426179.1 hypothetical protein D9Q98_008556 [Chlorella vulgaris]	QAXK01002898.1_4695-10345
+OG0003204	KAI3428832.1 hypothetical protein D9Q98_007649 [Chlorella vulgaris]	QAXK01006378.1_2719-127
+OG0003209	KAI3426333.1 hypothetical protein D9Q98_008706 [Chlorella vulgaris]	QAXK01011390.1_6757-10508
+OG0003212	KAI3424929.1 hypothetical protein D9Q98_008313 [Chlorella vulgaris]	QAXK01003629.1_5946-3703
+OG0003217	KAI3435649.1 hypothetical protein D9Q98_001707 [Chlorella vulgaris]	QAXK01017651.1_111-3535
+OG0003218	KAI3435805.1 hypothetical protein D9Q98_001863 [Chlorella vulgaris]	QAXK01003131.1_36278-34367
+OG0003219	KAI3435886.1 hypothetical protein D9Q98_001944 [Chlorella vulgaris]	QAXK01002499.1_5466-6313
+OG0003220	KAI3436072.1 hypothetical protein D9Q98_002130 [Chlorella vulgaris]	QAXK01004108.1_13829-15654
+OG0003226	KAI3438255.1 hypothetical protein D9Q98_000691 [Chlorella vulgaris]	QAXK01003220.1_8522-13953
+OG0003227	KAI3428440.1 hypothetical protein D9Q98_007267 [Chlorella vulgaris]	QAXK01003375.1_5219-43
+OG0003230	KAI3424192.1 hypothetical protein D9Q98_009548 [Chlorella vulgaris]	QAXK01000382.1_1570-3458
+OG0003235	KAI3436546.1 hypothetical protein D9Q98_005962 [Chlorella vulgaris]	QAXK01014478.1_11654-8522
+OG0003239	KAI3434747.1 hypothetical protein D9Q98_002807 [Chlorella vulgaris]	QAXK01009911.1_3900-1880
+OG0003243	KAI3436601.1 hypothetical protein D9Q98_006018 [Chlorella vulgaris]	QAXK01012462.1_308-2720
+OG0003245	KAI3429473.1 hypothetical protein D9Q98_005565 [Chlorella vulgaris]	QAXK01014831.1_1377-156
+OG0003248	KAI3435568.1 hypothetical protein D9Q98_001633 [Chlorella vulgaris]	QAXK01003339.1_1231-2678
+OG0003249	KAI3438216.1 hypothetical protein D9Q98_000653 [Chlorella vulgaris]	QAXK01001710.1_3704-3307
+OG0003250	KAI3438655.1 hypothetical protein D9Q98_001077 [Chlorella vulgaris]	QAXK01003319.1_3618-13354
+OG0003251	KAI3439135.1 hypothetical protein D9Q98_001543 [Chlorella vulgaris]	QAXK01015706.1_7236-11105
+OG0003252	KAI3432808.1 hypothetical protein D9Q98_010391 [Chlorella vulgaris], KAI3432809.1 hypothetical protein D9Q98_010392 [Chlorella vulgaris]	QAXK01000655.1_17305-22319
+OG0003253	KAI3426300.1 hypothetical protein D9Q98_008673 [Chlorella vulgaris]	QAXK01000965.1_18464-16425
+OG0003254	KAI3436717.1 hypothetical protein D9Q98_006132 [Chlorella vulgaris], KAI3436715.1 hypothetical protein D9Q98_006130 [Chlorella vulgaris]	QAXK01000983.1_27514-29192
+OG0003255	KAI3431581.1 hypothetical protein D9Q98_004631 [Chlorella vulgaris]	QAXK01010066.1_5264-7166
+OG0003256	KAI3436281.1 hypothetical protein D9Q98_002334 [Chlorella vulgaris]	QAXK01014762.1_15208-13635
+OG0003257	KAI3433427.1 hypothetical protein D9Q98_003242 [Chlorella vulgaris]	QAXK01001567.1_22308-20679
+OG0003258	KAI3428605.1 hypothetical protein D9Q98_007428 [Chlorella vulgaris]	QAXK01005019.1_6054-4921
+OG0003259	KAI3426101.1 hypothetical protein D9Q98_008069 [Chlorella vulgaris]	QAXK01003400.1_3813-5064
+OG0003357	KAI3434651.1 hypothetical protein D9Q98_002716 [Chlorella vulgaris]	QAXK01001354.1_4891-5217
+OG0003361	KAI3438186.1 hypothetical protein D9Q98_000623 [Chlorella vulgaris]	QAXK01008796.1_1534-1839
+OG0003365	KAI3424084.1 hypothetical protein D9Q98_009446 [Chlorella vulgaris]	QAXK01013436.1_3075-257
+OG0003376	KAI3424062.1 hypothetical protein D9Q98_009425 [Chlorella vulgaris]	QAXK01015973.1_3186-2635
+OG0003378	KAI3424260.1 hypothetical protein D9Q98_009614 [Chlorella vulgaris]	QAXK01007832.1_7613-8663
+OG0003389	KAI3436556.1 hypothetical protein D9Q98_005972 [Chlorella vulgaris]	QAXK01000807.1_2417-1282
+OG0003400	KAI3429713.1 hypothetical protein D9Q98_005798 [Chlorella vulgaris]	QAXK01011269.1_6226-3244
+OG0003418	KAI3438446.1 hypothetical protein D9Q98_000876 [Chlorella vulgaris]	QAXK01004430.1_3720-2428
+OG0003427	KAI3436492.1 hypothetical protein D9Q98_005909 [Chlorella vulgaris]	QAXK01017428.1_6517-5288
+OG0003452	KAI3427271.1 hypothetical protein D9Q98_007203 [Chlorella vulgaris]	QAXK01012596.1_9132-5856
+OG0003460	KAI3426957.1 hypothetical protein D9Q98_006901 [Chlorella vulgaris]	QAXK01010334.1_16568-22208
+OG0003462	KAI3434700.1 hypothetical protein D9Q98_002762 [Chlorella vulgaris]	QAXK01004703.1_12039-13879
+OG0003465	KAI3438879.1 hypothetical protein D9Q98_001294 [Chlorella vulgaris]	QAXK01007075.1_15495-16375
+OG0003474	KAI3437693.1 hypothetical protein D9Q98_000142 [Chlorella vulgaris]	QAXK01010270.1_2969-2237
+OG0003481	KAI3429298.1 hypothetical protein D9Q98_005394 [Chlorella vulgaris]	QAXK01002106.1_10876-11265
+OG0003502	KAI3435767.1 hypothetical protein D9Q98_001825 [Chlorella vulgaris]	QAXK01000365.1_3565-4942
+OG0003509	KAI3435777.1 hypothetical protein D9Q98_001835 [Chlorella vulgaris]	QAXK01011852.1_1562-2354
+OG0003538	KAI3426276.1 hypothetical protein D9Q98_008651 [Chlorella vulgaris]	QAXK01008337.1_3990-5243
+OG0003540	KAI3429651.1 hypothetical protein D9Q98_005736 [Chlorella vulgaris]	QAXK01001088.1_16015-14943
+OG0003568	KAI3436714.1 hypothetical protein D9Q98_006129 [Chlorella vulgaris]	QAXK01002228.1_1968-3201
+OG0003579	KAI3436728.1 hypothetical protein D9Q98_006143 [Chlorella vulgaris]	QAXK01005668.1_9092-7561
+OG0003597	KAI3432443.1 hypothetical protein D9Q98_003995 [Chlorella vulgaris], KAI3432442.1 hypothetical protein D9Q98_003995 [Chlorella vulgaris]	QAXK01004574.1_6183-8163
+OG0003598	KAI3429635.1 hypothetical protein D9Q98_005721 [Chlorella vulgaris]	QAXK01002968.1_5239-542
+OG0003601	KAI3426417.1 hypothetical protein D9Q98_008786 [Chlorella vulgaris]	QAXK01016048.1_1933-545
+OG0003625	KAI3431529.1 hypothetical protein D9Q98_004579 [Chlorella vulgaris]	QAXK01001997.1_7467-5438
+OG0003643	KAI3436348.1 hypothetical protein D9Q98_002401 [Chlorella vulgaris]	QAXK01000249.1_16165-13537
+OG0003644	KAI3436291.1 hypothetical protein D9Q98_002344 [Chlorella vulgaris]	QAXK01008360.1_3542-5458
+OG0003666	KAI3423857.1 hypothetical protein D9Q98_009691 [Chlorella vulgaris]	QAXK01003616.1_6090-7285
+OG0003671	KAI3423833.1 hypothetical protein D9Q98_009669 [Chlorella vulgaris]	QAXK01000459.1_9787-9028
+OG0003672	KAI3427923.1 hypothetical protein D9Q98_006315 [Chlorella vulgaris]	QAXK01004402.1_2407-3301
+OG0003677	KAI3423903.1 hypothetical protein D9Q98_009737 [Chlorella vulgaris]	QAXK01010442.1_6499-5620
+OG0003687	KAI3434707.1 hypothetical protein D9Q98_002768 [Chlorella vulgaris]	QAXK01006494.1_1594-1032
+OG0003693	KAI3433457.1 hypothetical protein D9Q98_003270 [Chlorella vulgaris]	QAXK01003706.1_3896-8573
+OG0003697	KAI3430622.1 hypothetical protein D9Q98_005215 [Chlorella vulgaris]	QAXK01004373.1_28195-25392
+OG0003713	KAI3425346.1 hypothetical protein D9Q98_009110 [Chlorella vulgaris]	QAXK01002432.1_4248-4930
+OG0003731	KAI3433557.1 hypothetical protein D9Q98_003368 [Chlorella vulgaris]	QAXK01017356.1_2411-500
+OG0003744	KAI3439036.1 hypothetical protein D9Q98_001446 [Chlorella vulgaris]	QAXK01009613.1_9396-10310
+OG0003746	KAI3436107.1 hypothetical protein D9Q98_002165 [Chlorella vulgaris]	QAXK01004123.1_13625-15399
+OG0003755	KAI3432217.1 hypothetical protein D9Q98_003779 [Chlorella vulgaris]	QAXK01002565.1_12559-10828
+OG0003771	KAI3431792.1 hypothetical protein D9Q98_010545 [Chlorella vulgaris]	QAXK01010052.1_3190-4640
+OG0003773	KAI3438084.1 hypothetical protein D9Q98_000526 [Chlorella vulgaris]	QAXK01014932.1_4139-2485
+OG0003784	KAI3434563.1 hypothetical protein D9Q98_002636 [Chlorella vulgaris]	QAXK01007229.1_11545-10178
+OG0003794	KAI3438601.1 hypothetical protein D9Q98_001024 [Chlorella vulgaris]	QAXK01000557.1_206-3811
+OG0003801	KAI3429610.1 hypothetical protein D9Q98_005696 [Chlorella vulgaris]	QAXK01000515.1_19189-19853
+OG0003813	KAI3429606.1 hypothetical protein D9Q98_005692 [Chlorella vulgaris]	QAXK01000036.1_13891-8955
+OG0003824	KAI3437620.1 hypothetical protein D9Q98_000072 [Chlorella vulgaris]	QAXK01001158.1_26014-28604
+OG0003826	KAI3426018.1 hypothetical protein D9Q98_007986 [Chlorella vulgaris]	QAXK01015643.1_1434-3404
+OG0003838	KAI3426014.1 hypothetical protein D9Q98_007982 [Chlorella vulgaris]	QAXK01001081.1_3765-5510
+OG0003841	KAI3425993.1 hypothetical protein D9Q98_007961 [Chlorella vulgaris]	QAXK01006012.1_2971-2223
+OG0003847	KAI3431400.1 hypothetical protein D9Q98_004453 [Chlorella vulgaris]	QAXK01000325.1_43378-42220
+OG0003849	KAI3436694.1 hypothetical protein D9Q98_006109 [Chlorella vulgaris]	QAXK01010227.1_9762-8151
+OG0003850	KAI3431285.1 hypothetical protein D9Q98_004346 [Chlorella vulgaris]	QAXK01003563.1_5026-2636
+OG0003861	KAI3432603.1 hypothetical protein D9Q98_004150 [Chlorella vulgaris]	QAXK01001160.1_34552-35942
+OG0003904	KAI3425062.1 hypothetical protein D9Q98_008439 [Chlorella vulgaris]	QAXK01003852.1_2138-563
+OG0003944	KAI3437940.1 hypothetical protein D9Q98_000384 [Chlorella vulgaris]	QAXK01005846.1_7514-8614
+OG0003947	KAI3434486.1 hypothetical protein D9Q98_002562 [Chlorella vulgaris]	QAXK01000042.1_9232-7900
+OG0003954	KAI3437923.1 hypothetical protein D9Q98_000368 [Chlorella vulgaris]	QAXK01004732.1_20335-21271
+OG0003958	KAI3425314.1 hypothetical protein D9Q98_009079 [Chlorella vulgaris]	QAXK01001698.1_16624-15571
+OG0003964	KAI3434992.1 hypothetical protein D9Q98_003044 [Chlorella vulgaris]	QAXK01001551.1_63875-64499
+OG0003973	KAI3426462.1 hypothetical protein D9Q98_008829 [Chlorella vulgaris]	QAXK01005150.1_10239-11440
+OG0003976	KAI3428342.1 hypothetical protein D9Q98_006722 [Chlorella vulgaris]	QAXK01008391.1_3155-4981
+OG0003980	KAI3435935.1 hypothetical protein D9Q98_001993 [Chlorella vulgaris]	QAXK01001710.1_16426-15281
+OG0003985	KAI3436890.1 hypothetical protein D9Q98_006298 [Chlorella vulgaris]	QAXK01006679.1_5844-7981
+OG0003999	KAI3428692.1 hypothetical protein D9Q98_007515 [Chlorella vulgaris]	QAXK01017848.1_6990-5867
+OG0004036	KAI3432615.1 hypothetical protein D9Q98_004161 [Chlorella vulgaris]	QAXK01001182.1_6681-8037
+OG0004052	KAI3433691.1 hypothetical protein D9Q98_003500 [Chlorella vulgaris]	QAXK01018827.1_2147-2783
+OG0004119	KAI3429800.1 hypothetical protein D9Q98_010113 [Chlorella vulgaris]	QAXK01011975.1_26427-25164
+OG0004127	KAI3430607.1 hypothetical protein D9Q98_005200 [Chlorella vulgaris]	QAXK01002477.1_12495-11499
+OG0004131	KAI3426107.1 hypothetical protein D9Q98_008486 [Chlorella vulgaris]	QAXK01008931.1_8768-10630
+OG0004161	KAI3430464.1 hypothetical protein D9Q98_005059 [Chlorella vulgaris]	QAXK01003741.1_3586-2152
+OG0004173	KAI3435877.1 hypothetical protein D9Q98_001935 [Chlorella vulgaris]	QAXK01003131.1_14822-17632
+OG0004184	KAI3428600.1 hypothetical protein D9Q98_007423 [Chlorella vulgaris]	QAXK01001360.1_2587-7675
+OG0004188	KAI3438650.1 hypothetical protein D9Q98_001072 [Chlorella vulgaris]	QAXK01000965.1_13792-15638
+OG0004195	KAI3436435.1 hypothetical protein D9Q98_005852 [Chlorella vulgaris]	QAXK01002159.1_9033-7570
+OG0004221	KAI3428826.1 hypothetical protein D9Q98_007643 [Chlorella vulgaris]	QAXK01006710.1_2565-2167
+OG0004222	KAI3436844.1 hypothetical protein D9Q98_006254 [Chlorella vulgaris]	QAXK01017090.1_773-1260
+OG0004223	KAI3426095.1 hypothetical protein D9Q98_008063 [Chlorella vulgaris]	QAXK01019447.1_2073-2396
+OG0004224	KAI3438050.1 hypothetical protein D9Q98_000493 [Chlorella vulgaris]	QAXK01003931.1_8204-3520
+OG0004225	KAI3429529.1 hypothetical protein D9Q98_005617 [Chlorella vulgaris]	QAXK01001471.1_7507-5855
+OG0004226	KAI3436466.1 hypothetical protein D9Q98_005883 [Chlorella vulgaris]	QAXK01014810.1_5618-8818
+OG0004227	KAI3431618.1 hypothetical protein D9Q98_004667 [Chlorella vulgaris]	QAXK01000804.1_324-1387
+OG0004228	KAI3431770.1 hypothetical protein D9Q98_010526 [Chlorella vulgaris]	QAXK01010701.1_10887-7922
+OG0004229	KAI3436570.1 hypothetical protein D9Q98_005986 [Chlorella vulgaris]	QAXK01014803.1_67-2405
+OG0004230	KAI3436238.1 hypothetical protein D9Q98_002292 [Chlorella vulgaris]	QAXK01004000.1_7642-5232
+OG0004231	KAI3436585.1 hypothetical protein D9Q98_006001 [Chlorella vulgaris]	QAXK01004677.1_1252-4060
+OG0004232	KAI3437912.1 hypothetical protein D9Q98_000357 [Chlorella vulgaris]	QAXK01001218.1_22461-19740
+OG0004233	KAI3424687.1 hypothetical protein D9Q98_008077 [Chlorella vulgaris]	QAXK01001871.1_3231-1985
+OG0004234	KAI3429688.1 hypothetical protein D9Q98_005773 [Chlorella vulgaris]	QAXK01003347.1_1758-3582
+OG0004235	KAI3434521.1 hypothetical protein D9Q98_002594 [Chlorella vulgaris], KAI3434515.1 hypothetical protein D9Q98_002588 [Chlorella vulgaris]	QAXK01003902.1_8341-5830
+OG0004236	KAI3436110.1 hypothetical protein D9Q98_002168 [Chlorella vulgaris]	QAXK01008198.1_2951-5520
+OG0004237	KAI3427131.1 hypothetical protein D9Q98_007068 [Chlorella vulgaris]	QAXK01011268.1_2959-4791
+OG0004238	KAI3425988.1 hypothetical protein D9Q98_007956 [Chlorella vulgaris]	QAXK01018044.1_1256-217
+OG0004239	KAI3430610.1 hypothetical protein D9Q98_005202 [Chlorella vulgaris]	QAXK01009544.1_7380-9706
+OG0004240	KAI3438977.1 hypothetical protein D9Q98_001391 [Chlorella vulgaris]	QAXK01003572.1_4178-5128
+OG0004241	KAI3428613.1 hypothetical protein D9Q98_007436 [Chlorella vulgaris]	QAXK01011839.1_9-1697
+OG0004242	KAI3432620.1 hypothetical protein D9Q98_004166 [Chlorella vulgaris]	QAXK01001749.1_8132-6905
+OG0004243	KAI3428820.1 hypothetical protein D9Q98_007637 [Chlorella vulgaris]	QAXK01010227.1_10470-11308
+OG0004244	KAI3430718.1 hypothetical protein D9Q98_005304 [Chlorella vulgaris]	QAXK01015529.1_1845-2785
+OG0004245	KAI3428429.1 hypothetical protein D9Q98_007256 [Chlorella vulgaris]	QAXK01011116.1_4220-2967
+OG0004246	KAI3438422.1 hypothetical protein D9Q98_000853 [Chlorella vulgaris]	QAXK01001784.1_27630-25510
+OG0004247	KAI3432367.1 hypothetical protein D9Q98_003924 [Chlorella vulgaris]	QAXK01003581.1_1217-562
+OG0004248	KAI3437857.1 hypothetical protein D9Q98_000303 [Chlorella vulgaris]	QAXK01004599.1_5331-3218
+OG0004249	KAI3428293.1 hypothetical protein D9Q98_006672 [Chlorella vulgaris]	QAXK01000848.1_19191-20023
+OG0004423	KAI3423936.1 hypothetical protein D9Q98_009770 [Chlorella vulgaris]	QAXK01000899.1_12678-10778
+OG0004571	KAI3424361.1 hypothetical protein D9Q98_009914 [Chlorella vulgaris]	QAXK01000171.1_2716-3341
+OG0004581	KAI3426169.1 hypothetical protein D9Q98_008546 [Chlorella vulgaris]	QAXK01003359.1_6916-7635
+OG0004656	KAI3430363.1 hypothetical protein D9Q98_004958 [Chlorella vulgaris]	QAXK01006388.1_12359-10899
+OG0004681	KAI3439040.1 hypothetical protein D9Q98_001450 [Chlorella vulgaris]	QAXK01001495.1_31486-30283
+OG0004710	KAI3438955.1 hypothetical protein D9Q98_001369 [Chlorella vulgaris]	QAXK01006037.1_46307-44794
+OG0004743	KAI3431354.1 hypothetical protein D9Q98_004412 [Chlorella vulgaris]	QAXK01002841.1_2718-1158
+OG0004765	KAI3434540.1 hypothetical protein D9Q98_002613 [Chlorella vulgaris]	QAXK01013662.1_15761-16601
+OG0004825	KAI3431489.1 hypothetical protein D9Q98_004540 [Chlorella vulgaris]	QAXK01012785.1_94-624
+OG0004922	KAI3428624.1 hypothetical protein D9Q98_007447 [Chlorella vulgaris]	QAXK01009836.1_3189-307
+OG0004939	KAI3437915.1 hypothetical protein D9Q98_000360 [Chlorella vulgaris]	QAXK01014925.1_5002-6648
+OG0004940	KAI3428159.1 hypothetical protein D9Q98_006543 [Chlorella vulgaris], KAI3428161.1 hypothetical protein D9Q98_006543 [Chlorella vulgaris], KAI3428160.1 hypothetical protein D9Q98_006543 [Chlorella vulgaris]	QAXK01003992.1_14682-12697
+OG0004941	KAI3436414.1 hypothetical protein D9Q98_005831 [Chlorella vulgaris]	QAXK01007127.1_5270-7296
+OG0004942	KAI3429293.1 hypothetical protein D9Q98_005389 [Chlorella vulgaris]	QAXK01005538.1_10163-11912
+OG0004943	KAI3429274.1 hypothetical protein D9Q98_005370 [Chlorella vulgaris]	QAXK01000526.1_11161-10180
+OG0004944	KAI3425849.1 hypothetical protein D9Q98_007823 [Chlorella vulgaris]	QAXK01000032.1_16347-17734
+OG0004945	KAI3428752.1 hypothetical protein D9Q98_007574 [Chlorella vulgaris]	QAXK01002261.1_13670-14278
+OG0004946	KAI3431485.1 hypothetical protein D9Q98_004536 [Chlorella vulgaris]	QAXK01011417.1_18759-16577
+OG0005364	KAI3423831.1 hypothetical protein D9Q98_009667 [Chlorella vulgaris]	QAXK01008706.1_11935-11020
+OG0005372	KAI3431612.1 hypothetical protein D9Q98_004661 [Chlorella vulgaris]	QAXK01012603.1_2052-3066
+OG0005404	KAI3431809.1 hypothetical protein D9Q98_010562 [Chlorella vulgaris]	QAXK01000570.1_1207-4057
+OG0005613	KAI3433370.1 hypothetical protein D9Q98_003187 [Chlorella vulgaris]	QAXK01006058.1_8137-6433

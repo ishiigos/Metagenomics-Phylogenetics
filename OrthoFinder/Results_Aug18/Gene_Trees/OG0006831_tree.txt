@@ -1,0 +1,1 @@
+(Coccomyxa_SubellipsoideaC169_EIE23921.1 DUF298-domain-containing protein _Coccomyxa subellipsoidea C-169_:0.265152,(Chlorella_A99_PCFQ01000058.1 g126 _Chlorella sp. A99_:0.226384,(Chlorella_Vulgaris2111P_KAI3433534.1 hypothetical protein D9Q98_003344 _Chlorella vulgaris_:0.212675,Micractinium_SAG24180_PSC73760.1 DCN1 4 _Micractinium conductrix_:0.15475):0.072613):0.265152);

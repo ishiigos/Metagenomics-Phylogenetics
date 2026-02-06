@@ -1,0 +1,1 @@
+(Scenedesmus_NREL_KAF6252806.1 6-phosphogluconate dehydrogenase _Scenedesmus sp. NREL 46B-D3_:0.287405,(Scenedesmus_PABB004_KAF8056100.1 odh1 _Scenedesmus sp. PABB004_:0.846398,(Scenedesmus_PABB004_KAF8057773.1 odh _Scenedesmus sp. PABB004_:0.205731,Scenedesmus_PABB004_KAF8062029.1 hypothetical protein HT031_004289 _Scenedesmus sp. PABB004_:1.06798):0.419607):0.287405);

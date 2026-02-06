@@ -1,0 +1,1 @@
+((Micractinium_SAG24180_PSC67341.1 GNAT family _Micractinium conductrix_:0,Micractinium_SAG24180_PSC68271.1 GNAT family _Micractinium conductrix_:0):0.250358,(Chlorella_VariabilisNC64A_XP_005844019.1 hypothetical protein CHLNCDRAFT_139557 _Chlorella variabilis_:0.177701,Chlorella_Vulgaris2111P_KAI3430633.1 hypothetical protein D9Q98_005226 _Chlorella vulgaris_:0.26074):0.250358);

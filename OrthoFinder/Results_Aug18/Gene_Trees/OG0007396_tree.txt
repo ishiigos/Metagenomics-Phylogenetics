@@ -1,0 +1,1 @@
+((Scenedesmus_PABB004_KAF8069382.1 oxdD _Scenedesmus sp. PABB004_:0.266553,Scenedesmus_NREL_KAF6259616.1 RmlC-like cupin _Scenedesmus sp. NREL 46B-D3_:0.216867):0.266122,(Coccomyxa_SubellipsoideaC169_EIE22888.1 RmlC-like cupin _Coccomyxa subellipsoidea C-169_:0.477554,Coccomyxa_SubellipsoideaC169_EIE22877.1 RmlC-like cupin _Coccomyxa subellipsoidea C-169_:0.381231):0.266122);

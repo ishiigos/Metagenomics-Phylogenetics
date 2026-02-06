@@ -1,0 +1,1 @@
+(Scenedesmus_PABB004_KAF8068450.1 Mpp7 _Scenedesmus sp. PABB004_:0.396981,((Chlorella_Vulgaris2111P_KAI3426842.1 hypothetical protein D9Q98_006788 _Chlorella vulgaris_:0.244051,Chlorella_VariabilisNC64A_XP_005848793.1 expressed protein _Chlorella variabilis_:0.293334):0.028032,Micractinium_SAG24180_PSC69815.1 PDZ domain _Micractinium conductrix_:0.282291):0.396981);

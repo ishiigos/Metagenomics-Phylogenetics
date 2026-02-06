@@ -1,0 +1,1 @@
+(Chlorella_A99_PCFQ01000081.1 g1546 _Chlorella sp. A99_:0.365752,(Micractinium_SAG24180_PSC71130.1 cation-binding _Micractinium conductrix_:0.413236,(Chlorella_Vulgaris2111P_KAI3438054.1 hypothetical protein D9Q98_000497 _Chlorella vulgaris_:0.343275,Chlorella_Sorokiniana1602_PRW57530.1 hemerythrin _Chlorella sorokiniana_:0.263893)n2:0.022717)n1:0.365752)n0;
